@@ -13,6 +13,8 @@ import (
 	"path/filepath"
 	"strconv"
 	"strings"
+
+	"thebiglearn/api/internal/storage"
 )
 
 // Config is the resolved runtime configuration.
@@ -36,7 +38,8 @@ type Config struct {
 	GLMModel   string
 
 	// Trust/safety
-	FeedbackHourlyPerUser int // LLM feedback rate limit
+	FeedbackHourlyPerUser int // LLM feedback rate limit (legacy field, kept for logs)
+	RateLimits            map[string]int
 }
 
 // Load reads env vars, falling back to defaults appropriate for local dev.
@@ -55,6 +58,15 @@ func Load() Config {
 		GLMModel:              env("GLM_MODEL", "glm-4.6"),
 		FeedbackHourlyPerUser: envInt("FEEDBACK_HOURLY_PER_USER", 20),
 	}
+	// Rate limits: start from defaults, allow env override per action.
+	c.RateLimits = make(map[string]int, len(storage.DefaultLimits))
+	for k, v := range storage.DefaultLimits {
+		c.RateLimits[k] = v
+	}
+	c.RateLimits[storage.ActionFeedback] = envInt("RATE_LIMIT_FEEDBACK_HOURLY", c.FeedbackHourlyPerUser)
+	c.RateLimits[storage.ActionPublishTrans] = envInt("RATE_LIMIT_PUBLISH_HOURLY", storage.DefaultLimits[storage.ActionPublishTrans])
+	c.RateLimits[storage.ActionComment] = envInt("RATE_LIMIT_COMMENT_HOURLY", storage.DefaultLimits[storage.ActionComment])
+	c.RateLimits[storage.ActionRegister] = envInt("RATE_LIMIT_REGISTER_HOURLY", storage.DefaultLimits[storage.ActionRegister])
 
 	if c.JWTSecret == "" {
 		// Local-dev default: NOT for production. Logged loudly.

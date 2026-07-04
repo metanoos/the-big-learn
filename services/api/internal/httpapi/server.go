@@ -60,7 +60,50 @@ func New(cfg config.Config, db *storage.DB, cs *content.Service, fs *feedback.Se
 	mux.HandleFunc("POST /api/v1/votes", s.requireAuth(s.handleVote))
 	mux.HandleFunc("DELETE /api/v1/votes/{targetType}/{targetID}", s.requireAuth(s.handleRemoveVote))
 
+	// Trust/safety (Phase 5): report submission + moderation queue.
+	mux.HandleFunc("POST /api/v1/reports", s.requireAuth(s.handleReport))
+	mux.HandleFunc("GET /api/v1/admin/reports", s.requireMod(s.handleListReports))
+	mux.HandleFunc("POST /api/v1/admin/reports/{id}/resolve", s.requireMod(s.handleResolveReport))
+
 	return s
+}
+
+// requireMod wraps a handler requiring moderator or admin role.
+func (s *Server) requireMod(h http.HandlerFunc) http.HandlerFunc {
+	wrapped := s.requireAuth(func(w http.ResponseWriter, r *http.Request) {
+		sess, _ := sessionFrom(r.Context())
+		if sess.Role != "moderator" && sess.Role != "admin" {
+			errJSON(w, http.StatusForbidden, "moderator role required")
+			return
+		}
+		h(w, r)
+	})
+	return wrapped
+}
+
+// rateLimitKey returns the per-user key for rate limiting (their UUID).
+func rateLimitKey(sess auth.Session) string {
+	return sess.UserID.String()
+}
+
+// rateLimit checks + increments the counter; writes a 429 on limit.
+func (s *Server) rateLimit(w http.ResponseWriter, r *http.Request, sess auth.Session, action string) bool {
+	limit := s.cfg.RateLimits[action]
+	if limit <= 0 {
+		return true // unlimited
+	}
+	if err := s.db.CheckAndIncrement(r.Context(), rateLimitKey(sess), action, limit); err != nil {
+		var rl storage.ErrRateLimited
+		if errors.As(err, &rl) {
+			w.Header().Set("Retry-After", "3600")
+			errJSON(w, http.StatusTooManyRequests, rl.Error())
+			return false
+		}
+		log.Printf("rate limit check failed: %v", err)
+		// fail-open on infra error (don't block legit users because the DB hiccupped)
+		return true
+	}
+	return true
 }
 
 // ServeHTTP implements http.Handler.
@@ -194,6 +237,19 @@ func (s *Server) handleRegister(w http.ResponseWriter, r *http.Request) {
 	if len(req.Password) < 8 {
 		errJSON(w, http.StatusBadRequest, "password must be at least 8 chars")
 		return
+	}
+	// Rate limit by IP (no user yet). Defends against bot account creation.
+	ip := clientIP(r)
+	limit := s.cfg.RateLimits[storage.ActionRegister]
+	if limit > 0 {
+		if err := s.db.CheckAndIncrement(r.Context(), "ip:"+ip, storage.ActionRegister, limit); err != nil {
+			var rl storage.ErrRateLimited
+			if errors.As(err, &rl) {
+				w.Header().Set("Retry-After", "3600")
+				errJSON(w, http.StatusTooManyRequests, "too many registrations from this address, try again later")
+				return
+			}
+		}
 	}
 	hash, err := auth.HashPassword(req.Password)
 	if err != nil {
@@ -368,6 +424,9 @@ func (s *Server) handlePublishTranslation(w http.ResponseWriter, r *http.Request
 		return
 	}
 	sess, _ := sessionFrom(r.Context())
+	if !s.rateLimit(w, r, sess, storage.ActionPublishTrans) {
+		return
+	}
 	lineID, err := s.db.EnsureLine(r.Context(), r.PathValue("book"),
 		atoiOr(r.PathValue("chapter"), 0), atoiOr(r.PathValue("line"), 0))
 	if err != nil {
@@ -461,6 +520,9 @@ func (s *Server) handleCreateComment(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 	sess, _ := sessionFrom(r.Context())
+	if !s.rateLimit(w, r, sess, storage.ActionComment) {
+		return
+	}
 	lineID, err := s.db.EnsureLine(r.Context(), r.PathValue("book"),
 		atoiOr(r.PathValue("chapter"), 0), atoiOr(r.PathValue("line"), 0))
 	if err != nil {
@@ -501,6 +563,11 @@ func (s *Server) handleFeedback(w http.ResponseWriter, r *http.Request) {
 		errJSON(w, http.StatusBadRequest, "attempt is required")
 		return
 	}
+	// Rate limit: this is the LLM-spend surface. Cap per user per hour.
+	sess, _ := sessionFrom(r.Context())
+	if !s.rateLimit(w, r, sess, storage.ActionFeedback) {
+		return
+	}
 
 	// Load the canonical line to give the model context.
 	book := r.PathValue("book")
@@ -528,7 +595,6 @@ func (s *Server) handleFeedback(w http.ResponseWriter, r *http.Request) {
 		canon = append(canon, c.Text)
 	}
 
-	sess, _ := sessionFrom(r.Context())
 	result, err := s.feedback.Evaluate(r.Context(), feedback.Posit{
 		SourceLine:  unit.Text,
 		Pinyin:      unit.Pinyin,
@@ -622,6 +688,72 @@ func (s *Server) handleMarkRead(w http.ResponseWriter, r *http.Request) {
 	writeJSON(w, http.StatusOK, map[string]bool{"ok": true})
 }
 
+// ---------------------------------------------------------------------------
+// reports + moderation (Phase 5)
+// ---------------------------------------------------------------------------
+
+type reportRequest struct {
+	TargetType string `json:"target_type"`
+	TargetID   string `json:"target_id"`
+	Reason     string `json:"reason"`
+}
+
+func (s *Server) handleReport(w http.ResponseWriter, r *http.Request) {
+	var req reportRequest
+	if err := json.NewDecoder(r.Body).Decode(&req); err != nil {
+		errJSON(w, http.StatusBadRequest, "invalid JSON")
+		return
+	}
+	if req.TargetType != "translation" && req.TargetType != "comment" && req.TargetType != "user" {
+		errJSON(w, http.StatusBadRequest, "invalid target_type")
+		return
+	}
+	id, err := uuid.Parse(req.TargetID)
+	if err != nil {
+		errJSON(w, http.StatusBadRequest, "invalid target_id")
+		return
+	}
+	if len(req.Reason) < 3 || len(req.Reason) > 1000 {
+		errJSON(w, http.StatusBadRequest, "reason must be 3–1000 chars")
+		return
+	}
+	sess, _ := sessionFrom(r.Context())
+	rep, err := s.db.CreateReport(r.Context(), sess.UserID, req.TargetType, req.Reason, id)
+	if err != nil {
+		errJSON(w, http.StatusInternalServerError, "report failed")
+		return
+	}
+	writeJSON(w, http.StatusCreated, rep)
+}
+
+func (s *Server) handleListReports(w http.ResponseWriter, r *http.Request) {
+	reports, err := s.db.OpenReports(r.Context(), 50)
+	if err != nil {
+		errJSON(w, http.StatusInternalServerError, "list failed")
+		return
+	}
+	if reports == nil {
+		reports = []storage.Report{}
+	}
+	writeJSON(w, http.StatusOK, reports)
+}
+
+func (s *Server) handleResolveReport(w http.ResponseWriter, r *http.Request) {
+	id, err := uuid.Parse(r.PathValue("id"))
+	if err != nil {
+		errJSON(w, http.StatusBadRequest, "invalid report id")
+		return
+	}
+	dismiss := r.URL.Query().Get("dismiss") == "1"
+	sess, _ := sessionFrom(r.Context())
+	if err := s.db.ResolveReport(r.Context(), id, sess.UserID, dismiss); err != nil {
+		log.Printf("resolve report: %v", err)
+		errJSON(w, http.StatusInternalServerError, "resolve failed")
+		return
+	}
+	writeJSON(w, http.StatusOK, map[string]bool{"ok": true})
+}
+
 // --- util ------------------------------------------------------------------
 
 func chapterID(n int) string {
@@ -696,4 +828,19 @@ func atoiOr(s string, def int) int {
 		return def
 	}
 	return n
+}
+
+// clientIP extracts the caller's IP, honoring X-Forwarded-For (first hop) for
+// reverse-proxy deploys (Caddy/nginx on the VPS). Falls back to RemoteAddr.
+func clientIP(r *http.Request) string {
+	if xff := r.Header.Get("X-Forwarded-For"); xff != "" {
+		if i := strings.Index(xff, ","); i > 0 {
+			return strings.TrimSpace(xff[:i])
+		}
+		return strings.TrimSpace(xff)
+	}
+	if i := strings.LastIndex(r.RemoteAddr, ":"); i > 0 {
+		return r.RemoteAddr[:i]
+	}
+	return r.RemoteAddr
 }
