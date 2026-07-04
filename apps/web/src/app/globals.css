@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* The reading experience is text-forward and calm. Avoid chrome. */
+html {
+  -webkit-text-size-adjust: 100%;
+  text-rendering: optimizeLegibility;
+}
+
+body {
+  @apply bg-stone-50 text-stone-900 antialiased;
+  font-feature-settings: "kern" 1;
+}
+
+/* Chinese reads larger and more generously than body Latin. */
+.cjk {
+  font-family: theme("fontFamily.serif");
+  font-size: 1.25rem;
+  line-height: 1.9;
+  letter-spacing: 0.02em;
+}
+
+/* Subtle, low-chrome vote button states */
+.vote-btn {
+  @apply transition-colors text-stone-400 hover:text-stone-700;
+}
+.vote-btn.active-up { @apply text-emerald-600; }
+.vote-btn.active-down { @apply text-rose-600; }

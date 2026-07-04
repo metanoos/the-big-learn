@@ -50,6 +50,21 @@ func (s *Service) Books() ([]Book, error) {
 		"sunzi-bingfa": 5, "san-zi-jing": 6, "qian-zi-wen": 7,
 		"sanguo-yanyi": 8, "chengyu-catalog": 9,
 	}
+	// Clean display names. The catalog.json `title` field holds the source
+	// document title (e.g. "四書章句集注 : 大學章句"), which is provenance —
+	// exposed separately as SourceTitle. Title is the human-facing book name.
+	displayName := map[string]string{
+		"da-xue":          "Da Xue 大學",
+		"zhong-yong":      "Zhong Yong 中庸",
+		"lunyu":           "Lunyu 論語",
+		"mengzi":          "Mengzi 孟子",
+		"daodejing":       "Daodejing 道德經",
+		"sunzi-bingfa":    "Sunzi Bingfa 孫子兵法",
+		"san-zi-jing":     "San Zi Jing 三字經",
+		"qian-zi-wen":     "Qian Zi Wen 千字文",
+		"sanguo-yanyi":    "Sanguo Yanyi 三國演義",
+		"chengyu-catalog": "Chengyu Catalog 成語目錄",
+	}
 	var books []Book
 	for _, e := range entries {
 		if !e.IsDir() {
@@ -62,7 +77,7 @@ func (s *Service) Books() ([]Book, error) {
 		}
 		b := Book{
 			Slug:         slug,
-			Title:        firstNonEmpty(stringFrom(cat["title"]), slug),
+			Title:        firstNonEmpty(displayName[slug], stringFrom(cat["title"]), slug),
 			ChapterCount: intFrom(cat["chapter_count"]),
 			SourceTitle:  stringFrom(cat["source_title"]),
 			PedagogyNote: stringFrom(cat["pedagogy_note"]),
@@ -161,11 +176,13 @@ func (s *Service) loadCatalog(book string) (map[string]any, error) {
 	return m, nil
 }
 
-func firstNonEmpty(a, b string) string {
-	if a != "" {
-		return a
+func firstNonEmpty(s ...string) string {
+	for _, v := range s {
+		if v != "" {
+			return v
+		}
 	}
-	return b
+	return ""
 }
 
 func intFrom(v any) int {
