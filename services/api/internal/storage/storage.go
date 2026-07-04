@@ -53,12 +53,13 @@ func IsUniqueViolation(err error) bool {
 
 // User is the authenticated principal.
 type User struct {
-	ID           uuid.UUID
-	Username     string
-	Email        string
-	PasswordHash string
-	Role         string
-	CreatedAt    time.Time
+	ID            uuid.UUID
+	Username      string
+	Email         string
+	PasswordHash  string
+	Role          string
+	EmailVerified bool
+	CreatedAt     time.Time
 }
 
 // CreateUser inserts a new user. Returns ErrTaken on username/email collision.
@@ -68,10 +69,10 @@ func (db *DB) CreateUser(ctx context.Context, username, email, passwordHash stri
 	const q = `
 		INSERT INTO users (username, email, password_hash)
 		VALUES ($1, $2, $3)
-		RETURNING id, username, email, password_hash, role, created_at`
+		RETURNING id, username, email, password_hash, role, email_verified, created_at`
 	var u User
 	err := db.Pool.QueryRow(ctx, q, username, email, passwordHash).
-		Scan(&u.ID, &u.Username, &u.Email, &u.PasswordHash, &u.Role, &u.CreatedAt)
+		Scan(&u.ID, &u.Username, &u.Email, &u.PasswordHash, &u.Role, &u.EmailVerified, &u.CreatedAt)
 	if IsUniqueViolation(err) {
 		return User{}, ErrTaken
 	}
@@ -84,11 +85,11 @@ func (db *DB) CreateUser(ctx context.Context, username, email, passwordHash stri
 // UserByEmail looks up a user for login.
 func (db *DB) UserByEmail(ctx context.Context, email string) (User, error) {
 	const q = `
-		SELECT id, username, email, password_hash, role, created_at
+		SELECT id, username, email, password_hash, role, email_verified, created_at
 		FROM users WHERE email = $1`
 	var u User
 	err := db.Pool.QueryRow(ctx, q, email).
-		Scan(&u.ID, &u.Username, &u.Email, &u.PasswordHash, &u.Role, &u.CreatedAt)
+		Scan(&u.ID, &u.Username, &u.Email, &u.PasswordHash, &u.Role, &u.EmailVerified, &u.CreatedAt)
 	if errors.Is(err, pgx.ErrNoRows) {
 		return User{}, ErrNotFound
 	}
@@ -101,11 +102,11 @@ func (db *DB) UserByEmail(ctx context.Context, email string) (User, error) {
 // UserByID for session resolution.
 func (db *DB) UserByID(ctx context.Context, id uuid.UUID) (User, error) {
 	const q = `
-		SELECT id, username, email, password_hash, role, created_at
+		SELECT id, username, email, password_hash, role, email_verified, created_at
 		FROM users WHERE id = $1`
 	var u User
 	err := db.Pool.QueryRow(ctx, q, id).
-		Scan(&u.ID, &u.Username, &u.Email, &u.PasswordHash, &u.Role, &u.CreatedAt)
+		Scan(&u.ID, &u.Username, &u.Email, &u.PasswordHash, &u.Role, &u.EmailVerified, &u.CreatedAt)
 	if errors.Is(err, pgx.ErrNoRows) {
 		return User{}, ErrNotFound
 	}

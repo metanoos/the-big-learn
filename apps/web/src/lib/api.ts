@@ -96,7 +96,7 @@ export type LineBundle = {
   comments: Comment[];
 };
 
-export type User = { id: string; username: string; role: string };
+export type User = { id: string; username: string; role: string; email_verified: boolean };
 
 async function req<T>(path: string, init?: RequestInit): Promise<T> {
   const res = await fetch(`${BASE}${path}`, {
@@ -139,6 +139,8 @@ export const login = (email: string, password: string) =>
   });
 export const logout = () => req("/auth/logout", { method: "POST" });
 export const getMe = () => req<User>("/me");
+export const resendVerification = () =>
+  req("/auth/resend-verification", { method: "POST" });
 
 // --- UGC -------------------------------------------------------------------
 
@@ -190,3 +192,32 @@ export const getFeedback = (
 
 export const markRead = (book: string, chapter: number, line: number) =>
   req(`/lines/${book}/${chapter}/${line}/read`, { method: "POST" });
+
+// --- dashboard ---
+
+export type BookProgress = {
+  book: string;
+  title: string;
+  v1: boolean;
+  total_lines: number;
+  read: number;
+  translated: number;
+  voted: number;
+  commented: number;
+};
+
+export type UserActivity = {
+  type: "translation" | "comment" | "draft";
+  book: string;
+  chapter: number;
+  line: number;
+  snippet: string;
+  at: string;
+};
+
+export type ProgressBundle = {
+  progress: BookProgress[];
+  activity: UserActivity[];
+};
+
+export const getMyProgress = () => req<ProgressBundle>("/me/progress");

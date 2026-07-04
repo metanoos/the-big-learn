@@ -22,6 +22,7 @@ import (
 	"thebiglearn/api/internal/config"
 	"thebiglearn/api/internal/content"
 	"thebiglearn/api/internal/feedback"
+	"thebiglearn/api/internal/mailer"
 	"thebiglearn/api/internal/storage"
 )
 
@@ -31,12 +32,13 @@ type Server struct {
 	db       *storage.DB
 	content  *content.Service
 	feedback *feedback.Service
+	mailer   *mailer.Sender
 	mux      *http.ServeMux
 }
 
 // New constructs the server and registers routes.
-func New(cfg config.Config, db *storage.DB, cs *content.Service, fs *feedback.Service) *Server {
-	s := &Server{cfg: cfg, db: db, content: cs, feedback: fs}
+func New(cfg config.Config, db *storage.DB, cs *content.Service, fs *feedback.Service, ml *mailer.Sender) *Server {
+	s := &Server{cfg: cfg, db: db, content: cs, feedback: fs, mailer: ml}
 	mux := http.NewServeMux()
 	s.mux = mux
 
@@ -47,13 +49,16 @@ func New(cfg config.Config, db *storage.DB, cs *content.Service, fs *feedback.Se
 	mux.HandleFunc("POST /api/v1/auth/register", s.handleRegister)
 	mux.HandleFunc("POST /api/v1/auth/login", s.handleLogin)
 	mux.HandleFunc("POST /api/v1/auth/logout", s.handleLogout)
+	mux.HandleFunc("POST /api/v1/auth/verify-email", s.handleVerifyEmail)
+	mux.HandleFunc("POST /api/v1/auth/resend-verification", s.requireAuth(s.handleResendVerification))
 	mux.HandleFunc("GET /api/v1/me", s.requireAuth(s.handleMe))
+	mux.HandleFunc("GET /api/v1/me/progress", s.requireAuth(s.handleMyProgress))
 
 	mux.HandleFunc("GET /api/v1/lines/{book}/{chapter}/{line}", s.handleLineBundle)
-	mux.HandleFunc("POST /api/v1/lines/{book}/{chapter}/{line}/translations", s.requireAuth(s.handlePublishTranslation))
+	mux.HandleFunc("POST /api/v1/lines/{book}/{chapter}/{line}/translations", s.requireAuth(s.requireVerified(s.handlePublishTranslation)))
 	mux.HandleFunc("POST /api/v1/lines/{book}/{chapter}/{line}/drafts", s.requireAuth(s.handleSaveDraft))
 	mux.HandleFunc("GET /api/v1/lines/{book}/{chapter}/{line}/comments", s.handleListComments)
-	mux.HandleFunc("POST /api/v1/lines/{book}/{chapter}/{line}/comments", s.requireAuth(s.handleCreateComment))
+	mux.HandleFunc("POST /api/v1/lines/{book}/{chapter}/{line}/comments", s.requireAuth(s.requireVerified(s.handleCreateComment)))
 	mux.HandleFunc("POST /api/v1/lines/{book}/{chapter}/{line}/feedback", s.requireAuth(s.handleFeedback))
 	mux.HandleFunc("POST /api/v1/lines/{book}/{chapter}/{line}/read", s.requireAuth(s.handleMarkRead))
 
@@ -266,8 +271,26 @@ func (s *Server) handleRegister(w http.ResponseWriter, r *http.Request) {
 		errJSON(w, http.StatusInternalServerError, "create failed")
 		return
 	}
+	// Send verification email. Non-fatal: failures don't block signup; the
+	// user can resend from the UI.
+	s.sendVerificationMail(r.Context(), u)
 	s.issueSession(w, u)
 	writeJSON(w, http.StatusCreated, publicUser(u))
+}
+
+// requireVerified gates public-post endpoints on a verified email.
+// Reading + the private posit-feedback loop stay open to unverified users
+// so a fresh signup isn't dead on arrival before they check their inbox.
+func (s *Server) requireVerified(h http.HandlerFunc) http.HandlerFunc {
+	return func(w http.ResponseWriter, r *http.Request) {
+		sess, _ := sessionFrom(r.Context())
+		u, err := s.db.UserByID(r.Context(), sess.UserID)
+		if err != nil || !u.EmailVerified {
+			errJSON(w, http.StatusForbidden, "email verification required to post; check your inbox or resend")
+			return
+		}
+		h(w, r)
+	}
 }
 
 type loginRequest struct {
@@ -321,6 +344,49 @@ func (s *Server) handleMe(w http.ResponseWriter, r *http.Request) {
 	writeJSON(w, http.StatusOK, publicUser(u))
 }
 
+// handleMyProgress returns the dashboard data: per-book progress + recent
+// activity feed. Pulls canonical line counts from content.
+func (s *Server) handleMyProgress(w http.ResponseWriter, r *http.Request) {
+	sess, _ := sessionFrom(r.Context())
+
+	totals, err := s.content.LineTotals()
+	if err != nil {
+		errJSON(w, http.StatusInternalServerError, "content totals failed")
+		return
+	}
+	// titles + v1 set derived from the books list (cheap, cached at content layer)
+	books, err := s.content.Books()
+	if err != nil {
+		errJSON(w, http.StatusInternalServerError, "books failed")
+		return
+	}
+	titles := make(map[string]string, len(books))
+	v1 := make(map[string]bool, len(books))
+	for _, b := range books {
+		titles[b.Slug] = b.Title
+		v1[b.Slug] = b.V1
+	}
+
+	progress, err := s.db.UserProgress(r.Context(), sess.UserID, totals, titles, v1)
+	if err != nil {
+		log.Printf("progress: %v", err)
+		errJSON(w, http.StatusInternalServerError, "progress failed")
+		return
+	}
+	activity, err := s.db.RecentActivity(r.Context(), sess.UserID, 20)
+	if err != nil {
+		log.Printf("activity: %v", err)
+		activity = nil
+	}
+	if activity == nil {
+		activity = []storage.UserActivity{}
+	}
+	writeJSON(w, http.StatusOK, map[string]any{
+		"progress": progress,
+		"activity": activity,
+	})
+}
+
 func (s *Server) issueSession(w http.ResponseWriter, u storage.User) {
 	tok, err := auth.IssueToken(s.cfg.JWTSecret, auth.Session{
 		UserID: u.ID, Role: u.Role, IssuedAt: time.Now(),
@@ -337,13 +403,77 @@ func (s *Server) issueSession(w http.ResponseWriter, u storage.User) {
 }
 
 type publicUserT struct {
-	ID       uuid.UUID `json:"id"`
-	Username string    `json:"username"`
-	Role     string    `json:"role"`
+	ID            uuid.UUID `json:"id"`
+	Username      string    `json:"username"`
+	Role          string    `json:"role"`
+	EmailVerified bool      `json:"email_verified"`
 }
 
 func publicUser(u storage.User) publicUserT {
-	return publicUserT{ID: u.ID, Username: u.Username, Role: u.Role}
+	return publicUserT{ID: u.ID, Username: u.Username, Role: u.Role, EmailVerified: u.EmailVerified}
+}
+
+// sendVerificationMail issues a token and sends it. Logs the link in dev mode
+// (no SMTP configured); sends in prod. Errors are non-fatal: a failed mail
+// send shouldn't break registration — the user can resend.
+func (s *Server) sendVerificationMail(ctx context.Context, u storage.User) {
+	token, err := s.db.CreateVerifyToken(ctx, u.ID)
+	if err != nil {
+		log.Printf("verification token for %s: %v", u.Email, err)
+		return
+	}
+	if err := s.mailer.SendVerification(u.Email, u.Username, token); err != nil && !errors.Is(err, mailer.ErrDevLogged) {
+		log.Printf("verification mail to %s: %v", u.Email, err)
+	}
+}
+
+// handleVerifyEmail consumes a token from the email link.
+func (s *Server) handleVerifyEmail(w http.ResponseWriter, r *http.Request) {
+	var req struct {
+		Token string `json:"token"`
+	}
+	if err := json.NewDecoder(r.Body).Decode(&req); err != nil {
+		errJSON(w, http.StatusBadRequest, "invalid JSON")
+		return
+	}
+	if len(req.Token) < 16 {
+		errJSON(w, http.StatusBadRequest, "invalid token")
+		return
+	}
+	userID, err := s.db.ConsumeVerifyToken(r.Context(), req.Token)
+	if errors.Is(err, storage.ErrVerifyTokenInvalid) {
+		errJSON(w, http.StatusBadRequest, "invalid or expired verification link")
+		return
+	}
+	if err != nil {
+		log.Printf("verify email: %v", err)
+		errJSON(w, http.StatusInternalServerError, "verification failed")
+		return
+	}
+	// Issue a fresh session so the role/verified flag is current.
+	u, err := s.db.UserByID(r.Context(), userID)
+	if err != nil {
+		errJSON(w, http.StatusInternalServerError, "verified, but session failed")
+		return
+	}
+	s.issueSession(w, u)
+	writeJSON(w, http.StatusOK, publicUser(u))
+}
+
+// handleResendVerification re-sends the verification email (throttled).
+func (s *Server) handleResendVerification(w http.ResponseWriter, r *http.Request) {
+	sess, _ := sessionFrom(r.Context())
+	u, err := s.db.UserByID(r.Context(), sess.UserID)
+	if err != nil {
+		errJSON(w, http.StatusInternalServerError, "lookup failed")
+		return
+	}
+	if u.EmailVerified {
+		errJSON(w, http.StatusBadRequest, "email already verified")
+		return
+	}
+	s.sendVerificationMail(r.Context(), u)
+	writeJSON(w, http.StatusAccepted, map[string]bool{"ok": true})
 }
 
 // ---------------------------------------------------------------------------

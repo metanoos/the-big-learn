@@ -23,6 +23,7 @@ import (
 	"thebiglearn/api/internal/content"
 	"thebiglearn/api/internal/feedback"
 	"thebiglearn/api/internal/httpapi"
+	"thebiglearn/api/internal/mailer"
 	"thebiglearn/api/internal/storage"
 	"thebiglearn/api/internal/zai"
 )
@@ -43,8 +44,13 @@ func main() {
 	cs := content.New(cfg.ContentRoot)
 	zaic := zai.NewClient(cfg.GLMAPIKey, cfg.GLMBaseURL, nil)
 	fs := feedback.New(zaic, cfg.GLMModel)
+	ml := mailer.New(mailer.Config{
+		Host: cfg.SMTPHost, Port: cfg.SMTPPort,
+		Username: cfg.SMTPUser, Password: cfg.SMTPPass,
+		From: cfg.SMTPFrom,
+	}, cfg.AppURL)
 
-	srv := httpapi.New(cfg, db, cs, fs)
+	srv := httpapi.New(cfg, db, cs, fs, ml)
 	httpSrv := &http.Server{
 		Addr:              cfg.HTTPAddr,
 		Handler:           srv,

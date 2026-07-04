@@ -5,8 +5,9 @@ import { useAuth } from "@/lib/auth";
 import { useState } from "react";
 
 export function NavBar() {
-  const { user, loading, login, register, logout } = useAuth();
+  const { user, loading, login, register, logout, resendVerifyEmail } = useAuth();
   const [open, setOpen] = useState(false);
+  const [resent, setResent] = useState(false);
 
   return (
     <header className="border-b border-stone-200 bg-stone-50/80 backdrop-blur sticky top-0 z-10">
@@ -20,6 +21,9 @@ export function NavBar() {
           </Link>
           {loading ? null : user ? (
             <>
+              <Link href="/dashboard" className="text-stone-600 hover:text-stone-900">
+                Dashboard
+              </Link>
               <span className="text-stone-500">{user.username}</span>
               <button
                 onClick={() => logout()}
@@ -44,6 +48,27 @@ export function NavBar() {
           onRegister={register}
           onClose={() => setOpen(false)}
         />
+      )}
+      {user && !user.email_verified && (
+        <div className="bg-amber-50 border-t border-amber-200 px-5 py-2 text-xs text-amber-800 flex items-center justify-between max-w-3xl mx-auto">
+          <span>
+            Verify your email to publish translations and comment. Reading and
+            private feedback work without it.
+          </span>
+          <button
+            onClick={async () => {
+              try {
+                await resendVerifyEmail();
+                setResent(true);
+              } catch {
+                /* throttle or error — surface nothing for now */
+              }
+            }}
+            className="underline ml-3 shrink-0"
+          >
+            {resent ? "sent ✓" : "resend"}
+          </button>
+        </div>
       )}
     </header>
   );

@@ -1,7 +1,7 @@
 "use client";
 
 import { createContext, useContext, useEffect, useState, type ReactNode } from "react";
-import { getMe, login as apiLogin, register as apiRegister, logout as apiLogout, type User, ApiError } from "./api";
+import { getMe, login as apiLogin, register as apiRegister, logout as apiLogout, resendVerification, type User, ApiError } from "./api";
 
 type AuthState = {
   user: User | null;
@@ -9,6 +9,7 @@ type AuthState = {
   login: (email: string, password: string) => Promise<void>;
   register: (username: string, email: string, password: string) => Promise<void>;
   logout: () => Promise<void>;
+  resendVerifyEmail: () => Promise<void>;
 };
 
 const Ctx = createContext<AuthState | null>(null);
@@ -36,6 +37,11 @@ export function AuthProvider({ children }: { children: ReactNode }) {
     async logout() {
       await apiLogout();
       setUser(null);
+    },
+    async resendVerifyEmail() {
+      await resendVerification();
+      // refresh user state (though it won't change verified status, the
+      // throttle is server-side; this confirms the request landed)
     },
   };
   return <Ctx.Provider value={value}>{children}</Ctx.Provider>;

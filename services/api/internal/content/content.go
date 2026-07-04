@@ -19,6 +19,7 @@ type Service struct {
 	root       string
 	mu         sync.RWMutex
 	chapterLRU map[string]*Chapter // key: book/chapter-NNN
+	lineTotals map[string]int      // lazy; cached after first LineTotals() call
 }
 
 // New constructs a Service rooted at root (the-big-learn/content).
@@ -160,6 +161,54 @@ func (s *Service) Chapter(book, chapterID string) (*Chapter, error) {
 
 // ErrNotFound is returned for missing books/chapters.
 var ErrNotFound = fmt.Errorf("content: not found")
+
+// LineTotals returns the canonical reading-unit count for every book. Used by
+// the dashboard to compute "% read". Cached after first call.
+func (s *Service) LineTotals() (map[string]int, error) {
+	s.mu.RLock()
+	if s.lineTotals != nil {
+		out := make(map[string]int, len(s.lineTotals))
+		for k, v := range s.lineTotals {
+			out[k] = v
+		}
+		s.mu.RUnlock()
+		return out, nil
+	}
+	s.mu.RUnlock()
+
+	entries, err := os.ReadDir(filepath.Join(s.root, "books"))
+	if err != nil {
+		return nil, fmt.Errorf("content: line totals: %w", err)
+	}
+	totals := make(map[string]int)
+	for _, e := range entries {
+		if !e.IsDir() {
+			continue
+		}
+		book := e.Name()
+		chDir := filepath.Join(s.root, "books", book, "chapters")
+		files, err := os.ReadDir(chDir)
+		if err != nil {
+			continue
+		}
+		total := 0
+		for _, f := range files {
+			if f.IsDir() {
+				continue
+			}
+			ch, err := s.Chapter(book, f.Name()[:len(f.Name())-len(".json")])
+			if err != nil {
+				continue
+			}
+			total += len(ch.Chapter.ReadingUnits)
+		}
+		totals[book] = total
+	}
+	s.mu.Lock()
+	s.lineTotals = totals
+	s.mu.Unlock()
+	return totals, nil
+}
 
 // --- helpers for loosely-typed catalog.json --------------------------------
 

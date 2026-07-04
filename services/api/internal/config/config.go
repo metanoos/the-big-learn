@@ -40,6 +40,14 @@ type Config struct {
 	// Trust/safety
 	FeedbackHourlyPerUser int // LLM feedback rate limit (legacy field, kept for logs)
 	RateLimits            map[string]int
+
+	// Email verification
+	AppURL    string // public base URL for verification links
+	SMTPHost  string
+	SMTPPort  int
+	SMTPUser  string
+	SMTPPass  string
+	SMTPFrom  string
 }
 
 // Load reads env vars, falling back to defaults appropriate for local dev.
@@ -67,6 +75,14 @@ func Load() Config {
 	c.RateLimits[storage.ActionPublishTrans] = envInt("RATE_LIMIT_PUBLISH_HOURLY", storage.DefaultLimits[storage.ActionPublishTrans])
 	c.RateLimits[storage.ActionComment] = envInt("RATE_LIMIT_COMMENT_HOURLY", storage.DefaultLimits[storage.ActionComment])
 	c.RateLimits[storage.ActionRegister] = envInt("RATE_LIMIT_REGISTER_HOURLY", storage.DefaultLimits[storage.ActionRegister])
+
+	// Email verification. Empty SMTP_HOST -> dev mode (link logged to console).
+	c.AppURL = env("APP_URL", "http://localhost:3000")
+	c.SMTPHost = env("SMTP_HOST", "")
+	c.SMTPPort = envInt("SMTP_PORT", 587)
+	c.SMTPUser = env("SMTP_USER", "")
+	c.SMTPPass = env("SMTP_PASS", "")
+	c.SMTPFrom = env("SMTP_FROM", "The Big Learn <noreply@thebiglearn.app>")
 
 	if c.JWTSecret == "" {
 		// Local-dev default: NOT for production. Logged loudly.
