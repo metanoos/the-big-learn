@@ -20,10 +20,16 @@ export default async function Library() {
       <section>
         <h1 className="font-serif text-2xl text-stone-900 mb-1">The Big Learn</h1>
         <p className="text-stone-600 text-sm leading-relaxed max-w-prose">
-          A collaborative translation platform for classical Chinese. Read line by
-          line, see canonical translations beside reader submissions, vote on the
-          ones that resonate, and — when you're moved — posit your own translation
-          and get feedback before publishing.
+          A collaborative translation platform for classical Chinese. Read line
+          by line, see canonical translations beside reader submissions, vote on
+          the ones that resonate, and — when you're moved — posit your own
+          translation and get feedback before publishing.
+        </p>
+        <p className="text-stone-500 text-xs leading-relaxed max-w-prose mt-3 italic">
+          This is new. Every canonical line already has James Legge's
+          translation (public domain) to read against — but the reader
+          translations, the comments, the voting are all still to be built by
+          the people who show up early. If that's you, welcome.
         </p>
       </section>
 

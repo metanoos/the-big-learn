@@ -166,7 +166,8 @@ function UserTranslations({
   if (!translations.length) {
     return (
       <p className="text-xs text-stone-400 italic">
-        No reader translations yet. Be the first — posit one below.
+        No reader translations yet. The canonical rendering above is a starting
+        point — posit your own below and see how it compares.
       </p>
     );
   }
@@ -370,8 +371,14 @@ function Comments({
   return (
     <div className="space-y-2 pt-2 border-t border-stone-100">
       <p className="text-xs uppercase tracking-wider text-stone-400">
-        {comments.length} comment{comments.length === 1 ? "" : "s"}
+        {comments.length === 0 ? "No comments yet" : `${comments.length} comment${comments.length === 1 ? "" : "s"}`}
       </p>
+      {comments.length === 0 && (
+        <p className="text-xs text-stone-400 italic">
+          Disagree with a reading, or have a question about a character? This is
+          where that goes.
+        </p>
+      )}
       {comments.map((c) => {
         const ref = translations.find((t) => t.id === c.referenced_translation_id);
         return (
