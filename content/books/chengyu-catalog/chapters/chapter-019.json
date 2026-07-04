@@ -1,0 +1,559 @@
+{
+  "chapter": {
+    "character_count": 200,
+    "id": "chapter-019",
+    "order": 19,
+    "reading_unit_count": 50,
+    "reading_units": [
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-019-line-001",
+        "order": 1,
+        "pinyin": "yī wǎng ér shēn",
+        "pinyin_source": "derived from per-character index",
+        "text": "一往而深"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-019-line-002",
+        "order": 2,
+        "pinyin": "fǎ wú èr mén",
+        "pinyin_source": "derived from per-character index",
+        "text": "法无二门"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-019-line-003",
+        "order": 3,
+        "pinyin": "bǎi wú yī yòng",
+        "pinyin_source": "derived from per-character index",
+        "text": "百无一用"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-019-line-004",
+        "order": 4,
+        "pinyin": "dà yǒu qǐ sè",
+        "pinyin_source": "derived from per-character index",
+        "text": "大有起色"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "experienced in the ways of the world (idiom); worldly-wise / sophisticated",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-019-line-005",
+        "order": 5,
+        "pinyin": "lǎo yú shì gù",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "老于世故"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-019-line-006",
+        "order": 6,
+        "pinyin": "yǒu yī dé yī",
+        "pinyin_source": "derived from per-character index",
+        "text": "有一得一"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-019-line-007",
+        "order": 7,
+        "pinyin": "fēi cháng zhī móu",
+        "pinyin_source": "derived from per-character index",
+        "text": "非常之谋"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-019-line-008",
+        "order": 8,
+        "pinyin": "xīn bù yīng kǒu",
+        "pinyin_source": "derived from per-character index",
+        "text": "心不应口"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-019-line-009",
+        "order": 9,
+        "pinyin": "shī xīn zì shì",
+        "pinyin_source": "derived from per-character index",
+        "text": "师心自是"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "out of place / inappropriate / incongruous",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-019-line-010",
+        "order": 10,
+        "pinyin": "bù lún bù lèi",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "不伦不类"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-019-line-011",
+        "order": 11,
+        "pinyin": "yì qì zì ruò",
+        "pinyin_source": "derived from per-character index",
+        "text": "意气自若"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-019-line-012",
+        "order": 12,
+        "pinyin": "wáng gōng dà rén",
+        "pinyin_source": "derived from per-character index",
+        "text": "王公大人"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to not even take a penny (as a bribe)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-019-line-013",
+        "order": 13,
+        "pinyin": "yī jiè bù qǔ",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "一介不取"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. isn't that a joy? (quote from Confucius) / fig. (jocular) extremely; awfully",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-019-line-014",
+        "order": 14,
+        "pinyin": "bù yì lè hū",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "不亦乐乎"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-019-line-015",
+        "order": 15,
+        "pinyin": "bù zhī suǒ cuò",
+        "pinyin_source": "derived from per-character index",
+        "text": "不知所错"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-019-line-016",
+        "order": 16,
+        "pinyin": "yī dìng bù yí",
+        "pinyin_source": "derived from per-character index",
+        "text": "一定不移"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) once the main problem is solved, all troubles are solved; death ends all one's troubles",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-019-line-017",
+        "order": 17,
+        "pinyin": "yī liǎo bǎi liǎo",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "一了百了"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-019-line-018",
+        "order": 18,
+        "pinyin": "yī hǔ bù hé",
+        "pinyin_source": "derived from per-character index",
+        "text": "一虎不河"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-019-line-019",
+        "order": 19,
+        "pinyin": "fēng sú rén qíng",
+        "pinyin_source": "derived from per-character index",
+        "text": "风俗人情"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-019-line-020",
+        "order": 20,
+        "pinyin": "wén xíng chū chù",
+        "pinyin_source": "derived from per-character index",
+        "text": "文行出处"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-019-line-021",
+        "order": 21,
+        "pinyin": "bù kě yán xuān",
+        "pinyin_source": "derived from per-character index",
+        "text": "不可言宣"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-019-line-022",
+        "order": 22,
+        "pinyin": "míng jiàn wàn lǐ",
+        "pinyin_source": "derived from per-character index",
+        "text": "明见万里"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-019-line-023",
+        "order": 23,
+        "pinyin": "shén yì zì ruò",
+        "pinyin_source": "derived from per-character index",
+        "text": "神意自若"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(lit.) unwilling to spare a single hair (idiom) / (fig.) extremely stingy",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-019-line-024",
+        "order": 24,
+        "pinyin": "yī máo bù bá",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "一毛不拔"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-019-line-025",
+        "order": 25,
+        "pinyin": "wú fēng shēng làng",
+        "pinyin_source": "derived from per-character index",
+        "text": "无风生浪"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-019-line-026",
+        "order": 26,
+        "pinyin": "yán shì rén fēi",
+        "pinyin_source": "derived from per-character index",
+        "text": "言是人非"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-019-line-027",
+        "order": 27,
+        "pinyin": "mò zhī suǒ wèi",
+        "pinyin_source": "derived from per-character index",
+        "text": "莫知所为"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-019-line-028",
+        "order": 28,
+        "pinyin": "bù jīng zhī shuō",
+        "pinyin_source": "derived from per-character index",
+        "text": "不经之说"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-019-line-029",
+        "order": 29,
+        "pinyin": "chuán wèi měi tán",
+        "pinyin_source": "derived from per-character index",
+        "text": "传为美谈"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. see the wind and assume it will rain (idiom); fig. gullible / to believe whatever people suggest",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-019-line-030",
+        "order": 30,
+        "pinyin": "jiàn fēng shì yǔ",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "见风是雨"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) just as expected",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-019-line-031",
+        "order": 31,
+        "pinyin": "guǒ bù qí rán",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "果不其然"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-019-line-032",
+        "order": 32,
+        "pinyin": "bù fǎ cháng kě",
+        "pinyin_source": "derived from per-character index",
+        "text": "不法常可"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-019-line-033",
+        "order": 33,
+        "pinyin": "mù wú wáng fǎ",
+        "pinyin_source": "derived from per-character index",
+        "text": "目无王法"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-019-line-034",
+        "order": 34,
+        "pinyin": "shuō de tán tiān",
+        "pinyin_source": "derived from per-character index",
+        "text": "说地谈天"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-019-line-035",
+        "order": 35,
+        "pinyin": "chū rù rén zuì",
+        "pinyin_source": "derived from per-character index",
+        "text": "出入人罪"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-019-line-036",
+        "order": 36,
+        "pinyin": "chū shī bù lì",
+        "pinyin_source": "derived from per-character index",
+        "text": "出师不利"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "extremely important / no small matter",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-019-line-037",
+        "order": 37,
+        "pinyin": "fēi tóng xiǎo kě",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "非同小可"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-019-line-038",
+        "order": 38,
+        "pinyin": "jiàn suǒ wèi jiàn",
+        "pinyin_source": "derived from per-character index",
+        "text": "见所未见"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-019-line-039",
+        "order": 39,
+        "pinyin": "wú jiān bù xiàn",
+        "pinyin_source": "derived from per-character index",
+        "text": "无坚不陷"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "overt / to make no secret (of one's presence) / grandiose / with great scope",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-019-line-040",
+        "order": 40,
+        "pinyin": "táng ér huáng zhī",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "堂而皇之"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-019-line-041",
+        "order": 41,
+        "pinyin": "bù dé qí sǐ",
+        "pinyin_source": "derived from per-character index",
+        "text": "不得其死"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-019-line-042",
+        "order": 42,
+        "pinyin": "lǐ shùn rén qíng",
+        "pinyin_source": "derived from per-character index",
+        "text": "礼顺人情"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) land of plenty (usu. used in reference to Sichuan)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-019-line-043",
+        "order": 43,
+        "pinyin": "tiān fǔ zhī guó",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "天府之国"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-019-line-044",
+        "order": 44,
+        "pinyin": "yī huà kāi tiān",
+        "pinyin_source": "derived from per-character index",
+        "text": "一画开天"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-019-line-045",
+        "order": 45,
+        "pinyin": "rén qǔ wǒ yǔ",
+        "pinyin_source": "derived from per-character index",
+        "text": "人取我与"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-019-line-046",
+        "order": 46,
+        "pinyin": "tóng rì ér lùn",
+        "pinyin_source": "derived from per-character index",
+        "text": "同日而论"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-019-line-047",
+        "order": 47,
+        "pinyin": "mù wú yú zi",
+        "pinyin_source": "derived from per-character index",
+        "text": "目无余子"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-019-line-048",
+        "order": 48,
+        "pinyin": "hǎo jǐng bù cháng",
+        "pinyin_source": "derived from per-character index",
+        "text": "好景不常"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-019-line-049",
+        "order": 49,
+        "pinyin": "yī xīn yī lù",
+        "pinyin_source": "derived from per-character index",
+        "text": "一心一路"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-019-line-050",
+        "order": 50,
+        "pinyin": "shuō gǔ dào jīn",
+        "pinyin_source": "derived from per-character index",
+        "text": "说古道今"
+      }
+    ],
+    "summary": "一往而深",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "一往而深\n法无二门\n百无一用\n大有起色\n老于世故\n有一得一\n非常之谋\n心不应口\n师心自是\n不伦不类\n意气自若\n王公大人\n一介不取\n不亦乐乎\n不知所错\n一定不移\n一了百了\n一虎不河\n风俗人情\n文行出处\n不可言宣\n明见万里\n神意自若\n一毛不拔\n无风生浪\n言是人非\n莫知所为\n不经之说\n传为美谈\n见风是雨\n果不其然\n不法常可\n目无王法\n说地谈天\n出入人罪\n出师不利\n非同小可\n见所未见\n无坚不陷\n堂而皇之\n不得其死\n礼顺人情\n天府之国\n一画开天\n人取我与\n同日而论\n目无余子\n好景不常\n一心一路\n说古道今",
+    "title": "文言进阶·较高难度 I"
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-019.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

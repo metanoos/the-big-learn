@@ -1,0 +1,823 @@
+{
+  "chapter": {
+    "character_count": 200,
+    "id": "chapter-002",
+    "order": 2,
+    "reading_unit_count": 50,
+    "reading_units": [
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "mature reflection / after careful deliberations",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-002-line-001",
+        "order": 1,
+        "pinyin": "shēn sī shú lu:4",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "深思熟虑"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to distinguish right and wrong (idiom)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-002-line-002",
+        "order": 2,
+        "pinyin": "míng biàn shì fēi",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "明辨是非"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to make prompt decisions (idiom)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-002-line-003",
+        "order": 3,
+        "pinyin": "dāng jī lì duàn",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "当机立断"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to judge the hour and size up the situation / to take stock",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-002-line-004",
+        "order": 4,
+        "pinyin": "shěn shí duó shì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "审时度势"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "see the opportunity and act (idiom); to act according to circumstances / to play it by ear / to use one's discretion",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-002-line-005",
+        "order": 5,
+        "pinyin": "jiàn jī xíng shì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "见机行事"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-002-line-006",
+        "order": 6,
+        "pinyin": "quán héng qīng zhòng",
+        "pinyin_source": "derived from per-character index",
+        "text": "权衡轻重"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to stand tall and see far (idiom); taking the long and broad view / acute foresight",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-002-line-007",
+        "order": 7,
+        "pinyin": "gāo zhān yuǎn zhǔ",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "高瞻远瞩"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. before it rains, bind around with silk (idiom, from Book of Songs 詩經|诗经); fig. to plan ahead / to prepare for a rainy day",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-002-line-008",
+        "order": 8,
+        "pinyin": "wèi yǔ chóu móu",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "未雨绸缪"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) to examine tiny clues to know general trends; to deduce the whole story from small traces",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-002-line-009",
+        "order": 9,
+        "pinyin": "jiàn wēi zhī zhù",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "见微知著"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. deep plans and distant thoughts / to plan far ahead (idiom)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-002-line-010",
+        "order": 10,
+        "pinyin": "shēn móu yuǎn lu:4",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "深谋远虑"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to change according to the situation (idiom); pragmatic",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-002-line-011",
+        "order": 11,
+        "pinyin": "suí jī yìng biàn",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "随机应变"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) to use methods in line with local circumstances",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-002-line-012",
+        "order": 12,
+        "pinyin": "yīn dì zhì yí",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "因地制宜"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to take advantage of the new situation (idiom) / to make the best of new opportunities",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-002-line-013",
+        "order": 13,
+        "pinyin": "yīn shì lì dǎo",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "因势利导"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. to prescribe the right medicine for an illness (idiom); fig. to study a problem to find the right way to solve it / to take appropriate steps",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-002-line-014",
+        "order": 14,
+        "pinyin": "duì zhèng xià yào",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "对症下药"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. to have a target in mind when shooting one's arrows (idiom) / fig. to have a clear objective",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-002-line-015",
+        "order": 15,
+        "pinyin": "yǒu dì fàng shǐ",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "有的放矢"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to think of danger in times of safety / to be vigilant in peacetime (idiom)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-002-line-016",
+        "order": 16,
+        "pinyin": "jū ān sī wēi",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "居安思危"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to prevent troubles before the event (idiom) / to forestall / to nip sth in the bud",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-002-line-017",
+        "order": 17,
+        "pinyin": "fáng huàn wèi rán",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "防患未然"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to assess one's capabilities and act accordingly (idiom); to act within one's competence / One does what one can.",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-002-line-018",
+        "order": 18,
+        "pinyin": "liàng lì ér xíng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "量力而行"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(lit.) to cut cloth according to the body (idiom) / (fig.) to act according to actual circumstances",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-002-line-019",
+        "order": 19,
+        "pinyin": "liàng tǐ cái yī",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "量体裁衣"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) top priority job; a matter of the greatest urgency",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-002-line-020",
+        "order": 20,
+        "pinyin": "dāng wù zhī jí",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "当务之急"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "slight or important, urgent or non-urgent (idiom); to deal with important matters first / sense of priority",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-002-line-021",
+        "order": 21,
+        "pinyin": "qīng zhòng huǎn jí",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "轻重缓急"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to include and monopolize many things / all-embracing",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-002-line-022",
+        "order": 22,
+        "pinyin": "jiān róng bìng bāo",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "兼容并包"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "incorporating diverse things (idiom) / eclectic / all-embracing",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-002-line-023",
+        "order": 23,
+        "pinyin": "jiān shōu bìng xù",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "兼收并蓄"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. to devise battle plan in a tent (idiom) / fig. planning strategies",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-002-line-024",
+        "order": 24,
+        "pinyin": "yùn chóu wéi wò",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "运筹帷幄"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "plan of convenience (idiom); stop-gap measure / makeshift stratagem / interim step",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-002-line-025",
+        "order": 25,
+        "pinyin": "quán yí zhī jì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "权宜之计"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "a well-thought out long-term strategy",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-002-line-026",
+        "order": 26,
+        "pinyin": "shēn móu yuǎn lu:e4",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "深谋远略"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) to refrain from going too far; to know when to stop",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-002-line-027",
+        "order": 27,
+        "pinyin": "shì kě ér zhǐ",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "适可而止"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "opinions differ (idiom)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-002-line-028",
+        "order": 28,
+        "pinyin": "jiàn rén jiàn zhì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "见仁见智"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. to see sth as clearly as one sees a blazing fire (idiom) / fig. to grasp the situation thoroughly",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-002-line-029",
+        "order": 29,
+        "pinyin": "dòng ruò guān huǒ",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "洞若观火"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. the falling of one leaf heralds the coming of autumn (idiom) / fig. a small sign can indicate a great trend / a straw in the wind",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-002-line-030",
+        "order": 30,
+        "pinyin": "yī yè zhī qiū",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "一叶知秋"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to nip in the bud (idiom)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-002-line-031",
+        "order": 31,
+        "pinyin": "fáng wēi dù jiàn",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "防微杜渐"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to be unwilling to pass on one's responsibilities to others",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-002-line-032",
+        "order": 32,
+        "pinyin": "dāng rén bù ràng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "当仁不让"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "regular and thorough (idiom); methodically arranged",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-002-line-033",
+        "order": 33,
+        "pinyin": "yǒu tiáo bù wěn",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "有条不紊"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-002-line-034",
+        "order": 34,
+        "pinyin": "gāo wū jiàn líng",
+        "pinyin_source": "derived from per-character index",
+        "text": "高屋建瓴"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "an overall plan taking into account all factors",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-002-line-035",
+        "order": 35,
+        "pinyin": "tǒng chóu jiān gù",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "统筹兼顾"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. seeing clearly the downy feathers of autumn (idiom, from Mencius) / fig. perceptive of even the finest detail",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-002-line-036",
+        "order": 36,
+        "pinyin": "míng chá qiū háo",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "明察秋毫"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "visionary and sagacious (idiom)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-002-line-037",
+        "order": 37,
+        "pinyin": "yuǎn jiàn zhuó shí",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "远见卓识"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-002-line-038",
+        "order": 38,
+        "pinyin": "jiàn jī ér zuò",
+        "pinyin_source": "derived from per-character index",
+        "text": "见机而作"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "foresight",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-002-line-039",
+        "order": 39,
+        "pinyin": "xiān jiàn zhī míng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "先见之明"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) to teach in accordance with the student's aptitude; to tailor instruction to the individual student",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-002-line-040",
+        "order": 40,
+        "pinyin": "yīn cái shī jiào",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "因材施教"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. to be in a high location, overlooking the scene below (idiom) / fig. to occupy a commanding position / to assume a haughty attitude",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-002-line-041",
+        "order": 41,
+        "pinyin": "jū gāo lín xià",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "居高临下"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. to see a gap and stick in a needle (idiom); fig. to make use of every second and every inch",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-002-line-042",
+        "order": 42,
+        "pinyin": "jiàn fèng chā zhēn",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "见缝插针"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "crude but simple methods (idiom); use whatever methods you can / to do things simply and thriftily / It's not pretty but it works.",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-002-line-043",
+        "order": 43,
+        "pinyin": "yīn lòu jiù jiǎn",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "因陋就简"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "logical / only to be expected / rational and clearly structured (of text)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-002-line-044",
+        "order": 44,
+        "pinyin": "shùn lǐ chéng zhāng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "顺理成章"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) to take one's time making a decision; to consider at length",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-002-line-045",
+        "order": 45,
+        "pinyin": "cóng cháng jì yì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "从长计议"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-002-line-046",
+        "order": 46,
+        "pinyin": "shēn tú yuǎn suàn",
+        "pinyin_source": "derived from per-character index",
+        "text": "深图远算"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-002-line-047",
+        "order": 47,
+        "pinyin": "yīn rén zhì yí",
+        "pinyin_source": "derived from per-character index",
+        "text": "因人制宜"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-002-line-048",
+        "order": 48,
+        "pinyin": "jiàn jī ér xíng",
+        "pinyin_source": "derived from per-character index",
+        "text": "见机而行"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to weigh the pros and cons (idiom)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-002-line-049",
+        "order": 49,
+        "pinyin": "quán héng lì bì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "权衡利弊"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) to use methods appropriate to the current situation",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-002-line-050",
+        "order": 50,
+        "pinyin": "yīn shí zhì yí",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "因时制宜"
+      }
+    ],
+    "summary": "深思熟虑",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "深思熟虑\n明辨是非\n当机立断\n审时度势\n见机行事\n权衡轻重\n高瞻远瞩\n未雨绸缪\n见微知著\n深谋远虑\n随机应变\n因地制宜\n因势利导\n对症下药\n有的放矢\n居安思危\n防患未然\n量力而行\n量体裁衣\n当务之急\n轻重缓急\n兼容并包\n兼收并蓄\n运筹帷幄\n权宜之计\n深谋远略\n适可而止\n见仁见智\n洞若观火\n一叶知秋\n防微杜渐\n当仁不让\n有条不紊\n高屋建瓴\n统筹兼顾\n明察秋毫\n远见卓识\n见机而作\n先见之明\n因材施教\n居高临下\n见缝插针\n因陋就简\n顺理成章\n从长计议\n深图远算\n因人制宜\n见机而行\n权衡利弊\n因时制宜",
+    "title": "入门常用·思考与判断"
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-002.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

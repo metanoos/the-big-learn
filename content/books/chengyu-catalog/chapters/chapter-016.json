@@ -1,0 +1,671 @@
+{
+  "chapter": {
+    "character_count": 200,
+    "id": "chapter-016",
+    "order": 16,
+    "reading_unit_count": 50,
+    "reading_units": [
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-016-line-001",
+        "order": 1,
+        "pinyin": "yǐ wén luàn fǎ",
+        "pinyin_source": "derived from per-character index",
+        "text": "以文乱法"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) to overestimate one's capabilities",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-016-line-002",
+        "order": 2,
+        "pinyin": "bù zì liàng lì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "不自量力"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "not in the least concerned (idiom) / reckless / couldn't give a damn about it / unperturbed / couldn't care less / harum scarum",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-016-line-003",
+        "order": 3,
+        "pinyin": "mǎn bù zài hu",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "满不在乎"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-016-line-004",
+        "order": 4,
+        "pinyin": "bǎi bù yī cún",
+        "pinyin_source": "derived from per-character index",
+        "text": "百不一存"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-016-line-005",
+        "order": 5,
+        "pinyin": "bǐ bǐ jiē rán",
+        "pinyin_source": "derived from per-character index",
+        "text": "比比皆然"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) to do whatever one pleases",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-016-line-006",
+        "order": 6,
+        "pinyin": "wéi suǒ yù wéi",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "为所欲为"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-016-line-007",
+        "order": 7,
+        "pinyin": "yǐ yī chí wàn",
+        "pinyin_source": "derived from per-character index",
+        "text": "以一持万"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-016-line-008",
+        "order": 8,
+        "pinyin": "qīng jìng wú wèi",
+        "pinyin_source": "derived from per-character index",
+        "text": "清净无为"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to be awfully (busy etc)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-016-line-009",
+        "order": 9,
+        "pinyin": "bù kě kāi jiāo",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "不可开交"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. heaven's law and earth's principle (idiom); fig. right and proper / right and unalterable / a matter of course",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-016-line-010",
+        "order": 10,
+        "pinyin": "tiān jīng dì yì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "天经地义"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "omnipotent",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-016-line-011",
+        "order": 11,
+        "pinyin": "wú suǒ bù néng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "无所不能"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-016-line-012",
+        "order": 12,
+        "pinyin": "cái dà nán yòng",
+        "pinyin_source": "derived from per-character index",
+        "text": "才大难用"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-016-line-013",
+        "order": 13,
+        "pinyin": "rén shì dài xiè",
+        "pinyin_source": "derived from per-character index",
+        "text": "人事代谢"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "see 百折不撓|百折不挠[bai3 zhe2 bu4 nao2]",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-016-line-014",
+        "order": 14,
+        "pinyin": "bǎi zhé bù huí",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "百折不回"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "one's own wishful thinking",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-016-line-015",
+        "order": 15,
+        "pinyin": "yī xiāng qíng yuàn",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "一相情愿"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-016-line-016",
+        "order": 16,
+        "pinyin": "yòng xīn yòng yì",
+        "pinyin_source": "derived from per-character index",
+        "text": "用心用意"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-016-line-017",
+        "order": 17,
+        "pinyin": "jí ér yán zhī",
+        "pinyin_source": "derived from per-character index",
+        "text": "极而言之"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-016-line-018",
+        "order": 18,
+        "pinyin": "zhǐ tiān wèi shì",
+        "pinyin_source": "derived from per-character index",
+        "text": "指天为誓"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "impossible to resist (idiom); an irresistible force",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-016-line-019",
+        "order": 19,
+        "pinyin": "shì bù kě dāng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "势不可当"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to treat people according to their rank and one's relationship with them (idiom)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-016-line-020",
+        "order": 20,
+        "pinyin": "kàn rén xíng shì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "看人行事"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "the man (or woman) of the moment (idiom) / influential figure",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-016-line-021",
+        "order": 21,
+        "pinyin": "fēng yún rén wù",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "风云人物"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-016-line-022",
+        "order": 22,
+        "pinyin": "yǒu xīn yǒu yì",
+        "pinyin_source": "derived from per-character index",
+        "text": "有心有意"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to discuss sth on its own merits / to judge the matter as it stands",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-016-line-023",
+        "order": 23,
+        "pinyin": "jiù shì lùn shì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "就事论事"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-016-line-024",
+        "order": 24,
+        "pinyin": "wú suǒ bù róng",
+        "pinyin_source": "derived from per-character index",
+        "text": "无所不容"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-016-line-025",
+        "order": 25,
+        "pinyin": "pǐn ér dì zhī",
+        "pinyin_source": "derived from per-character index",
+        "text": "品而第之"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "playboy",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-016-line-026",
+        "order": 26,
+        "pinyin": "huā huā gōng zǐ",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "花花公子"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "neither too fast nor too slow (idiom)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-016-line-027",
+        "order": 27,
+        "pinyin": "bù jí bù xú",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "不疾不徐"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to say what everyone says (idiom) / to conform to what one perceives to be the majority view / to follow the herd",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-016-line-028",
+        "order": 28,
+        "pinyin": "rén yún yì yún",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "人云亦云"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to fail to grasp the main points",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-016-line-029",
+        "order": 29,
+        "pinyin": "bù dé yào lǐng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "不得要领"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-016-line-030",
+        "order": 30,
+        "pinyin": "chū yán chéng zhāng",
+        "pinyin_source": "derived from per-character index",
+        "text": "出言成章"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-016-line-031",
+        "order": 31,
+        "pinyin": "shí bù kě shī",
+        "pinyin_source": "derived from per-character index",
+        "text": "时不可失"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-016-line-032",
+        "order": 32,
+        "pinyin": "néng wén néng wǔ",
+        "pinyin_source": "derived from per-character index",
+        "text": "能文能武"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to accomplish much / to have good prospects / to have a promising future",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-016-line-033",
+        "order": 33,
+        "pinyin": "dà yǒu zuò wéi",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "大有作为"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to seem as if something is amiss (idiom)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-016-line-034",
+        "order": 34,
+        "pinyin": "rú yǒu suǒ shī",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "如有所失"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-016-line-035",
+        "order": 35,
+        "pinyin": "lǐ wú bù dá",
+        "pinyin_source": "derived from per-character index",
+        "text": "礼无不答"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "gossip is a fearful thing (idiom)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-016-line-036",
+        "order": 36,
+        "pinyin": "rén yán kě wèi",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "人言可畏"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-016-line-037",
+        "order": 37,
+        "pinyin": "shì tóng lù rén",
+        "pinyin_source": "derived from per-character index",
+        "text": "视同路人"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-016-line-038",
+        "order": 38,
+        "pinyin": "yǐ xīn chuán xīn",
+        "pinyin_source": "derived from per-character index",
+        "text": "以心传心"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-016-line-039",
+        "order": 39,
+        "pinyin": "shàng xià tóng mén",
+        "pinyin_source": "derived from per-character index",
+        "text": "上下同门"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) the age of 30",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-016-line-040",
+        "order": 40,
+        "pinyin": "ér lì zhī nián",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "而立之年"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "minor divinity concerned with marriage / matchmaker / go-between",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-016-line-041",
+        "order": 41,
+        "pinyin": "yuè xià lǎo rén",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "月下老人"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "old in years",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-016-line-042",
+        "order": 42,
+        "pinyin": "nián shì yǐ gāo",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "年事已高"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-016-line-043",
+        "order": 43,
+        "pinyin": "suǒ dāng wú dí",
+        "pinyin_source": "derived from per-character index",
+        "text": "所当无敌"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-016-line-044",
+        "order": 44,
+        "pinyin": "tiān xià wèi gōng",
+        "pinyin_source": "derived from per-character index",
+        "text": "天下为公"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-016-line-045",
+        "order": 45,
+        "pinyin": "yī fū zhī yòng",
+        "pinyin_source": "derived from per-character index",
+        "text": "一夫之用"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "variant of 默默無聞|默默无闻[mo4 mo4 wu2 wen2]",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-016-line-046",
+        "order": 46,
+        "pinyin": "mò mò wú wén",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "没没无闻"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-016-line-047",
+        "order": 47,
+        "pinyin": "lái zhě bù shàn",
+        "pinyin_source": "derived from per-character index",
+        "text": "来者不善"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "boundless joy",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-016-line-048",
+        "order": 48,
+        "pinyin": "qí lè wú qióng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "其乐无穷"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) after one's own heart; gratifying; satisfactory; everything one could wish",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-016-line-049",
+        "order": 49,
+        "pinyin": "chèn xīn rú yì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "称心如意"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-016-line-050",
+        "order": 50,
+        "pinyin": "shī lǐ zhī jiā",
+        "pinyin_source": "derived from per-character index",
+        "text": "诗礼之家"
+      }
+    ],
+    "summary": "以文乱法",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "以文乱法\n不自量力\n满不在乎\n百不一存\n比比皆然\n为所欲为\n以一持万\n清净无为\n不可开交\n天经地义\n无所不能\n才大难用\n人事代谢\n百折不回\n一相情愿\n用心用意\n极而言之\n指天为誓\n势不可当\n看人行事\n风云人物\n有心有意\n就事论事\n无所不容\n品而第之\n花花公子\n不疾不徐\n人云亦云\n不得要领\n出言成章\n时不可失\n能文能武\n大有作为\n如有所失\n礼无不答\n人言可畏\n视同路人\n以心传心\n上下同门\n而立之年\n月下老人\n年事已高\n所当无敌\n天下为公\n一夫之用\n没没无闻\n来者不善\n其乐无穷\n称心如意\n诗礼之家",
+    "title": "书面拓展·中高透明度 V"
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-016.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

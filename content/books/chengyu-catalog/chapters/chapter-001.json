@@ -1,0 +1,815 @@
+{
+  "chapter": {
+    "character_count": 200,
+    "id": "chapter-001",
+    "order": 1,
+    "reading_unit_count": 50,
+    "reading_units": [
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to pursue unremittingly (idiom); to persevere",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-001-line-001",
+        "order": 1,
+        "pinyin": "chí zhī yǐ héng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "持之以恒"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. to have accumulated knowledge and deliver it slowly (idiom) / good preparation is the key to success / to be well prepared",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-001-line-002",
+        "order": 2,
+        "pinyin": "hòu jī bó fā",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "厚积薄发"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to have one's feet firmly planted on the ground (idiom); realistic without flights of fancy / steady and serious character",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-001-line-003",
+        "order": 3,
+        "pinyin": "jiǎo tà shí dì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "脚踏实地"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. to seek truth from facts (idiom) / fig. to be practical and realistic",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-001-line-004",
+        "order": 4,
+        "pinyin": "shí shì qiú shì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "实事求是"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) to constantly seek to improve; to keep perfecting",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-001-line-005",
+        "order": 5,
+        "pinyin": "jīng yì qiú jīng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "精益求精"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to review the old and know the new (idiom, from the Analects) / to recall the past to understand the future",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-001-line-006",
+        "order": 6,
+        "pinyin": "wēn gù zhī xīn",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "温故知新"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to raise one and infer three / to deduce many things from one case (idiom)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-001-line-007",
+        "order": 7,
+        "pinyin": "jǔ yī fǎn sān",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "举一反三"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to comprehend (new things) by analogy",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-001-line-008",
+        "order": 8,
+        "pinyin": "chù lèi páng tōng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "触类旁通"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) to integrate knowledge from various sources into a deep and coherent understanding of a subject",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-001-line-009",
+        "order": 9,
+        "pinyin": "róng huì guàn tōng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "融会贯通"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. diligent and never slacking (idiom); continuous concentrated effort / assiduous (in study) / to concentrate",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-001-line-010",
+        "order": 10,
+        "pinyin": "zī zī bù juàn",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "孜孜不倦"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to chip away at a task and not abandon it (idiom); to chisel away at sth / to persevere / unflagging efforts",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-001-line-011",
+        "order": 11,
+        "pinyin": "qiè ér bù shě",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "锲而不舍"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "with familiarity you learn the trick (idiom); practice makes perfect",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-001-line-012",
+        "order": 12,
+        "pinyin": "shú néng shēng qiǎo",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "熟能生巧"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) hard work can make up for lack of natural talent",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-001-line-013",
+        "order": 13,
+        "pinyin": "qín néng bǔ zhuō",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "勤能补拙"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) to study sth in order to apply it",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-001-line-014",
+        "order": 14,
+        "pinyin": "xué yǐ zhì yòng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "学以致用"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "in sequence, step by step (idiom); to make steady progress incrementally",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-001-line-015",
+        "order": 15,
+        "pinyin": "xún xù jiàn jìn",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "循序渐进"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-001-line-016",
+        "order": 16,
+        "pinyin": "bó cǎi zhòng zhǎng",
+        "pinyin_source": "derived from per-character index",
+        "text": "博采众长"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. use others' strengths to make up for one's weak points (idiom from Mencius) / to use this in place of that / what you lose on the swings, you win on the roundabouts",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-001-line-017",
+        "order": 17,
+        "pinyin": "qǔ cháng bǔ duǎn",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "取长补短"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-001-line-018",
+        "order": 18,
+        "pinyin": "qù cū qǔ jīng",
+        "pinyin_source": "derived from per-character index",
+        "text": "去粗取精"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-001-line-019",
+        "order": 19,
+        "pinyin": "qù wěi cún zhēn",
+        "pinyin_source": "derived from per-character index",
+        "text": "去伪存真"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to push out the old and bring in the new (idiom); to innovate",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-001-line-020",
+        "order": 20,
+        "pinyin": "tuī chén chū xīn",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "推陈出新"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "weighing every word",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-001-line-021",
+        "order": 21,
+        "pinyin": "zì zhēn jù zhuó",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "字斟句酌"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) single-minded; fully focused",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-001-line-022",
+        "order": 22,
+        "pinyin": "zhuān xīn zhì zhì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "专心致志"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) to concentrate one's attention completely; with rapt attention",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-001-line-023",
+        "order": 23,
+        "pinyin": "quán shén guàn zhù",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "全神贯注"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to concentrate one's attention (idiom)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-001-line-024",
+        "order": 24,
+        "pinyin": "jù jīng huì shén",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "聚精会神"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "not one thread loose (idiom); strictly according to the rules / meticulous / not one hair out of place",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-001-line-025",
+        "order": 25,
+        "pinyin": "yī sī bù gǒu",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "一丝不苟"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-001-line-026",
+        "order": 26,
+        "pinyin": "hǎo xué bù juàn",
+        "pinyin_source": "derived from per-character index",
+        "text": "好学不倦"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. opening a book is profitable (idiom); the benefits of education",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-001-line-027",
+        "order": 27,
+        "pinyin": "kāi juàn yǒu yì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "开卷有益"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "erudite / widely read and knowledgeable",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-001-line-028",
+        "order": 28,
+        "pinyin": "bó wén qiáng zhì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "博闻强识"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-001-line-029",
+        "order": 29,
+        "pinyin": "páng zhēng bó yǐn",
+        "pinyin_source": "derived from per-character index",
+        "text": "旁征博引"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. ripe as a melon that rolls from its vine (idiom); fig. to know fluently / to know sth inside out / to know sth by heart",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-001-line-030",
+        "order": 30,
+        "pinyin": "gǔn guā làn shú",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "滚瓜烂熟"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) erudite and multitalented; versatile and able",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-001-line-031",
+        "order": 31,
+        "pinyin": "bó xué duō cái",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "博学多才"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "of great erudition and scholarship (idiom)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-001-line-032",
+        "order": 32,
+        "pinyin": "xué fù wǔ chē",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "学富五车"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) of great talent",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-001-line-033",
+        "order": 33,
+        "pinyin": "cái gāo bā dǒu",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "才高八斗"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to strive unremittingly / self-improvement",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-001-line-034",
+        "order": 34,
+        "pinyin": "zì qiáng bù xī",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "自强不息"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "study tirelessly (idiom, from Analects)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-001-line-035",
+        "order": 35,
+        "pinyin": "xué ér bù yàn",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "学而不厌"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "cultured and refined (idiom); gentle and cultivated",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-001-line-036",
+        "order": 36,
+        "pinyin": "wēn wén ěr yǎ",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "温文尔雅"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. to hear one and know ten (idiom); fig. explain one thing and (he) understands everything / a word to the wise",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-001-line-037",
+        "order": 37,
+        "pinyin": "wén yī zhī shí",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "闻一知十"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "conversant with things past and present / erudite and informed",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-001-line-038",
+        "order": 38,
+        "pinyin": "bó gǔ tōng jīn",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "博古通今"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) wide-ranging and profound",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-001-line-039",
+        "order": 39,
+        "pinyin": "bó dà jīng shēn",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "博大精深"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to trace sth back to its origin",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-001-line-040",
+        "order": 40,
+        "pinyin": "zhuī běn sù yuán",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "追本溯源"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "variant of 融會貫通|融会贯通[rong2 hui4 guan4 tong1]",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-001-line-041",
+        "order": 41,
+        "pinyin": "róng huì guàn tōng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "融汇贯通"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. always with a book in hand (idiom) / fig. (of a student or scholar) diligent and hardworking",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-001-line-042",
+        "order": 42,
+        "pinyin": "shǒu bù shì juàn",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "手不释卷"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to accumulate over a long period of time",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-001-line-043",
+        "order": 43,
+        "pinyin": "rì jī yuè lěi",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "日积月累"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) to skip one's sleep and meals; to be completely wrapped up in one's work",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-001-line-044",
+        "order": 44,
+        "pinyin": "fèi qǐn wàng shí",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "废寝忘食"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to study diligently / to train assiduously",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-001-line-045",
+        "order": 45,
+        "pinyin": "qín xué kǔ liàn",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "勤学苦练"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "dripping water penetrates the stone (idiom); constant perseverance yields success / You can achieve your aim if you try hard without giving up. / Persistent effort overcomes any difficulty.",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-001-line-046",
+        "order": 46,
+        "pinyin": "shuǐ dī shí chuān",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "水滴石穿"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-001-line-047",
+        "order": 47,
+        "pinyin": "bó xué duō wén",
+        "pinyin_source": "derived from per-character index",
+        "text": "博学多闻"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "diligent and tireless (idiom)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-001-line-048",
+        "order": 48,
+        "pinyin": "zī zī yǐ qiú",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "孜孜以求"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-001-line-049",
+        "order": 49,
+        "pinyin": "chù lèi ér zhǎng",
+        "pinyin_source": "derived from per-character index",
+        "text": "触类而长"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "intensive farming",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-001-line-050",
+        "order": 50,
+        "pinyin": "jīng gēng xì zuò",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "精耕细作"
+      }
+    ],
+    "summary": "持之以恒",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "持之以恒\n厚积薄发\n脚踏实地\n实事求是\n精益求精\n温故知新\n举一反三\n触类旁通\n融会贯通\n孜孜不倦\n锲而不舍\n熟能生巧\n勤能补拙\n学以致用\n循序渐进\n博采众长\n取长补短\n去粗取精\n去伪存真\n推陈出新\n字斟句酌\n专心致志\n全神贯注\n聚精会神\n一丝不苟\n好学不倦\n开卷有益\n博闻强识\n旁征博引\n滚瓜烂熟\n博学多才\n学富五车\n才高八斗\n自强不息\n学而不厌\n温文尔雅\n闻一知十\n博古通今\n博大精深\n追本溯源\n融汇贯通\n手不释卷\n日积月累\n废寝忘食\n勤学苦练\n水滴石穿\n博学多闻\n孜孜以求\n触类而长\n精耕细作",
+    "title": "入门常用·学习与积累"
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-001.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

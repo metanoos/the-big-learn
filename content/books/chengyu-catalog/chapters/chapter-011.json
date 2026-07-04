@@ -1,0 +1,631 @@
+{
+  "chapter": {
+    "character_count": 200,
+    "id": "chapter-011",
+    "order": 11,
+    "reading_unit_count": 50,
+    "reading_units": [
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) whatever the case; in any event; no matter what; by all possible means",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-011-line-001",
+        "order": 1,
+        "pinyin": "wú lùn rú hé",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "无论如何"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) unconsciously; unwittingly",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-011-line-002",
+        "order": 2,
+        "pinyin": "bù zhī bù jué",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "不知不觉"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "weakly and without strength (idiom); dispirited",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-011-line-003",
+        "order": 3,
+        "pinyin": "yǒu qì wú lì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "有气无力"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-011-line-004",
+        "order": 4,
+        "pinyin": "tiān xià wú dí",
+        "pinyin_source": "derived from per-character index",
+        "text": "天下无敌"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) time and tide wait for no man",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-011-line-005",
+        "order": 5,
+        "pinyin": "shí bù wǒ dài",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "时不我待"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(to escape danger etc) by a hair's breadth (idiom) / in a critical state / on the brink of crisis / very close (to happening) / Taiwan pr. [jian4 bu4 rong2 fa3]",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-011-line-006",
+        "order": 6,
+        "pinyin": "jiān bù róng fà",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "间不容发"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-011-line-007",
+        "order": 7,
+        "pinyin": "wú dé ér chēng",
+        "pinyin_source": "derived from per-character index",
+        "text": "无德而称"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-011-line-008",
+        "order": 8,
+        "pinyin": "yī miàn zhī yǎ",
+        "pinyin_source": "derived from per-character index",
+        "text": "一面之雅"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to overestimate one's capabilities (idiom)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-011-line-009",
+        "order": 9,
+        "pinyin": "zì bù liàng lì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "自不量力"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to talk nonsense (idiom) / frivolous talk",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-011-line-010",
+        "order": 10,
+        "pinyin": "yán bù jí yì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "言不及义"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "upright gentleman / man of honor",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-011-line-011",
+        "order": 11,
+        "pinyin": "zhèng rén jūn zi",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "正人君子"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-011-line-012",
+        "order": 12,
+        "pinyin": "nán yú shàng tiān",
+        "pinyin_source": "derived from per-character index",
+        "text": "难于上天"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-011-line-013",
+        "order": 13,
+        "pinyin": "wú qíng wú cǎi",
+        "pinyin_source": "derived from per-character index",
+        "text": "无情无彩"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "variant of 無動於衷|无动于衷[wu2 dong4 yu2 zhong1]",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-011-line-014",
+        "order": 14,
+        "pinyin": "wú dòng yú zhōng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "无动于中"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-011-line-015",
+        "order": 15,
+        "pinyin": "jiā wú èr zhǔ",
+        "pinyin_source": "derived from per-character index",
+        "text": "家无二主"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. like the sun at noon (idiom) / fig. to be at the peak of one's power, career etc",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-011-line-016",
+        "order": 16,
+        "pinyin": "rú rì zhōng tiān",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "如日中天"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-011-line-017",
+        "order": 17,
+        "pinyin": "shí ér bù huà",
+        "pinyin_source": "derived from per-character index",
+        "text": "食而不化"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-011-line-018",
+        "order": 18,
+        "pinyin": "bù shàng bù xià",
+        "pinyin_source": "derived from per-character index",
+        "text": "不上不下"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-011-line-019",
+        "order": 19,
+        "pinyin": "dà rén xiān shēng",
+        "pinyin_source": "derived from per-character index",
+        "text": "大人先生"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-011-line-020",
+        "order": 20,
+        "pinyin": "hé suǒ bù zhì",
+        "pinyin_source": "derived from per-character index",
+        "text": "何所不至"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "pure and innocent like the heart of a newborn / sincere",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-011-line-021",
+        "order": 21,
+        "pinyin": "chì zǐ zhī xīn",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "赤子之心"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "unable to turn around a hopeless situation (idiom) / to fail to save the situation",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-011-line-022",
+        "order": 22,
+        "pinyin": "huí tiān wú lì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "回天无力"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-011-line-023",
+        "order": 23,
+        "pinyin": "yī dìng bù yì",
+        "pinyin_source": "derived from per-character index",
+        "text": "一定不易"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-011-line-024",
+        "order": 24,
+        "pinyin": "wú míng zhī pǔ",
+        "pinyin_source": "derived from per-character index",
+        "text": "无名之朴"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to do sth when least expected (idiom); to catch sb off guard",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-011-line-025",
+        "order": 25,
+        "pinyin": "chū qí bù yì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "出其不意"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-011-line-026",
+        "order": 26,
+        "pinyin": "wú yī bù zhī",
+        "pinyin_source": "derived from per-character index",
+        "text": "无一不知"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-011-line-027",
+        "order": 27,
+        "pinyin": "xiāng mén yǒu xiāng",
+        "pinyin_source": "derived from per-character index",
+        "text": "相门有相"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-011-line-028",
+        "order": 28,
+        "pinyin": "rén yī jǐ bǎi",
+        "pinyin_source": "derived from per-character index",
+        "text": "人一己百"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "absolutely still / fig. not the slightest change / also written 紋風不動|纹风不动",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-011-line-029",
+        "order": 29,
+        "pinyin": "wén fēng bù dòng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "文风不动"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-011-line-030",
+        "order": 30,
+        "pinyin": "dāng zhe bù zhe",
+        "pinyin_source": "derived from per-character index",
+        "text": "当着不着"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-011-line-031",
+        "order": 31,
+        "pinyin": "bù rú guī qù",
+        "pinyin_source": "derived from per-character index",
+        "text": "不如归去"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "unable to control oneself / to be beside oneself",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-011-line-032",
+        "order": 32,
+        "pinyin": "bù néng zì yǐ",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "不能自已"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-011-line-033",
+        "order": 33,
+        "pinyin": "dù wài zhī rén",
+        "pinyin_source": "derived from per-character index",
+        "text": "度外之人"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) moral standards are much lower now than in former times",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-011-line-034",
+        "order": 34,
+        "pinyin": "rén xīn bù gǔ",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "人心不古"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "more hands than needed (idiom); too many cooks spoil the broth",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-011-line-035",
+        "order": 35,
+        "pinyin": "rén fú yú shì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "人浮于事"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-011-line-036",
+        "order": 36,
+        "pinyin": "shēng shēng bù yǐ",
+        "pinyin_source": "derived from per-character index",
+        "text": "生生不已"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-011-line-037",
+        "order": 37,
+        "pinyin": "zài jiā chū jiā",
+        "pinyin_source": "derived from per-character index",
+        "text": "在家出家"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-011-line-038",
+        "order": 38,
+        "pinyin": "yǒu shēng wú qì",
+        "pinyin_source": "derived from per-character index",
+        "text": "有声无气"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "fixed / unalterable",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-011-line-039",
+        "order": 39,
+        "pinyin": "huà yī bù èr",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "划一不二"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. as clear as water (idiom) / fig. (of officials etc) honest and incorruptible",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-011-line-040",
+        "order": 40,
+        "pinyin": "yī qīng rú shuǐ",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "一清如水"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-011-line-041",
+        "order": 41,
+        "pinyin": "chí zhī yǒu gù",
+        "pinyin_source": "derived from per-character index",
+        "text": "持之有故"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-011-line-042",
+        "order": 42,
+        "pinyin": "hǎo mèng bù zhǎng",
+        "pinyin_source": "derived from per-character index",
+        "text": "好梦不长"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-011-line-043",
+        "order": 43,
+        "pinyin": "fēng liú rén wù",
+        "pinyin_source": "derived from per-character index",
+        "text": "风流人物"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-011-line-044",
+        "order": 44,
+        "pinyin": "chūn fēng fēng rén",
+        "pinyin_source": "derived from per-character index",
+        "text": "春风风人"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-011-line-045",
+        "order": 45,
+        "pinyin": "yī dé yī xīn",
+        "pinyin_source": "derived from per-character index",
+        "text": "一德一心"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-011-line-046",
+        "order": 46,
+        "pinyin": "rén yǐ qún fēn",
+        "pinyin_source": "derived from per-character index",
+        "text": "人以群分"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-011-line-047",
+        "order": 47,
+        "pinyin": "qǐ jū wú shí",
+        "pinyin_source": "derived from per-character index",
+        "text": "起居无时"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-011-line-048",
+        "order": 48,
+        "pinyin": "yī jiā yī jì",
+        "pinyin_source": "derived from per-character index",
+        "text": "一家一计"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-011-line-049",
+        "order": 49,
+        "pinyin": "chū yī tóu de",
+        "pinyin_source": "derived from per-character index",
+        "text": "出一头地"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "can be found everywhere",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-011-line-050",
+        "order": 50,
+        "pinyin": "bǐ bǐ jiē shì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "比比皆是"
+      }
+    ],
+    "summary": "无论如何",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "无论如何\n不知不觉\n有气无力\n天下无敌\n时不我待\n间不容发\n无德而称\n一面之雅\n自不量力\n言不及义\n正人君子\n难于上天\n无情无彩\n无动于中\n家无二主\n如日中天\n食而不化\n不上不下\n大人先生\n何所不至\n赤子之心\n回天无力\n一定不易\n无名之朴\n出其不意\n无一不知\n相门有相\n人一己百\n文风不动\n当着不着\n不如归去\n不能自已\n度外之人\n人心不古\n人浮于事\n生生不已\n在家出家\n有声无气\n划一不二\n一清如水\n持之有故\n好梦不长\n风流人物\n春风风人\n一德一心\n人以群分\n起居无时\n一家一计\n出一头地\n比比皆是",
+    "title": "常用拓展·高透明度 V"
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-011.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

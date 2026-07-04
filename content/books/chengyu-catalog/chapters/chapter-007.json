@@ -1,0 +1,687 @@
+{
+  "chapter": {
+    "character_count": 200,
+    "id": "chapter-007",
+    "order": 7,
+    "reading_unit_count": 50,
+    "reading_units": [
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "not having anything at all (idiom); utterly lacking / without two sticks to rub together",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-007-line-001",
+        "order": 1,
+        "pinyin": "yī wú suǒ yǒu",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "一无所有"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to have lost consciousness",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-007-line-002",
+        "order": 2,
+        "pinyin": "rén shì bù zhī",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "人事不知"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-007-line-003",
+        "order": 3,
+        "pinyin": "yǒu yī wú èr",
+        "pinyin_source": "derived from per-character index",
+        "text": "有一无二"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) obscure; dubious; shady",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-007-line-004",
+        "order": 4,
+        "pinyin": "bù míng bù bái",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "不明不白"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-007-line-005",
+        "order": 5,
+        "pinyin": "tiān de bù róng",
+        "pinyin_source": "derived from per-character index",
+        "text": "天地不容"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-007-line-006",
+        "order": 6,
+        "pinyin": "wú kě bù kě",
+        "pinyin_source": "derived from per-character index",
+        "text": "无可不可"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-007-line-007",
+        "order": 7,
+        "pinyin": "wú suǒ bù zuò",
+        "pinyin_source": "derived from per-character index",
+        "text": "无所不作"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "the matter depends on the individual (idiom); it is a matter for your own effort / With effort, one can achieve anything.",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-007-line-008",
+        "order": 8,
+        "pinyin": "shì zài rén wéi",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "事在人为"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) to have achieved nothing; to be a total failure; to get nowhere",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-007-line-009",
+        "order": 9,
+        "pinyin": "yī shì wú chéng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "一事无成"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-007-line-010",
+        "order": 10,
+        "pinyin": "yī dé zhī jiàn",
+        "pinyin_source": "derived from per-character index",
+        "text": "一得之见"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "by no means an isolated case / numerous",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-007-line-011",
+        "order": 11,
+        "pinyin": "bù yī ér zú",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "不一而足"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "no matter how big or small / not distinguishing junior and senior",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-007-line-012",
+        "order": 12,
+        "pinyin": "wú dà wú xiǎo",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "无大无小"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) it goes without saying; it is self-evident",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-007-line-013",
+        "order": 13,
+        "pinyin": "bù yán ér yù",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "不言而喻"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to be penniless",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-007-line-014",
+        "order": 14,
+        "pinyin": "yī wén bù míng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "一文不名"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) to consider oneself unexcelled in the world; to be insufferably arrogant",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-007-line-015",
+        "order": 15,
+        "pinyin": "bù kě yī shì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "不可一世"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(of a writing etc) to have no substance (idiom) / to carry no weight",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-007-line-016",
+        "order": 16,
+        "pinyin": "yán zhī wú wù",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "言之无物"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-007-line-017",
+        "order": 17,
+        "pinyin": "zhōu ér bù bǐ",
+        "pinyin_source": "derived from per-character index",
+        "text": "周而不比"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) ashamed and unable to show one's face",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-007-line-018",
+        "order": 18,
+        "pinyin": "wú dì zì róng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "无地自容"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-007-line-019",
+        "order": 19,
+        "pinyin": "wú è bù wèi",
+        "pinyin_source": "derived from per-character index",
+        "text": "无恶不为"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to create something from nothing (idiom)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-007-line-020",
+        "order": 20,
+        "pinyin": "wú zhōng shēng yǒu",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "无中生有"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-007-line-021",
+        "order": 21,
+        "pinyin": "wú tiān wú rì",
+        "pinyin_source": "derived from per-character index",
+        "text": "无天无日"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to settle a matter by leaving it unsettled / to end up with nothing definite",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-007-line-022",
+        "order": 22,
+        "pinyin": "bù liǎo liǎo zhī",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "不了了之"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-007-line-023",
+        "order": 23,
+        "pinyin": "yī yán zhōng de",
+        "pinyin_source": "derived from per-character index",
+        "text": "一言中的"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-007-line-024",
+        "order": 24,
+        "pinyin": "bù dāng rén zi",
+        "pinyin_source": "derived from per-character index",
+        "text": "不当人子"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. seek but fail to get (idiom); fig. exactly what one’s been looking for",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-007-line-025",
+        "order": 25,
+        "pinyin": "qiú zhī bù dé",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "求之不得"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-007-line-026",
+        "order": 26,
+        "pinyin": "yī wù bù zhī",
+        "pinyin_source": "derived from per-character index",
+        "text": "一物不知"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-007-line-027",
+        "order": 27,
+        "pinyin": "bù dāng bù zhèng",
+        "pinyin_source": "derived from per-character index",
+        "text": "不当不正"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-007-line-028",
+        "order": 28,
+        "pinyin": "wú suǒ bù tōng",
+        "pinyin_source": "derived from per-character index",
+        "text": "无所不通"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) to not know the reason / (idiom) to not know what to do",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-007-line-029",
+        "order": 29,
+        "pinyin": "bù zhī suǒ yǐ",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "不知所以"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "not essential / dispensable",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-007-line-030",
+        "order": 30,
+        "pinyin": "kě yǒu kě wú",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "可有可无"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to reach everywhere / to stop at nothing / to do one's utmost",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-007-line-031",
+        "order": 31,
+        "pinyin": "wú suǒ bù zhì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "无所不至"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-007-line-032",
+        "order": 32,
+        "pinyin": "wú wèi zhī zhì",
+        "pinyin_source": "derived from per-character index",
+        "text": "无为之治"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-007-line-033",
+        "order": 33,
+        "pinyin": "bǎi wú yī shì",
+        "pinyin_source": "derived from per-character index",
+        "text": "百无一是"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "not to mind / unconcerned",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-007-line-034",
+        "order": 34,
+        "pinyin": "bù yǐ wéi yì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "不以为意"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-007-line-035",
+        "order": 35,
+        "pinyin": "tiān lǐ bù róng",
+        "pinyin_source": "derived from per-character index",
+        "text": "天理不容"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-007-line-036",
+        "order": 36,
+        "pinyin": "tiān bù jué rén",
+        "pinyin_source": "derived from per-character index",
+        "text": "天不绝人"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-007-line-037",
+        "order": 37,
+        "pinyin": "bù shí zhī wú",
+        "pinyin_source": "derived from per-character index",
+        "text": "不识之无"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-007-line-038",
+        "order": 38,
+        "pinyin": "wú wèi zì chéng",
+        "pinyin_source": "derived from per-character index",
+        "text": "无为自成"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "attempting nothing and accomplishing nothing (idiom); without any initiative or drive / feckless",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-007-line-039",
+        "order": 39,
+        "pinyin": "wú suǒ zuò wéi",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "无所作为"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "hard to come by / rare",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-007-line-040",
+        "order": 40,
+        "pinyin": "bù kě duō dé",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "不可多得"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "not to accept as correct (idiom); to object / to disapprove / to take exception to",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-007-line-041",
+        "order": 41,
+        "pinyin": "bù yǐ wéi rán",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "不以为然"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-007-line-042",
+        "order": 42,
+        "pinyin": "fāng wài zhī rén",
+        "pinyin_source": "derived from per-character index",
+        "text": "方外之人"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-007-line-043",
+        "order": 43,
+        "pinyin": "bù shì zhī gōng",
+        "pinyin_source": "derived from per-character index",
+        "text": "不世之功"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "without a penny to one's name / penniless / stony-broke",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-007-line-044",
+        "order": 44,
+        "pinyin": "bù míng yī wén",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "不名一文"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-007-line-045",
+        "order": 45,
+        "pinyin": "bù zhí yī wén",
+        "pinyin_source": "derived from per-character index",
+        "text": "不直一文"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-007-line-046",
+        "order": 46,
+        "pinyin": "yī wú zhǎng wù",
+        "pinyin_source": "derived from per-character index",
+        "text": "一无长物"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) impervious to reason; unreasonable",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-007-line-047",
+        "order": 47,
+        "pinyin": "bù kě lǐ yù",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "不可理喻"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) self-knowledge",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-007-line-048",
+        "order": 48,
+        "pinyin": "zì zhī zhī míng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "自知之明"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) barren land; desert",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-007-line-049",
+        "order": 49,
+        "pinyin": "bù máo zhī dì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "不毛之地"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "not paying attention to anything (idiom); to idle time away",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-007-line-050",
+        "order": 50,
+        "pinyin": "wú suǒ yòng xīn",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "无所用心"
+      }
+    ],
+    "summary": "一无所有",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "一无所有\n人事不知\n有一无二\n不明不白\n天地不容\n无可不可\n无所不作\n事在人为\n一事无成\n一得之见\n不一而足\n无大无小\n不言而喻\n一文不名\n不可一世\n言之无物\n周而不比\n无地自容\n无恶不为\n无中生有\n无天无日\n不了了之\n一言中的\n不当人子\n求之不得\n一物不知\n不当不正\n无所不通\n不知所以\n可有可无\n无所不至\n无为之治\n百无一是\n不以为意\n天理不容\n天不绝人\n不识之无\n无为自成\n无所作为\n不可多得\n不以为然\n方外之人\n不世之功\n不名一文\n不直一文\n一无长物\n不可理喻\n自知之明\n不毛之地\n无所用心",
+    "title": "常用拓展·高透明度 I"
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-007.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

@@ -1,0 +1,615 @@
+{
+  "chapter": {
+    "character_count": 200,
+    "id": "chapter-020",
+    "order": 20,
+    "reading_unit_count": 50,
+    "reading_units": [
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-020-line-001",
+        "order": 1,
+        "pinyin": "qīng shān yī fā",
+        "pinyin_source": "derived from per-character index",
+        "text": "青山一发"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "a match made in heaven (idiom)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-020-line-002",
+        "order": 2,
+        "pinyin": "tiān zuò zhī hé",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "天作之合"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-020-line-003",
+        "order": 3,
+        "pinyin": "shēn wú zhǎng chù",
+        "pinyin_source": "derived from per-character index",
+        "text": "身无长处"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-020-line-004",
+        "order": 4,
+        "pinyin": "dà dé rén xīn",
+        "pinyin_source": "derived from per-character index",
+        "text": "大得人心"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-020-line-005",
+        "order": 5,
+        "pinyin": "xīn kāi mù míng",
+        "pinyin_source": "derived from per-character index",
+        "text": "心开目明"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "the year's horoscope augurs ill (idiom); an unlucky year",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-020-line-006",
+        "order": 6,
+        "pinyin": "liú nián bù lì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "流年不利"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-020-line-007",
+        "order": 7,
+        "pinyin": "fēi fēn zhī cái",
+        "pinyin_source": "derived from per-character index",
+        "text": "非分之财"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "mere worldly possessions",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-020-line-008",
+        "order": 8,
+        "pinyin": "shēn wài zhī wù",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "身外之物"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-020-line-009",
+        "order": 9,
+        "pinyin": "rén qíng shì tài",
+        "pinyin_source": "derived from per-character index",
+        "text": "人情世态"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "looks impressive but is worthless (idiom) / not as good as it looks / a reputation with no substance",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-020-line-010",
+        "order": 10,
+        "pinyin": "xū yǒu qí biǎo",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "虚有其表"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-020-line-011",
+        "order": 11,
+        "pinyin": "wàn sǐ yī shēng",
+        "pinyin_source": "derived from per-character index",
+        "text": "万死一生"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-020-line-012",
+        "order": 12,
+        "pinyin": "yì de ér chù",
+        "pinyin_source": "derived from per-character index",
+        "text": "易地而处"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-020-line-013",
+        "order": 13,
+        "pinyin": "bù chén zhī xīn",
+        "pinyin_source": "derived from per-character index",
+        "text": "不臣之心"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-020-line-014",
+        "order": 14,
+        "pinyin": "yǒu kǒu nán fēn",
+        "pinyin_source": "derived from per-character index",
+        "text": "有口难分"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-020-line-015",
+        "order": 15,
+        "pinyin": "yǐ máo xiāng mǎ",
+        "pinyin_source": "derived from per-character index",
+        "text": "以毛相马"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-020-line-016",
+        "order": 16,
+        "pinyin": "tóng shēng tóng qì",
+        "pinyin_source": "derived from per-character index",
+        "text": "同声同气"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) over the years; year after year",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-020-line-017",
+        "order": 17,
+        "pinyin": "nián fù yī nián",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "年复一年"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-020-line-018",
+        "order": 18,
+        "pinyin": "dú yì yú rén",
+        "pinyin_source": "derived from per-character index",
+        "text": "独异于人"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. to go up to heaven or down to Hades (idiom) / fig. to go to great lengths / to search heaven and earth",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-020-line-019",
+        "order": 19,
+        "pinyin": "shàng tiān rù dì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "上天入地"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to be touched by a scene / to adapt to the situation",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-020-line-020",
+        "order": 20,
+        "pinyin": "jiàn jǐng shēng qíng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "见景生情"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-020-line-021",
+        "order": 21,
+        "pinyin": "zhī jǐ zhī yù",
+        "pinyin_source": "derived from per-character index",
+        "text": "知己之遇"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-020-line-022",
+        "order": 22,
+        "pinyin": "rén de shēng shū",
+        "pinyin_source": "derived from per-character index",
+        "text": "人地生疏"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to leave without saying good-bye",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-020-line-023",
+        "order": 23,
+        "pinyin": "bù cí ér bié",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "不辞而别"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-020-line-024",
+        "order": 24,
+        "pinyin": "xiāng fǎn xiāng chéng",
+        "pinyin_source": "derived from per-character index",
+        "text": "相反相成"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-020-line-025",
+        "order": 25,
+        "pinyin": "sī bù chū wèi",
+        "pinyin_source": "derived from per-character index",
+        "text": "思不出位"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-020-line-026",
+        "order": 26,
+        "pinyin": "ěr shí zhī lùn",
+        "pinyin_source": "derived from per-character index",
+        "text": "耳食之论"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to seize the opportune moment / to lose no time",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-020-line-027",
+        "order": 27,
+        "pinyin": "bù shī shí jī",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "不失时机"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "nine deaths and still alive (idiom); a narrow escape / new lease of life",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-020-line-028",
+        "order": 28,
+        "pinyin": "jiǔ sǐ yī shēng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "九死一生"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to share pleasure in the company of others (idiom); shared enjoyment with fellow enthusiasts",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-020-line-029",
+        "order": 29,
+        "pinyin": "gōng zhū tóng hào",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "公诸同好"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-020-line-030",
+        "order": 30,
+        "pinyin": "wǔ gǔ bù fēn",
+        "pinyin_source": "derived from per-character index",
+        "text": "五谷不分"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "unable to contain one's joy (idiom)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-020-line-031",
+        "order": 31,
+        "pinyin": "xǐ bù zì shèng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "喜不自胜"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-020-line-032",
+        "order": 32,
+        "pinyin": "chū yú wú nài",
+        "pinyin_source": "derived from per-character index",
+        "text": "出于无奈"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-020-line-033",
+        "order": 33,
+        "pinyin": "chūn huí dà de",
+        "pinyin_source": "derived from per-character index",
+        "text": "春回大地"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-020-line-034",
+        "order": 34,
+        "pinyin": "dà de chūn huí",
+        "pinyin_source": "derived from per-character index",
+        "text": "大地春回"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-020-line-035",
+        "order": 35,
+        "pinyin": "dà de huí chūn",
+        "pinyin_source": "derived from per-character index",
+        "text": "大地回春"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-020-line-036",
+        "order": 36,
+        "pinyin": "dà jié bù duó",
+        "pinyin_source": "derived from per-character index",
+        "text": "大节不夺"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) (of a principle, purpose etc) consistently upheld; adhered to from beginning to end",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-020-line-037",
+        "order": 37,
+        "pinyin": "yī yǐ guàn zhī",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "一以贯之"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "proficiency in a particular field (idiom) / skill in a specialized area (idiom)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-020-line-038",
+        "order": 38,
+        "pinyin": "yī jì zhī cháng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "一技之长"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) changeable; fickle",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-020-line-039",
+        "order": 39,
+        "pinyin": "biàn huà wú cháng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "变化无常"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-020-line-040",
+        "order": 40,
+        "pinyin": "dī huí bù yǐ",
+        "pinyin_source": "derived from per-character index",
+        "text": "低回不已"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) it's been a worthwhile trip",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-020-line-041",
+        "order": 41,
+        "pinyin": "bù xū cǐ xíng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "不虚此行"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-020-line-042",
+        "order": 42,
+        "pinyin": "wèi qī bù yuǎn",
+        "pinyin_source": "derived from per-character index",
+        "text": "为期不远"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-020-line-043",
+        "order": 43,
+        "pinyin": "tiān bù jiǎ nián",
+        "pinyin_source": "derived from per-character index",
+        "text": "天不假年"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-020-line-044",
+        "order": 44,
+        "pinyin": "zhòng rén guó shì",
+        "pinyin_source": "derived from per-character index",
+        "text": "众人国士"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to emerge and perish on its own; to run its course (idiom)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-020-line-045",
+        "order": 45,
+        "pinyin": "zì shēng zì miè",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "自生自灭"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-020-line-046",
+        "order": 46,
+        "pinyin": "bù yí bù huì",
+        "pinyin_source": "derived from per-character index",
+        "text": "不夷不惠"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-020-line-047",
+        "order": 47,
+        "pinyin": "dá rén zhī mìng",
+        "pinyin_source": "derived from per-character index",
+        "text": "达人知命"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "deeply felt but not mawkish (idiom)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-020-line-048",
+        "order": 48,
+        "pinyin": "āi ér bù shāng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "哀而不伤"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-020-line-049",
+        "order": 49,
+        "pinyin": "yǒu lái wú huí",
+        "pinyin_source": "derived from per-character index",
+        "text": "有来无回"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-020-line-050",
+        "order": 50,
+        "pinyin": "zhàn wú bù kè",
+        "pinyin_source": "derived from per-character index",
+        "text": "战无不克"
+      }
+    ],
+    "summary": "青山一发",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "青山一发\n天作之合\n身无长处\n大得人心\n心开目明\n流年不利\n非分之财\n身外之物\n人情世态\n虚有其表\n万死一生\n易地而处\n不臣之心\n有口难分\n以毛相马\n同声同气\n年复一年\n独异于人\n上天入地\n见景生情\n知己之遇\n人地生疏\n不辞而别\n相反相成\n思不出位\n耳食之论\n不失时机\n九死一生\n公诸同好\n五谷不分\n喜不自胜\n出于无奈\n春回大地\n大地春回\n大地回春\n大节不夺\n一以贯之\n一技之长\n变化无常\n低回不已\n不虚此行\n为期不远\n天不假年\n众人国士\n自生自灭\n不夷不惠\n达人知命\n哀而不伤\n有来无回\n战无不克",
+    "title": "文言进阶·较高难度 II"
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-020.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

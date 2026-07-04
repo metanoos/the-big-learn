@@ -1,0 +1,575 @@
+{
+  "chapter": {
+    "character_count": 200,
+    "id": "chapter-017",
+    "order": 17,
+    "reading_unit_count": 50,
+    "reading_units": [
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to use sth to the full / to make the best use of everything",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-017-line-001",
+        "order": 1,
+        "pinyin": "wù jìn qí yòng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "物尽其用"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-017-line-002",
+        "order": 2,
+        "pinyin": "yī bài rú shuǐ",
+        "pinyin_source": "derived from per-character index",
+        "text": "一败如水"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-017-line-003",
+        "order": 3,
+        "pinyin": "gù ér yán tā",
+        "pinyin_source": "derived from per-character index",
+        "text": "顾而言他"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-017-line-004",
+        "order": 4,
+        "pinyin": "shí wèi mín tiān",
+        "pinyin_source": "derived from per-character index",
+        "text": "食为民天"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "intentionally or otherwise",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-017-line-005",
+        "order": 5,
+        "pinyin": "yǒu yì wú yì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "有意无意"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-017-line-006",
+        "order": 6,
+        "pinyin": "gāo xià rèn xīn",
+        "pinyin_source": "derived from per-character index",
+        "text": "高下任心"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-017-line-007",
+        "order": 7,
+        "pinyin": "qióng rì zhī lì",
+        "pinyin_source": "derived from per-character index",
+        "text": "穷日之力"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) (humble expression) my presumptuous request",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-017-line-008",
+        "order": 8,
+        "pinyin": "bù qíng zhī qǐng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "不情之请"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-017-line-009",
+        "order": 9,
+        "pinyin": "wú xíng zhī zuì",
+        "pinyin_source": "derived from per-character index",
+        "text": "无形之罪"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-017-line-010",
+        "order": 10,
+        "pinyin": "yī zì yī zhū",
+        "pinyin_source": "derived from per-character index",
+        "text": "一字一珠"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-017-line-011",
+        "order": 11,
+        "pinyin": "hòu shǒu bù jiē",
+        "pinyin_source": "derived from per-character index",
+        "text": "后手不接"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-017-line-012",
+        "order": 12,
+        "pinyin": "pò jiā wèi guó",
+        "pinyin_source": "derived from per-character index",
+        "text": "破家为国"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-017-line-013",
+        "order": 13,
+        "pinyin": "xué wú cháng shī",
+        "pinyin_source": "derived from per-character index",
+        "text": "学无常师"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-017-line-014",
+        "order": 14,
+        "pinyin": "tóng rì ér dào",
+        "pinyin_source": "derived from per-character index",
+        "text": "同日而道"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) in a flash; instantly",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-017-line-015",
+        "order": 15,
+        "pinyin": "tán zhǐ zhī jiān",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "弹指之间"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "cloudless",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-017-line-016",
+        "order": 16,
+        "pinyin": "wàn lǐ wú yún",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "万里无云"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-017-line-017",
+        "order": 17,
+        "pinyin": "qí xīn tóng lì",
+        "pinyin_source": "derived from per-character index",
+        "text": "齐心同力"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-017-line-018",
+        "order": 18,
+        "pinyin": "zhèng lìng bù yī",
+        "pinyin_source": "derived from per-character index",
+        "text": "政令不一"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) to pay scant regard to (sth) / (idiom) unheeding; reckless",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-017-line-019",
+        "order": 19,
+        "pinyin": "bù guǎn bù gù",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "不管不顾"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to say one and mean just that (idiom); to keep one's word",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-017-line-020",
+        "order": 20,
+        "pinyin": "shuō yī bù èr",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "说一不二"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to grow and multiply without end",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-017-line-021",
+        "order": 21,
+        "pinyin": "shēng shēng bù xī",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "生生不息"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "Time and tide wait for no man (idiom)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-017-line-022",
+        "order": 22,
+        "pinyin": "suì bù wǒ yǔ",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "岁不我与"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-017-line-023",
+        "order": 23,
+        "pinyin": "xiāng qù wú jǐ",
+        "pinyin_source": "derived from per-character index",
+        "text": "相去无几"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-017-line-024",
+        "order": 24,
+        "pinyin": "wú jiā kě bēn",
+        "pinyin_source": "derived from per-character index",
+        "text": "无家可奔"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-017-line-025",
+        "order": 25,
+        "pinyin": "dōng fēng rén miàn",
+        "pinyin_source": "derived from per-character index",
+        "text": "东风人面"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-017-line-026",
+        "order": 26,
+        "pinyin": "niú zhī yī máo",
+        "pinyin_source": "derived from per-character index",
+        "text": "牛之一毛"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-017-line-027",
+        "order": 27,
+        "pinyin": "fēn wén bù zhí",
+        "pinyin_source": "derived from per-character index",
+        "text": "分文不直"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-017-line-028",
+        "order": 28,
+        "pinyin": "yī bì zhī lì",
+        "pinyin_source": "derived from per-character index",
+        "text": "一臂之力"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-017-line-029",
+        "order": 29,
+        "pinyin": "ān zhī ruò mìng",
+        "pinyin_source": "derived from per-character index",
+        "text": "安之若命"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-017-line-030",
+        "order": 30,
+        "pinyin": "bù fēn yù shí",
+        "pinyin_source": "derived from per-character index",
+        "text": "不分玉石"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to suffer from a congenital deficiency; to have an inherent weakness",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-017-line-031",
+        "order": 31,
+        "pinyin": "xiān tiān bù zú",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "先天不足"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-017-line-032",
+        "order": 32,
+        "pinyin": "xué fēi suǒ yòng",
+        "pinyin_source": "derived from per-character index",
+        "text": "学非所用"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-017-line-033",
+        "order": 33,
+        "pinyin": "rì yuè wú guāng",
+        "pinyin_source": "derived from per-character index",
+        "text": "日月无光"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-017-line-034",
+        "order": 34,
+        "pinyin": "xíng yú zhī rén",
+        "pinyin_source": "derived from per-character index",
+        "text": "刑余之人"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) inconceivable; unimaginable; unfathomable",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-017-line-035",
+        "order": 35,
+        "pinyin": "bù kě sī yì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "不可思议"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-017-line-036",
+        "order": 36,
+        "pinyin": "bù cì zhī wèi",
+        "pinyin_source": "derived from per-character index",
+        "text": "不次之位"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-017-line-037",
+        "order": 37,
+        "pinyin": "fàn fàn zhī rén",
+        "pinyin_source": "derived from per-character index",
+        "text": "泛泛之人"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-017-line-038",
+        "order": 38,
+        "pinyin": "yī shēn liǎng tóu",
+        "pinyin_source": "derived from per-character index",
+        "text": "一身两头"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-017-line-039",
+        "order": 39,
+        "pinyin": "yī jiàn zhī de",
+        "pinyin_source": "derived from per-character index",
+        "text": "一箭之地"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-017-line-040",
+        "order": 40,
+        "pinyin": "yī zhī yī jié",
+        "pinyin_source": "derived from per-character index",
+        "text": "一枝一节"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-017-line-041",
+        "order": 41,
+        "pinyin": "xiǎo wǎng dà lái",
+        "pinyin_source": "derived from per-character index",
+        "text": "小往大来"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-017-line-042",
+        "order": 42,
+        "pinyin": "tiān rén zhī jì",
+        "pinyin_source": "derived from per-character index",
+        "text": "天人之际"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-017-line-043",
+        "order": 43,
+        "pinyin": "tiān gāo tīng xià",
+        "pinyin_source": "derived from per-character index",
+        "text": "天高听下"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "out of step with current thinking / outmoded / inappropriate for the occasion",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-017-line-044",
+        "order": 44,
+        "pinyin": "bù hé shí yí",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "不合时宜"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-017-line-045",
+        "order": 45,
+        "pinyin": "yī tiān yī de",
+        "pinyin_source": "derived from per-character index",
+        "text": "一天一地"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-017-line-046",
+        "order": 46,
+        "pinyin": "qíng bù zì yǐ",
+        "pinyin_source": "derived from per-character index",
+        "text": "情不自已"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "irreproachable (idiom) / nothing blameworthy about it at all",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-017-line-047",
+        "order": 47,
+        "pinyin": "wú kě fēi yì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "无可非议"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-017-line-048",
+        "order": 48,
+        "pinyin": "wú gēn ér gù",
+        "pinyin_source": "derived from per-character index",
+        "text": "无根而固"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-017-line-049",
+        "order": 49,
+        "pinyin": "yī zì bù gǒu",
+        "pinyin_source": "derived from per-character index",
+        "text": "一字不苟"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-017-line-050",
+        "order": 50,
+        "pinyin": "guī zhī ruò shuǐ",
+        "pinyin_source": "derived from per-character index",
+        "text": "归之若水"
+      }
+    ],
+    "summary": "物尽其用",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "物尽其用\n一败如水\n顾而言他\n食为民天\n有意无意\n高下任心\n穷日之力\n不情之请\n无形之罪\n一字一珠\n后手不接\n破家为国\n学无常师\n同日而道\n弹指之间\n万里无云\n齐心同力\n政令不一\n不管不顾\n说一不二\n生生不息\n岁不我与\n相去无几\n无家可奔\n东风人面\n牛之一毛\n分文不直\n一臂之力\n安之若命\n不分玉石\n先天不足\n学非所用\n日月无光\n刑余之人\n不可思议\n不次之位\n泛泛之人\n一身两头\n一箭之地\n一枝一节\n小往大来\n天人之际\n天高听下\n不合时宜\n一天一地\n情不自已\n无可非议\n无根而固\n一字不苟\n归之若水",
+    "title": "典故进阶·中透明度 I"
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-017.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

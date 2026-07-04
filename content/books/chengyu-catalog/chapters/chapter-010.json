@@ -1,0 +1,623 @@
+{
+  "chapter": {
+    "character_count": 200,
+    "id": "chapter-010",
+    "order": 10,
+    "reading_unit_count": 50,
+    "reading_units": [
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "enchanting scenery / beautiful surroundings / world of its own",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-010-line-001",
+        "order": 1,
+        "pinyin": "bié yǒu tiān dì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "别有天地"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to have nothing to do / to idle one's time away (idiom)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-010-line-002",
+        "order": 2,
+        "pinyin": "wú suǒ shì shì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "无所事事"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "going from there to lower grades (idiom)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-010-line-003",
+        "order": 3,
+        "pinyin": "děng ér xià zhī",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "等而下之"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-010-line-004",
+        "order": 4,
+        "pinyin": "yī xiāng qíng yuán",
+        "pinyin_source": "derived from per-character index",
+        "text": "一相情原"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to feel embarrassed / to find it embarrassing / to be sorry (for inconveniencing sb)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-010-line-005",
+        "order": 5,
+        "pinyin": "bù hǎo yì si",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "不好意思"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-010-line-006",
+        "order": 6,
+        "pinyin": "yǒu běn yǒu yuán",
+        "pinyin_source": "derived from per-character index",
+        "text": "有本有原"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) as if nothing had happened; calm and composed; nonchalant",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-010-line-007",
+        "order": 7,
+        "pinyin": "ruò wú qí shì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "若无其事"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "ample scope for abilities / favorable position for the use of one's skills (idiom)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-010-line-008",
+        "order": 8,
+        "pinyin": "yòng wǔ zhī dì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "用武之地"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-010-line-009",
+        "order": 9,
+        "pinyin": "bù dé bù ěr",
+        "pinyin_source": "derived from per-character index",
+        "text": "不得不尔"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-010-line-010",
+        "order": 10,
+        "pinyin": "bù sǐ bù huó",
+        "pinyin_source": "derived from per-character index",
+        "text": "不死不活"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-010-line-011",
+        "order": 11,
+        "pinyin": "lùn shì zhī rén",
+        "pinyin_source": "derived from per-character index",
+        "text": "论世知人"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-010-line-012",
+        "order": 12,
+        "pinyin": "zhī rén lùn shì",
+        "pinyin_source": "derived from per-character index",
+        "text": "知人论世"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to make known to the masses (idiom); to publicize widely / to let the world know",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-010-line-013",
+        "order": 13,
+        "pinyin": "gōng zhī yú zhòng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "公之于众"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-010-line-014",
+        "order": 14,
+        "pinyin": "rén bù liáo shēng",
+        "pinyin_source": "derived from per-character index",
+        "text": "人不聊生"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-010-line-015",
+        "order": 15,
+        "pinyin": "bù gǎn hòu rén",
+        "pinyin_source": "derived from per-character index",
+        "text": "不敢后人"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-010-line-016",
+        "order": 16,
+        "pinyin": "yī wú suǒ qǔ",
+        "pinyin_source": "derived from per-character index",
+        "text": "一无所取"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-010-line-017",
+        "order": 17,
+        "pinyin": "hǎo shēng zhī dé",
+        "pinyin_source": "derived from per-character index",
+        "text": "好生之德"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-010-line-018",
+        "order": 18,
+        "pinyin": "dé rén sǐ lì",
+        "pinyin_source": "derived from per-character index",
+        "text": "得人死力"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-010-line-019",
+        "order": 19,
+        "pinyin": "wú wǎng bù fù",
+        "pinyin_source": "derived from per-character index",
+        "text": "无往不复"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "not to hear, not to question (idiom) / to show no interest in sth / uncritical / not in the least concerned",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-010-line-020",
+        "order": 20,
+        "pinyin": "bù wén bù wèn",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "不闻不问"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-010-line-021",
+        "order": 21,
+        "pinyin": "bù wèn bù wén",
+        "pinyin_source": "derived from per-character index",
+        "text": "不问不闻"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "Time that has passed will never come back. (idiom)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-010-line-022",
+        "order": 22,
+        "pinyin": "shí bù zài lái",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "时不再来"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "favorable geographical and social conditions (idiom); good location and the people satisfied",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-010-line-023",
+        "order": 23,
+        "pinyin": "dì lì rén hé",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "地利人和"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) natural; unforced / (idiom) naturally; as a matter of course; in the natural course of things",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-010-line-024",
+        "order": 24,
+        "pinyin": "zì rán ér rán",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "自然而然"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-010-line-025",
+        "order": 25,
+        "pinyin": "dòng bù shī shí",
+        "pinyin_source": "derived from per-character index",
+        "text": "动不失时"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-010-line-026",
+        "order": 26,
+        "pinyin": "shí zhǐ lián xīn",
+        "pinyin_source": "derived from per-character index",
+        "text": "十指连心"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-010-line-027",
+        "order": 27,
+        "pinyin": "sì fāng zhī zhì",
+        "pinyin_source": "derived from per-character index",
+        "text": "四方之志"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-010-line-028",
+        "order": 28,
+        "pinyin": "jīng guó zhī cái",
+        "pinyin_source": "derived from per-character index",
+        "text": "经国之才"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-010-line-029",
+        "order": 29,
+        "pinyin": "bù jiào zhī jiào",
+        "pinyin_source": "derived from per-character index",
+        "text": "不教之教"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-010-line-030",
+        "order": 30,
+        "pinyin": "èr xīn sān yì",
+        "pinyin_source": "derived from per-character index",
+        "text": "二心三意"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "in two minds about sth (idiom) / half-hearted / shilly-shallying",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-010-line-031",
+        "order": 31,
+        "pinyin": "sān xīn èr yì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "三心二意"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) to be popular for a while; to be all the rage for a time",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-010-line-032",
+        "order": 32,
+        "pinyin": "fēng xíng yī shí",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "风行一时"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-010-line-033",
+        "order": 33,
+        "pinyin": "yī wén rú mìng",
+        "pinyin_source": "derived from per-character index",
+        "text": "一文如命"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "think three times then go (idiom); don't act before you've thought it through carefully",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-010-line-034",
+        "order": 34,
+        "pinyin": "sān sī ér xíng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "三思而行"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "a match for ten thousand enemies",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-010-line-035",
+        "order": 35,
+        "pinyin": "wàn rén zhī dí",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "万人之敌"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-010-line-036",
+        "order": 36,
+        "pinyin": "guó jiāng bù guó",
+        "pinyin_source": "derived from per-character index",
+        "text": "国将不国"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) not excluding anything; all-encompassing",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-010-line-037",
+        "order": 37,
+        "pinyin": "wú suǒ bù bāo",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "无所不包"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to lose consciousness / unconscious / in a coma",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-010-line-038",
+        "order": 38,
+        "pinyin": "bù xǐng rén shì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "不省人事"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) to live together in harmony",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-010-line-039",
+        "order": 39,
+        "pinyin": "xiāng ān wú shì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "相安无事"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-010-line-040",
+        "order": 40,
+        "pinyin": "yī jiā zhī cí",
+        "pinyin_source": "derived from per-character index",
+        "text": "一家之辞"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "without learning or skills (idiom); ignorant and incompetent",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-010-line-041",
+        "order": 41,
+        "pinyin": "bù xué wú shù",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "不学无术"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-010-line-042",
+        "order": 42,
+        "pinyin": "yī shì bù zhī",
+        "pinyin_source": "derived from per-character index",
+        "text": "一事不知"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-010-line-043",
+        "order": 43,
+        "pinyin": "bù jiān bù jiè",
+        "pinyin_source": "derived from per-character index",
+        "text": "不间不界"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-010-line-044",
+        "order": 44,
+        "pinyin": "fēn nèi zhī shì",
+        "pinyin_source": "derived from per-character index",
+        "text": "分内之事"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-010-line-045",
+        "order": 45,
+        "pinyin": "cún ér bù lùn",
+        "pinyin_source": "derived from per-character index",
+        "text": "存而不论"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-010-line-046",
+        "order": 46,
+        "pinyin": "xiǎo shí le le",
+        "pinyin_source": "derived from per-character index",
+        "text": "小时了了"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-010-line-047",
+        "order": 47,
+        "pinyin": "huí tiān zhī lì",
+        "pinyin_source": "derived from per-character index",
+        "text": "回天之力"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-010-line-048",
+        "order": 48,
+        "pinyin": "rén bǎi qí shēn",
+        "pinyin_source": "derived from per-character index",
+        "text": "人百其身"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-010-line-049",
+        "order": 49,
+        "pinyin": "bǎi bù shī yī",
+        "pinyin_source": "derived from per-character index",
+        "text": "百不失一"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-010-line-050",
+        "order": 50,
+        "pinyin": "shēng ér zhī zhī",
+        "pinyin_source": "derived from per-character index",
+        "text": "生而知之"
+      }
+    ],
+    "summary": "别有天地",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "别有天地\n无所事事\n等而下之\n一相情原\n不好意思\n有本有原\n若无其事\n用武之地\n不得不尔\n不死不活\n论世知人\n知人论世\n公之于众\n人不聊生\n不敢后人\n一无所取\n好生之德\n得人死力\n无往不复\n不闻不问\n不问不闻\n时不再来\n地利人和\n自然而然\n动不失时\n十指连心\n四方之志\n经国之才\n不教之教\n二心三意\n三心二意\n风行一时\n一文如命\n三思而行\n万人之敌\n国将不国\n无所不包\n不省人事\n相安无事\n一家之辞\n不学无术\n一事不知\n不间不界\n分内之事\n存而不论\n小时了了\n回天之力\n人百其身\n百不失一\n生而知之",
+    "title": "常用拓展·高透明度 IV"
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-010.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

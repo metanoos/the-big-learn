@@ -1,0 +1,606 @@
+{
+  "chapter": {
+    "character_count": 3339,
+    "id": "chapter-006",
+    "order": 6,
+    "reading_unit_count": 45,
+    "reading_units": [
+      {
+        "character_count": 79,
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Thereupon Sun with two trusty friends went over to the camp of Yüan Shu. Tracing figures on the ground with his staff Sun Chien said, “Tung Cho and I had no personal quarrel. Yet now I have thrown myself into the battle regardless of consequences, exposed my person to the risk of wounds and fought bloody battles to their bitter end. And why? That I might be the means of ridding my country of a rebel and—for the private advantage of your family. Yet you, heeding the slanderous tongues of certain enemies, formerly withheld the supplies absolutely necessary to me, and so I suffered defeat. How can you explain, General?”"
+          }
+        },
+        "id": "chapter-006-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "卻說張飛拍馬趕到關下，關上矢石如雨，不得進而回。八路諸侯，同請玄德、關、張賀功，使人去袁紹寨中報捷。紹遂移檄孫堅，令其進兵。堅引程普，黃蓋，至袁術寨中相見。堅以杖畫地曰：「董卓與我，本無讎隙。"
+      },
+      {
+        "character_count": 82,
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Yüan Shu, confused and frightened, had no word to reply. He ordered the death of the slanderers to placate Sun. Then suddenly they told Sun, “Some officer has come riding down from the Pass to see you, General; he is in the camp.” Sun Chien therefore took his leave and returned to his own camp where he found the visitor was an officer, much beloved of Tung Cho, named Li Ts‘ui. “Wherefore come you?” said Chien. He replied, “You are the one person for whom my master has respect and admiration, and he sends me to arrange a matrimonial alliance between the two families. He wishes that his daughter may become the wife of your son.”"
+          }
+        },
+        "id": "chapter-006-line-002",
+        "order": 2,
+        "source_block_chunk": 2,
+        "source_block_order": 1,
+        "text": "今我奮不顧身，親冒矢石，來決死戰者：上為國家討賊，下為將軍家門之私；而將軍卻聽讒言，不發糧草，致堅敗績，將軍何安！」術惶恐無言，命斬進讒之人，以謝孫堅。忽人報堅曰:「關上有一將，乘馬來寨中，要見將軍。"
+      },
+      {
+        "character_count": 90,
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“What! Tung Cho, that rebel and renegade, that subverter of the throne! Would that I could destroy his nine generations as a thank-offering to the Empire! Think you I would be willing to have an alliance with such a family? I will not slay you as I ought, but go, and go quickly! Yield the Pass and I may spare your lives. If you delay I will grind your bones to powder and make mincemeat of your flesh.” Li Tsʻui threw his arms over his head and ran out. He returned to his master and told him what a rude reception he had met with. Cho asked his adviser Li Ju how to reply to this and he said that as Lü Pu’s late defeat had somewhat blunted the edge of his desire for battle it would be well to ​ return to the capital and remove the Emperor to Ch‘angan, as the street boys had been lately singing:—"
+          }
+        },
+        "id": "chapter-006-line-003",
+        "order": 3,
+        "source_block_chunk": 3,
+        "source_block_order": 1,
+        "text": "」堅辭袁術，歸到本寨，喚來問時，乃董卓愛將李傕。堅曰：「汝來何為？」傕曰：「丞相所敬者，惟將軍耳。今特使傕來結親：丞相有女，欲配將軍之子。」堅大怒，叱曰：「董卓逆天無道，蕩覆王室，吾欲夷其九族，以謝天下，安肯與逆賊結親耶！吾不斬汝！"
+      },
+      {
+        "character_count": 20,
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“ A Han on the west, a Han on the east. The deer will be safe in Ch‘angan, poor beast.”"
+          }
+        },
+        "id": "chapter-006-line-004",
+        "order": 4,
+        "source_block_chunk": 4,
+        "source_block_order": 1,
+        "text": "汝當速去，早早獻關，饒你性命！倘若遲誤，粉骨碎身！」"
+      },
+      {
+        "character_count": 75,
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Li continued “If you think out this couplet it applies to the present juncture. Half the first line refers to the founder of the dynasty, who became ruler in the western city, which was the capital during twelve reigns. The other half corresponds to Kuang-Wu who ruled from Loyang, the capital during twelve later reigns. The revolution of the heavens brings us to this moment and if the minister remove to Ch‘angan there will be no need for anxiety.”"
+          }
+        },
+        "id": "chapter-006-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "李傕抱頭鼠竄回見董卓說孫堅如此無禮。卓怒問李儒。儒曰「溫侯新敗兵無戰心。不若引兵回洛陽遷帝於長安以應童謠。近日街市童謠曰『西頭一個漢東頭一個漢。鹿走入長安方可無斯難。』"
+      },
+      {
+        "character_count": 84,
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Tung Cho was exceedingly pleased and said, “Had you not spoken thus I should not have understood.” Then taking Lü Pu with him he started at once for the capital. Here he called all the officials to a great council in the palace and addressed them thus:— “After two centuries of rule here the royal fortune has been exhausted and I perceive that the aura of rule has migrated to Ch‘angan, whither I now desire to move the court. All you had better pack up for the journey.”"
+          }
+        },
+        "id": "chapter-006-line-006",
+        "order": 6,
+        "source_block_chunk": 2,
+        "source_block_order": 2,
+        "text": "』臣思此言，『西頭一個漢』，乃應高祖旺於西都長安，傳一十二帝；『東頭一個漢』，乃應光武旺於東都洛陽，今亦傳一十二帝。天運合回，丞相遷回長安，方可無虞。」卓大喜曰：「非汝言，吾實不悟。」遂引呂布星夜回洛陽，商議遷都。"
+      },
+      {
+        "character_count": 41,
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The minister Yang Piao said, “I pray you reflect. Within that city all is destruction. There is no reason to renounce the ancestral temples and abandon the imperial tombs here. I fear the people will be alarmed. It is easy to alarm them but difficult to pacify them.”"
+          }
+        },
+        "id": "chapter-006-line-007",
+        "order": 7,
+        "source_block_chunk": 3,
+        "source_block_order": 2,
+        "text": "聚文武於朝堂，卓曰：「漢東都洛陽，二百餘年，氣數已衰。吾觀旺氣實在長安，吾欲奉駕西幸。汝等各宜促裝。」"
+      },
+      {
+        "character_count": 94,
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Do you oppose the State plans?” said Cho angrily. Another official, Huang Yüan, supported his colleague, “In the rebellion of Wang Mang, in the days of Kêng Shih and Fan Ch‘ung of the Red Eyebrows, the city was burned and became a place of broken tiles. The inhabitants scattered all but a few. It is wrong to abandon these palaces for a desert.”"
+          }
+        },
+        "id": "chapter-006-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "司徒楊彪曰：「關中殘破零落。今無故捐宗廟，棄皇陵，恐百姓驚動。天下動之至易，安之至難：望丞相鋻察。」卓怒曰：「汝阻國家大計耶？」太尉黃琬曰：「楊司徒之言是也；往者王莽篡逆，更始赤眉之時，焚燒長安，盡為瓦礫之地；更兼人民流移，百無一二；"
+      },
+      {
+        "character_count": 88,
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Tung Cho replied, “East of the Pass is full of sedition and all the Empire is in rebellion. The city of Ch‘angan is protected by Yaohan and very near Shênsi, whence can be easily brought building material. In a month or so palaces can be erected. So an end to your wild words!” Yet another raised a protest against disturbing the people but the tyrant overbore him also. “How can I stop to consider a few common people when my scheme affects the Empire?”"
+          }
+        },
+        "id": "chapter-006-line-009",
+        "order": 9,
+        "source_block_chunk": 2,
+        "source_block_order": 3,
+        "text": "今棄宮室而就荒地，非所宜也。」卓曰：「關東賊起，天下播亂；長安有崤、函之險；更近隴右，木石磚瓦，剋日可辦，宮室營造，不須月餘。汝等再休亂言。」司徒荀爽諫曰：「丞相若欲遷都，百姓騷動不寧矣。」卓大怒曰：「吾為天下計，豈惜小民哉！"
+      },
+      {
+        "character_count": 12,
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "That day the three objectors were degraded to the rank of ordinary people."
+          }
+        },
+        "id": "chapter-006-line-010",
+        "order": 10,
+        "source_block_chunk": 3,
+        "source_block_order": 3,
+        "text": "」即日罷楊彪、黃琬、荀爽為庶民。"
+      },
+      {
+        "character_count": 89,
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "As Cho went out to get into his coach he met two other officers who made obeisance. They were the President, Chou Pi, and the Captain of the City Gate, Wu Ch‘ing. Cho stopped and asked them what they wanted. Said the former, “We venture to try to dissuade you from moving the capital to Ch‘angan.” ​ Cho replied, “They used to say you two were supporters of Yüan Shao; now he has already turned traitor and you are of the same party.” And without more ado he bade his guards take both outside the city and put them to death."
+          }
+        },
+        "id": "chapter-006-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "卓出上車，只見二人望車而揖；視之，乃尚書周毖、城門校尉伍瓊也。卓問有何事，毖曰：「今聞丞相欲遷都長安，故來諫耳。」卓大怒曰：「我始初聽你兩個，保用袁紹；今紹已反，是汝等一黨！」叱武士推出都門斬首。遂下令遷都，限來日便行。"
+      },
+      {
+        "character_count": 95,
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The command to remove to the new capital immediately was issued. On the advice of Li Ju, who pointed out that money was short and the rich people of Loyang could be easily plundered and that it was a good occasion to remove the supporters of their opponents, Cho sent five companies out to plunder and slay. They captured very many wealthy folk and, having stuck flags on their heads saying they were traitors and rebels, drove them out of the city and put them to death. Their property was all seized."
+          }
+        },
+        "id": "chapter-006-line-012",
+        "order": 12,
+        "source_block_chunk": 2,
+        "source_block_order": 4,
+        "text": "李儒曰：「今錢糧缺少，洛陽富戶極多，可籍沒入官。但是袁紹等門下，殺其宗黨而抄其家貲，必得巨萬。」卓即差鐵騎五千，遍行捉拏洛陽富戶，共數千家，插旗頭上，大書「反臣逆黨」，盡斬於城外，取其金貲。李傕，郭汜，盡驅洛陽之民數百萬口，前赴長安。"
+      },
+      {
+        "character_count": 94,
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The task of driving forth the inhabitants, some millions, was given to two of Tung Cho’s creatures. They were sent off in bands of a hundred, each band between two parties of soldiers, who urged them forward. Enormous numbers fell by the road side and died in the ditches, and the escort plundered the fugitives and defiled the women. A wail of sorrow arose to the very sky. The tyrant’s final orders as he left were to burn the whole city, houses, palaces and temples, and everything was devoured by the flames. The capital became but a patch of scorched earth."
+          }
+        },
+        "id": "chapter-006-line-013",
+        "order": 13,
+        "source_block_chunk": 3,
+        "source_block_order": 4,
+        "text": "每百姓一隊，間軍一隊，互相拖押；死於溝壑者，不可勝數。又縱軍士淫人妻女，奪人糧食；啼哭之聲，震動天地。如有行得遲者，背後三千軍催督，軍手執白刃，於路殺人。卓臨行，教諸門放火，焚燒居民房屋，並放火燒宗廟宮府。南北兩宮，火焰相接；"
+      },
+      {
+        "character_count": 64,
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Tung Cho sent Lü Pu to desecrate the tombs of the Emperors and their consorts for the jewels therein, and the common soldiers took the occasion to dig up the graves of officers and plunder the cemeteries of the wealthy. The spoil of the city, gold and silver, pearls and silks, and beautiful ornaments, filled many carts and with these and the persons of the Emperor and his household Tung Cho moved off to the new capital."
+          }
+        },
+        "id": "chapter-006-line-014",
+        "order": 14,
+        "source_block_chunk": 4,
+        "source_block_order": 4,
+        "text": "洛陽宮庭，盡為焦土。又差呂布發掘先皇及后妃陵寢，取其金寶。軍士乘勢掘官民墳塚殆盡。董卓裝載金珠緞疋好物數千餘車，劫了天子並后妃等，竟望長安去了。"
+      },
+      {
+        "character_count": 41,
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The city being thus abandoned the commander at Ssŭshui Pass evacuated that post of vantage, which Sun Chien at once occupied. The three brothers took Tigertrap Pass and the confederate lords advanced."
+          }
+        },
+        "id": "chapter-006-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "卻說卓將趙岑，見卓已棄洛陽而去，便獻了汜水關。孫堅驅兵先入，玄德、關、張殺入虎牢關，諸侯各引軍入。"
+      },
+      {
+        "character_count": 85,
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Sun Chien hastened to the late capital which was still in flames. When he arrived dense smoke hung all over it and spread for miles around. No living thing, not a fowl, or a dog, or a human being, remained. Sun told off his men to extinguish the fires and set out camping places for the confederate lords. Ts‘ao Ts‘ao went to see the chief and said, “Tung has gone west; we ought to follow and attack without loss of time; why do you remain inactive?”"
+          }
+        },
+        "id": "chapter-006-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "且說孫堅飛奔洛陽遙望火焰沖天黑煙鋪地二三百里並無雞犬人煙堅先發兵救滅了火令眾諸侯各於荒地上屯住軍馬。曹操來見袁紹曰「今董賊西去正可乘勢追襲本初按兵不動何也」紹曰「諸兵疲困進恐無益。」"
+      },
+      {
+        "character_count": 86,
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“All our colleagues are worn out and there is nothing to be gained by attack,” said Yüan Shao. Ts‘ao Ts‘ao urged him to strike a blow for the moment was most propitious in the utter confusion that reigned, palaces ​ burned, the Emperor abducted, the whole world upset and no one knowing whither to turn. But all the confederate lords seemed of one mind and that mind was to postpone action. So they did nothing. However, Ts‘ao Ts‘ao and his subordinates, with a full legion of soldiers, started in pursuit."
+          }
+        },
+        "id": "chapter-006-line-017",
+        "order": 17,
+        "source_block_chunk": 2,
+        "source_block_order": 6,
+        "text": "操曰「董賊焚燒宮室劫遷天子海內震動不知所歸此天亡之時也一戰而天下定矣。諸侯何疑而不進」眾諸侯皆言不可輕動。操大怒曰「豎子不足與謀」遂自引兵萬餘領夏侯惇夏侯淵曹仁曹洪李典樂進星夜來趕董卓。"
+      },
+      {
+        "character_count": 95,
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The road to the new capital led through Jungyang, and when the cavalcade reached it the Prefect went to welcome Tung Cho. Li Ju said, “As there is some danger of pursuit it would be well to order the Prefect of this place to lay an ambush ready to cut off the retreat of our pursuers when our army beats them off. That will teach any others not to follow.”"
+          }
+        },
+        "id": "chapter-006-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "且說董卓行至滎陽地方，太守徐榮出接。李儒曰：「丞相新棄洛陽，防有追兵。可教徐榮伏軍滎陽城外山塢之旁：若有兵追來，可竟放過；待我這裏殺敗，然後截住掩殺。令後來者不敢復追。」卓從其計，又令呂布引精兵斷後。布正行間，曹操一軍趕上。"
+      },
+      {
+        "character_count": 82,
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then Lü Pu was ordered to command the rear guard. Very soon they saw Ts‘ao Ts‘ao coming up and Lü Pu laughed at his colleague’s foresight. He set out his men in fighting order. Ts‘ao Ts‘ao rode forward crying, “Rebels, abductors, drovers of the people, where are you going?” Lü Pu replied, “Treacherous simpleton, what mad words are these?”"
+          }
+        },
+        "id": "chapter-006-line-019",
+        "order": 19,
+        "source_block_chunk": 2,
+        "source_block_order": 7,
+        "text": "呂布大笑曰：「不出李儒所料也！」將軍馬擺開。曹操出馬，大叫：「逆賊！劫遷天子，流徙百姓，將欲何往？」呂布罵曰：「背主懦夫，何得妄言！」夏侯惇挺鎗躍馬，直取呂布。戰不數合，李傕引一軍，從左邊殺來，操急令夏侯淵迎敵。"
+      },
+      {
+        "character_count": 77,
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then from Ts‘ao Ts‘ao’s army rode against him Hsiahou Tun with his spear set and they two engaged. The combat had hardly begun when Li Ts‘ui with a cohort came in from the left. Ts‘ao Ts‘ao bade Hsiahou Yüan meet this onslaught. However, on the other side appeared Kuo Ssŭ, against whom was sent Ts‘ao Jên. The onrush on three sides was too much to withstand and Lü Pu showed no signs of being vanquished, so Hsiahou Tun had to retire to the main line. Thereupon Lü Pu’s mail-clad men attacked and completed the defeat. The beaten men turned toward Jungyang."
+          }
+        },
+        "id": "chapter-006-line-020",
+        "order": 20,
+        "source_block_chunk": 3,
+        "source_block_order": 7,
+        "text": "右邊喊聲又起，郭汜引軍殺到，操急令曹仁迎敵。三路軍馬，勢不可當。夏侯惇抵敵呂布不住，飛馬回陣。布引鐵騎掩殺，操軍大敗，回望滎陽而走。走至一荒山腳下，時約二更，月明如晝。方纔聚集殘兵。"
+      },
+      {
+        "character_count": 87,
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "They got as far as the foot of a bare hill in the second watch, about nine in the evening, and the moon made it as light as day. Here they halted to reform. Just as they were burying the boilers to prepare a meal there arose a great noise of shouting on all sides and out came the men from the ambush fresh to attack."
+          }
+        },
+        "id": "chapter-006-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "正欲埋鍋造飯，只聽得四圍喊聲，徐榮伏兵盡出。曹操慌忙策馬，奪路奔逃，正遇徐榮，轉身便走。榮搭上箭，射中操肩膊。操帶箭逃命，轉過山坡。兩個軍士伏於草中，見操馬來，二鎗齊發，操馬中鎗而倒。操翻身落馬，被二卒擒住。"
+      },
+      {
+        "character_count": 82,
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ts‘ao Ts‘ao, thrown into a flurry, mounted and fled. He ran right in the way of the waiting Prefect. Then he dashed off in another direction, but the Prefect shot an arrow after him which struck him in the shoulder. The arrow still in the wound, he fled for his life. As he went over the hill two soldiers lying in wait among the grass suddenly dashed out and wounded his horse, which fell and rolled over, and as its rider slipped from the saddle he was seized and made prisoner."
+          }
+        },
+        "id": "chapter-006-line-022",
+        "order": 22,
+        "source_block_chunk": 2,
+        "source_block_order": 8,
+        "text": "只見一將飛馬而來揮刀砍死兩個步軍下馬救起曹操。操視之乃曹洪也。操曰「吾死於此矣賢弟可速去」洪曰「公急上馬洪願步行。」操曰「賊兵趕上汝將奈何」洪曰「天下可無洪不可無公。」操曰「吾若再生汝之力也。」"
+      },
+      {
+        "character_count": 95,
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Just then a horseman riding at full speed and whirling his sword came, up, cut down both the captors and rescued Ts‘ao Ts‘ao. It was his brother Ts‘ao Hung. Ts‘ao Ts‘ao said, “I am doomed, good brother, go and save yourself.” “My lord, mount my horse quickly; I will go afoot,” said Hung. “If those wretches come up, what then?” ​ “The world can do without me, but not without you, my brother.”"
+          }
+        },
+        "id": "chapter-006-line-023",
+        "order": 23,
+        "source_block_chunk": 3,
+        "source_block_order": 8,
+        "text": "」操上馬，洪脫去衣甲，拖刀跟馬而走。約走至四更餘，只見前面一條大河，阻住去路，後面喊聲漸近。操曰：「命已至此，不得復活矣！」洪急扶操下馬，脫去袍鎧，負操渡水。纔過彼岸，追兵已到，隔水放箭。操帶水而走。比及天明，又走三十餘里，土岡下少歇。"
+      },
+      {
+        "character_count": 23,
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“If I live I shall owe you my life,” said Ts‘ao Ts‘ao."
+          }
+        },
+        "id": "chapter-006-line-024",
+        "order": 24,
+        "source_block_chunk": 4,
+        "source_block_order": 8,
+        "text": "忽然喊聲起處，一彪人馬趕來，卻是徐榮從上流渡河來追。"
+      },
+      {
+        "character_count": 93,
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So he mounted. His brother tore off his own breastplate, gripped his sword and went on foot after the horse. Thus they proceeded till the fourth watch when they saw before them a broad stream, and behind they still heard the shouts of pursuers drawing nearer and nearer. “This is my fate;” said Ts‘ao Ts‘ao. “I am really doomed.” His brother helped him down from his horse. Then taking off his fighting robe he took the wounded man on his back and waded into the stream. When they reached the further side the pursuers had already gained the bank whence they shot arrows. Ts‘ao Ts‘ao all wet pushed on."
+          }
+        },
+        "id": "chapter-006-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "操正慌急間，只見夏侯惇、夏侯淵引十數騎飛至，大喝：「徐榮勿傷吾主！」徐榮便奔夏侯惇，惇挺鎗來迎。交馬數合，惇刺徐榮於馬下，殺散餘兵。隨後曹仁，李典，樂進，各引兵尋到；見了曹操，憂喜交集；聚集殘兵五百餘人，同回河內。卓兵自往長安。"
+      },
+      {
+        "character_count": 98,
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Dawn was near. They went on another thirty li and then sat down to rest under a precipice. Suddenly loud shouting was heard and a party of horse appeared. It was the Prefect of Jungpang who had forded the river higher up. Just at this moment Hsiahou Tun and his brother, with a half score men, came along. “Hurt not my lord!” cried Hsiahou to the Prefect, who at once rushed at him. But the combat was short. The Prefect speedily fell under a spear thrust and his men were driven off. Before long Ts‘ao Ts‘ao’s other captains arrived. Sadness and joy mingled in the greetings. They gathered together the few hundreds of men left and then returned to Honei."
+          }
+        },
+        "id": "chapter-006-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "卻說眾諸侯分屯洛陽。孫堅救滅宮中餘火，屯兵城內，設帳於建章殿基上。堅令軍士掃除宮殿瓦礫。凡董卓所掘陵寢，盡皆掩閉。於太廟基上，草創殿屋三間，請眾諸侯立列聖神位，宰太牢祀之。祭畢，皆散。堅歸寨中，是夜星日交輝，乃按劍露坐，仰觀天文。"
+      },
+      {
+        "character_count": 88,
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The story broke off leaving the confederate lords in their various camps at Loyang. Sun Chien, after extinguishing the fires, camped within the walls, his own tent being set up near the Chienchang Hall of the palace. His men cleared away the débris and closed the rifted tombs. The gates were barred. On the site of the Dynastic Temple he put up a mat shed containing three apartments, and here he begged the lords to meet and replace the sacred tablets, with solemn sacrifices and prayers. This ceremony over, the others left and Sun Chien returned to his camp. That night the stars and moon vied with each other in brightness. As Sun sat in the open air looking up at the heavens he noticed a mist spreading over the stars of the Constellation Draco."
+          }
+        },
+        "id": "chapter-006-line-027",
+        "order": 27,
+        "source_block_chunk": 2,
+        "source_block_order": 10,
+        "text": "見紫微垣中白氣漫漫，堅歎曰：「帝星不明，賊臣亂國，萬民塗炭，京城一空！」言訖，不覺淚下。傍有軍士指曰：「殿南有五色豪光起於井中。」堅喚軍士點起火把，下井打撈。撈起一婦人屍首，雖然日久，其屍不爛，宮樣裝束，項下帶一錦囊。"
+      },
+      {
+        "character_count": 56,
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“The Emperor’s stars are dulled,” said he with a sigh, “No wonder a rebellious minister disturbs the State, the people sit in dust and ashes, and the capital is a waste.” And his tears began to fall. Then a soldier pointing to the south said, “There is a beam of coloured light rising from a well.”"
+          }
+        },
+        "id": "chapter-006-line-028",
+        "order": 28,
+        "source_block_chunk": 3,
+        "source_block_order": 10,
+        "text": "取開看時，內有硃紅小匣，用金鎖鎖著。啟視之，乃一玉璽：方圓四寸。上鑴五龍交紐；傍缺一角，以黃金鑲之；上有篆文八字云：「受命於天，既壽永昌」。"
+      },
+      {
+        "character_count": 92,
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He bade his men light torches and descend into the well. Soon they brought up the corpse of a woman, not in the least decayed although it had been there many days. She was dressed in palace clothing and from her neck hung an ​ embroidered bag. Opening this a red box was found, with a golden lock, and when the box was opened they saw a jade seal, square in shape, an inch each way. On it were delicately engraved five dragons intertwined. One corner had been broken off and repaired with gold. There were eight characters in the seal style of engraving which interpreted read, “I have received the command from Heaven: may my time be always prosperous.” Sun Chien showed this to Ch‘êng P‘u who at once recognised it as the hereditary seal of the Emperor."
+          }
+        },
+        "id": "chapter-006-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "堅得璽，乃問程普。普曰：「此傳國璽也。此玉是昔日卞和於荊山之下，見鳳凰棲於石上，載而進之楚文王。解之，果得玉。秦二十六年，令玉工琢為璽，李斯篆此八字於其上。二十八年，始皇巡狩至洞庭湖，風浪大作，舟將覆，急投玉璽於湖而止。"
+      },
+      {
+        "character_count": 92,
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He said, “This seal has a history. In olden days one P‘ien Ho saw a phœnix sitting on a certain stone at the foot of Ching Hill. He offered the stone at court. King Wên of Ch‘u split open the stone and found a piece of jade. Early in the Ts‘in dynasty a jade cutter made a seal from it and Li Ssŭ engraved the characters. Two years later it was thrown overboard in a terrific storm on the Tungt‘ing Lake as a propitiatory offering, and the storm immediately ceased. Ten years later again, when the Emperor was making a progress and had reached Huaying, an old man by the road side handed a seal to one of the attendants saying, “This is now restored to the ancestral dragon,” and had then disappeared. Thus the jewel returned to Ts‘in. The next year Emperor Shê died."
+          }
+        },
+        "id": "chapter-006-line-030",
+        "order": 30,
+        "source_block_chunk": 2,
+        "source_block_order": 11,
+        "text": "至三十六年，始皇巡狩至華陰，有人持璽遮道，與從者曰：『持此還祖龍。』言訖不見。此璽復歸於秦。明年，始皇崩。後來子嬰將玉璽獻與漢高祖。後至王莽篡逆，孝元皇太后將璽打王尋、蘇獻，崩其一角，以金鑲之。光武得此寶於宜陽，傳位至今。"
+      },
+      {
+        "character_count": 73,
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Later Tzŭ-ying presented the seal to the founder of the Han dynasty. In Wang Mang’s rebellion the Emperor struck two of the rebels with the seal and broke off a corner, which was repaired with gold. Kuang-Wu got possession of it at Iyang and it has been regularly bequeathed thereafter. I heard it had been lost during the trouble in the palace when ‘The Ten’ hurried off the Emperor. It was missed on His Majesty’s return. Now my lord has it and certainly will come to the imperial dignity. But you must not remain here. Quickly go east where you can lay plans for the accomplish ment of the great design.”"
+          }
+        },
+        "id": "chapter-006-line-031",
+        "order": 31,
+        "source_block_chunk": 3,
+        "source_block_order": 11,
+        "text": "近聞十常侍作亂，劫少帝出北邙，回宮失此寶。今天授主公，必有登九五之分。此處不可久留，宜速回江東，別圖大事。」堅曰：「汝言正合吾意。明日便當託疾辭歸。」商議已定，密諭軍士勿得洩漏。"
+      },
+      {
+        "character_count": 91,
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Your words exactly accord with my thoughts,” said Sun Chien. “Tomorrow I will make an excuse that I am unwell and get away.” The soldiers were told to keep the discovery a secret. But who could guess that one among them was a compatriot of the elected chief of the confederacy? He thought this might be of great advantage to him so he stole away out of the camp and betrayed his master. He received a liberal reward and Yüan Shao kept him in his own camp. So when Sun Chien came to take leave saying “I am rather unwell and wish to return to Changsha,” Shao laughed saying “I know what you are suffering from; it is called the Hereditary Seal!”"
+          }
+        },
+        "id": "chapter-006-line-032",
+        "order": 32,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "誰想數中一軍，是袁紹鄉人，欲假此為進身之計，連夜偷出營寨，來報袁紹。紹與之賞賜，暗留軍中。次日，孫堅來辭袁紹曰：「堅抱小疾，欲歸長沙，特來別公。」紹笑曰：「吾知公疾乃害傳國璽耳。」堅失色曰：「此言何來？」紹曰：「今興民討賊，為國除害。"
+      },
+      {
+        "character_count": 76,
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "This was a shock to Sun Chien and he paled but he said, “Whence these words?” Shao said, “The armies were raised for the good of the State and to relieve it from oppression. The seal is State property ​ and since you have got hold of it you should publicly hand it over to me as chief. When Tung Cho has been slain it must go back to the government. What do you mean by concealing it and going away?”"
+          }
+        },
+        "id": "chapter-006-line-033",
+        "order": 33,
+        "source_block_chunk": 2,
+        "source_block_order": 12,
+        "text": "紹曰「今興民討賊為國除害。玉璽乃朝廷之寶公既獲得當對眾留盟主處候誅了董卓復歸朝廷。今匿之而去意欲何為」堅曰「玉璽何由在吾處」紹曰「建章殿井中之物何在」堅曰「吾本無之何強相逼」紹曰「作速取出免自生禍。」"
+      },
+      {
+        "character_count": 82,
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“How could the seal get into my hands?” “Where is the article out of the well?” “I have it not: why harass me thus?” “Quickly produce it, or it will be the worse for you.” Sun Chien pointing toward the heavens as an oath said, “If I have this jewel and am hiding it myself may my end be unhappy and my death violent!”"
+          }
+        },
+        "id": "chapter-006-line-034",
+        "order": 34,
+        "source_block_chunk": 3,
+        "source_block_order": 12,
+        "text": "」堅指天為誓曰：「吾若果得此寶，私自藏匿，異日不得善終，死於刀箭之下！」眾諸侯曰：「文臺如此說誓，想必無之。」紹喚軍士出曰：「打撈之時，有此人否？」堅大怒，拔所佩之劍，要斬那軍士。紹亦拔劍曰：「汝斬軍士，乃欺我也。"
+      },
+      {
+        "character_count": 76,
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The lords all said, “After an oath like this we think he cannot have it.” Then Shao called out his informant. “When you pulled that thing out of the well, was this man there?” asked he of Sun. Sun Chien’s anger burst forth and he sprang forward to kill the man. The chief also drew his sword saying “You touch that soldier and it is an insult to me.”"
+          }
+        },
+        "id": "chapter-006-line-035",
+        "order": 35,
+        "source_block_chunk": 4,
+        "source_block_order": 12,
+        "text": "」紹背後顏良、文醜皆拔劍出鞘。堅背後程普，黃蓋，韓當，亦掣刀在手。眾諸侯一齊勸住。堅隨即上馬，拔寨離洛陽而去。紹大怒，遂寫書一封，差心腹人連夜往荊州，送與刺史劉表，教就路上截住奪之。"
+      },
+      {
+        "character_count": 90,
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "In a moment on all sides swords flew from their scabbards. But the confusion was stayed by the efforts of the others and Sun Chien left the assembly. Soon he broke up his camp and marched to his own place. The chief was not satisfied. He wrote to Chingchou and sent the letter by a trusty hand to tell the governor to stop Sun Chien and take away the seal."
+          }
+        },
+        "id": "chapter-006-line-036",
+        "order": 36,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "次日，人報曹操追董卓，戰於滎陽，大敗而回。紹令人接至寨中，會眾置酒，與操解悶。飲宴間，操歎曰：「吾始興大義，為國除賊。諸公既仗義而來，操之初意，欲煩本初引河內之眾，臨孟津，酸棗；諸君固守成皋，據廒倉，塞轘轅、大谷，制其險要；"
+      },
+      {
+        "character_count": 88,
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Just after this came the news of the defeat and misfortune of Ts‘ao Ts‘ao and when he was coming home Shao sent out to welcome him and conduct him into camp. They also prepared a feast to console him. During the feast Ts‘ao Ts‘ao said sadly, “My object was for the public good and all you gentlemen nobly supported me. My plan was to get Yüan Shu with his Honei men to approach Mêngching and Suantsao while the others of you held Ch‘êng-kao and took possession of the granaries and guarded Taku, and so controlled the points of vantage. Yüan Shao was to occupy Tanshi and go into Wukuan to help the three supports, all were to fortify their positions and not fight. Advantage lay in an uncertain military force showing the Empire’s possibilities of dealing with the rebellion. Victory would have been ours at once. But then came delays and doubts and inaction and the confidence of the people was lost and I am ashamed.”"
+          }
+        },
+        "id": "chapter-006-line-037",
+        "order": 37,
+        "source_block_chunk": 2,
+        "source_block_order": 13,
+        "text": "公路率南陽之軍，駐丹、析，入武關，以震三輔：皆深溝高壘，勿與戰，益為疑兵，示天下形勢，以順誅逆，可立定也。今遲疑不進，大失天下之望。操竊恥之！」紹等無言可對。既而席散，操見紹等各懷異心，料不能成事，自引軍投揚州去了。"
+      },
+      {
+        "character_count": 79,
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "No reply was possible and the guests dispersed. Ts‘ao Ts‘ao saw that the others mistrusted him and in his heart knew that nothing could be accomplished, so he led off his force to Yangchou. Then Kungsun Tsan said to the three brothers, “This Yüan Shao is an incapable and things will go agley. We had better go too.” ​ So he broke camp and went north. At P‘ingyüan he left Liu Pei in command and went to strengthen hisown position and refresh his men."
+          }
+        },
+        "id": "chapter-006-line-038",
+        "order": 38,
+        "source_block_chunk": 3,
+        "source_block_order": 13,
+        "text": "公孫瓚謂玄德、關、張曰：「袁紹無能為也，久必有變。吾等且歸。」遂拔寨北行。至平原，令玄德為平原相，自去守地養軍。兗州太守劉岱，問東郡太守喬瑁借糧；瑁推辭不與，岱引軍突入瑁營，殺死喬瑁，盡降其眾。"
+      },
+      {
+        "character_count": 22,
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Prefect of Yenchou wished to borrow grain of the Prefect of Tungchun. Being denied he attacked the camp, killed the leader and took over all his men. Yüan Shao seeing the confederacy breaking up also marched away and went east."
+          }
+        },
+        "id": "chapter-006-line-039",
+        "order": 39,
+        "source_block_chunk": 4,
+        "source_block_order": 13,
+        "text": "袁紹見眾人各自分散，就領兵拔寨，離洛陽，投關東去了。"
+      },
+      {
+        "character_count": 91,
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Now the Governor of Chingchou, Liu Piao, was a scion of the imperial house. As a young man he had made friends with many famous persons and he and his companions were called the Eight Dilettanti. The other seven were Ch‘ên Hsiang, Fan P‘ang, K‘ung Yu, Fan K‘ang, T‘an Fu, Chang Chien and Ts‘ên Ching. He was friends with all these. He had three famous men who helped him in the government of his district. They were K‘uai Liang, K‘uai Yüeh and Ts‘ai Mao."
+          }
+        },
+        "id": "chapter-006-line-040",
+        "order": 40,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "卻說荊州刺史劉表，字景升，山陽高平人也：乃漢室宗親；幼好結納，與名士七人為友，時號「江夏八俊」。那七人：汝南陳翔，字仲麟；同郡范滂，字孟博；魯國孔昱，字世元；渤海范康，字仲真；山陽檀敷，字文友；同郡張儉，字元節；南陽岑晊，字公孝。"
+      },
+      {
+        "character_count": 96,
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When the letter detailing the fault of Sun Chien arrived the two K‘uai and Ts‘ai were sent with a legion of soldiers to bar the way. When Sun Chien drew near the force was arranged in fighting order and the leaders were in the front. “Why are you thus barring the road with armed men?” asked Sun. “Why do you, a minister of Han, secrete the Emperor’s special seal? Leave it with me at once and you go free,” said K‘uai Yüeh. Sun Chien angrily ordered out a leader Huang Kai, who exchanged a few bouts with Ts‘ao Mao and presently dealt him a blow with the iron whip just over the heart. Mao turned his steed and fled and Sun Chien got through with a sudden rush."
+          }
+        },
+        "id": "chapter-006-line-041",
+        "order": 41,
+        "source_block_chunk": 2,
+        "source_block_order": 14,
+        "text": "劉表與此七人為友；有延平人蒯良、蒯越，襄陽人蔡瑁為輔。當時看了袁紹書，隨令蒯越、蔡瑁引兵一萬來截孫堅。堅軍方到，蒯越將陣擺開，當先出馬。孫堅問曰：「蒯異度何故引兵截吾去路？」越曰：「汝既為漢臣，如何私匿傳國之寶？可速留下，放汝歸去！"
+      },
+      {
+        "character_count": 90,
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "However, there arose the sound of gongs and drums on the hills behind and there was Prefect Liu in person with a large army. Sun Chien rode straight up to him and bowing low spoke thus. “Why did you, on the faith of a letter from Yüan Shao, try to coerce the chief of a neighbouring district?” “You have concealed the State jewel and I want you to restore it,” was Liu’s reply. “If I have this thing may I die a violent death!” “If you want me to believe you let me search your baggage.”"
+          }
+        },
+        "id": "chapter-006-line-042",
+        "order": 42,
+        "source_block_chunk": 3,
+        "source_block_order": 14,
+        "text": "堅大怒命黃蓋出戰。蔡瑁舞刀來迎。鬥到數合黃蓋揮鞭打瑁正中護心鏡。瑁撥回馬走孫堅乘勢殺過界口。山背後金鼓齊鳴乃劉表親自引軍來到。孫堅就馬上施禮曰「景升何故信袁紹之書相逼鄰郡」表曰「汝匿傳國璽將欲反耶」"
+      },
+      {
+        "character_count": 78,
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“What force have you that you dare come to flout me thus?” And only the Prefect’s prompt retirement prevented a battle. Sun Chien proceeded on his way. But from the rear of the second hill an ambush suddenly discovered itself and K‘uai and Ts‘ai were still following. Sun Chien seemed entirely hemmed in. What doth it advantage a man to hold the imperial seal if its possession lead to strife? How Sun Chien got clear of the difficulty will presently be told."
+          }
+        },
+        "id": "chapter-006-line-043",
+        "order": 43,
+        "source_block_chunk": 4,
+        "source_block_order": 14,
+        "text": "」堅曰：「吾若有此物，死於刀箭之下！」表曰：「汝若要我聽信，將隨軍行李，任我搜看。」堅怒曰：「汝有何力，敢小覷我！」方欲交兵，劉表便退。堅縱馬趕去，兩山後伏兵齊起，背後蒯越、蔡瑁趕來，將孫堅困在垓心。正是："
+      },
+      {
+        "character_count": 14,
+        "generated_annotation": {
+          "layers": {
+            "translation_en": ""
+          }
+        },
+        "id": "chapter-006-line-044",
+        "order": 44,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "玉璽得來無用處，反因此寶動刀兵。"
+      },
+      {
+        "character_count": 14,
+        "generated_annotation": {
+          "layers": {
+            "translation_en": ""
+          }
+        },
+        "id": "chapter-006-line-045",
+        "order": 45,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "畢竟孫堅怎地脫身，且聽下文分解。"
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "卻說張飛拍馬趕到關下，關上矢石如雨，不得進而回。八路諸侯，同請玄德、關、張賀功，使人去袁紹寨中報捷。紹遂移檄孫堅，令其進兵。堅引程普，黃蓋，至袁術寨中相見。堅以杖畫地曰：「董卓與我，本無讎隙。今我奮不顧身，親冒矢石，來決死戰者：上為國家討賊，下為將軍家門之私；而將軍卻聽讒言，不發糧草，致堅敗績，將軍何安！」術惶恐無言，命斬進讒之人，以謝孫堅。忽人報堅曰:「關上有一將，乘馬來寨中，要見將軍。」堅辭袁術，歸到本寨，喚來問時，乃董卓愛將李傕。堅曰：「汝來何為？」傕曰：「丞相所敬者，惟將軍耳。今特使傕來結親：丞相有女，欲配將軍之子。」堅大怒，叱曰：「董卓逆天無道，蕩覆王室，吾欲夷其九族，以謝天下，安肯與逆賊結親耶！吾不斬汝！汝當速去，早早獻關，饒你性命！倘若遲誤，粉骨碎身！」\n李傕抱頭鼠竄，回見董卓，說孫堅如此無禮。卓怒，問李儒。儒曰：「溫侯新敗，兵無戰心。不若引兵回洛陽，遷帝於長安，以應童謠。近日街市童謠曰：『西頭一個漢，東頭一個漢。鹿走入長安，方可無斯難。』臣思此言，『西頭一個漢』，乃應高祖旺於西都長安，傳一十二帝；『東頭一個漢』，乃應光武旺於東都洛陽，今亦傳一十二帝。天運合回，丞相遷回長安，方可無虞。」卓大喜曰：「非汝言，吾實不悟。」遂引呂布星夜回洛陽，商議遷都。聚文武於朝堂，卓曰：「漢東都洛陽，二百餘年，氣數已衰。吾觀旺氣實在長安，吾欲奉駕西幸。汝等各宜促裝。」\n司徒楊彪曰：「關中殘破零落。今無故捐宗廟，棄皇陵，恐百姓驚動。天下動之至易，安之至難：望丞相鋻察。」卓怒曰：「汝阻國家大計耶？」太尉黃琬曰：「楊司徒之言是也；往者王莽篡逆，更始赤眉之時，焚燒長安，盡為瓦礫之地；更兼人民流移，百無一二；今棄宮室而就荒地，非所宜也。」卓曰：「關東賊起，天下播亂；長安有崤、函之險；更近隴右，木石磚瓦，剋日可辦，宮室營造，不須月餘。汝等再休亂言。」司徒荀爽諫曰：「丞相若欲遷都，百姓騷動不寧矣。」卓大怒曰：「吾為天下計，豈惜小民哉！」即日罷楊彪、黃琬、荀爽為庶民。\n卓出上車，只見二人望車而揖；視之，乃尚書周毖、城門校尉伍瓊也。卓問有何事，毖曰：「今聞丞相欲遷都長安，故來諫耳。」卓大怒曰：「我始初聽你兩個，保用袁紹；今紹已反，是汝等一黨！」叱武士推出都門斬首。遂下令遷都，限來日便行。李儒曰：「今錢糧缺少，洛陽富戶極多，可籍沒入官。但是袁紹等門下，殺其宗黨而抄其家貲，必得巨萬。」卓即差鐵騎五千，遍行捉拏洛陽富戶，共數千家，插旗頭上，大書「反臣逆黨」，盡斬於城外，取其金貲。李傕，郭汜，盡驅洛陽之民數百萬口，前赴長安。每百姓一隊，間軍一隊，互相拖押；死於溝壑者，不可勝數。又縱軍士淫人妻女，奪人糧食；啼哭之聲，震動天地。如有行得遲者，背後三千軍催督，軍手執白刃，於路殺人。卓臨行，教諸門放火，焚燒居民房屋，並放火燒宗廟宮府。南北兩宮，火焰相接；洛陽宮庭，盡為焦土。又差呂布發掘先皇及后妃陵寢，取其金寶。軍士乘勢掘官民墳塚殆盡。董卓裝載金珠緞疋好物數千餘車，劫了天子並后妃等，竟望長安去了。\n卻說卓將趙岑，見卓已棄洛陽而去，便獻了汜水關。孫堅驅兵先入，玄德、關、張殺入虎牢關，諸侯各引軍入。\n且說孫堅飛奔洛陽，遙望火焰沖天，黑煙鋪地，二三百里，並無雞犬人煙；堅先發兵救滅了火，令眾諸侯各於荒地上屯住軍馬。曹操來見袁紹曰：「今董賊西去，正可乘勢追襲；本初按兵不動，何也？」紹曰：「諸兵疲困，進恐無益。」操曰：「董賊焚燒宮室，劫遷天子，海內震動，不知所歸；此天亡之時也，一戰而天下定矣。諸侯何疑而不進？」眾諸侯皆言不可輕動。操大怒曰：「豎子不足與謀！」遂自引兵萬餘，領夏侯惇，夏侯淵，曹仁，曹洪，李典，樂進，星夜來趕董卓。\n且說董卓行至滎陽地方，太守徐榮出接。李儒曰：「丞相新棄洛陽，防有追兵。可教徐榮伏軍滎陽城外山塢之旁：若有兵追來，可竟放過；待我這裏殺敗，然後截住掩殺。令後來者不敢復追。」卓從其計，又令呂布引精兵斷後。布正行間，曹操一軍趕上。呂布大笑曰：「不出李儒所料也！」將軍馬擺開。曹操出馬，大叫：「逆賊！劫遷天子，流徙百姓，將欲何往？」呂布罵曰：「背主懦夫，何得妄言！」夏侯惇挺鎗躍馬，直取呂布。戰不數合，李傕引一軍，從左邊殺來，操急令夏侯淵迎敵。右邊喊聲又起，郭汜引軍殺到，操急令曹仁迎敵。三路軍馬，勢不可當。夏侯惇抵敵呂布不住，飛馬回陣。布引鐵騎掩殺，操軍大敗，回望滎陽而走。走至一荒山腳下，時約二更，月明如晝。方纔聚集殘兵。\n正欲埋鍋造飯，只聽得四圍喊聲，徐榮伏兵盡出。曹操慌忙策馬，奪路奔逃，正遇徐榮，轉身便走。榮搭上箭，射中操肩膊。操帶箭逃命，轉過山坡。兩個軍士伏於草中，見操馬來，二鎗齊發，操馬中鎗而倒。操翻身落馬，被二卒擒住。只見一將飛馬而來，揮刀砍死兩個步軍，下馬救起曹操。操視之，乃曹洪也。操曰：「吾死於此矣，賢弟可速去！」洪曰：「公急上馬！洪願步行。」操曰：「賊兵趕上，汝將奈何？」洪曰：「天下可無洪，不可無公。」操曰：「吾若再生，汝之力也。」操上馬，洪脫去衣甲，拖刀跟馬而走。約走至四更餘，只見前面一條大河，阻住去路，後面喊聲漸近。操曰：「命已至此，不得復活矣！」洪急扶操下馬，脫去袍鎧，負操渡水。纔過彼岸，追兵已到，隔水放箭。操帶水而走。比及天明，又走三十餘里，土岡下少歇。忽然喊聲起處，一彪人馬趕來，卻是徐榮從上流渡河來追。\n操正慌急間，只見夏侯惇、夏侯淵引十數騎飛至，大喝：「徐榮勿傷吾主！」徐榮便奔夏侯惇，惇挺鎗來迎。交馬數合，惇刺徐榮於馬下，殺散餘兵。隨後曹仁，李典，樂進，各引兵尋到；見了曹操，憂喜交集；聚集殘兵五百餘人，同回河內。卓兵自往長安。\n卻說眾諸侯分屯洛陽。孫堅救滅宮中餘火，屯兵城內，設帳於建章殿基上。堅令軍士掃除宮殿瓦礫。凡董卓所掘陵寢，盡皆掩閉。於太廟基上，草創殿屋三間，請眾諸侯立列聖神位，宰太牢祀之。祭畢，皆散。堅歸寨中，是夜星日交輝，乃按劍露坐，仰觀天文。見紫微垣中白氣漫漫，堅歎曰：「帝星不明，賊臣亂國，萬民塗炭，京城一空！」言訖，不覺淚下。傍有軍士指曰：「殿南有五色豪光起於井中。」堅喚軍士點起火把，下井打撈。撈起一婦人屍首，雖然日久，其屍不爛，宮樣裝束，項下帶一錦囊。取開看時，內有硃紅小匣，用金鎖鎖著。啟視之，乃一玉璽：方圓四寸。上鑴五龍交紐；傍缺一角，以黃金鑲之；上有篆文八字云：「受命於天，既壽永昌」。\n堅得璽，乃問程普。普曰：「此傳國璽也。此玉是昔日卞和於荊山之下，見鳳凰棲於石上，載而進之楚文王。解之，果得玉。秦二十六年，令玉工琢為璽，李斯篆此八字於其上。二十八年，始皇巡狩至洞庭湖，風浪大作，舟將覆，急投玉璽於湖而止。至三十六年，始皇巡狩至華陰，有人持璽遮道，與從者曰：『持此還祖龍。』言訖不見。此璽復歸於秦。明年，始皇崩。後來子嬰將玉璽獻與漢高祖。後至王莽篡逆，孝元皇太后將璽打王尋、蘇獻，崩其一角，以金鑲之。光武得此寶於宜陽，傳位至今。近聞十常侍作亂，劫少帝出北邙，回宮失此寶。今天授主公，必有登九五之分。此處不可久留，宜速回江東，別圖大事。」堅曰：「汝言正合吾意。明日便當託疾辭歸。」商議已定，密諭軍士勿得洩漏。\n誰想數中一軍，是袁紹鄉人，欲假此為進身之計，連夜偷出營寨，來報袁紹。紹與之賞賜，暗留軍中。次日，孫堅來辭袁紹曰：「堅抱小疾，欲歸長沙，特來別公。」紹笑曰：「吾知公疾乃害傳國璽耳。」堅失色曰：「此言何來？」紹曰：「今興民討賊，為國除害。玉璽乃朝廷之寶，公既獲得，當對眾留盟主處，候誅了董卓，復歸朝廷。今匿之而去，意欲何為？」堅曰：「玉璽何由在吾處？」紹曰：「建章殿井中之物何在？」堅曰：「吾本無之，何強相逼？」紹曰：「作速取出，免自生禍。」堅指天為誓曰：「吾若果得此寶，私自藏匿，異日不得善終，死於刀箭之下！」眾諸侯曰：「文臺如此說誓，想必無之。」紹喚軍士出曰：「打撈之時，有此人否？」堅大怒，拔所佩之劍，要斬那軍士。紹亦拔劍曰：「汝斬軍士，乃欺我也。」紹背後顏良、文醜皆拔劍出鞘。堅背後程普，黃蓋，韓當，亦掣刀在手。眾諸侯一齊勸住。堅隨即上馬，拔寨離洛陽而去。紹大怒，遂寫書一封，差心腹人連夜往荊州，送與刺史劉表，教就路上截住奪之。\n次日，人報曹操追董卓，戰於滎陽，大敗而回。紹令人接至寨中，會眾置酒，與操解悶。飲宴間，操歎曰：「吾始興大義，為國除賊。諸公既仗義而來，操之初意，欲煩本初引河內之眾，臨孟津，酸棗；諸君固守成皋，據廒倉，塞轘轅、大谷，制其險要；公路率南陽之軍，駐丹、析，入武關，以震三輔：皆深溝高壘，勿與戰，益為疑兵，示天下形勢，以順誅逆，可立定也。今遲疑不進，大失天下之望。操竊恥之！」紹等無言可對。既而席散，操見紹等各懷異心，料不能成事，自引軍投揚州去了。公孫瓚謂玄德、關、張曰：「袁紹無能為也，久必有變。吾等且歸。」遂拔寨北行。至平原，令玄德為平原相，自去守地養軍。兗州太守劉岱，問東郡太守喬瑁借糧；瑁推辭不與，岱引軍突入瑁營，殺死喬瑁，盡降其眾。袁紹見眾人各自分散，就領兵拔寨，離洛陽，投關東去了。\n卻說荊州刺史劉表，字景升，山陽高平人也：乃漢室宗親；幼好結納，與名士七人為友，時號「江夏八俊」。那七人：汝南陳翔，字仲麟；同郡范滂，字孟博；魯國孔昱，字世元；渤海范康，字仲真；山陽檀敷，字文友；同郡張儉，字元節；南陽岑晊，字公孝。劉表與此七人為友；有延平人蒯良、蒯越，襄陽人蔡瑁為輔。當時看了袁紹書，隨令蒯越、蔡瑁引兵一萬來截孫堅。堅軍方到，蒯越將陣擺開，當先出馬。孫堅問曰：「蒯異度何故引兵截吾去路？」越曰：「汝既為漢臣，如何私匿傳國之寶？可速留下，放汝歸去！」堅大怒，命黃蓋出戰。蔡瑁舞刀來迎。鬥到數合，黃蓋揮鞭打瑁，正中護心鏡。瑁撥回馬走，孫堅乘勢殺過界口。山背後金鼓齊鳴，乃劉表親自引軍來到。孫堅就馬上施禮曰：「景升何故信袁紹之書，相逼鄰郡！」表曰：「汝匿傳國璽，將欲反耶？」堅曰：「吾若有此物，死於刀箭之下！」表曰：「汝若要我聽信，將隨軍行李，任我搜看。」堅怒曰：「汝有何力，敢小覷我！」方欲交兵，劉表便退。堅縱馬趕去，兩山後伏兵齊起，背後蒯越、蔡瑁趕來，將孫堅困在垓心。正是：\n玉璽得來無用處，反因此寶動刀兵。\n畢竟孫堅怎地脫身，且聽下文分解。",
+    "title": "第六回 焚金闕董卓行兇　　　匿玉璽孫堅背約"
+  },
+  "chapter_path": "books/sanguo-yanyi/chapters/chapter-006.json",
+  "provider": "wikisource-html",
+  "schema_version": 2,
+  "source_title": "三國演義 - 维基文库，自由的图书馆",
+  "source_url": "https://zh.wikisource.org/wiki/%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9"
+}

@@ -1,0 +1,807 @@
+{
+  "chapter": {
+    "character_count": 200,
+    "id": "chapter-004",
+    "order": 4,
+    "reading_unit_count": 50,
+    "reading_units": [
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "cross a river in the same boat (idiom); fig. having common interests / obliged to collaborate towards common goals",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-004-line-001",
+        "order": 1,
+        "pinyin": "tóng zhōu gòng jì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "同舟共济"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) to act in concert; to pool ideas and efforts",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-004-line-002",
+        "order": 2,
+        "pinyin": "qún cè qún lì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "群策群力"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to work with a common purpose (idiom); to make concerted efforts / to pull together / to work as one",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-004-line-003",
+        "order": 3,
+        "pinyin": "tóng xīn xié lì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "同心协力"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. deal sincerely and fairly (idiom); frank and open-minded / plain speaking / Let's talk frankly and openly between ourselves. / to put one's cards on the table",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-004-line-004",
+        "order": 4,
+        "pinyin": "kāi chéng bù gōng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "开诚布公"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to give one's bare heart into sb else's keeping (idiom); sb has one's absolute confidence / to trust completely / to confide in sb with entire sincerity",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-004-line-005",
+        "order": 5,
+        "pinyin": "tuī xīn zhì fù",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "推心置腹"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to put oneself in sb else's shoes (idiom)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-004-line-006",
+        "order": 6,
+        "pinyin": "jiāng xīn bǐ xīn",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "将心比心"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-004-line-007",
+        "order": 7,
+        "pinyin": "hé ér bù tóng",
+        "pinyin_source": "derived from per-character index",
+        "text": "和而不同"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) to complement one another",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-004-line-008",
+        "order": 8,
+        "pinyin": "xiāng fǔ xiāng chéng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "相辅相成"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to treat one another with absolute sincerity (idiom); to show total devotion",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-004-line-009",
+        "order": 9,
+        "pinyin": "gān dǎn xiāng zhào",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "肝胆相照"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-004-line-010",
+        "order": 10,
+        "pinyin": "huàn nán yǔ gòng",
+        "pinyin_source": "derived from per-character index",
+        "text": "患难与共"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to put oneself in sb else's shoes",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-004-line-011",
+        "order": 11,
+        "pinyin": "shè shēn chǔ dì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "设身处地"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "amiable and approachable (idiom); easygoing / modest and unassuming / (of writing) plain and simple / easy to understand",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-004-line-012",
+        "order": 12,
+        "pinyin": "píng yì jìn rén",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "平易近人"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to be lenient with others (idiom)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-004-line-013",
+        "order": 13,
+        "pinyin": "kuān yǐ dài rén",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "宽以待人"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to be of service to others / to help others / benevolent",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-004-line-014",
+        "order": 14,
+        "pinyin": "yǔ rén wéi shàn",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "与人为善"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) beauty of helping others succeed; act of helping sb fulfill their wish",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-004-line-015",
+        "order": 15,
+        "pinyin": "chéng rén zhī měi",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "成人之美"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-004-line-016",
+        "order": 16,
+        "pinyin": "xiān rén hòu jǐ",
+        "pinyin_source": "derived from per-character index",
+        "text": "先人后己"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to abandon self for others (idiom, from Analects); to sacrifice one's own interest for other people / altruism",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-004-line-017",
+        "order": 17,
+        "pinyin": "shě jǐ wèi rén",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "舍己为人"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. to send charcoal in snowy weather (idiom) / fig. to provide help in sb's hour of need",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-004-line-018",
+        "order": 18,
+        "pinyin": "xuě zhōng sòng tàn",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "雪中送炭"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(lit.) to add flowers to brocade (idiom) / (fig.) to make sth good even better; to add an extra (often nonessential) benefit or embellishment",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-004-line-019",
+        "order": 19,
+        "pinyin": "jǐn shàng tiān huā",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "锦上添花"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. proper behavior is based on reciprocity (idiom) / fig. to return politeness for politeness",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-004-line-020",
+        "order": 20,
+        "pinyin": "lǐ shàng wǎng lái",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "礼尚往来"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to treat each other as an honored guest (idiom) / mutual respect between husband and wife",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-004-line-021",
+        "order": 21,
+        "pinyin": "xiāng jìng rú bīn",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "相敬如宾"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to submit cheerfully / to accept willingly (idiom)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-004-line-022",
+        "order": 22,
+        "pinyin": "xīn yuè chéng fú",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "心悦诚服"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "as close as one's hands and feet (idiom); loving one another as brothers / deep friendship / closely attached to one another",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-004-line-023",
+        "order": 23,
+        "pinyin": "qíng tóng shǒu zú",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "情同手足"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to spend all one's time together (idiom)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-004-line-024",
+        "order": 24,
+        "pinyin": "zhāo xī xiāng chǔ",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "朝夕相处"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) to be devoted to a common cause; to be like-minded",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-004-line-025",
+        "order": 25,
+        "pinyin": "zhì tóng dào hé",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "志同道合"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "shared delights and common hardships (idiom); to share life's joys and sorrows / for better or for worse",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-004-line-026",
+        "order": 26,
+        "pinyin": "tóng gān gòng kǔ",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "同甘共苦"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to join forces / to give full cooperation",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-004-line-027",
+        "order": 27,
+        "pinyin": "tōng lì hé zuò",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "通力合作"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "everyone gives their own view",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-004-line-028",
+        "order": 28,
+        "pinyin": "gè shū jǐ jiàn",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "各抒己见"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) to put aside differences and work together; to seek common ground and cooperate",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-004-line-029",
+        "order": 29,
+        "pinyin": "qiú tóng cún yì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "求同存异"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) to keep on the right side of everyone (often at the expense of principle)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-004-line-030",
+        "order": 30,
+        "pinyin": "yī tuán hé qì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "一团和气"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "neither servile nor overbearing (idiom) / neither obsequious nor supercilious",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-004-line-031",
+        "order": 31,
+        "pinyin": "bù bēi bù kàng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "不卑不亢"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to speak bluntly (idiom) / not to mince words",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-004-line-032",
+        "order": 32,
+        "pinyin": "zhí yán bù huì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "直言不讳"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(lit.) a promise worth a thousand pieces of gold (idiom) / (fig.) a promise that can be counted on",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-004-line-033",
+        "order": 33,
+        "pinyin": "yī nuò qiān jīn",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "一诺千金"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "one word worth nine sacred tripods (idiom); words of enormous weight",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-004-line-034",
+        "order": 34,
+        "pinyin": "yī yán jiǔ dǐng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "一言九鼎"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-004-line-035",
+        "order": 35,
+        "pinyin": "tuī jǐ jí rén",
+        "pinyin_source": "derived from per-character index",
+        "text": "推己及人"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to teach by words and example (idiom)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-004-line-036",
+        "order": 36,
+        "pinyin": "yán chuán shēn jiào",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "言传身教"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "collecting opinions is of wide benefit (idiom); to pool wisdom for mutual benefit / to profit from widespread suggestions",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-004-line-037",
+        "order": 37,
+        "pinyin": "jí sī guǎng yì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "集思广益"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "unity of will is an impregnable stronghold (idiom)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-004-line-038",
+        "order": 38,
+        "pinyin": "zhòng zhì chéng chéng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "众志成城"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "anger against a common enemy (idiom); joined in opposition to the same adversary",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-004-line-039",
+        "order": 39,
+        "pinyin": "tóng chóu dí kài",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "同仇敌忾"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-004-line-040",
+        "order": 40,
+        "pinyin": "qǔ xìn yú mín",
+        "pinyin_source": "derived from per-character index",
+        "text": "取信于民"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) to be completely honest and sincere; to show wholehearted loyalty",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-004-line-041",
+        "order": 41,
+        "pinyin": "pī gān lì dǎn",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "披肝沥胆"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-004-line-042",
+        "order": 42,
+        "pinyin": "hé zhōng gòng jì",
+        "pinyin_source": "derived from per-character index",
+        "text": "和衷共济"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) (of siblings, spouses etc) very close to each other; inseparable; devoted to each other",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-004-line-043",
+        "order": 43,
+        "pinyin": "xiāng qīn xiāng ài",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "相亲相爱"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to help those in distress (idiom)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-004-line-044",
+        "order": 44,
+        "pinyin": "fú wēi jì kùn",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "扶危济困"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. in the same boat under wind and rain (idiom); fig. to stick together in hard times",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-004-line-045",
+        "order": 45,
+        "pinyin": "fēng yǔ tóng zhōu",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "风雨同舟"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-004-line-046",
+        "order": 46,
+        "pinyin": "tuī chéng xiāng jiàn",
+        "pinyin_source": "derived from per-character index",
+        "text": "推诚相见"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "of one mind (idiom)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-004-line-047",
+        "order": 47,
+        "pinyin": "tóng xīn tóng dé",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "同心同德"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to share the same interests (idiom) / to be closely related / to be in the same boat",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-004-line-048",
+        "order": 48,
+        "pinyin": "xiū qī xiāng guān",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "休戚相关"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to bring out the best in each other (idiom) / to complement one another well",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-004-line-049",
+        "order": 49,
+        "pinyin": "xiāng dé yì zhāng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "相得益彰"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-004-line-050",
+        "order": 50,
+        "pinyin": "tóng qì lián zhī",
+        "pinyin_source": "derived from per-character index",
+        "text": "同气连枝"
+      }
+    ],
+    "summary": "同舟共济",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "同舟共济\n群策群力\n同心协力\n开诚布公\n推心置腹\n将心比心\n和而不同\n相辅相成\n肝胆相照\n患难与共\n设身处地\n平易近人\n宽以待人\n与人为善\n成人之美\n先人后己\n舍己为人\n雪中送炭\n锦上添花\n礼尚往来\n相敬如宾\n心悦诚服\n情同手足\n朝夕相处\n志同道合\n同甘共苦\n通力合作\n各抒己见\n求同存异\n一团和气\n不卑不亢\n直言不讳\n一诺千金\n一言九鼎\n推己及人\n言传身教\n集思广益\n众志成城\n同仇敌忾\n取信于民\n披肝沥胆\n和衷共济\n相亲相爱\n扶危济困\n风雨同舟\n推诚相见\n同心同德\n休戚相关\n相得益彰\n同气连枝",
+    "title": "入门常用·人际与协作"
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-004.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

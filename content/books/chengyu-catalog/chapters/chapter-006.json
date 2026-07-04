@@ -1,0 +1,855 @@
+{
+  "chapter": {
+    "character_count": 200,
+    "id": "chapter-006",
+    "order": 6,
+    "reading_unit_count": 50,
+    "reading_units": [
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to contradict oneself / self-contradictory / inconsistent",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-006-line-001",
+        "order": 1,
+        "pinyin": "zì xiāng máo dùn",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "自相矛盾"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. draw legs on a snake (idiom); fig. to ruin the effect by adding sth superfluous / to overdo it",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-006-line-002",
+        "order": 2,
+        "pinyin": "huà shé tiān zú",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "画蛇添足"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. to guard a tree-stump, waiting for rabbits (idiom) / to wait idly for opportunities / to trust to chance rather than show initiative",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-006-line-003",
+        "order": 3,
+        "pinyin": "shǒu zhū dài tù",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "守株待兔"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. a notch on the side of a boat to locate a sword dropped overboard (idiom); fig. an action made pointless by changed circumstances",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-006-line-004",
+        "order": 4,
+        "pinyin": "kè zhōu qiú jiàn",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "刻舟求剑"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. Lord Ye's passion for dragons (idiom) / fig. to pretend to be fond of sth while actually fearing it / ostensible fondness of sth one really fears",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-006-line-005",
+        "order": 5,
+        "pinyin": "Yè Gōng hào lóng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "叶公好龙"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. to cover one's ears whilst stealing a bell / to deceive oneself / to bury one's head in the sand (idiom)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-006-line-006",
+        "order": 6,
+        "pinyin": "yǎn ěr dào líng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "掩耳盗铃"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. the fox exploits the tiger's might (idiom); fig. to use powerful connections to intimidate people",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-006-line-007",
+        "order": 7,
+        "pinyin": "hú jiǎ hǔ wēi",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "狐假虎威"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(lit.) a frog at the bottom of a well (idiom) / (fig.) a person of limited outlook and experience",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-006-line-008",
+        "order": 8,
+        "pinyin": "jǐng dǐ zhī wā",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "井底之蛙"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. to play the yu 竽 mouth organ to make up numbers (idiom); fig. to make up the numbers with inferior products / to masquerade as having an ability / token member of a group",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-006-line-009",
+        "order": 9,
+        "pinyin": "làn yú chōng shù",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "滥竽充数"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to act in a way that defeats one's purpose (idiom)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-006-line-010",
+        "order": 10,
+        "pinyin": "nán yuán běi zhé",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "南辕北辙"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. to see a bow reflected in a cup as a snake (idiom); fig. unnecessary suspicions / overly fearful",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-006-line-011",
+        "order": 11,
+        "pinyin": "bēi gōng shé yǐng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "杯弓蛇影"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. to allay one's hunger using a picture of a cake / to feed on illusions (idiom)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-006-line-012",
+        "order": 12,
+        "pinyin": "huà bǐng chōng jī",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "画饼充饥"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. the old man lost his horse, but it all turned out for the best (idiom) / fig. a blessing in disguise / it's an ill wind that blows nobody any good",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-006-line-013",
+        "order": 13,
+        "pinyin": "sài wēng shī mǎ",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "塞翁失马"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "the old man moves mountains (idiom); fig. where there's a will, there's a way",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-006-line-014",
+        "order": 14,
+        "pinyin": "yú gōng yí shān",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "愚公移山"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. to play the lute to a cow (idiom) / fig. offering a treat to an unappreciative audience / to cast pearls before swine / caviar to the general / to preach to deaf ears / to talk over sb's head",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-006-line-015",
+        "order": 15,
+        "pinyin": "duì niú tán qín",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "对牛弹琴"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to display one's slight skill before an expert (idiom)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-006-line-016",
+        "order": 16,
+        "pinyin": "Bān mén nòng fǔ",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "班门弄斧"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "Mao Sui recommends himself (idiom); to offer one's services (in the style of Mao Sui offering his services to king of Chu 楚 of the Warring states)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-006-line-017",
+        "order": 17,
+        "pinyin": "Máo Suì zì jiàn",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "毛遂自荐"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. to return the jade annulus to Zhao (idiom); fig. to return something intact to its rightful owner",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-006-line-018",
+        "order": 18,
+        "pinyin": "wán bì guī Zhào",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "完璧归赵"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. to bring a bramble and ask for punishment (idiom) / fig. to offer sb a humble apology",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-006-line-019",
+        "order": 19,
+        "pinyin": "fù jīng qǐng zuì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "负荆请罪"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. military tactics on paper (idiom) / fig. theoretical discussion that is worse than useless in practice / armchair strategist / idle theorizing / cf Zhao Kuo 趙括|赵括[Zhao4 Kuo4] leading an army of 400,000 to total annihilation at battle of Changping 長平之戰|长平之战[Chang2 ping2 zhi1 Zhan4] in 260 BC",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-006-line-020",
+        "order": 20,
+        "pinyin": "zhǐ shàng tán bīng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "纸上谈兵"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. on all sides, the songs of Chu (idiom) / fig. surrounded by enemies, isolated and without help",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-006-line-021",
+        "order": 21,
+        "pinyin": "sì miàn Chǔ gē",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "四面楚歌"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "making a deer out to be a horse (idiom); deliberate misrepresentation",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-006-line-022",
+        "order": 22,
+        "pinyin": "zhǐ lù wéi mǎ",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "指鹿为马"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. paper has become expensive in Luoyang (because everyone is making a copy of a popular story) (idiom) / fig. (of a product) to sell like hotcakes",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-006-line-023",
+        "order": 23,
+        "pinyin": "Luò yáng zhǐ guì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "洛阳纸贵"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to start practicing at the first crow of the cock (idiom) / to be diligent in one's studies",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-006-line-024",
+        "order": 24,
+        "pinyin": "wén jī qǐ wǔ",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "闻鸡起舞"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. the snow piles up at Cheng Yi's door (idiom) / fig. deep reverence for one's master",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-006-line-025",
+        "order": 25,
+        "pinyin": "Chéng mén lì xuě",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "程门立雪"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "variant of 臥薪嘗膽|卧薪尝胆[wo4 xin1 chang2 dan3]",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-006-line-026",
+        "order": 26,
+        "pinyin": "wò xīn cháng dǎn",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "卧薪尝胆"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. to pierce the wall to steal a light (idiom) / fig. to study diligently in the face of hardship",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-006-line-027",
+        "order": 27,
+        "pinyin": "záo bì tōu guāng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "凿壁偷光"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. to make three visits to the thatched cottage (idiom) (allusion to an episode in Romance of the Three Kingdoms 三國演義|三国演义[San1 guo2 Yan3 yi4] in which Liu Bei 劉備|刘备[Liu2 Bei4] recruits Zhuge Liang 諸葛亮|诸葛亮[Zhu1 ge3 Liang4] to his cause by visiting him three times) / fig. to make earnest and repeated requests of sb",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-006-line-028",
+        "order": 28,
+        "pinyin": "sān gù máo lú",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "三顾茅庐"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. Dong Shi imitates Xi Shi's frown (idiom) / fig. to mimick sb's idiosyncrasies but make a fool of oneself",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-006-line-029",
+        "order": 29,
+        "pinyin": "Dōng Shī xiào pín",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "东施效颦"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(lit.) a bird startled by the mere twang of a bow (idiom) / (fig.) sb who frightens easily, due to past experiences",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-006-line-030",
+        "order": 30,
+        "pinyin": "jīng gōng zhī niǎo",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "惊弓之鸟"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "see 拔苗助長|拔苗助长[ba2 miao2 zhu4 zhang3]",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-006-line-031",
+        "order": 31,
+        "pinyin": "yà miáo zhù zhǎng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "揠苗助长"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. to quench one's thirst by thinking of plums (idiom) / fig. to console oneself with illusions",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-006-line-032",
+        "order": 32,
+        "pinyin": "wàng méi zhǐ kě",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "望梅止渴"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-006-line-033",
+        "order": 33,
+        "pinyin": "gāo shān liú shuǐ",
+        "pinyin_source": "derived from per-character index",
+        "text": "高山流水"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "front yard as busy as a marketplace (idiom) / a place with many visitors",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-006-line-034",
+        "order": 34,
+        "pinyin": "mén tíng ruò shì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "门庭若市"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(lit.) to gaze at the ocean and lament one's inadequacy (idiom) / (fig.) to feel powerless and incompetent (to perform a task)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-006-line-035",
+        "order": 35,
+        "pinyin": "wàng yáng xīng tàn",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "望洋兴叹"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to buy a wooden box and return the pearls inside / to show poor judgment (idiom)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-006-line-036",
+        "order": 36,
+        "pinyin": "mǎi dú huán zhū",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "买椟还珠"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. to guard one's mouth like a closed bottle (idiom); tight-lipped / reticent / not breathing a word",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-006-line-037",
+        "order": 37,
+        "pinyin": "shǒu kǒu rú píng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "守口如瓶"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to copy the way they walk in Handan (idiom) / slavishly copying others, one risks becoming a caricature",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-006-line-038",
+        "order": 38,
+        "pinyin": "Hán dān xué bù",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "邯郸学步"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(lit.) to retreat ninety li (idiom) / (fig.) to shun; to assiduously avoid",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-006-line-039",
+        "order": 39,
+        "pinyin": "tuì bì sān shè",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "退避三舍"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. without the lips, the teeth feel the cold (idiom); fig. intimately interdependent",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-006-line-040",
+        "order": 40,
+        "pinyin": "chún wáng chǐ hán",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "唇亡齿寒"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. say three in the morning but four in the evening (idiom); to change sth that is already settled upon / indecisive / to blow hot and cold",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-006-line-041",
+        "order": 41,
+        "pinyin": "zhāo sān mù sì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "朝三暮四"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "blind people touch an elephant (idiom, from Nirvana sutra 大般涅槃經|大般涅盘经[da4 ban1 Nie4 pan2 jing1]); fig. unable to see the big picture / to mistake the part for the whole / unable to see the wood for the trees",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-006-line-042",
+        "order": 42,
+        "pinyin": "máng rén mō xiàng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "盲人摸象"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(lit.) a mantis trying to stop a chariot (idiom) / (fig.) to overrate oneself and attempt sth impossible",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-006-line-043",
+        "order": 43,
+        "pinyin": "táng bì dāng chē",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "螳臂当车"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-006-line-044",
+        "order": 44,
+        "pinyin": "bó lè xiāng mǎ",
+        "pinyin_source": "derived from per-character index",
+        "text": "伯乐相马"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "endless stream of horse and carriages (idiom) / heavy traffic",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-006-line-045",
+        "order": 45,
+        "pinyin": "chē shuǐ mǎ lóng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "车水马龙"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "not feel ashamed to ask and learn from one's subordinates",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-006-line-046",
+        "order": 46,
+        "pinyin": "bù chǐ xià wèn",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "不耻下问"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. every tree or bush an enemy soldier (idiom); fig. to panic and treat everyone as an enemy / to feel beleaguered",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-006-line-047",
+        "order": 47,
+        "pinyin": "cǎo mù jiē bīng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "草木皆兵"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "an old horse knows the way (idiom); an experienced worker knows what to do / an old hand knows the ropes",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-006-line-048",
+        "order": 48,
+        "pinyin": "lǎo mǎ shí tú",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "老马识途"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "hiding a sickness for fear of treatment (idiom); fig. concealing a fault to avoid criticism / to keep one's shortcomings secret / to refuse to listen to advice",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-006-line-049",
+        "order": 49,
+        "pinyin": "huì jí jì yī",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "讳疾忌医"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to amaze the world with a single brilliant feat (idiom); an overnight celebrity",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-006-line-050",
+        "order": 50,
+        "pinyin": "yī míng jīng rén",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "一鸣惊人"
+      }
+    ],
+    "summary": "自相矛盾",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "自相矛盾\n画蛇添足\n守株待兔\n刻舟求剑\n叶公好龙\n掩耳盗铃\n狐假虎威\n井底之蛙\n滥竽充数\n南辕北辙\n杯弓蛇影\n画饼充饥\n塞翁失马\n愚公移山\n对牛弹琴\n班门弄斧\n毛遂自荐\n完璧归赵\n负荆请罪\n纸上谈兵\n四面楚歌\n指鹿为马\n洛阳纸贵\n闻鸡起舞\n程门立雪\n卧薪尝胆\n凿壁偷光\n三顾茅庐\n东施效颦\n惊弓之鸟\n揠苗助长\n望梅止渴\n高山流水\n门庭若市\n望洋兴叹\n买椟还珠\n守口如瓶\n邯郸学步\n退避三舍\n唇亡齿寒\n朝三暮四\n盲人摸象\n螳臂当车\n伯乐相马\n车水马龙\n不耻下问\n草木皆兵\n老马识途\n讳疾忌医\n一鸣惊人",
+    "title": "典故起步·高频故事成语"
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-006.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

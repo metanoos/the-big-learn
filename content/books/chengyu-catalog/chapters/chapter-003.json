@@ -1,0 +1,831 @@
+{
+  "chapter": {
+    "character_count": 200,
+    "id": "chapter-003",
+    "order": 3,
+    "reading_unit_count": 50,
+    "reading_units": [
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-003-line-001",
+        "order": 1,
+        "pinyin": "zhī nán ér jìn",
+        "pinyin_source": "derived from per-character index",
+        "text": "知难而进"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. to mend the pen after sheep are lost (idiom) / fig. to act belatedly / better late than never / to lock the stable door after the horse has bolted",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-003-line-002",
+        "order": 2,
+        "pinyin": "wáng yáng bǔ láo",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "亡羊补牢"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to turn peril into safety (idiom); to avert disaster",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-003-line-003",
+        "order": 3,
+        "pinyin": "huà xiǎn wéi yí",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "化险为夷"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to turn peril into safety (idiom); to avert a danger (esp. political or medical)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-003-line-004",
+        "order": 4,
+        "pinyin": "zhuǎn wēi wéi ān",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "转危为安"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. where water flows, a canal is formed (idiom) / fig. when conditions are right, success will follow naturally",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-003-line-005",
+        "order": 5,
+        "pinyin": "shuǐ dào qú chéng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "水到渠成"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) to achieve twice the result with half the effort",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-003-line-006",
+        "order": 6,
+        "pinyin": "shì bàn gōng bèi",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "事半功倍"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to give up halfway (idiom); leave sth unfinished",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-003-line-007",
+        "order": 7,
+        "pinyin": "bàn tú ér fèi",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "半途而废"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. to ruin the enterprise for the sake of one basketful / to fail through lack of a final effort / to spoil the ship for a ha'penny worth of tar (idiom)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-003-line-008",
+        "order": 8,
+        "pinyin": "gōng kuī yī kuì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "功亏一篑"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "pass like thunder and move like the wind (idiom); swift and decisive reaction",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-003-line-009",
+        "order": 9,
+        "pinyin": "léi lì fēng xíng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "雷厉风行"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to practice what one preaches (idiom)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-003-line-010",
+        "order": 10,
+        "pinyin": "shēn tǐ lì xíng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "身体力行"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to pull strongly against a crazy tide (idiom); fig. to try hard to save a desperate crisis",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-003-line-011",
+        "order": 11,
+        "pinyin": "lì wǎn kuáng lán",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "力挽狂澜"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "in a spurt of energy",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-003-line-012",
+        "order": 12,
+        "pinyin": "yī gǔ zuò qì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "一鼓作气"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) to take the lead",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-003-line-013",
+        "order": 13,
+        "pinyin": "yī mǎ dāng xiān",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "一马当先"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. to break the cauldrons and sink the boats (idiom); fig. to cut off one's means of retreat / to burn one's boats",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-003-line-014",
+        "order": 14,
+        "pinyin": "pò fǔ chén zhōu",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "破釜沉舟"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to continue the struggle (idiom); to persist / unremitting efforts",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-003-line-015",
+        "order": 15,
+        "pinyin": "zài jiē zài lì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "再接再厉"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to win instant success (idiom)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-003-line-016",
+        "order": 16,
+        "pinyin": "mǎ dào chéng gōng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "马到成功"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to be effective (idiom)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-003-line-017",
+        "order": 17,
+        "pinyin": "xíng zhī yǒu xiào",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "行之有效"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "everything clear and orderly (idiom); neat and tidy",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-003-line-018",
+        "order": 18,
+        "pinyin": "jǐng jǐng yǒu tiáo",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "井井有条"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. to drive a lightweight chariot on a familiar road (idiom) / fig. to do sth routinely and with ease / a walk in the park",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-003-line-019",
+        "order": 19,
+        "pinyin": "qīng chē shú lù",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "轻车熟路"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. what the heart wishes, the hand accomplishes (idiom) skilled at the job / entirely in one's element / going smoothly and easily",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-003-line-020",
+        "order": 20,
+        "pinyin": "dé xīn yìng shǒu",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "得心应手"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "handling a butcher's cleaver with ease (idiom); to do sth skillfully and easily",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-003-line-021",
+        "order": 21,
+        "pinyin": "yóu rèn yǒu yú",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "游刃有余"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(lit.) set up a pole and immediately see its shadow (idiom) / (fig.) to get instant results",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-003-line-022",
+        "order": 22,
+        "pinyin": "lì gān jiàn yǐng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "立竿见影"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to get sth done once and for all",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-003-line-023",
+        "order": 23,
+        "pinyin": "yī láo yǒng yì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "一劳永逸"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to attend to everything personally",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-003-line-024",
+        "order": 24,
+        "pinyin": "shì bì gōng qīn",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "事必躬亲"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. to open a water source and reduce outflow (idiom); to increase income and save on spending / to broaden the sources of income and economize on expenditure",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-003-line-025",
+        "order": 25,
+        "pinyin": "kāi yuán jié liú",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "开源节流"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "bring order out of chaos / set to rights things which have been thrown into disorder",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-003-line-026",
+        "order": 26,
+        "pinyin": "bō luàn fǎn zhèng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "拨乱反正"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. to dispel the clouds and see the sun (idiom); fig. to restore justice",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-003-line-027",
+        "order": 27,
+        "pinyin": "bō yún jiàn rì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "拨云见日"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to follow up a victory and press home the attack / to pursue retreating enemy",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-003-line-028",
+        "order": 28,
+        "pinyin": "chéng shèng zhuī jī",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "乘胜追击"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "too far is as bad as not enough (idiom, from the Analects)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-003-line-029",
+        "order": 29,
+        "pinyin": "guò yóu bù jí",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "过犹不及"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. (bamboo) splits when it meets the knife's edge (idiom) / fig. easily solved",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-003-line-030",
+        "order": 30,
+        "pinyin": "yíng rèn ér jiě",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "迎刃而解"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-003-line-031",
+        "order": 31,
+        "pinyin": "yǐ tuì wèi jìn",
+        "pinyin_source": "derived from per-character index",
+        "text": "以退为进"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to assess one's income and spend accordingly (idiom); to live within one's means / You can only spend what you earn.",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-003-line-032",
+        "order": 32,
+        "pinyin": "liàng rù wéi chū",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "量入为出"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "meticulous planning and careful accounting (idiom)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-003-line-033",
+        "order": 33,
+        "pinyin": "jīng dǎ xì suàn",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "精打细算"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to spur the horse to full speed (idiom) / to go as fast as possible",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-003-line-034",
+        "order": 34,
+        "pinyin": "kuài mǎ jiā biān",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "快马加鞭"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) to follow the prescribed order; to keep to the working routine",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-003-line-035",
+        "order": 35,
+        "pinyin": "àn bù jiù bān",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "按部就班"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-003-line-036",
+        "order": 36,
+        "pinyin": "yóu qiǎn rù shēn",
+        "pinyin_source": "derived from per-character index",
+        "text": "由浅入深"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. looking for a fine horse using only a picture (idiom) / fig. to do things along rigid, conventional lines / to try and find sth with the help of a clue",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-003-line-037",
+        "order": 37,
+        "pinyin": "àn tú suǒ jì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "按图索骥"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. to follow the vine to get to the melon / to track sth following clues",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-003-line-038",
+        "order": 38,
+        "pinyin": "shùn téng mō guā",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "顺藤摸瓜"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. to push the boat with the current / fig. to take advantage of the situation for one's own benefit",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-003-line-039",
+        "order": 39,
+        "pinyin": "shùn shuǐ tuī zhōu",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "顺水推舟"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(lit.) to unwind the silk thread from the cocoon (idiom) / (fig.) to unravel a mystery; to painstakingly follow the clues to eventually get to the bottom of the matter",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-003-line-040",
+        "order": 40,
+        "pinyin": "chōu sī bō jiǎn",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "抽丝剥茧"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-003-line-041",
+        "order": 41,
+        "pinyin": "gǎi xián gèng zhāng",
+        "pinyin_source": "derived from per-character index",
+        "text": "改弦更张"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to shed one's mortal body and exchange one's bones (idiom); born again Daoist / to turn over a new leaf / fig. to change wholly / to create from other material (story, artwork etc)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-003-line-042",
+        "order": 42,
+        "pinyin": "tuō tāi huàn gǔ",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "脱胎换骨"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to push the wave and add to the billows (idiom); to add momentum / to encourage sth to get bigger / to add fuel to the fire",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-003-line-043",
+        "order": 43,
+        "pinyin": "tuī bō zhù lán",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "推波助澜"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to advance bravely",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-003-line-044",
+        "order": 44,
+        "pinyin": "yǒng wǎng zhí qián",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "勇往直前"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(lit.) to chop the nail and slice the iron (idiom) / (fig.) resolute and decisive; unhesitating; categorical",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-003-line-045",
+        "order": 45,
+        "pinyin": "zhǎn dīng jié tiě",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "斩钉截铁"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to do something at one go / to flow smoothly",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-003-line-046",
+        "order": 46,
+        "pinyin": "yī qì hē chéng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "一气呵成"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "like a hot knife through butter (idiom) / with irresistible force",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-003-line-047",
+        "order": 47,
+        "pinyin": "shì rú pò zhú",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "势如破竹"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. to cut one's way through thistles and thorns (idiom) / fig. to overcome all obstacles on the way / to break through hardships / to blaze a new trail",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-003-line-048",
+        "order": 48,
+        "pinyin": "pī jīng zhǎn jí",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "披荆斩棘"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to fight at the head of one's troops / (fig.) to take the lead",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-003-line-049",
+        "order": 49,
+        "pinyin": "shēn xiān shì zú",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "身先士卒"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-003-line-050",
+        "order": 50,
+        "pinyin": "yīn shì zhì yí",
+        "pinyin_source": "derived from per-character index",
+        "text": "因事制宜"
+      }
+    ],
+    "summary": "知难而进",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "知难而进\n亡羊补牢\n化险为夷\n转危为安\n水到渠成\n事半功倍\n半途而废\n功亏一篑\n雷厉风行\n身体力行\n力挽狂澜\n一鼓作气\n一马当先\n破釜沉舟\n再接再厉\n马到成功\n行之有效\n井井有条\n轻车熟路\n得心应手\n游刃有余\n立竿见影\n一劳永逸\n事必躬亲\n开源节流\n拨乱反正\n拨云见日\n乘胜追击\n过犹不及\n迎刃而解\n以退为进\n量入为出\n精打细算\n快马加鞭\n按部就班\n由浅入深\n按图索骥\n顺藤摸瓜\n顺水推舟\n抽丝剥茧\n改弦更张\n脱胎换骨\n推波助澜\n勇往直前\n斩钉截铁\n一气呵成\n势如破竹\n披荆斩棘\n身先士卒\n因事制宜",
+    "title": "入门常用·行动与方法"
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-003.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

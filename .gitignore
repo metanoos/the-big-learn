@@ -1,0 +1,31 @@
+# deps
+node_modules/
+.next/
+__pycache__/
+*.pyc
+.go/
+bin/
+
+# env / secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# build artifacts
+dist/
+build/
+*.tsbuildinfo
+
+# editor / OS
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# logs
+*.log
+
+# the big cedict cache (re-downloadable)
+/tmp/tbl_cedict.tsv

@@ -1,0 +1,839 @@
+{
+  "chapter": {
+    "character_count": 200,
+    "id": "chapter-005",
+    "order": 5,
+    "reading_unit_count": 50,
+    "reading_units": [
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "open and candid (idiom); straightforward and upright",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-005-line-001",
+        "order": 1,
+        "pinyin": "guāng míng lěi luò",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "光明磊落"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "selfless / impartial",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-005-line-002",
+        "order": 2,
+        "pinyin": "dà gōng wú sī",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "大公无私"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "self-restraint and devotion to public duties (idiom); selfless dedication / to serve the public interest wholeheartedly",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-005-line-003",
+        "order": 3,
+        "pinyin": "kè jǐ fèng gōng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "克己奉公"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-005-line-004",
+        "order": 4,
+        "pinyin": "xiān gōng hòu sī",
+        "pinyin_source": "derived from per-character index",
+        "text": "先公后私"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) one's actions are in keeping with what one says",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-005-line-005",
+        "order": 5,
+        "pinyin": "yán xíng yī zhì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "言行一致"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "see a worthy, think to imitate (idiom, from Analects); emulate the virtuous / Follow the example of a virtuous and wise teacher.",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-005-line-006",
+        "order": 6,
+        "pinyin": "jiàn xián sī qí",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "见贤思齐"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to accept criticism gladly (humble expr.) / to be happy when one's errors are pointed out",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-005-line-007",
+        "order": 7,
+        "pinyin": "wén guò zé xǐ",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "闻过则喜"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to reform and start afresh (idiom); to turn over a new leaf",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-005-line-008",
+        "order": 8,
+        "pinyin": "gǎi guò zì xīn",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "改过自新"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "fortitude",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-005-line-009",
+        "order": 9,
+        "pinyin": "jiān rěn bù bá",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "坚忍不拔"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to keep on fighting in spite of all setbacks (idiom) / to be undaunted by repeated setbacks / to be indomitable",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-005-line-010",
+        "order": 10,
+        "pinyin": "bǎi zhé bù náo",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "百折不挠"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "tranquil and even-tempered (idiom); calmly and without stress",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-005-line-011",
+        "order": 11,
+        "pinyin": "xīn píng qì hé",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "心平气和"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. heart untroubled, spirit pleased (idiom); carefree and relaxed",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-005-line-012",
+        "order": 12,
+        "pinyin": "xīn kuàng shén yí",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "心旷神怡"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to be pleased beyond one's expectations (idiom) / overjoyed at the turn of events",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-005-line-013",
+        "order": 13,
+        "pinyin": "xǐ chū wàng wài",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "喜出望外"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) to return from a rewarding journey",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-005-line-014",
+        "order": 14,
+        "pinyin": "mǎn zài ér guī",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "满载而归"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "as if relieved from a burden (idiom) / to have a weight off one's mind",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-005-line-015",
+        "order": 15,
+        "pinyin": "rú shì zhòng fù",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "如释重负"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) high-spirited; full of mettle",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-005-line-016",
+        "order": 16,
+        "pinyin": "yì qì fēng fā",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "意气风发"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "calm / unruffled",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-005-line-017",
+        "order": 17,
+        "pinyin": "cóng róng bù pò",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "从容不迫"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "cool and collected (idiom); showing no sign of nerves / perfectly composed",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-005-line-018",
+        "order": 18,
+        "pinyin": "tài rán zì ruò",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "泰然自若"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) to have a well-thought-out plan in mind",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-005-line-019",
+        "order": 19,
+        "pinyin": "xiōng yǒu chéng zhú",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "胸有成竹"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(lit.) one action, two gains (idiom) / (fig.) two birds with one stone",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-005-line-020",
+        "order": 20,
+        "pinyin": "yī jǔ liǎng dé",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "一举两得"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "not just in name only, but also in reality (idiom) / aptly named / worthy of the name",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-005-line-021",
+        "order": 21,
+        "pinyin": "míng fù qí shí",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "名副其实"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "fame follows merit (idiom)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-005-line-022",
+        "order": 22,
+        "pinyin": "shí zhì míng guī",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "实至名归"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "every voice gives praise (idiom); with an extensive public reputation",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-005-line-023",
+        "order": 23,
+        "pinyin": "yǒu kǒu jiē bēi",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "有口皆碑"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "appealing to the masses / universally appreciated (idiom)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-005-line-024",
+        "order": 24,
+        "pinyin": "kuài zhì rén kǒu",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "脍炙人口"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "obvious at a glance (idiom)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-005-line-025",
+        "order": 25,
+        "pinyin": "yī mù liǎo rán",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "一目了然"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. to draw blood on the first prick (idiom) / fig. to hit the nail on the head",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-005-line-026",
+        "order": 26,
+        "pinyin": "yī zhēn jiàn xiě",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "一针见血"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "concise and comprehensive (idiom)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-005-line-027",
+        "order": 27,
+        "pinyin": "yán jiǎn yì gāi",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "言简意赅"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to paint a dragon and dot in the eyes (idiom); fig. to add the vital finishing touch / the crucial point that brings the subject to life / a few words to clinch the point",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-005-line-028",
+        "order": 28,
+        "pinyin": "huà lóng diǎn jīng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "画龙点睛"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to enchant / fascinating",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-005-line-029",
+        "order": 29,
+        "pinyin": "yǐn rén rù shèng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "引人入胜"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to excel the common (idiom); surpassing / preeminent / outstanding",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-005-line-030",
+        "order": 30,
+        "pinyin": "chū lèi bá cuì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "出类拔萃"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "to rank among the best",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-005-line-031",
+        "order": 31,
+        "pinyin": "míng liè qián máo",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "名列前茅"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) see 後來者居上|后来者居上[hou4 lai2 zhe3 ju1 shang4]",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-005-line-032",
+        "order": 32,
+        "pinyin": "hòu lái jū shàng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "后来居上"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "becoming more prosperous with each passing day",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-005-line-033",
+        "order": 33,
+        "pinyin": "zhēng zhēng rì shàng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "蒸蒸日上"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "daily renewal, monthly change (idiom) / every day sees new developments / rapid progress",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-005-line-034",
+        "order": 34,
+        "pinyin": "rì xīn yuè yì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "日新月异"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "highly effective / fruitful",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-005-line-035",
+        "order": 35,
+        "pinyin": "zhuó yǒu chéng xiào",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "卓有成效"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "fully deserving, without any reservations (idiom); entirely worthy (of a title, honor etc)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-005-line-036",
+        "order": 36,
+        "pinyin": "dāng zhī wú kuì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "当之无愧"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "anyone with eyes can see it (idiom); obvious to all / sth speaks for itself / is there for all to see",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-005-line-037",
+        "order": 37,
+        "pinyin": "yǒu mù gòng dǔ",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "有目共睹"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) to turn a blind eye to (sth one sees regularly)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-005-line-038",
+        "order": 38,
+        "pinyin": "shú shì wú dǔ",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "熟视无睹"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "refined in manner / gentle",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-005-line-039",
+        "order": 39,
+        "pinyin": "wén zhì bīn bīn",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "文质彬彬"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(of one's conduct, speech etc) natural and unrestrained",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-005-line-040",
+        "order": 40,
+        "pinyin": "luò luò dà fāng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "落落大方"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "in glowing spirits (idiom); bursting with life / radiating health and vigor",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-005-line-041",
+        "order": 41,
+        "pinyin": "shén cǎi yì yì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "神采奕奕"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) calm; unhurried; composed",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-005-line-042",
+        "order": 42,
+        "pinyin": "bù huāng bù máng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "不慌不忙"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(of a ruler) to strive to make one's nation strong and prosperous (idiom)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-005-line-043",
+        "order": 43,
+        "pinyin": "lì jīng tú zhì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "励精图治"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "with great virtue one can take charge of the world (idiom)",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-005-line-044",
+        "order": 44,
+        "pinyin": "hòu dé zài wù",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "厚德载物"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "(idiom) to live up to one's famous name; its reputation is well deserved",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-005-line-045",
+        "order": 45,
+        "pinyin": "míng bù xū chuán",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "名不虚传"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "magnanimous (idiom); generous",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-005-line-046",
+        "order": 46,
+        "pinyin": "kuān hóng dà liàng",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "宽宏大量"
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "CC BY-SA 3.0",
+            "source_url": "https://cc-cedict.org/",
+            "text": "lit. look into one's heart, no shame (idiom); with a clear conscience",
+            "translator": "CC-CEDICT",
+            "year": null
+          }
+        ],
+        "character_count": 4,
+        "id": "chapter-005-line-047",
+        "order": 47,
+        "pinyin": "wèn xīn wú kuì",
+        "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
+        "text": "问心无愧"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-005-line-048",
+        "order": 48,
+        "pinyin": "cóng róng zì ruò",
+        "pinyin_source": "derived from per-character index",
+        "text": "从容自若"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-005-line-049",
+        "order": 49,
+        "pinyin": "bù jiāo bù zào",
+        "pinyin_source": "derived from per-character index",
+        "text": "不骄不躁"
+      },
+      {
+        "canonical_translations": [],
+        "character_count": 4,
+        "id": "chapter-005-line-050",
+        "order": 50,
+        "pinyin": "qiān xū jǐn shèn",
+        "pinyin_source": "derived from per-character index",
+        "text": "谦虚谨慎"
+      }
+    ],
+    "summary": "光明磊落",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "光明磊落\n大公无私\n克己奉公\n先公后私\n言行一致\n见贤思齐\n闻过则喜\n改过自新\n坚忍不拔\n百折不挠\n心平气和\n心旷神怡\n喜出望外\n满载而归\n如释重负\n意气风发\n从容不迫\n泰然自若\n胸有成竹\n一举两得\n名副其实\n实至名归\n有口皆碑\n脍炙人口\n一目了然\n一针见血\n言简意赅\n画龙点睛\n引人入胜\n出类拔萃\n名列前茅\n后来居上\n蒸蒸日上\n日新月异\n卓有成效\n当之无愧\n有目共睹\n熟视无睹\n文质彬彬\n落落大方\n神采奕奕\n不慌不忙\n励精图治\n厚德载物\n名不虚传\n宽宏大量\n问心无愧\n从容自若\n不骄不躁\n谦虚谨慎",
+    "title": "入门常用·品格与表达"
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-005.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

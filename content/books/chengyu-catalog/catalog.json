@@ -1,0 +1,134 @@
+{
+  "cache_dir": "chengyu-catalog",
+  "catalog_path": "books/chengyu-catalog/catalog.json",
+  "chapter_count": 20,
+  "chapters": [
+    {
+      "id": "chapter-001",
+      "order": 1,
+      "reading_unit_count": 50,
+      "title": "入门常用·学习与积累"
+    },
+    {
+      "id": "chapter-002",
+      "order": 2,
+      "reading_unit_count": 50,
+      "title": "入门常用·思考与判断"
+    },
+    {
+      "id": "chapter-003",
+      "order": 3,
+      "reading_unit_count": 50,
+      "title": "入门常用·行动与方法"
+    },
+    {
+      "id": "chapter-004",
+      "order": 4,
+      "reading_unit_count": 50,
+      "title": "入门常用·人际与协作"
+    },
+    {
+      "id": "chapter-005",
+      "order": 5,
+      "reading_unit_count": 50,
+      "title": "入门常用·品格与表达"
+    },
+    {
+      "id": "chapter-006",
+      "order": 6,
+      "reading_unit_count": 50,
+      "title": "典故起步·高频故事成语"
+    },
+    {
+      "id": "chapter-007",
+      "order": 7,
+      "reading_unit_count": 50,
+      "title": "常用拓展·高透明度 I"
+    },
+    {
+      "id": "chapter-008",
+      "order": 8,
+      "reading_unit_count": 50,
+      "title": "常用拓展·高透明度 II"
+    },
+    {
+      "id": "chapter-009",
+      "order": 9,
+      "reading_unit_count": 50,
+      "title": "常用拓展·高透明度 III"
+    },
+    {
+      "id": "chapter-010",
+      "order": 10,
+      "reading_unit_count": 50,
+      "title": "常用拓展·高透明度 IV"
+    },
+    {
+      "id": "chapter-011",
+      "order": 11,
+      "reading_unit_count": 50,
+      "title": "常用拓展·高透明度 V"
+    },
+    {
+      "id": "chapter-012",
+      "order": 12,
+      "reading_unit_count": 50,
+      "title": "书面拓展·中高透明度 I"
+    },
+    {
+      "id": "chapter-013",
+      "order": 13,
+      "reading_unit_count": 50,
+      "title": "书面拓展·中高透明度 II"
+    },
+    {
+      "id": "chapter-014",
+      "order": 14,
+      "reading_unit_count": 50,
+      "title": "书面拓展·中高透明度 III"
+    },
+    {
+      "id": "chapter-015",
+      "order": 15,
+      "reading_unit_count": 50,
+      "title": "书面拓展·中高透明度 IV"
+    },
+    {
+      "id": "chapter-016",
+      "order": 16,
+      "reading_unit_count": 50,
+      "title": "书面拓展·中高透明度 V"
+    },
+    {
+      "id": "chapter-017",
+      "order": 17,
+      "reading_unit_count": 50,
+      "title": "典故进阶·中透明度 I"
+    },
+    {
+      "id": "chapter-018",
+      "order": 18,
+      "reading_unit_count": 50,
+      "title": "典故进阶·中透明度 II"
+    },
+    {
+      "id": "chapter-019",
+      "order": 19,
+      "reading_unit_count": 50,
+      "title": "文言进阶·较高难度 I"
+    },
+    {
+      "id": "chapter-020",
+      "order": 20,
+      "reading_unit_count": 50,
+      "title": "文言进阶·较高难度 II"
+    }
+  ],
+  "commentary_chapter_count": 0,
+  "commentary_chapters": [],
+  "pedagogy_note": "Pedagogy-first ordering: chapters 1-6 hand-curated core idioms by theme (study, judgment, action, collaboration, character, high-frequency story idioms); 7-20 continue from transparent/common toward more source-heavy and literary. 1,000 four-character idioms in 20 themed chapters.",
+  "provenance_note": "Curated 1,000-idiom subset. Idioms originally derived from the MIT-licensed pwxcoo/chinese-xinhua idiom list, reordered for pedagogy. Pinyin: CC-CEDICT where available, else composed from the per-character index. Translations: CC-CEDICT ONLY (no machine translation — the prior 3,000-idiom catalog had ~13% meaning-inverting errors from a GT fallback). 528/1000 have a canonical translation; the rest are honest gaps the platform's users fill.",
+  "selection_note": "Stats: 1000/1000 with pinyin (100.0%), 528/1000 with CC-CEDICT translation (52.8%).",
+  "source_url": "bundled://chengyu-catalog",
+  "title": "Chengyu Catalog"
+}
