@@ -368,7 +368,7 @@
           {
             "license": "CC BY-SA 3.0",
             "source_url": "https://cc-cedict.org/",
-            "text": "see 清風明月|清风明月[qing1 feng1 ming2 yue4]",
+            "text": "see 清风明月|清风明月[qing1 feng1 ming2 yue4]",
             "translator": "CC-CEDICT",
             "year": null
           }
@@ -520,7 +520,13 @@
         "order": 45,
         "pinyin": "bǎi shì zhī shī",
         "pinyin_source": "derived from per-character index",
-        "text": "百世之师"
+        "text": "百世之师",
+        "origin": {
+          "book": "mengzi",
+          "chapter": 14,
+          "line": 30,
+          "snippet": "孟子曰：「圣人，百世之师也，伯夷、柳下惠是也。故闻伯夷之风者，顽夫廉，懦夫有立志；闻柳下惠之风者，薄夫敦，鄙夫宽。奋乎百世之上。百世之下，闻者莫不兴起也。非圣…"
+        }
       },
       {
         "canonical_translations": [],

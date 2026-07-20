@@ -18,16 +18,481 @@
         "character_count": 56,
         "id": "chapter-036-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "jiāng",
+          "yù",
+          "shè",
+          "zhī",
+          "",
+          "bì",
+          "gù",
+          "zhāng",
+          "zhī",
+          "",
+          "jiāng",
+          "yù",
+          "ruò",
+          "zhī",
+          "",
+          "bì",
+          "gù",
+          "qiáng",
+          "zhī",
+          "",
+          "jiāng",
+          "yù",
+          "fèi",
+          "zhī",
+          "",
+          "bì",
+          "gù",
+          "xīng",
+          "zhī",
+          "",
+          "jiāng",
+          "yù",
+          "duó",
+          "zhī",
+          "",
+          "bì",
+          "gù",
+          "yǔ",
+          "zhī",
+          "",
+          "shì",
+          "wèi",
+          "wēi",
+          "míng",
+          "",
+          "róu",
+          "ruò",
+          "shèng",
+          "gāng",
+          "qiáng",
+          "",
+          "yú",
+          "bù",
+          "kě",
+          "tuō",
+          "yú",
+          "yuān",
+          "",
+          "guó",
+          "zhī",
+          "lì",
+          "qì",
+          "bù",
+          "ké",
+          "yǐ",
+          "shì",
+          "rén",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "將欲歙之，必固張之；將欲弱之，必固強之；將欲廢之，必固興之；將欲奪之，必固與之。是謂微明。柔弱勝剛強。魚不可脫於淵，國之利器不可以示人。"
+        "text": "将欲歙之，必固张之；将欲弱之，必固强之；将欲废之，必固兴之；将欲夺之，必固与之。是谓微明。柔弱胜刚强。鱼不可脱于渊，国之利器不可以示人。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "将"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "欲"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "歙"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "之"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "必"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "固"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "张"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "之"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "将"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "欲"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "弱"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "之"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "必"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "固"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "强"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "之"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "将"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "欲"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "废"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "之"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "必"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "固"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "兴"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "之"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "将"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "欲"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "夺"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "之"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "必"
+          },
+          {
+            "end": 37,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 36,
+            "word": "固"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "与"
+          },
+          {
+            "end": 39,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 38,
+            "word": "之"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "是"
+          },
+          {
+            "end": 42,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 41,
+            "word": "谓"
+          },
+          {
+            "end": 44,
+            "gloss": "twilight",
+            "pinyin": "wēi míng",
+            "source": "CC-CEDICT",
+            "start": 42,
+            "word": "微明"
+          },
+          {
+            "end": 47,
+            "gloss": "weak / delicate",
+            "pinyin": "róu ruò",
+            "source": "CC-CEDICT",
+            "start": 45,
+            "word": "柔弱"
+          },
+          {
+            "end": 48,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 47,
+            "word": "胜"
+          },
+          {
+            "end": 50,
+            "gloss": "firm; unyielding",
+            "pinyin": "gāng qiáng",
+            "source": "CC-CEDICT",
+            "start": 48,
+            "word": "刚强"
+          },
+          {
+            "end": 52,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 51,
+            "word": "鱼"
+          },
+          {
+            "end": 54,
+            "gloss": "cannot; should not; must not",
+            "pinyin": "bù kě",
+            "source": "CC-CEDICT",
+            "start": 52,
+            "word": "不可"
+          },
+          {
+            "end": 55,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 54,
+            "word": "脱"
+          },
+          {
+            "end": 56,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 55,
+            "word": "于"
+          },
+          {
+            "end": 57,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 56,
+            "word": "渊"
+          },
+          {
+            "end": 59,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 58,
+            "word": "国"
+          },
+          {
+            "end": 60,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 59,
+            "word": "之"
+          },
+          {
+            "end": 62,
+            "gloss": "sharp weapon / effective implement / outstandingly able individual",
+            "pinyin": "lì qì",
+            "source": "CC-CEDICT",
+            "start": 60,
+            "word": "利器"
+          },
+          {
+            "end": 65,
+            "gloss": "may not",
+            "pinyin": "bù kě yǐ",
+            "source": "CC-CEDICT",
+            "start": 62,
+            "word": "不可以"
+          },
+          {
+            "end": 66,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 65,
+            "word": "示"
+          },
+          {
+            "end": 67,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 66,
+            "word": "人"
+          }
+        ]
       }
     ],
-    "summary": "將欲歙之，必固張之；將欲弱之，必固強之；將欲廢之，必固興之；將欲奪之，必固與之",
+    "summary": "将欲歙之，必固张之；将欲弱之，必固强之；将欲废之，必固兴之；将欲夺之，必固与之",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "將欲歙之，必固張之；將欲弱之，必固強之；將欲廢之，必固興之；將欲奪之，必固與之。是謂微明。柔弱勝剛強。魚不可脫於淵，國之利器不可以示人。",
+    "text": "将欲歙之，必固张之；将欲弱之，必固强之；将欲废之，必固兴之；将欲夺之，必固与之。是谓微明。柔弱胜刚强。鱼不可脱于渊，国之利器不可以示人。",
     "title": "第36章"
   },
   "chapter_path": "books/daodejing/chapters/chapter-036.json",

@@ -18,16 +18,746 @@
         "character_count": 91,
         "id": "chapter-027-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "shàn",
+          "xíng",
+          "wú",
+          "zhé",
+          "jì",
+          "",
+          "shàn",
+          "yán",
+          "wú",
+          "xiá",
+          "zhé",
+          "",
+          "shàn",
+          "shù",
+          "bú",
+          "yòng",
+          "chóu",
+          "cè",
+          "",
+          "shàn",
+          "bì",
+          "wú",
+          "guān",
+          "jiàn",
+          "ér",
+          "bù",
+          "kě",
+          "kāi",
+          "",
+          "shàn",
+          "jié",
+          "wú",
+          "shéng",
+          "yuē",
+          "ér",
+          "bù",
+          "ké",
+          "jiě",
+          "",
+          "shì",
+          "yǐ",
+          "shèng",
+          "rén",
+          "cháng",
+          "shàn",
+          "jiù",
+          "rén",
+          "",
+          "gù",
+          "wú",
+          "qì",
+          "rén",
+          "",
+          "cháng",
+          "shàn",
+          "jiù",
+          "wù",
+          "",
+          "gù",
+          "wú",
+          "qì",
+          "wù",
+          "",
+          "shì",
+          "wèi",
+          "xí",
+          "míng",
+          "",
+          "gù",
+          "shàn",
+          "rén",
+          "zhě",
+          "",
+          "bú",
+          "shàn",
+          "rén",
+          "zhī",
+          "shī",
+          "",
+          "bú",
+          "shàn",
+          "rén",
+          "zhě",
+          "",
+          "shàn",
+          "rén",
+          "zhī",
+          "zī",
+          "",
+          "bú",
+          "guì",
+          "qí",
+          "shī",
+          "",
+          "bú",
+          "ài",
+          "qí",
+          "zī",
+          "",
+          "suī",
+          "zhì",
+          "dà",
+          "mí",
+          "",
+          "shì",
+          "wèi",
+          "yào",
+          "miào",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "善行無轍迹，善言無瑕讁；善數不用籌策；善閉無關楗而不可開，善結無繩約而不可解。是以聖人常善救人，故無棄人；常善救物，故無棄物。是謂襲明。故善人者，不善人之師；不善人者，善人之資。不貴其師，不愛其資，雖智大迷，是謂要妙。"
+        "text": "善行无辙迹，善言无瑕讁；善数不用筹策；善闭无关楗而不可开，善结无绳约而不可解。是以圣人常善救人，故无弃人；常善救物，故无弃物。是谓袭明。故善人者，不善人之师；不善人者，善人之资。不贵其师，不爱其资，虽智大迷，是谓要妙。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "good actions",
+            "pinyin": "shàn xíng",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "善行"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "无"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "辙"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "迹"
+          },
+          {
+            "end": 8,
+            "gloss": "good words",
+            "pinyin": "shàn yán",
+            "source": "CC-CEDICT",
+            "start": 6,
+            "word": "善言"
+          },
+          {
+            "end": 10,
+            "gloss": "faultless; perfect",
+            "pinyin": "wú xiá",
+            "source": "CC-CEDICT",
+            "start": 8,
+            "word": "无瑕"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "讁"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "善"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "数"
+          },
+          {
+            "end": 16,
+            "gloss": "need not",
+            "pinyin": "bù yòng",
+            "source": "CC-CEDICT",
+            "start": 14,
+            "word": "不用"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "筹"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "策"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "善"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "闭"
+          },
+          {
+            "end": 23,
+            "gloss": "unrelated / having nothing to do (with sth else)",
+            "pinyin": "wú guān",
+            "source": "CC-CEDICT",
+            "start": 21,
+            "word": "无关"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "楗"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "而"
+          },
+          {
+            "end": 27,
+            "gloss": "cannot; should not; must not",
+            "pinyin": "bù kě",
+            "source": "CC-CEDICT",
+            "start": 25,
+            "word": "不可"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "开"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "善"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "结"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "无"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "绳"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "约"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "而"
+          },
+          {
+            "end": 38,
+            "gloss": "insoluble (i.e. impossible to solve)",
+            "pinyin": "bù kě jiě",
+            "source": "CC-CEDICT",
+            "start": 35,
+            "word": "不可解"
+          },
+          {
+            "end": 41,
+            "gloss": "therefore / thus / so",
+            "pinyin": "shì yǐ",
+            "source": "CC-CEDICT",
+            "start": 39,
+            "word": "是以"
+          },
+          {
+            "end": 43,
+            "gloss": "the sage; the holy man",
+            "pinyin": "shèng rén",
+            "source": "classical-override",
+            "start": 41,
+            "word": "圣人"
+          },
+          {
+            "end": 44,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 43,
+            "word": "常"
+          },
+          {
+            "end": 45,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 44,
+            "word": "善"
+          },
+          {
+            "end": 46,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 45,
+            "word": "救"
+          },
+          {
+            "end": 47,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 46,
+            "word": "人"
+          },
+          {
+            "end": 49,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 48,
+            "word": "故"
+          },
+          {
+            "end": 50,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 49,
+            "word": "无"
+          },
+          {
+            "end": 51,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 50,
+            "word": "弃"
+          },
+          {
+            "end": 52,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 51,
+            "word": "人"
+          },
+          {
+            "end": 54,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 53,
+            "word": "常"
+          },
+          {
+            "end": 55,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 54,
+            "word": "善"
+          },
+          {
+            "end": 56,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 55,
+            "word": "救"
+          },
+          {
+            "end": 57,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 56,
+            "word": "物"
+          },
+          {
+            "end": 59,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 58,
+            "word": "故"
+          },
+          {
+            "end": 60,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 59,
+            "word": "无"
+          },
+          {
+            "end": 61,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 60,
+            "word": "弃"
+          },
+          {
+            "end": 62,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 61,
+            "word": "物"
+          },
+          {
+            "end": 64,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 63,
+            "word": "是"
+          },
+          {
+            "end": 65,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 64,
+            "word": "谓"
+          },
+          {
+            "end": 66,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 65,
+            "word": "袭"
+          },
+          {
+            "end": 67,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 66,
+            "word": "明"
+          },
+          {
+            "end": 69,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 68,
+            "word": "故"
+          },
+          {
+            "end": 71,
+            "gloss": "philanthropist / charitable person / well-doer",
+            "pinyin": "shàn rén",
+            "source": "CC-CEDICT",
+            "start": 69,
+            "word": "善人"
+          },
+          {
+            "end": 72,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 71,
+            "word": "者"
+          },
+          {
+            "end": 75,
+            "gloss": "bad / ill / not good at / not to be pooh-poohed / quite impressive",
+            "pinyin": "bù shàn",
+            "source": "CC-CEDICT",
+            "start": 73,
+            "word": "不善"
+          },
+          {
+            "end": 76,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 75,
+            "word": "人"
+          },
+          {
+            "end": 77,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 76,
+            "word": "之"
+          },
+          {
+            "end": 78,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 77,
+            "word": "师"
+          },
+          {
+            "end": 81,
+            "gloss": "bad / ill / not good at / not to be pooh-poohed / quite impressive",
+            "pinyin": "bù shàn",
+            "source": "CC-CEDICT",
+            "start": 79,
+            "word": "不善"
+          },
+          {
+            "end": 82,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 81,
+            "word": "人"
+          },
+          {
+            "end": 83,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 82,
+            "word": "者"
+          },
+          {
+            "end": 86,
+            "gloss": "philanthropist / charitable person / well-doer",
+            "pinyin": "shàn rén",
+            "source": "CC-CEDICT",
+            "start": 84,
+            "word": "善人"
+          },
+          {
+            "end": 87,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 86,
+            "word": "之"
+          },
+          {
+            "end": 88,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 87,
+            "word": "资"
+          },
+          {
+            "end": 90,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 89,
+            "word": "不"
+          },
+          {
+            "end": 91,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 90,
+            "word": "贵"
+          },
+          {
+            "end": 92,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 91,
+            "word": "其"
+          },
+          {
+            "end": 93,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 92,
+            "word": "师"
+          },
+          {
+            "end": 95,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 94,
+            "word": "不"
+          },
+          {
+            "end": 96,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 95,
+            "word": "爱"
+          },
+          {
+            "end": 97,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 96,
+            "word": "其"
+          },
+          {
+            "end": 98,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 97,
+            "word": "资"
+          },
+          {
+            "end": 100,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 99,
+            "word": "虽"
+          },
+          {
+            "end": 101,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 100,
+            "word": "智"
+          },
+          {
+            "end": 102,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 101,
+            "word": "大"
+          },
+          {
+            "end": 103,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 102,
+            "word": "迷"
+          },
+          {
+            "end": 105,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 104,
+            "word": "是"
+          },
+          {
+            "end": 106,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 105,
+            "word": "谓"
+          },
+          {
+            "end": 107,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 106,
+            "word": "要"
+          },
+          {
+            "end": 108,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 107,
+            "word": "妙"
+          }
+        ]
       }
     ],
-    "summary": "善行無轍迹，善言無瑕讁；善數不用籌策；善閉無關楗而不可開，善結無繩約而不可解",
+    "summary": "善行无辙迹，善言无瑕讁；善数不用筹策；善闭无关楗而不可开，善结无绳约而不可解",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "善行無轍迹，善言無瑕讁；善數不用籌策；善閉無關楗而不可開，善結無繩約而不可解。是以聖人常善救人，故無棄人；常善救物，故無棄物。是謂襲明。故善人者，不善人之師；不善人者，善人之資。不貴其師，不愛其資，雖智大迷，是謂要妙。",
+    "text": "善行无辙迹，善言无瑕讁；善数不用筹策；善闭无关楗而不可开，善结无绳约而不可解。是以圣人常善救人，故无弃人；常善救物，故无弃物。是谓袭明。故善人者，不善人之师；不善人者，善人之资。不贵其师，不爱其资，虽智大迷，是谓要妙。",
     "title": "第27章"
   },
   "chapter_path": "books/daodejing/chapters/chapter-027.json",

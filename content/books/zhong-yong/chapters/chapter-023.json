@@ -18,16 +18,312 @@
         "character_count": 34,
         "id": "chapter-023-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "qí",
+          "cì",
+          "zhì",
+          "qū",
+          "",
+          "qū",
+          "néng",
+          "yǒu",
+          "chéng",
+          "",
+          "chéng",
+          "zé",
+          "xíng",
+          "",
+          "xíng",
+          "zé",
+          "zhù",
+          "",
+          "zhù",
+          "zé",
+          "míng",
+          "",
+          "míng",
+          "zé",
+          "dòng",
+          "",
+          "dòng",
+          "zé",
+          "biàn",
+          "",
+          "biàn",
+          "zé",
+          "huà",
+          "",
+          "wéi",
+          "tiān",
+          "xià",
+          "zhì",
+          "chéng",
+          "wèi",
+          "néng",
+          "huà",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "其次致曲，曲能有誠，誠則形，形則著，著則明，明則動，動則變，變則化，唯天下至誠為能化。"
+        "text": "其次致曲，曲能有诚，诚则形，形则著，著则明，明则动，动则变，变则化，唯天下至诚为能化。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "next / secondly",
+            "pinyin": "qí cì",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "其次"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "致"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "曲"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "曲"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "能"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "有"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "诚"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "诚"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "则"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "形"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "形"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "则"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "著"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "著"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "则"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "明"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "明"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "则"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "动"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "动"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "则"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "变"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "变"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "则"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "化"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "唯"
+          },
+          {
+            "end": 37,
+            "gloss": "land under heaven / the whole world / the whole of China / realm / rule",
+            "pinyin": "tiān xià",
+            "source": "CC-CEDICT",
+            "start": 35,
+            "word": "天下"
+          },
+          {
+            "end": 39,
+            "gloss": "sincere",
+            "pinyin": "zhì chéng",
+            "source": "CC-CEDICT",
+            "start": 37,
+            "word": "至诚"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "为"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "能"
+          },
+          {
+            "end": 42,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 41,
+            "word": "化"
+          }
+        ]
       }
     ],
     "summary": "",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "其次致曲，曲能有誠，誠則形，形則著，著則明，明則動，動則變，變則化，唯天下至誠為能化。",
+    "text": "其次致曲，曲能有诚，诚则形，形则著，著则明，明则动，动则变，变则化，唯天下至诚为能化。",
     "title": ""
   },
   "chapter_path": "books/zhong-yong/chapters/chapter-023.json",

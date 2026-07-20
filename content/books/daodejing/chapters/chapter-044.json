@@ -18,16 +18,348 @@
         "character_count": 39,
         "id": "chapter-044-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "míng",
+          "yǔ",
+          "shēn",
+          "shú",
+          "qīn",
+          "",
+          "shēn",
+          "yǔ",
+          "huò",
+          "shú",
+          "duō",
+          "",
+          "dé",
+          "yǔ",
+          "wáng",
+          "shú",
+          "bìng",
+          "",
+          "shì",
+          "gù",
+          "shèn",
+          "ài",
+          "bì",
+          "dà",
+          "fèi",
+          "",
+          "duō",
+          "cáng",
+          "bì",
+          "hòu",
+          "wáng",
+          "",
+          "zhī",
+          "zú",
+          "bù",
+          "rǔ",
+          "",
+          "zhī",
+          "zhǐ",
+          "bú",
+          "dài",
+          "",
+          "ké",
+          "yǐ",
+          "cháng",
+          "jiǔ",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "名與身孰親？身與貨孰多？得與亡孰病？是故甚愛必大費；多藏必厚亡。知足不辱，知止不殆，可以長久。"
+        "text": "名与身孰亲？身与货孰多？得与亡孰病？是故甚爱必大费；多藏必厚亡。知足不辱，知止不殆，可以长久。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "名"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "与"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "身"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "孰"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "亲"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "身"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "与"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "货"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "孰"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "多"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "得"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "与"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "亡"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "孰"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "病"
+          },
+          {
+            "end": 20,
+            "gloss": "therefore / so / consequently",
+            "pinyin": "shì gù",
+            "source": "CC-CEDICT",
+            "start": 18,
+            "word": "是故"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "甚"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "爱"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "必"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "大"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "费"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "多"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "藏"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "必"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "厚"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "亡"
+          },
+          {
+            "end": 34,
+            "gloss": "content with one's situation / to know contentment (hence happiness)",
+            "pinyin": "zhī zú",
+            "source": "CC-CEDICT",
+            "start": 32,
+            "word": "知足"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "不"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "辱"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "知"
+          },
+          {
+            "end": 39,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 38,
+            "word": "止"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "不"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "殆"
+          },
+          {
+            "end": 44,
+            "gloss": "can / may / possible / able to / not bad / pretty good",
+            "pinyin": "kě yǐ",
+            "source": "CC-CEDICT",
+            "start": 42,
+            "word": "可以"
+          },
+          {
+            "end": 46,
+            "gloss": "long-time; long-term / lasting; enduring; permanent / for a long time",
+            "pinyin": "cháng jiǔ",
+            "source": "CC-CEDICT",
+            "start": 44,
+            "word": "长久"
+          }
+        ]
       }
     ],
-    "summary": "名與身孰親？身與貨孰多？得與亡孰病？是故甚愛必大費；多藏必厚亡",
+    "summary": "名与身孰亲？身与货孰多？得与亡孰病？是故甚爱必大费；多藏必厚亡",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "名與身孰親？身與貨孰多？得與亡孰病？是故甚愛必大費；多藏必厚亡。知足不辱，知止不殆，可以長久。",
+    "text": "名与身孰亲？身与货孰多？得与亡孰病？是故甚爱必大费；多藏必厚亡。知足不辱，知止不殆，可以长久。",
     "title": "第44章"
   },
   "chapter_path": "books/daodejing/chapters/chapter-044.json",

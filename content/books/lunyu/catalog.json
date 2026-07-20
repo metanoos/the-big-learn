@@ -1,6 +1,29 @@
 {
   "cache_dir": "books/lunyu",
   "catalog_path": "books/lunyu/catalog.json",
+  "display_name": "Lunyu 论语",
+  "name_zh": "论语",
+  "name_pinyin": "Lún Yǔ",
+  "name_en": "The Analects",
+  "v1": true,
+  "available": true,
+  "tradition": "confucian",
+  "form": "philosophy",
+  "year": -400,
+  "tier": "S",
+  "difficulty": "intermediate",
+  "curriculum_order": 4,
+  "title": "四书章句集注 : 论语集注",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/lun-yu-ji-zhu?if=en",
+  "source_title": "v1 canon. Chinese text via ctext.org (Si Shu Zhang Ju Ji Zhu). English translation: James Legge (public domain), seeded as the sole canonical translation per line. Modern copyrighted translations (Lau/Slingerland/Watson) are referenced by the platform, not stored. Source-of-truth file in this repo: content/SOURCES.md.",
+  "blurb": "The Analects — Confucius in fragments, compiled by his students after his death. The single most-shaped text in the Chinese tradition.",
+  "background": "The Lunyu (Analects) is not a treatise Confucius wrote but a compilation his students assembled after his death in 479 BCE — short, aphoristic, often situational ('The Master said...'). Twenty books of fragments that nonetheless add up to a coherent moral picture: learning as a lifelong posture, ritual as the grammar of social life, the junzi (the cultivated person) as an ethical center of gravity. The text set the agenda for two thousand years of East Asian thought and is still the entry point most readers meet first. Its influence on the language is hard to overstate — many chengyu in this library's catalog trace back verbatim to a line here (见贤思齐, 温故知新, 三人行必有我师). English seeding is James Legge (public domain); modern alternatives (Lau, Slingerland, Ames & Rosemont, Watson) are referenced by the platform, not stored.",
+  "provider": "ctext-html",
+  "seed_translator": {
+    "license": "public domain",
+    "translator": "Legge",
+    "year": 1891
+  },
   "chapter_count": 20,
   "chapters": [
     {
@@ -11,7 +34,9 @@
       "reading_unit_count": 26,
       "summary": "",
       "supplemental_unit_count": 44,
-      "title": "學而第一"
+      "title": "学而第一",
+      "title_en": "On Learning",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/lunyu/chapters/chapter-002.json",
@@ -21,7 +46,9 @@
       "reading_unit_count": 39,
       "summary": "",
       "supplemental_unit_count": 46,
-      "title": "為政第二"
+      "title": "为政第二",
+      "title_en": "On Government",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/lunyu/chapters/chapter-003.json",
@@ -31,7 +58,9 @@
       "reading_unit_count": 36,
       "summary": "",
       "supplemental_unit_count": 55,
-      "title": "八佾第三"
+      "title": "八佾第三",
+      "title_en": "The Eight Rows of Dancers",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/lunyu/chapters/chapter-004.json",
@@ -41,7 +70,9 @@
       "reading_unit_count": 31,
       "summary": "",
       "supplemental_unit_count": 40,
-      "title": "里仁第四"
+      "title": "里仁第四",
+      "title_en": "About Benevolence",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/lunyu/chapters/chapter-005.json",
@@ -51,7 +82,9 @@
       "reading_unit_count": 39,
       "summary": "",
       "supplemental_unit_count": 55,
-      "title": "公冶長第五"
+      "title": "公冶长第五",
+      "title_en": "Gongye Chang",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/lunyu/chapters/chapter-006.json",
@@ -61,7 +94,9 @@
       "reading_unit_count": 36,
       "summary": "",
       "supplemental_unit_count": 62,
-      "title": "雍也第六"
+      "title": "雍也第六",
+      "title_en": "Of Yong",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/lunyu/chapters/chapter-007.json",
@@ -71,7 +106,9 @@
       "reading_unit_count": 50,
       "summary": "",
       "supplemental_unit_count": 62,
-      "title": "述而第七"
+      "title": "述而第七",
+      "title_en": "The Master's Transmission",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/lunyu/chapters/chapter-008.json",
@@ -81,7 +118,9 @@
       "reading_unit_count": 33,
       "summary": "",
       "supplemental_unit_count": 43,
-      "title": "泰伯第八"
+      "title": "泰伯第八",
+      "title_en": "Taibo",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/lunyu/chapters/chapter-009.json",
@@ -91,7 +130,9 @@
       "reading_unit_count": 44,
       "summary": "",
       "supplemental_unit_count": 54,
-      "title": "子罕第九"
+      "title": "子罕第九",
+      "title_en": "The Master Seldom Spoke",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/lunyu/chapters/chapter-010.json",
@@ -101,17 +142,21 @@
       "reading_unit_count": 61,
       "summary": "",
       "supplemental_unit_count": 42,
-      "title": "鄉黨第十"
+      "title": "乡党第十",
+      "title_en": "In the Village",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/lunyu/chapters/chapter-011.json",
       "character_count": 1053,
       "id": "chapter-011",
       "order": 11,
-      "reading_unit_count": 63,
+      "reading_unit_count": 62,
       "summary": "",
       "supplemental_unit_count": 54,
-      "title": "先進第十一"
+      "title": "先进第十一",
+      "title_en": "First to Enter",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/lunyu/chapters/chapter-012.json",
@@ -121,7 +166,9 @@
       "reading_unit_count": 55,
       "summary": "",
       "supplemental_unit_count": 54,
-      "title": "顏淵第十二"
+      "title": "颜渊第十二",
+      "title_en": "Yan Yuan",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/lunyu/chapters/chapter-013.json",
@@ -131,7 +178,9 @@
       "reading_unit_count": 54,
       "summary": "",
       "supplemental_unit_count": 46,
-      "title": "子路第十三"
+      "title": "子路第十三",
+      "title_en": "Zilu",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/lunyu/chapters/chapter-014.json",
@@ -141,7 +190,9 @@
       "reading_unit_count": 75,
       "summary": "",
       "supplemental_unit_count": 79,
-      "title": "憲問第十四"
+      "title": "宪问第十四",
+      "title_en": "Xian Asked",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/lunyu/chapters/chapter-015.json",
@@ -151,7 +202,9 @@
       "reading_unit_count": 61,
       "summary": "",
       "supplemental_unit_count": 58,
-      "title": "衛靈公第十五"
+      "title": "卫灵公第十五",
+      "title_en": "Duke Ling of Wei",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/lunyu/chapters/chapter-016.json",
@@ -161,7 +214,9 @@
       "reading_unit_count": 35,
       "summary": "",
       "supplemental_unit_count": 26,
-      "title": "季氏第十六"
+      "title": "季氏第十六",
+      "title_en": "Chief of the Ji Family",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/lunyu/chapters/chapter-017.json",
@@ -171,7 +226,9 @@
       "reading_unit_count": 54,
       "summary": "",
       "supplemental_unit_count": 47,
-      "title": "陽貨第十七"
+      "title": "阳货第十七",
+      "title_en": "Yang Huo",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/lunyu/chapters/chapter-018.json",
@@ -181,7 +238,9 @@
       "reading_unit_count": 28,
       "summary": "",
       "supplemental_unit_count": 30,
-      "title": "微子第十八"
+      "title": "微子第十八",
+      "title_en": "Weizi",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/lunyu/chapters/chapter-019.json",
@@ -191,7 +250,9 @@
       "reading_unit_count": 33,
       "summary": "",
       "supplemental_unit_count": 33,
-      "title": "子張第十九"
+      "title": "子张第十九",
+      "title_en": "Zizhang",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/lunyu/chapters/chapter-020.json",
@@ -201,18 +262,11 @@
       "reading_unit_count": 15,
       "summary": "",
       "supplemental_unit_count": 11,
-      "title": "堯曰第二十"
+      "title": "尧曰第二十",
+      "title_en": "Yao Said",
+      "title_en_source": "human"
     }
   ],
   "commentary_chapter_count": 0,
-  "commentary_chapters": [],
-  "provenance_note_v1": "v1 canon. Chinese text via ctext.org (Si Shu Zhang Ju Ji Zhu). English translation: James Legge (public domain), seeded as the sole canonical translation per line. Modern copyrighted translations (Lau/Slingerland/Watson) are referenced by the platform, not stored. Source-of-truth file in this repo: content/SOURCES.md.",
-  "provider": "ctext-html",
-  "seed_translator": {
-    "license": "public domain",
-    "translator": "Legge",
-    "year": 1891
-  },
-  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/lun-yu-ji-zhu?if=en",
-  "title": "四書章句集注 : 論語集注"
+  "commentary_chapters": []
 }

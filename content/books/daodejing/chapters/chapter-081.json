@@ -18,16 +18,491 @@
         "character_count": 57,
         "id": "chapter-081-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "xìn",
+          "yán",
+          "bù",
+          "měi",
+          "",
+          "měi",
+          "yán",
+          "bú",
+          "xìn",
+          "",
+          "shàn",
+          "zhě",
+          "bú",
+          "biàn",
+          "",
+          "biàn",
+          "zhě",
+          "bú",
+          "shàn",
+          "",
+          "zhī",
+          "zhě",
+          "bù",
+          "bó",
+          "",
+          "bó",
+          "zhě",
+          "bù",
+          "zhī",
+          "",
+          "shèng",
+          "rén",
+          "bù",
+          "jī",
+          "",
+          "jì",
+          "yǐ",
+          "wéi",
+          "rén",
+          "jǐ",
+          "yù",
+          "yǒu",
+          "",
+          "jì",
+          "yí",
+          "yǔ",
+          "rén",
+          "jǐ",
+          "yù",
+          "duō",
+          "",
+          "tiān",
+          "zhī",
+          "dào",
+          "",
+          "lì",
+          "ér",
+          "bú",
+          "hài",
+          "",
+          "shèng",
+          "rén",
+          "zhī",
+          "dào",
+          "",
+          "wèi",
+          "ér",
+          "bù",
+          "zhēng",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "信言不美，美言不信。善者不辯，辯者不善。知者不博，博者不知。聖人不積，既以為人己愈有，既以與人己愈多。天之道，利而不害；聖人之道，為而不爭。"
+        "text": "信言不美，美言不信。善者不辩，辩者不善。知者不博，博者不知。圣人不积，既以为人己愈有，既以与人己愈多。天之道，利而不害；圣人之道，为而不争。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "信"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "言"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "不"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "美"
+          },
+          {
+            "end": 7,
+            "gloss": "to put in a good word (for sb) / (literary) beautiful words; elegant expression",
+            "pinyin": "měi yán",
+            "source": "CC-CEDICT",
+            "start": 5,
+            "word": "美言"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "不"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "信"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "善"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "者"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "不"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "辩"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "辩"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "者"
+          },
+          {
+            "end": 19,
+            "gloss": "bad / ill / not good at / not to be pooh-poohed / quite impressive",
+            "pinyin": "bù shàn",
+            "source": "CC-CEDICT",
+            "start": 17,
+            "word": "不善"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "知"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "者"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "不"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "博"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "博"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "者"
+          },
+          {
+            "end": 29,
+            "gloss": "not to know / unaware / unknowingly / fig. not to admit (defeat, hardships, tiredness etc)",
+            "pinyin": "bù zhī",
+            "source": "CC-CEDICT",
+            "start": 27,
+            "word": "不知"
+          },
+          {
+            "end": 32,
+            "gloss": "the sage; the holy man",
+            "pinyin": "shèng rén",
+            "source": "classical-override",
+            "start": 30,
+            "word": "圣人"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "不"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "积"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "既"
+          },
+          {
+            "end": 38,
+            "gloss": "to think; to believe (often with the implication that the belief is mistaken – unless referring to …",
+            "pinyin": "yǐ wéi",
+            "source": "CC-CEDICT",
+            "start": 36,
+            "word": "以为"
+          },
+          {
+            "end": 39,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 38,
+            "word": "人"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "己"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "愈"
+          },
+          {
+            "end": 42,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 41,
+            "word": "有"
+          },
+          {
+            "end": 44,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 43,
+            "word": "既"
+          },
+          {
+            "end": 45,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 44,
+            "word": "以"
+          },
+          {
+            "end": 46,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 45,
+            "word": "与"
+          },
+          {
+            "end": 47,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 46,
+            "word": "人"
+          },
+          {
+            "end": 48,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 47,
+            "word": "己"
+          },
+          {
+            "end": 49,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 48,
+            "word": "愈"
+          },
+          {
+            "end": 50,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 49,
+            "word": "多"
+          },
+          {
+            "end": 52,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 51,
+            "word": "天"
+          },
+          {
+            "end": 53,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 52,
+            "word": "之"
+          },
+          {
+            "end": 54,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 53,
+            "word": "道"
+          },
+          {
+            "end": 56,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 55,
+            "word": "利"
+          },
+          {
+            "end": 57,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 56,
+            "word": "而"
+          },
+          {
+            "end": 58,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 57,
+            "word": "不"
+          },
+          {
+            "end": 59,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 58,
+            "word": "害"
+          },
+          {
+            "end": 62,
+            "gloss": "the sage; the holy man",
+            "pinyin": "shèng rén",
+            "source": "classical-override",
+            "start": 60,
+            "word": "圣人"
+          },
+          {
+            "end": 63,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 62,
+            "word": "之"
+          },
+          {
+            "end": 64,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 63,
+            "word": "道"
+          },
+          {
+            "end": 66,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 65,
+            "word": "为"
+          },
+          {
+            "end": 67,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 66,
+            "word": "而"
+          },
+          {
+            "end": 69,
+            "gloss": "widely known / incontestable / undeniable / to not strive for / to not contend for",
+            "pinyin": "bù zhēng",
+            "source": "CC-CEDICT",
+            "start": 67,
+            "word": "不争"
+          }
+        ]
       }
     ],
     "summary": "信言不美，美言不信",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "信言不美，美言不信。善者不辯，辯者不善。知者不博，博者不知。聖人不積，既以為人己愈有，既以與人己愈多。天之道，利而不害；聖人之道，為而不爭。",
+    "text": "信言不美，美言不信。善者不辩，辩者不善。知者不博，博者不知。圣人不积，既以为人己愈有，既以与人己愈多。天之道，利而不害；圣人之道，为而不争。",
     "title": "第81章"
   },
   "chapter_path": "books/daodejing/chapters/chapter-081.json",

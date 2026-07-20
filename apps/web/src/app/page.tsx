@@ -1,10 +1,15 @@
-import Link from "next/link";
-import { getBooks, type Book } from "@/lib/api";
+import { getBooks } from "@/lib/api";
+import { LibraryBooks } from "@/components/LibraryBooks";
 
+// Home is the library. The pitch lives in the heading ("Read the books that
+// shaped the Chinese character") and the section intros; there's no separate
+// landing page. Server-rendered for canonical content (catalog, chapter
+// counts); LibraryBooks layers the signed-in reader's progress on top and
+// groups books into named sections (Four Books → Daoist → Five Classics → …).
 export const dynamic = "force-dynamic";
 
-export default async function Library() {
-  let books: Book[] = [];
+export default async function Home() {
+  let books: import("@/lib/api").Book[] = [];
   let error = "";
   try {
     books = await getBooks();
@@ -12,73 +17,21 @@ export default async function Library() {
     error = e.message;
   }
 
-  const v1 = books.filter((b) => b.v1);
-  const deferred = books.filter((b) => !b.v1);
-
   return (
-    <div className="space-y-10">
+    <div className="space-y-8">
       <section>
-        <h1 className="font-serif text-2xl text-stone-900 mb-1">The Big Learn</h1>
-        <p className="text-stone-600 text-sm leading-relaxed max-w-prose">
-          A collaborative translation platform for classical Chinese. Read line
-          by line, see canonical translations beside reader submissions, vote on
-          the ones that resonate, and — when you're moved — posit your own
-          translation and get feedback before publishing.
-        </p>
-        <p className="text-stone-500 text-xs leading-relaxed max-w-prose mt-3 italic">
-          This is new. Every canonical line already has James Legge's
-          translation (public domain) to read against — but the reader
-          translations, the comments, the voting are all still to be built by
-          the people who show up early. If that's you, welcome.
-        </p>
+        <h1 className="font-serif text-2xl text-stone-900 dark:text-stone-100 mb-1">
+          Read the books that shaped the Chinese character.
+        </h1>
       </section>
 
       {error && (
-        <p className="text-rose-600 text-sm">
-          Couldn't reach the API: {error}. Is the backend running on :8080?
+        <p className="text-rose-600 dark:text-rose-400 text-sm">
+          Couldn't reach the API: {error}. Is the backend running on :8180?
         </p>
       )}
 
-      <section>
-        <h2 className="text-xs uppercase tracking-wider text-stone-400 mb-3">
-          Curriculum · v1
-        </h2>
-        <div className="grid gap-3">
-          {v1.map((b) => (
-            <BookCard key={b.slug} book={b} />
-          ))}
-        </div>
-      </section>
-
-      {deferred.length > 0 && (
-        <section>
-          <h2 className="text-xs uppercase tracking-wider text-stone-400 mb-3">
-            More texts (deferred · not yet v1)
-          </h2>
-          <div className="grid gap-3 opacity-70">
-            {deferred.map((b) => (
-              <BookCard key={b.slug} book={b} />
-            ))}
-          </div>
-        </section>
-      )}
+      <LibraryBooks books={books} />
     </div>
-  );
-}
-
-function BookCard({ book }: { book: Book }) {
-  return (
-    <Link
-      href={`/books/${book.slug}`}
-      className="block px-4 py-3 bg-white border border-stone-200 rounded hover:border-stone-400 transition-colors"
-    >
-      <div className="flex items-baseline justify-between">
-        <span className="font-serif text-stone-900">{book.title}</span>
-        <span className="text-xs text-stone-400">{book.chapter_count} ch</span>
-      </div>
-      {book.source_title && (
-        <span className="text-xs text-stone-500">{book.source_title}</span>
-      )}
-    </Link>
   );
 }

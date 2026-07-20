@@ -605,7 +605,13 @@
         "order": 50,
         "pinyin": "shēng ér zhī zhī",
         "pinyin_source": "derived from per-character index",
-        "text": "生而知之"
+        "text": "生而知之",
+        "origin": {
+          "book": "lunyu",
+          "chapter": 7,
+          "line": 27,
+          "snippet": "子曰：「我非生而知之者，好古，敏以求之者也。」"
+        }
       }
     ],
     "summary": "别有天地",

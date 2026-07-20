@@ -18,16 +18,355 @@
         "character_count": 45,
         "id": "chapter-072-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "mín",
+          "bú",
+          "wèi",
+          "wēi",
+          "",
+          "zé",
+          "dà",
+          "wēi",
+          "zhì",
+          "",
+          "wú",
+          "xiá",
+          "qí",
+          "suǒ",
+          "jū",
+          "",
+          "wú",
+          "yàn",
+          "qí",
+          "suǒ",
+          "shēng",
+          "",
+          "fū",
+          "wéi",
+          "bú",
+          "yàn",
+          "",
+          "shì",
+          "yǐ",
+          "bú",
+          "yàn",
+          "",
+          "shì",
+          "yǐ",
+          "shèng",
+          "rén",
+          "zì",
+          "zhī",
+          "bú",
+          "zì",
+          "jiàn",
+          "",
+          "zì",
+          "ài",
+          "bú",
+          "zì",
+          "guì",
+          "",
+          "gù",
+          "qù",
+          "bí",
+          "qú",
+          "cǐ",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "民不畏威，則大威至。無狎其所居，無厭其所生。夫唯不厭，是以不厭。是以聖人自知不自見；自愛不自貴。故去彼取此。"
+        "text": "民不畏威，则大威至。无狎其所居，无厌其所生。夫唯不厌，是以不厌。是以圣人自知不自见；自爱不自贵。故去彼取此。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "民"
+          },
+          {
+            "end": 3,
+            "gloss": "unafraid / to defy",
+            "pinyin": "bù wèi",
+            "source": "CC-CEDICT",
+            "start": 1,
+            "word": "不畏"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "威"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "则"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "大"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "威"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "至"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "无"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "狎"
+          },
+          {
+            "end": 14,
+            "gloss": "its place / one's appointed place / the place for that",
+            "pinyin": "qí suǒ",
+            "source": "CC-CEDICT",
+            "start": 12,
+            "word": "其所"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "居"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "无"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "厌"
+          },
+          {
+            "end": 20,
+            "gloss": "its place / one's appointed place / the place for that",
+            "pinyin": "qí suǒ",
+            "source": "CC-CEDICT",
+            "start": 18,
+            "word": "其所"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "生"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "夫"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "唯"
+          },
+          {
+            "end": 26,
+            "gloss": "not to tire of / not to object to",
+            "pinyin": "bù yàn",
+            "source": "CC-CEDICT",
+            "start": 24,
+            "word": "不厌"
+          },
+          {
+            "end": 29,
+            "gloss": "therefore / thus / so",
+            "pinyin": "shì yǐ",
+            "source": "CC-CEDICT",
+            "start": 27,
+            "word": "是以"
+          },
+          {
+            "end": 31,
+            "gloss": "not to tire of / not to object to",
+            "pinyin": "bù yàn",
+            "source": "CC-CEDICT",
+            "start": 29,
+            "word": "不厌"
+          },
+          {
+            "end": 34,
+            "gloss": "therefore / thus / so",
+            "pinyin": "shì yǐ",
+            "source": "CC-CEDICT",
+            "start": 32,
+            "word": "是以"
+          },
+          {
+            "end": 36,
+            "gloss": "the sage; the holy man",
+            "pinyin": "shèng rén",
+            "source": "classical-override",
+            "start": 34,
+            "word": "圣人"
+          },
+          {
+            "end": 37,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 36,
+            "word": "自"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "知"
+          },
+          {
+            "end": 39,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 38,
+            "word": "不"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "自"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "见"
+          },
+          {
+            "end": 44,
+            "gloss": "self-respect / self-love / self-regard / regard for oneself / to cherish one's good name / to take …",
+            "pinyin": "zì ài",
+            "source": "CC-CEDICT",
+            "start": 42,
+            "word": "自爱"
+          },
+          {
+            "end": 45,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 44,
+            "word": "不"
+          },
+          {
+            "end": 46,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 45,
+            "word": "自"
+          },
+          {
+            "end": 47,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 46,
+            "word": "贵"
+          },
+          {
+            "end": 50,
+            "gloss": "(euphemism) to pass away; to die",
+            "pinyin": "gù qù",
+            "source": "CC-CEDICT",
+            "start": 48,
+            "word": "故去"
+          },
+          {
+            "end": 51,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 50,
+            "word": "彼"
+          },
+          {
+            "end": 52,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 51,
+            "word": "取"
+          },
+          {
+            "end": 53,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 52,
+            "word": "此"
+          }
+        ]
       }
     ],
-    "summary": "民不畏威，則大威至",
+    "summary": "民不畏威，则大威至",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "民不畏威，則大威至。無狎其所居，無厭其所生。夫唯不厭，是以不厭。是以聖人自知不自見；自愛不自貴。故去彼取此。",
+    "text": "民不畏威，则大威至。无狎其所居，无厌其所生。夫唯不厌，是以不厌。是以圣人自知不自见；自爱不自贵。故去彼取此。",
     "title": "第72章"
   },
   "chapter_path": "books/daodejing/chapters/chapter-072.json",

@@ -18,16 +18,332 @@
         "character_count": 45,
         "id": "chapter-005-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "tiān",
+          "dì",
+          "bù",
+          "rén",
+          "",
+          "yǐ",
+          "wàn",
+          "wù",
+          "wèi",
+          "chú",
+          "gǒu",
+          "",
+          "shèng",
+          "rén",
+          "bù",
+          "rén",
+          "",
+          "yí",
+          "bǎi",
+          "xìng",
+          "wèi",
+          "chú",
+          "gǒu",
+          "",
+          "tiān",
+          "dì",
+          "zhī",
+          "jiān",
+          "",
+          "qí",
+          "yóu",
+          "tuó",
+          "yuè",
+          "hū",
+          "",
+          "xū",
+          "ér",
+          "bù",
+          "qū",
+          "",
+          "dòng",
+          "ér",
+          "yù",
+          "chū",
+          "",
+          "duō",
+          "yán",
+          "shuò",
+          "qióng",
+          "",
+          "bù",
+          "rú",
+          "shǒu",
+          "zhōng",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "天地不仁，以萬物為芻狗；聖人不仁，以百姓為芻狗。天地之間，其猶橐籥乎？虛而不屈，動而愈出。多言數窮，不如守中。"
+        "text": "天地不仁，以万物为刍狗；圣人不仁，以百姓为刍狗。天地之间，其犹橐籥乎？虚而不屈，动而愈出。多言数穷，不如守中。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "heaven and earth / world / scope / field of activity",
+            "pinyin": "tiān dì",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "天地"
+          },
+          {
+            "end": 4,
+            "gloss": "not benevolent / heartless / numb",
+            "pinyin": "bù rén",
+            "source": "CC-CEDICT",
+            "start": 2,
+            "word": "不仁"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "以"
+          },
+          {
+            "end": 8,
+            "gloss": "all things / all that exists",
+            "pinyin": "wàn wù",
+            "source": "CC-CEDICT",
+            "start": 6,
+            "word": "万物"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "为"
+          },
+          {
+            "end": 11,
+            "gloss": "(literary) straw dog used as a ritual offering in ancient China (treated with reverence during the …",
+            "pinyin": "chú gǒu",
+            "source": "CC-CEDICT",
+            "start": 9,
+            "word": "刍狗"
+          },
+          {
+            "end": 14,
+            "gloss": "the sage; the holy man",
+            "pinyin": "shèng rén",
+            "source": "classical-override",
+            "start": 12,
+            "word": "圣人"
+          },
+          {
+            "end": 16,
+            "gloss": "not benevolent / heartless / numb",
+            "pinyin": "bù rén",
+            "source": "CC-CEDICT",
+            "start": 14,
+            "word": "不仁"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "以"
+          },
+          {
+            "end": 20,
+            "gloss": "common people",
+            "pinyin": "bǎi xìng",
+            "source": "CC-CEDICT",
+            "start": 18,
+            "word": "百姓"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "为"
+          },
+          {
+            "end": 23,
+            "gloss": "(literary) straw dog used as a ritual offering in ancient China (treated with reverence during the …",
+            "pinyin": "chú gǒu",
+            "source": "CC-CEDICT",
+            "start": 21,
+            "word": "刍狗"
+          },
+          {
+            "end": 26,
+            "gloss": "heaven and earth / world / scope / field of activity",
+            "pinyin": "tiān dì",
+            "source": "CC-CEDICT",
+            "start": 24,
+            "word": "天地"
+          },
+          {
+            "end": 28,
+            "gloss": "(after a noun) between; among; amid / (used after certain bisyllabic words to form expressions indi…",
+            "pinyin": "zhī jiān",
+            "source": "CC-CEDICT",
+            "start": 26,
+            "word": "之间"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "其"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "犹"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "橐"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "籥"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "乎"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "虚"
+          },
+          {
+            "end": 37,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 36,
+            "word": "而"
+          },
+          {
+            "end": 39,
+            "gloss": "unyielding / unbending",
+            "pinyin": "bù qū",
+            "source": "CC-CEDICT",
+            "start": 37,
+            "word": "不屈"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "动"
+          },
+          {
+            "end": 42,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 41,
+            "word": "而"
+          },
+          {
+            "end": 43,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 42,
+            "word": "愈"
+          },
+          {
+            "end": 44,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 43,
+            "word": "出"
+          },
+          {
+            "end": 47,
+            "gloss": "wordy / talkative",
+            "pinyin": "duō yán",
+            "source": "CC-CEDICT",
+            "start": 45,
+            "word": "多言"
+          },
+          {
+            "end": 48,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 47,
+            "word": "数"
+          },
+          {
+            "end": 49,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 48,
+            "word": "穷"
+          },
+          {
+            "end": 52,
+            "gloss": "not equal to; not as good as; inferior to / it would be better to",
+            "pinyin": "bù rú",
+            "source": "CC-CEDICT",
+            "start": 50,
+            "word": "不如"
+          },
+          {
+            "end": 53,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 52,
+            "word": "守"
+          },
+          {
+            "end": 54,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 53,
+            "word": "中"
+          }
+        ]
       }
     ],
-    "summary": "天地不仁，以萬物為芻狗；聖人不仁，以百姓為芻狗",
+    "summary": "天地不仁，以万物为刍狗；圣人不仁，以百姓为刍狗",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "天地不仁，以萬物為芻狗；聖人不仁，以百姓為芻狗。天地之間，其猶橐籥乎？虛而不屈，動而愈出。多言數窮，不如守中。",
+    "text": "天地不仁，以万物为刍狗；圣人不仁，以百姓为刍狗。天地之间，其犹橐籥乎？虚而不屈，动而愈出。多言数穷，不如守中。",
     "title": "第5章"
   },
   "chapter_path": "books/daodejing/chapters/chapter-005.json",

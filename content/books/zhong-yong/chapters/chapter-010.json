@@ -18,9 +18,43 @@
         "character_count": 4,
         "id": "chapter-010-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "zi",
+          "lù",
+          "wèn",
+          "qiáng",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "子路問強。"
+        "text": "子路问强。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "Zi Lu (542-480 BC), disciple of Confucius 孔夫子[Kong3 fu1 zi3], also known as Ji Lu 季路[Ji4 Lu4]",
+            "pinyin": "Zǐ Lù",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "子路"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "问"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "强"
+          }
+        ]
       },
       {
         "canonical_translations": [
@@ -35,9 +69,139 @@
         "character_count": 16,
         "id": "chapter-010-line-002",
         "order": 2,
+        "pinyin_per_char": [
+          "zǐ",
+          "yuē",
+          "",
+          "",
+          "nán",
+          "fāng",
+          "zhī",
+          "qiáng",
+          "yǔ",
+          "",
+          "běi",
+          "fāng",
+          "zhī",
+          "qiáng",
+          "yǔ",
+          "",
+          "yì",
+          "ér",
+          "qiáng",
+          "yǔ",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 2,
-        "text": "子曰：「南方之強與？北方之強與？抑而強與？"
+        "text": "子曰：「南方之强与？北方之强与？抑而强与？",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "The Master said (Confucius said)",
+            "pinyin": "zǐ yuē",
+            "source": "classical-override",
+            "start": 0,
+            "word": "子曰"
+          },
+          {
+            "end": 6,
+            "gloss": "south; southern direction / (in China) southern regions, often referring to areas south of the Yang…",
+            "pinyin": "nán fāng",
+            "source": "CC-CEDICT",
+            "start": 4,
+            "word": "南方"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "之"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "强"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "与"
+          },
+          {
+            "end": 12,
+            "gloss": "north / the northern part a country / China north of the Yellow River",
+            "pinyin": "běi fāng",
+            "source": "CC-CEDICT",
+            "start": 10,
+            "word": "北方"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "之"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "强"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "与"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "抑"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "而"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "强"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "与"
+          }
+        ]
       },
       {
         "canonical_translations": [
@@ -52,9 +216,147 @@
         "character_count": 17,
         "id": "chapter-010-line-003",
         "order": 3,
+        "pinyin_per_char": [
+          "kuān",
+          "róu",
+          "yǐ",
+          "jiào",
+          "",
+          "bú",
+          "bào",
+          "wú",
+          "dào",
+          "",
+          "nán",
+          "fāng",
+          "zhī",
+          "qiáng",
+          "yě",
+          "",
+          "jūn",
+          "zǐ",
+          "jū",
+          "zhī",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 3,
-        "text": "寬柔以教，不報無道，南方之強也，君子居之。"
+        "text": "宽柔以教，不报无道，南方之强也，君子居之。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "宽"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "柔"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "以"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "教"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "不"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "报"
+          },
+          {
+            "end": 9,
+            "gloss": "tyrannical / brutal (regime)",
+            "pinyin": "wú dào",
+            "source": "CC-CEDICT",
+            "start": 7,
+            "word": "无道"
+          },
+          {
+            "end": 12,
+            "gloss": "south; southern direction / (in China) southern regions, often referring to areas south of the Yang…",
+            "pinyin": "nán fāng",
+            "source": "CC-CEDICT",
+            "start": 10,
+            "word": "南方"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "之"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "强"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "也"
+          },
+          {
+            "end": 18,
+            "gloss": "the superior man; the exemplary person (junzi)",
+            "pinyin": "jūn zǐ",
+            "source": "classical-override",
+            "start": 16,
+            "word": "君子"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "居"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "之"
+          }
+        ]
       },
       {
         "canonical_translations": [
@@ -69,9 +371,155 @@
         "character_count": 17,
         "id": "chapter-010-line-004",
         "order": 4,
+        "pinyin_per_char": [
+          "rèn",
+          "jīn",
+          "gé",
+          "",
+          "sǐ",
+          "ér",
+          "bú",
+          "yàn",
+          "",
+          "běi",
+          "fāng",
+          "zhī",
+          "qiáng",
+          "yě",
+          "",
+          "ér",
+          "qiáng",
+          "zhě",
+          "jū",
+          "zhī",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 4,
-        "text": "衽金革，死而不厭，北方之強也，而強者居之。"
+        "text": "衽金革，死而不厌，北方之强也，而强者居之。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "衽"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "金"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "革"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "死"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "而"
+          },
+          {
+            "end": 8,
+            "gloss": "not to tire of / not to object to",
+            "pinyin": "bù yàn",
+            "source": "CC-CEDICT",
+            "start": 6,
+            "word": "不厌"
+          },
+          {
+            "end": 11,
+            "gloss": "north / the northern part a country / China north of the Yellow River",
+            "pinyin": "běi fāng",
+            "source": "CC-CEDICT",
+            "start": 9,
+            "word": "北方"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "之"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "强"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "也"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "而"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "强"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "者"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "居"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "之"
+          }
+        ]
       },
       {
         "canonical_translations": [
@@ -86,16 +534,326 @@
         "character_count": 38,
         "id": "chapter-010-line-005",
         "order": 5,
+        "pinyin_per_char": [
+          "gù",
+          "jūn",
+          "zǐ",
+          "hé",
+          "ér",
+          "bù",
+          "liú",
+          "",
+          "qiáng",
+          "zāi",
+          "jiǎo",
+          "",
+          "zhōng",
+          "lì",
+          "ér",
+          "bù",
+          "yǐ",
+          "",
+          "qiáng",
+          "zāi",
+          "jiǎo",
+          "",
+          "guó",
+          "yǒu",
+          "dào",
+          "",
+          "bú",
+          "biàn",
+          "sāi",
+          "yān",
+          "",
+          "qiáng",
+          "zāi",
+          "jiǎo",
+          "",
+          "guó",
+          "wú",
+          "dào",
+          "",
+          "zhì",
+          "sǐ",
+          "bú",
+          "biàn",
+          "",
+          "qiáng",
+          "zāi",
+          "jiǎo",
+          "",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 5,
-        "text": "故君子和而不流，強哉矯！中立而不倚，強哉矯！國有道，不變塞焉，強哉矯！國無道，至死不變，強哉矯！」"
+        "text": "故君子和而不流，强哉矫！中立而不倚，强哉矫！国有道，不变塞焉，强哉矫！国无道，至死不变，强哉矫！」",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "故"
+          },
+          {
+            "end": 3,
+            "gloss": "the superior man; the exemplary person (junzi)",
+            "pinyin": "jūn zǐ",
+            "source": "classical-override",
+            "start": 1,
+            "word": "君子"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "和"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "而"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "不"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "流"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "强"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "哉"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "矫"
+          },
+          {
+            "end": 14,
+            "gloss": "neutral / neutrality",
+            "pinyin": "zhōng lì",
+            "source": "CC-CEDICT",
+            "start": 12,
+            "word": "中立"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "而"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "不"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "倚"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "强"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "哉"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "矫"
+          },
+          {
+            "end": 24,
+            "gloss": "nationalized / public / government owned / state-owned",
+            "pinyin": "guó yǒu",
+            "source": "CC-CEDICT",
+            "start": 22,
+            "word": "国有"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "道"
+          },
+          {
+            "end": 28,
+            "gloss": "constant / unvarying / (math.) invariant",
+            "pinyin": "bù biàn",
+            "source": "CC-CEDICT",
+            "start": 26,
+            "word": "不变"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "塞"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "焉"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "强"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "哉"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "矫"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "国"
+          },
+          {
+            "end": 38,
+            "gloss": "tyrannical / brutal (regime)",
+            "pinyin": "wú dào",
+            "source": "CC-CEDICT",
+            "start": 36,
+            "word": "无道"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "至"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "死"
+          },
+          {
+            "end": 43,
+            "gloss": "constant / unvarying / (math.) invariant",
+            "pinyin": "bù biàn",
+            "source": "CC-CEDICT",
+            "start": 41,
+            "word": "不变"
+          },
+          {
+            "end": 45,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 44,
+            "word": "强"
+          },
+          {
+            "end": 46,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 45,
+            "word": "哉"
+          },
+          {
+            "end": 47,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 46,
+            "word": "矫"
+          }
+        ]
       }
     ],
     "summary": "",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "子路問強。\n子曰：「南方之強與？北方之強與？抑而強與？\n寬柔以教，不報無道，南方之強也，君子居之。\n衽金革，死而不厭，北方之強也，而強者居之。\n故君子和而不流，強哉矯！中立而不倚，強哉矯！國有道，不變塞焉，強哉矯！國無道，至死不變，強哉矯！」",
+    "text": "子路问强。\n子曰：「南方之强与？北方之强与？抑而强与？\n宽柔以教，不报无道，南方之强也，君子居之。\n衽金革，死而不厌，北方之强也，而强者居之。\n故君子和而不流，强哉矫！中立而不倚，强哉矫！国有道，不变塞焉，强哉矫！国无道，至死不变，强哉矫！」",
     "title": ""
   },
   "chapter_path": "books/zhong-yong/chapters/chapter-010.json",

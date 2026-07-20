@@ -18,16 +18,613 @@
         "character_count": 71,
         "id": "chapter-021-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "kǒng",
+          "dé",
+          "zhī",
+          "róng",
+          "",
+          "wéi",
+          "dào",
+          "shì",
+          "cóng",
+          "",
+          "dào",
+          "zhī",
+          "wéi",
+          "wù",
+          "",
+          "wéi",
+          "huǎng",
+          "wéi",
+          "hū",
+          "",
+          "hū",
+          "xī",
+          "huǎng",
+          "xī",
+          "",
+          "qí",
+          "zhōng",
+          "yǒu",
+          "xiàng",
+          "",
+          "huǎng",
+          "xī",
+          "hū",
+          "xī",
+          "",
+          "qí",
+          "zhōng",
+          "yǒu",
+          "wù",
+          "",
+          "yǎo",
+          "xī",
+          "míng",
+          "xī",
+          "",
+          "qí",
+          "zhōng",
+          "yǒu",
+          "jīng",
+          "",
+          "qí",
+          "jīng",
+          "shèn",
+          "zhēn",
+          "",
+          "qí",
+          "zhōng",
+          "yǒu",
+          "xìn",
+          "",
+          "zì",
+          "gǔ",
+          "jí",
+          "jīn",
+          "",
+          "qí",
+          "míng",
+          "bú",
+          "qù",
+          "",
+          "yǐ",
+          "yuè",
+          "zhòng",
+          "fǔ",
+          "",
+          "wú",
+          "hé",
+          "yǐ",
+          "zhī",
+          "zhòng",
+          "fǔ",
+          "zhī",
+          "zhuàng",
+          "zāi",
+          "",
+          "yí",
+          "cǐ",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "孔德之容，唯道是從。道之為物，唯恍唯惚。忽兮恍兮，其中有象；恍兮忽兮，其中有物。窈兮冥兮，其中有精；其精甚真，其中有信。自古及今，其名不去，以閱衆甫。吾何以知衆甫之狀哉？以此。"
+        "text": "孔德之容，唯道是从。道之为物，唯恍唯惚。忽兮恍兮，其中有象；恍兮忽兮，其中有物。窈兮冥兮，其中有精；其精甚真，其中有信。自古及今，其名不去，以阅众甫。吾何以知众甫之状哉？以此。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "Auguste Comte (1798-1857), French philosopher",
+            "pinyin": "Kǒng dé",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "孔德"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "之"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "容"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "唯"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "道"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "是"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "从"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "道"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "之"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "为"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "物"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "唯"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "恍"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "唯"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "惚"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "忽"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "兮"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "恍"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "兮"
+          },
+          {
+            "end": 27,
+            "gloss": "among / in / included among these",
+            "pinyin": "qí zhōng",
+            "source": "CC-CEDICT",
+            "start": 25,
+            "word": "其中"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "有"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "象"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "恍"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "兮"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "忽"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "兮"
+          },
+          {
+            "end": 37,
+            "gloss": "among / in / included among these",
+            "pinyin": "qí zhōng",
+            "source": "CC-CEDICT",
+            "start": 35,
+            "word": "其中"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "有"
+          },
+          {
+            "end": 39,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 38,
+            "word": "物"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "窈"
+          },
+          {
+            "end": 42,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 41,
+            "word": "兮"
+          },
+          {
+            "end": 43,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 42,
+            "word": "冥"
+          },
+          {
+            "end": 44,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 43,
+            "word": "兮"
+          },
+          {
+            "end": 47,
+            "gloss": "among / in / included among these",
+            "pinyin": "qí zhōng",
+            "source": "CC-CEDICT",
+            "start": 45,
+            "word": "其中"
+          },
+          {
+            "end": 48,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 47,
+            "word": "有"
+          },
+          {
+            "end": 49,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 48,
+            "word": "精"
+          },
+          {
+            "end": 51,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 50,
+            "word": "其"
+          },
+          {
+            "end": 52,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 51,
+            "word": "精"
+          },
+          {
+            "end": 53,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 52,
+            "word": "甚"
+          },
+          {
+            "end": 54,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 53,
+            "word": "真"
+          },
+          {
+            "end": 57,
+            "gloss": "among / in / included among these",
+            "pinyin": "qí zhōng",
+            "source": "CC-CEDICT",
+            "start": 55,
+            "word": "其中"
+          },
+          {
+            "end": 58,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 57,
+            "word": "有"
+          },
+          {
+            "end": 59,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 58,
+            "word": "信"
+          },
+          {
+            "end": 62,
+            "gloss": "(since) ancient times / (from) time immemorial",
+            "pinyin": "zì gǔ",
+            "source": "CC-CEDICT",
+            "start": 60,
+            "word": "自古"
+          },
+          {
+            "end": 63,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 62,
+            "word": "及"
+          },
+          {
+            "end": 64,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 63,
+            "word": "今"
+          },
+          {
+            "end": 66,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 65,
+            "word": "其"
+          },
+          {
+            "end": 67,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 66,
+            "word": "名"
+          },
+          {
+            "end": 68,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 67,
+            "word": "不"
+          },
+          {
+            "end": 69,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 68,
+            "word": "去"
+          },
+          {
+            "end": 71,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 70,
+            "word": "以"
+          },
+          {
+            "end": 72,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 71,
+            "word": "阅"
+          },
+          {
+            "end": 73,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 72,
+            "word": "众"
+          },
+          {
+            "end": 74,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 73,
+            "word": "甫"
+          },
+          {
+            "end": 76,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 75,
+            "word": "吾"
+          },
+          {
+            "end": 78,
+            "gloss": "(literary) why / how",
+            "pinyin": "hé yǐ",
+            "source": "CC-CEDICT",
+            "start": 76,
+            "word": "何以"
+          },
+          {
+            "end": 79,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 78,
+            "word": "知"
+          },
+          {
+            "end": 80,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 79,
+            "word": "众"
+          },
+          {
+            "end": 81,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 80,
+            "word": "甫"
+          },
+          {
+            "end": 82,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 81,
+            "word": "之"
+          },
+          {
+            "end": 83,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 82,
+            "word": "状"
+          },
+          {
+            "end": 84,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 83,
+            "word": "哉"
+          },
+          {
+            "end": 87,
+            "gloss": "with this / thereby / thus / because of this",
+            "pinyin": "yǐ cǐ",
+            "source": "CC-CEDICT",
+            "start": 85,
+            "word": "以此"
+          }
+        ]
       }
     ],
-    "summary": "孔德之容，唯道是從",
+    "summary": "孔德之容，唯道是从",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "孔德之容，唯道是從。道之為物，唯恍唯惚。忽兮恍兮，其中有象；恍兮忽兮，其中有物。窈兮冥兮，其中有精；其精甚真，其中有信。自古及今，其名不去，以閱衆甫。吾何以知衆甫之狀哉？以此。",
+    "text": "孔德之容，唯道是从。道之为物，唯恍唯惚。忽兮恍兮，其中有象；恍兮忽兮，其中有物。窈兮冥兮，其中有精；其精甚真，其中有信。自古及今，其名不去，以阅众甫。吾何以知众甫之状哉？以此。",
     "title": "第21章"
   },
   "chapter_path": "books/daodejing/chapters/chapter-021.json",

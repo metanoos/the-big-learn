@@ -1,9 +1,9 @@
 {
   "chapter": {
-    "character_count": 16,
+    "character_count": 205,
     "id": "chapter-001",
     "order": 1,
-    "reading_unit_count": 1,
+    "reading_unit_count": 7,
     "reading_units": [
       {
         "canonical_translations": [
@@ -18,17 +18,1750 @@
         "character_count": 16,
         "id": "chapter-001-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "dà",
+          "xué",
+          "zhī",
+          "dào",
+          "",
+          "zài",
+          "míng",
+          "míng",
+          "dé",
+          "",
+          "zài",
+          "qīn",
+          "mín",
+          "",
+          "zài",
+          "zhǐ",
+          "yú",
+          "zhì",
+          "shàn",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "大學之道，在明明德，在親民，在止於至善。"
+        "text": "大学之道，在明明德，在亲民，在止于至善。",
+        "word_spans": [
+          {
+            "end": 4,
+            "gloss": "The way of the Great Learning",
+            "pinyin": "dà xué zhī dào",
+            "source": "classical-override",
+            "start": 0,
+            "word": "大学之道"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "在"
+          },
+          {
+            "end": 9,
+            "gloss": "to illustrate illustrious virtue; to make one's bright virtue shine",
+            "pinyin": "míng míng dé",
+            "source": "classical-override",
+            "start": 6,
+            "word": "明明德"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "在"
+          },
+          {
+            "end": 13,
+            "gloss": "to renovate (or love) the people",
+            "pinyin": "qīn mín",
+            "source": "classical-override",
+            "start": 11,
+            "word": "亲民"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "在"
+          },
+          {
+            "end": 19,
+            "gloss": "to rest in the highest excellence",
+            "pinyin": "zhǐ yú zhì shàn",
+            "source": "classical-override",
+            "start": 15,
+            "word": "止于至善"
+          }
+        ]
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "public domain",
+            "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Great_Learning",
+            "text": "Once you know where to stop, you can be settled; once settled, you can be calm; once calm, you can be at ease; once at ease, you can deliberate; once you deliberate, you can attain.",
+            "translator": "Legge",
+            "year": 1891
+          }
+        ],
+        "character_count": 26,
+        "id": "chapter-001-line-002",
+        "order": 2,
+        "pinyin_per_char": [
+          "zhī",
+          "zhǐ",
+          "ér",
+          "hòu",
+          "yǒu",
+          "dìng",
+          "",
+          "dìng",
+          "ér",
+          "hòu",
+          "néng",
+          "jìng",
+          "",
+          "jìng",
+          "ér",
+          "hòu",
+          "néng",
+          "ān",
+          "",
+          "ān",
+          "ér",
+          "hòu",
+          "néng",
+          "lǜ",
+          "",
+          "lǜ",
+          "ér",
+          "hòu",
+          "néng",
+          "dé",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "知止而后有定，定而后能静，静而后能安，安而后能虑，虑而后能得。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "知"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "止"
+          },
+          {
+            "end": 4,
+            "gloss": "after that / then",
+            "pinyin": "ér hòu",
+            "source": "CC-CEDICT",
+            "start": 2,
+            "word": "而后"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "有"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "定"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "定"
+          },
+          {
+            "end": 10,
+            "gloss": "after that / then",
+            "pinyin": "ér hòu",
+            "source": "CC-CEDICT",
+            "start": 8,
+            "word": "而后"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "能"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "静"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "静"
+          },
+          {
+            "end": 16,
+            "gloss": "after that / then",
+            "pinyin": "ér hòu",
+            "source": "CC-CEDICT",
+            "start": 14,
+            "word": "而后"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "能"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "安"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "安"
+          },
+          {
+            "end": 22,
+            "gloss": "after that / then",
+            "pinyin": "ér hòu",
+            "source": "CC-CEDICT",
+            "start": 20,
+            "word": "而后"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "能"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "虑"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "虑"
+          },
+          {
+            "end": 28,
+            "gloss": "after that / then",
+            "pinyin": "ér hòu",
+            "source": "CC-CEDICT",
+            "start": 26,
+            "word": "而后"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "能"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "得"
+          }
+        ]
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "public domain",
+            "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Great_Learning",
+            "text": "Things have roots and branches; affairs have beginnings and endings. Knowing what comes first and what comes after, you come near the Way.",
+            "translator": "Legge",
+            "year": 1891
+          }
+        ],
+        "character_count": 16,
+        "id": "chapter-001-line-003",
+        "order": 3,
+        "pinyin_per_char": [
+          "wù",
+          "yóu",
+          "běn",
+          "mò",
+          "",
+          "shì",
+          "yǒu",
+          "zhōng",
+          "shǐ",
+          "",
+          "zhī",
+          "suǒ",
+          "xiān",
+          "hòu",
+          "",
+          "zé",
+          "jìn",
+          "dào",
+          "yǐ",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "物有本末，事有终始，知所先后，则近道矣。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "物"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "有"
+          },
+          {
+            "end": 4,
+            "gloss": "the whole course of an event from beginning to end / ins and outs / the fundamental and the inciden…",
+            "pinyin": "běn mò",
+            "source": "CC-CEDICT",
+            "start": 2,
+            "word": "本末"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "事"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "有"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "终"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "始"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "知"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "所"
+          },
+          {
+            "end": 14,
+            "gloss": "early or late; first and last; priority / in succession; one after another",
+            "pinyin": "xiān hòu",
+            "source": "CC-CEDICT",
+            "start": 12,
+            "word": "先后"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "则"
+          },
+          {
+            "end": 18,
+            "gloss": "shortcut / a quicker method",
+            "pinyin": "jìn dào",
+            "source": "CC-CEDICT",
+            "start": 16,
+            "word": "近道"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "矣"
+          }
+        ]
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "public domain",
+            "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Great_Learning",
+            "text": "Those of old who wished to make luminous virtue shine throughout the world first ordered their states; those who wished to order their states first regulated their families; those who wished to regulate their families first cultivated themselves; those who wished to cultivate themselves first rectified their hearts; those who wished to rectify their hearts first made their intentions sincere; those who wished to make their intentions sincere first extended their knowledge; extending knowledge lies in investigating things.",
+            "translator": "Legge",
+            "year": 1891
+          }
+        ],
+        "character_count": 64,
+        "id": "chapter-001-line-004",
+        "order": 4,
+        "pinyin_per_char": [
+          "gǔ",
+          "zhī",
+          "yù",
+          "míng",
+          "míng",
+          "dé",
+          "yú",
+          "tiān",
+          "xià",
+          "zhě",
+          "",
+          "xiān",
+          "zhì",
+          "qí",
+          "guó",
+          "",
+          "yù",
+          "zhì",
+          "qí",
+          "guó",
+          "zhě",
+          "",
+          "xiān",
+          "qí",
+          "qí",
+          "jiā",
+          "",
+          "yù",
+          "qí",
+          "qí",
+          "jiā",
+          "zhě",
+          "",
+          "xiān",
+          "xiū",
+          "qí",
+          "shēn",
+          "",
+          "yù",
+          "xiū",
+          "qí",
+          "shēn",
+          "zhě",
+          "",
+          "xiān",
+          "zhèng",
+          "qí",
+          "xīn",
+          "",
+          "yù",
+          "zhèng",
+          "qí",
+          "xīn",
+          "zhě",
+          "",
+          "xiān",
+          "chéng",
+          "qí",
+          "yì",
+          "",
+          "yù",
+          "chéng",
+          "qí",
+          "yì",
+          "zhě",
+          "",
+          "xiān",
+          "zhì",
+          "qí",
+          "zhī",
+          "",
+          "zhì",
+          "zhī",
+          "zài",
+          "gé",
+          "wù",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "古之欲明明德于天下者，先治其国；欲治其国者，先齐其家；欲齐其家者，先修其身；欲修其身者，先正其心；欲正其心者，先诚其意；欲诚其意者，先致其知；致知在格物。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "古"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "之"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "欲"
+          },
+          {
+            "end": 6,
+            "gloss": "to illustrate illustrious virtue; to make one's bright virtue shine",
+            "pinyin": "míng míng dé",
+            "source": "classical-override",
+            "start": 3,
+            "word": "明明德"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "于"
+          },
+          {
+            "end": 9,
+            "gloss": "land under heaven / the whole world / the whole of China / realm / rule",
+            "pinyin": "tiān xià",
+            "source": "CC-CEDICT",
+            "start": 7,
+            "word": "天下"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "者"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "先"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "治"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "其"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "国"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "欲"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "治"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "其"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "国"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "者"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "先"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "齐"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "其"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "家"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "欲"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "齐"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "其"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "家"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "者"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "先"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "修"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "其"
+          },
+          {
+            "end": 37,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 36,
+            "word": "身"
+          },
+          {
+            "end": 39,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 38,
+            "word": "欲"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "修"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "其"
+          },
+          {
+            "end": 42,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 41,
+            "word": "身"
+          },
+          {
+            "end": 43,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 42,
+            "word": "者"
+          },
+          {
+            "end": 45,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 44,
+            "word": "先"
+          },
+          {
+            "end": 46,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 45,
+            "word": "正"
+          },
+          {
+            "end": 47,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 46,
+            "word": "其"
+          },
+          {
+            "end": 48,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 47,
+            "word": "心"
+          },
+          {
+            "end": 50,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 49,
+            "word": "欲"
+          },
+          {
+            "end": 51,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 50,
+            "word": "正"
+          },
+          {
+            "end": 52,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 51,
+            "word": "其"
+          },
+          {
+            "end": 53,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 52,
+            "word": "心"
+          },
+          {
+            "end": 54,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 53,
+            "word": "者"
+          },
+          {
+            "end": 56,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 55,
+            "word": "先"
+          },
+          {
+            "end": 57,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 56,
+            "word": "诚"
+          },
+          {
+            "end": 58,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 57,
+            "word": "其"
+          },
+          {
+            "end": 59,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 58,
+            "word": "意"
+          },
+          {
+            "end": 61,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 60,
+            "word": "欲"
+          },
+          {
+            "end": 62,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 61,
+            "word": "诚"
+          },
+          {
+            "end": 63,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 62,
+            "word": "其"
+          },
+          {
+            "end": 64,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 63,
+            "word": "意"
+          },
+          {
+            "end": 65,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 64,
+            "word": "者"
+          },
+          {
+            "end": 67,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 66,
+            "word": "先"
+          },
+          {
+            "end": 68,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 67,
+            "word": "致"
+          },
+          {
+            "end": 69,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 68,
+            "word": "其"
+          },
+          {
+            "end": 70,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 69,
+            "word": "知"
+          },
+          {
+            "end": 73,
+            "gloss": "to carry knowledge to the utmost",
+            "pinyin": "zhì zhī",
+            "source": "classical-override",
+            "start": 71,
+            "word": "致知"
+          },
+          {
+            "end": 74,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 73,
+            "word": "在"
+          },
+          {
+            "end": 76,
+            "gloss": "to investigate things (the extension of knowledge)",
+            "pinyin": "gé wù",
+            "source": "classical-override",
+            "start": 74,
+            "word": "格物"
+          }
+        ]
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "public domain",
+            "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Great_Learning",
+            "text": "Only after things are investigated is knowledge brought to completion; only after knowledge is brought to completion are intentions made sincere; only after intentions are made sincere is the heart rectified; only after the heart is rectified is the person cultivated; only after the person is cultivated is the family regulated; only after the family is regulated is the state ordered; only after the state is ordered is the world at peace.",
+            "translator": "Legge",
+            "year": 1891
+          }
+        ],
+        "character_count": 43,
+        "id": "chapter-001-line-005",
+        "order": 5,
+        "pinyin_per_char": [
+          "wù",
+          "gé",
+          "ér",
+          "hòu",
+          "zhī",
+          "zhì",
+          "",
+          "zhī",
+          "zhì",
+          "ér",
+          "hòu",
+          "yì",
+          "chéng",
+          "",
+          "yì",
+          "chéng",
+          "ér",
+          "hòu",
+          "xīn",
+          "zhèng",
+          "",
+          "xīn",
+          "zhèng",
+          "ér",
+          "hòu",
+          "shēn",
+          "xiū",
+          "",
+          "shēn",
+          "xiū",
+          "ér",
+          "hòu",
+          "jiā",
+          "qí",
+          "",
+          "jiā",
+          "qí",
+          "ér",
+          "hòu",
+          "guó",
+          "zhì",
+          "",
+          "guó",
+          "zhì",
+          "ér",
+          "hòu",
+          "tiān",
+          "xià",
+          "píng",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "物格而后知至，知至而后意诚，意诚而后心正，心正而后身修，身修而后家齐，家齐而后国治，国治而后天下平。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "物"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "格"
+          },
+          {
+            "end": 4,
+            "gloss": "after that / then",
+            "pinyin": "ér hòu",
+            "source": "CC-CEDICT",
+            "start": 2,
+            "word": "而后"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "知"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "至"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "知"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "至"
+          },
+          {
+            "end": 11,
+            "gloss": "after that / then",
+            "pinyin": "ér hòu",
+            "source": "CC-CEDICT",
+            "start": 9,
+            "word": "而后"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "意"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "诚"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "意"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "诚"
+          },
+          {
+            "end": 18,
+            "gloss": "after that / then",
+            "pinyin": "ér hòu",
+            "source": "CC-CEDICT",
+            "start": 16,
+            "word": "而后"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "心"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "正"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "心"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "正"
+          },
+          {
+            "end": 25,
+            "gloss": "after that / then",
+            "pinyin": "ér hòu",
+            "source": "CC-CEDICT",
+            "start": 23,
+            "word": "而后"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "身"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "修"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "身"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "修"
+          },
+          {
+            "end": 32,
+            "gloss": "after that / then",
+            "pinyin": "ér hòu",
+            "source": "CC-CEDICT",
+            "start": 30,
+            "word": "而后"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "家"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "齐"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "家"
+          },
+          {
+            "end": 37,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 36,
+            "word": "齐"
+          },
+          {
+            "end": 39,
+            "gloss": "after that / then",
+            "pinyin": "ér hòu",
+            "source": "CC-CEDICT",
+            "start": 37,
+            "word": "而后"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "国"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "治"
+          },
+          {
+            "end": 43,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 42,
+            "word": "国"
+          },
+          {
+            "end": 44,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 43,
+            "word": "治"
+          },
+          {
+            "end": 46,
+            "gloss": "after that / then",
+            "pinyin": "ér hòu",
+            "source": "CC-CEDICT",
+            "start": 44,
+            "word": "而后"
+          },
+          {
+            "end": 48,
+            "gloss": "land under heaven / the whole world / the whole of China / realm / rule",
+            "pinyin": "tiān xià",
+            "source": "CC-CEDICT",
+            "start": 46,
+            "word": "天下"
+          },
+          {
+            "end": 49,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 48,
+            "word": "平"
+          }
+        ]
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "public domain",
+            "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Great_Learning",
+            "text": "From the Son of Heaven down to the common people, all without exception take self-cultivation as the root.",
+            "translator": "Legge",
+            "year": 1891
+          }
+        ],
+        "character_count": 16,
+        "id": "chapter-001-line-006",
+        "order": 6,
+        "pinyin_per_char": [
+          "zì",
+          "tiān",
+          "zi",
+          "yǐ",
+          "zhì",
+          "yú",
+          "shù",
+          "rén",
+          "",
+          "yī",
+          "shì",
+          "jiē",
+          "yǐ",
+          "xiū",
+          "shēn",
+          "wèi",
+          "běn",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "自天子以至于庶人，壹是皆以修身为本。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "自"
+          },
+          {
+            "end": 3,
+            "gloss": "the (rightful) emperor / \"Son of Heaven\" (traditional English translation)",
+            "pinyin": "tiān zǐ",
+            "source": "CC-CEDICT",
+            "start": 1,
+            "word": "天子"
+          },
+          {
+            "end": 6,
+            "gloss": "down to / up to / to the extent that...",
+            "pinyin": "yǐ zhì yú",
+            "source": "CC-CEDICT",
+            "start": 3,
+            "word": "以至于"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "庶"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "人"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "壹"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "是"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "皆"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "以"
+          },
+          {
+            "end": 15,
+            "gloss": "to cultivate one's character (self-cultivation)",
+            "pinyin": "xiū shēn",
+            "source": "classical-override",
+            "start": 13,
+            "word": "修身"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "为"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "本"
+          }
+        ]
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "public domain",
+            "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Great_Learning",
+            "text": "There has never been a case where the root is in disorder and the branches are well governed, or where what should be weighty is treated lightly and what should be light is treated weightily.",
+            "translator": "Legge",
+            "year": 1891
+          }
+        ],
+        "character_count": 24,
+        "id": "chapter-001-line-007",
+        "order": 7,
+        "pinyin_per_char": [
+          "qí",
+          "běn",
+          "luàn",
+          "ér",
+          "mò",
+          "zhì",
+          "zhé",
+          "fóu",
+          "yǐ",
+          "",
+          "qí",
+          "suǒ",
+          "hòu",
+          "zhě",
+          "báo",
+          "",
+          "ér",
+          "qí",
+          "suǒ",
+          "báo",
+          "zhě",
+          "hòu",
+          "",
+          "wèi",
+          "zhī",
+          "yóu",
+          "yě",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "其本乱而末治者否矣，其所厚者薄，而其所薄者厚，未之有也！",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "其"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "本"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "乱"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "而"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "末"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "治"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "者"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "否"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "矣"
+          },
+          {
+            "end": 12,
+            "gloss": "its place / one's appointed place / the place for that",
+            "pinyin": "qí suǒ",
+            "source": "CC-CEDICT",
+            "start": 10,
+            "word": "其所"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "厚"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "者"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "薄"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "而"
+          },
+          {
+            "end": 19,
+            "gloss": "its place / one's appointed place / the place for that",
+            "pinyin": "qí suǒ",
+            "source": "CC-CEDICT",
+            "start": 17,
+            "word": "其所"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "薄"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "者"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "厚"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "未"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "之"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "有"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "也"
+          }
+        ]
       }
     ],
-    "summary": "在明明德，在親民，在止於至善",
+    "summary": "大学之道，在明明德，在亲民，在止于至善",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "大學之道，在明明德，在親民，在止於至善。",
-    "title": "大學之道"
+    "text": "大学之道，在明明德，在亲民，在止于至善。知止而后有定，定而后能静，静而后能安，安而后能虑，虑而后能得。物有本末，事有终始，知所先后，则近道矣。古之欲明明德于天下者，先治其国；欲治其国者，先齐其家；欲齐其家者，先修其身；欲修其身者，先正其心；欲正其心者，先诚其意；欲诚其意者，先致其知；致知在格物。物格而后知至，知至而后意诚，意诚而后心正，心正而后身修，身修而后家齐，家齐而后国治，国治而后天下平。自天子以至于庶人，壹是皆以修身为本。其本乱而末治者否矣，其所厚者薄，而其所薄者厚，未之有也！",
+    "title": "全篇"
   },
   "chapter_path": "books/da-xue/chapters/chapter-001.json",
   "provider": "ctext-html",

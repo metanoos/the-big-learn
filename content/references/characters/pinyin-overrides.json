@@ -1,0 +1,229 @@
+{
+  "_doc": "Curated classical-Chinese pinyin overrides. pypinyin is tuned for modern Mandarin and systematically mis-reads high-frequency classical polyphones — most notably 为 (defaults to wèi 'for', but the verb reading wéi 'to do/govern/be' dominates in wenyan) and 子 in 子曰 (defaults to neutral zi, should be zǐ 'the Master'). This file supplies verified phrase-level readings consulted by tools/build_pinyin.py via longest-match prefix before falling back to pypinyin. SEED SCOPE: high-frequency, high-confidence cases in Lunyu + Mengzi where pypinyin provably fails. NOT exhaustive — extend as you verify more against zhuyin editions / Legge glosses. Every entry should be defensible from a published reference; when in doubt, leave it out and let the per-char fallback render.",
+  "_format": "key = phrase (CJK, SIMPLIFIED form — the canon is simplified), value = list of pinyin syllables (one per char, with tone marks). Match is case- and form-sensitive on the exact CJK string. Longest match wins at each position. Re-keyed from traditional to simplified via OpenCC t2s (matching tools/to_simplified.py's repo-wide migration); the original traditional keys silently never matched the simplified chapter text.",
+  "_references": [
+    "Lunyu zhuyin editions (注音版论语)",
+    "Mengzi zhuyin editions (注音版孟子)",
+    "James Legge, The Chinese Classics (1861-1872) — pinyin conversion of his glosses",
+    "CC-CEDICT phrase readings"
+  ],
+  "entries": {
+    "为政": [
+      "wéi",
+      "zhèng"
+    ],
+    "为政以德": [
+      "wéi",
+      "zhèng",
+      "yǐ",
+      "dé"
+    ],
+    "为仁": [
+      "wéi",
+      "rén"
+    ],
+    "为仁由己": [
+      "wéi",
+      "rén",
+      "yóu",
+      "jǐ"
+    ],
+    "为之": [
+      "wéi",
+      "zhī"
+    ],
+    "为人": [
+      "wéi",
+      "rén"
+    ],
+    "为学": [
+      "wéi",
+      "xué"
+    ],
+    "为大": [
+      "wéi",
+      "dà"
+    ],
+    "为善": [
+      "wéi",
+      "shàn"
+    ],
+    "为国": [
+      "wéi",
+      "guó"
+    ],
+    "为邦": [
+      "wéi",
+      "bāng"
+    ],
+    "为命": [
+      "wéi",
+      "mìng"
+    ],
+    "为君": [
+      "wéi",
+      "jūn"
+    ],
+    "为臣": [
+      "wéi",
+      "chén"
+    ],
+    "为父": [
+      "wéi",
+      "fù"
+    ],
+    "为子": [
+      "wéi",
+      "zǐ"
+    ],
+    "为师": [
+      "wéi",
+      "shī"
+    ],
+    "为友": [
+      "wéi",
+      "yǒu"
+    ],
+    "无为": [
+      "wú",
+      "wéi"
+    ],
+    "无为而治": [
+      "wú",
+      "wéi",
+      "ér",
+      "zhì"
+    ],
+    "不为": [
+      "bù",
+      "wéi"
+    ],
+    "不为已甚": [
+      "bù",
+      "wéi",
+      "yǐ",
+      "shèn"
+    ],
+    "何以为": [
+      "hé",
+      "yǐ",
+      "wéi"
+    ],
+    "以为": [
+      "yǐ",
+      "wéi"
+    ],
+    "何以": [
+      "hé",
+      "yǐ"
+    ],
+    "何为": [
+      "hé",
+      "wéi"
+    ],
+    "何为则": [
+      "hé",
+      "wéi",
+      "zé"
+    ],
+    "而为": [
+      "ér",
+      "wéi"
+    ],
+    "能为": [
+      "néng",
+      "wéi"
+    ],
+    "敢为": [
+      "gǎn",
+      "wéi"
+    ],
+    "有为": [
+      "yǒu",
+      "wéi"
+    ],
+    "作为": [
+      "zuò",
+      "wéi"
+    ],
+    "成为": [
+      "chéng",
+      "wéi"
+    ],
+    "行为": [
+      "xíng",
+      "wéi"
+    ],
+    "之为": [
+      "zhī",
+      "wéi"
+    ],
+    "者为": [
+      "zhě",
+      "wéi"
+    ],
+    "也为": [
+      "yě",
+      "wéi"
+    ],
+    "子曰": [
+      "zǐ",
+      "yuē"
+    ],
+    "子谓": [
+      "zǐ",
+      "wèi"
+    ],
+    "夫子": [
+      "fū",
+      "zǐ"
+    ],
+    "君子": [
+      "jūn",
+      "zǐ"
+    ],
+    "圣人": [
+      "shèng",
+      "rén"
+    ],
+    "贤人": [
+      "xián",
+      "rén"
+    ],
+    "三人行": [
+      "sān",
+      "rén",
+      "xíng"
+    ],
+    "三省": [
+      "sān",
+      "xǐng"
+    ],
+    "吾日三省吾身": [
+      "wú",
+      "rì",
+      "sān",
+      "xǐng",
+      "wú",
+      "shēn"
+    ],
+    "见义不为": [
+      "jiàn",
+      "yì",
+      "bù",
+      "wéi"
+    ],
+    "当仁不让": [
+      "dāng",
+      "rén",
+      "bù",
+      "ràng"
+    ],
+    "见贤思齐": [
+      "jiàn",
+      "xián",
+      "sī",
+      "qí"
+    ]
+  }
+}

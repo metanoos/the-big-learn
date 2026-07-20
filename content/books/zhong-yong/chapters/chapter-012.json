@@ -18,16 +18,77 @@
         "character_count": 7,
         "id": "chapter-012-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "jūn",
+          "zǐ",
+          "zhī",
+          "dào",
+          "fèi",
+          "ér",
+          "yǐn",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "君子之道費而隱。"
+        "text": "君子之道费而隐。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "the superior man; the exemplary person (junzi)",
+            "pinyin": "jūn zǐ",
+            "source": "classical-override",
+            "start": 0,
+            "word": "君子"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "之"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "道"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "费"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "而"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "隐"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "Common men and women, however ignorant, may intermeddle with the knowledge of it; yet in its utmost reaches, there is that which even the sage does not know.",
+            "text": "Common men and women, however ignorant, may intermeddle with the knowledge of it; yet in its utmost reaches, there is that which even the sage does not know. Common men and women, however much below the ordinary standard of character, can carry it into practice; yet in its utmost reaches, there is that which even the sage is not able to carry into practice. Great as heaven and earth are, men still find some things in them with which to be dissatisfied. Thus it is that, were the superior man to speak of his way in all its greatness, nothing in the world would be found able to embrace it, and were he to speak of it in its minuteness, nothing in the world would be found able to split it.",
             "translator": "Legge",
             "year": 1885
           }
@@ -35,16 +96,557 @@
         "character_count": 74,
         "id": "chapter-012-line-002",
         "order": 2,
+        "pinyin_per_char": [
+          "fū",
+          "fù",
+          "zhī",
+          "yú",
+          "",
+          "ké",
+          "yí",
+          "yǔ",
+          "zhī",
+          "yān",
+          "",
+          "jí",
+          "qí",
+          "zhì",
+          "yě",
+          "",
+          "suī",
+          "shèng",
+          "rén",
+          "yì",
+          "yóu",
+          "suǒ",
+          "bù",
+          "zhī",
+          "yān",
+          "",
+          "fū",
+          "fù",
+          "zhī",
+          "bú",
+          "xiào",
+          "",
+          "ké",
+          "yǐ",
+          "néng",
+          "xíng",
+          "yān",
+          "",
+          "jí",
+          "qí",
+          "zhì",
+          "yě",
+          "",
+          "suī",
+          "shèng",
+          "rén",
+          "yì",
+          "yóu",
+          "suǒ",
+          "bù",
+          "néng",
+          "yān",
+          "",
+          "tiān",
+          "dì",
+          "zhī",
+          "dà",
+          "yě",
+          "",
+          "rén",
+          "yóu",
+          "yóu",
+          "suǒ",
+          "hàn",
+          "",
+          "gù",
+          "jūn",
+          "zí",
+          "yǔ",
+          "dà",
+          "",
+          "tiān",
+          "xià",
+          "mò",
+          "néng",
+          "zài",
+          "yān",
+          "",
+          "yú",
+          "xiǎo",
+          "",
+          "tiān",
+          "xià",
+          "mò",
+          "néng",
+          "pò",
+          "yān",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 2,
-        "text": "夫婦之愚，可以與知焉，及其至也，雖聖人亦有所不知焉；夫婦之不肖，可以能行焉，及其至也，雖聖人亦有所不能焉。天地之大也，人猶有所憾。故君子語大，天下莫能載焉；語小，天下莫能破焉。"
+        "text": "夫妇之愚，可以与知焉，及其至也，虽圣人亦有所不知焉；夫妇之不肖，可以能行焉，及其至也，虽圣人亦有所不能焉。天地之大也，人犹有所憾。故君子语大，天下莫能载焉；语小，天下莫能破焉。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "a (married) couple / husband and wife / CL:对|对[dui4]",
+            "pinyin": "fū fù",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "夫妇"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "之"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "愚"
+          },
+          {
+            "end": 7,
+            "gloss": "can / may / possible / able to / not bad / pretty good",
+            "pinyin": "kě yǐ",
+            "source": "CC-CEDICT",
+            "start": 5,
+            "word": "可以"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "与"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "知"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "焉"
+          },
+          {
+            "end": 13,
+            "gloss": "(conjunction linking two nouns) and its ...; and their ...; and his ...; and her ...",
+            "pinyin": "jí qí",
+            "source": "CC-CEDICT",
+            "start": 11,
+            "word": "及其"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "至"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "也"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "虽"
+          },
+          {
+            "end": 19,
+            "gloss": "the sage; the holy man",
+            "pinyin": "shèng rén",
+            "source": "classical-override",
+            "start": 17,
+            "word": "圣人"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "亦"
+          },
+          {
+            "end": 22,
+            "gloss": "somewhat / to some extent",
+            "pinyin": "yǒu suǒ",
+            "source": "CC-CEDICT",
+            "start": 20,
+            "word": "有所"
+          },
+          {
+            "end": 24,
+            "gloss": "not to know / unaware / unknowingly / fig. not to admit (defeat, hardships, tiredness etc)",
+            "pinyin": "bù zhī",
+            "source": "CC-CEDICT",
+            "start": 22,
+            "word": "不知"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "焉"
+          },
+          {
+            "end": 28,
+            "gloss": "a (married) couple / husband and wife / CL:对|对[dui4]",
+            "pinyin": "fū fù",
+            "source": "CC-CEDICT",
+            "start": 26,
+            "word": "夫妇"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "之"
+          },
+          {
+            "end": 31,
+            "gloss": "(literary) unlike one's parents / degenerate / unworthy",
+            "pinyin": "bù xiào",
+            "source": "CC-CEDICT",
+            "start": 29,
+            "word": "不肖"
+          },
+          {
+            "end": 34,
+            "gloss": "can / may / possible / able to / not bad / pretty good",
+            "pinyin": "kě yǐ",
+            "source": "CC-CEDICT",
+            "start": 32,
+            "word": "可以"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "能"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "行"
+          },
+          {
+            "end": 37,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 36,
+            "word": "焉"
+          },
+          {
+            "end": 40,
+            "gloss": "(conjunction linking two nouns) and its ...; and their ...; and his ...; and her ...",
+            "pinyin": "jí qí",
+            "source": "CC-CEDICT",
+            "start": 38,
+            "word": "及其"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "至"
+          },
+          {
+            "end": 42,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 41,
+            "word": "也"
+          },
+          {
+            "end": 44,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 43,
+            "word": "虽"
+          },
+          {
+            "end": 46,
+            "gloss": "the sage; the holy man",
+            "pinyin": "shèng rén",
+            "source": "classical-override",
+            "start": 44,
+            "word": "圣人"
+          },
+          {
+            "end": 47,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 46,
+            "word": "亦"
+          },
+          {
+            "end": 49,
+            "gloss": "somewhat / to some extent",
+            "pinyin": "yǒu suǒ",
+            "source": "CC-CEDICT",
+            "start": 47,
+            "word": "有所"
+          },
+          {
+            "end": 51,
+            "gloss": "cannot / must not / should not",
+            "pinyin": "bù néng",
+            "source": "CC-CEDICT",
+            "start": 49,
+            "word": "不能"
+          },
+          {
+            "end": 52,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 51,
+            "word": "焉"
+          },
+          {
+            "end": 55,
+            "gloss": "heaven and earth / world / scope / field of activity",
+            "pinyin": "tiān dì",
+            "source": "CC-CEDICT",
+            "start": 53,
+            "word": "天地"
+          },
+          {
+            "end": 56,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 55,
+            "word": "之"
+          },
+          {
+            "end": 57,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 56,
+            "word": "大"
+          },
+          {
+            "end": 58,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 57,
+            "word": "也"
+          },
+          {
+            "end": 60,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 59,
+            "word": "人"
+          },
+          {
+            "end": 61,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 60,
+            "word": "犹"
+          },
+          {
+            "end": 63,
+            "gloss": "somewhat / to some extent",
+            "pinyin": "yǒu suǒ",
+            "source": "CC-CEDICT",
+            "start": 61,
+            "word": "有所"
+          },
+          {
+            "end": 64,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 63,
+            "word": "憾"
+          },
+          {
+            "end": 66,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 65,
+            "word": "故"
+          },
+          {
+            "end": 68,
+            "gloss": "the superior man; the exemplary person (junzi)",
+            "pinyin": "jūn zǐ",
+            "source": "classical-override",
+            "start": 66,
+            "word": "君子"
+          },
+          {
+            "end": 69,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 68,
+            "word": "语"
+          },
+          {
+            "end": 70,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 69,
+            "word": "大"
+          },
+          {
+            "end": 73,
+            "gloss": "land under heaven / the whole world / the whole of China / realm / rule",
+            "pinyin": "tiān xià",
+            "source": "CC-CEDICT",
+            "start": 71,
+            "word": "天下"
+          },
+          {
+            "end": 74,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 73,
+            "word": "莫"
+          },
+          {
+            "end": 75,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 74,
+            "word": "能"
+          },
+          {
+            "end": 76,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 75,
+            "word": "载"
+          },
+          {
+            "end": 77,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 76,
+            "word": "焉"
+          },
+          {
+            "end": 79,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 78,
+            "word": "语"
+          },
+          {
+            "end": 80,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 79,
+            "word": "小"
+          },
+          {
+            "end": 83,
+            "gloss": "land under heaven / the whole world / the whole of China / realm / rule",
+            "pinyin": "tiān xià",
+            "source": "CC-CEDICT",
+            "start": 81,
+            "word": "天下"
+          },
+          {
+            "end": 84,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 83,
+            "word": "莫"
+          },
+          {
+            "end": 85,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 84,
+            "word": "能"
+          },
+          {
+            "end": 86,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 85,
+            "word": "破"
+          },
+          {
+            "end": 87,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 86,
+            "word": "焉"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "Common men and women, however much below the ordinary standard of character, can carry it into practice; yet in its utmost reaches, there is that which even the sage is not able to carry into practice.",
+            "text": "It is said in the Book of Poetry, \"The hawk flies up to heaven; the fishes leap in the deep.\" This expresses how this way is seen above and below.",
             "translator": "Legge",
             "year": 1885
           }
@@ -52,16 +654,163 @@
         "character_count": 16,
         "id": "chapter-012-line-003",
         "order": 3,
+        "pinyin_per_char": [
+          "shī",
+          "yún",
+          "",
+          "",
+          "yuān",
+          "fēi",
+          "lì",
+          "tiān",
+          "",
+          "yú",
+          "yuè",
+          "yú",
+          "yuān",
+          "",
+          "",
+          "yán",
+          "qí",
+          "shàng",
+          "xià",
+          "chá",
+          "yě",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 3,
-        "text": "詩云：「鳶飛戾天，魚躍于淵。」言其上下察也。"
+        "text": "诗云：「鸢飞戾天，鱼跃于渊。」言其上下察也。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "诗"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "云"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "鸢"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "飞"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "戾"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "天"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "鱼"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "跃"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "于"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "渊"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "言"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "其"
+          },
+          {
+            "end": 19,
+            "gloss": "the top and bottom of sth / the full vertical extent of sth; from top to bottom / to go up and down…",
+            "pinyin": "shàng xià",
+            "source": "CC-CEDICT",
+            "start": 17,
+            "word": "上下"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "察"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "也"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "Great as heaven and earth are, men still find some things in them with which to be dissatisfied. Thus it is that, were the superior man to speak of his way in all its greatness, nothing in the world would be found able to embrace it, and were he to speak of it in its minuteness, nothing in the world would be found able to split it. It is said in the Book of Poetry, \"The hawk flies up to heaven; the fishes leap in the deep.\" This expresses how this way is seen above and below. The way of the superior man may be found, in its simple elements, in the intercourse of common men and women; but in its utmost reaches, it shines brightly through heaven and earth.",
+            "text": "The way of the superior man may be found, in its simple elements, in the intercourse of common men and women; but in its utmost reaches, it shines brightly through heaven and earth.",
             "translator": "Legge",
             "year": 1885
           }
@@ -69,16 +818,146 @@
         "character_count": 17,
         "id": "chapter-012-line-004",
         "order": 4,
+        "pinyin_per_char": [
+          "jūn",
+          "zǐ",
+          "zhī",
+          "dào",
+          "",
+          "zào",
+          "duān",
+          "hū",
+          "fū",
+          "fù",
+          "",
+          "jí",
+          "qí",
+          "zhì",
+          "yě",
+          "",
+          "chá",
+          "hū",
+          "tiān",
+          "dì",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 4,
-        "text": "君子之道，造端乎夫婦；及其至也，察乎天地。"
+        "text": "君子之道，造端乎夫妇；及其至也，察乎天地。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "the superior man; the exemplary person (junzi)",
+            "pinyin": "jūn zǐ",
+            "source": "classical-override",
+            "start": 0,
+            "word": "君子"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "之"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "道"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "造"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "端"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "乎"
+          },
+          {
+            "end": 10,
+            "gloss": "a (married) couple / husband and wife / CL:对|对[dui4]",
+            "pinyin": "fū fù",
+            "source": "CC-CEDICT",
+            "start": 8,
+            "word": "夫妇"
+          },
+          {
+            "end": 13,
+            "gloss": "(conjunction linking two nouns) and its ...; and their ...; and his ...; and her ...",
+            "pinyin": "jí qí",
+            "source": "CC-CEDICT",
+            "start": 11,
+            "word": "及其"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "至"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "也"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "察"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "乎"
+          },
+          {
+            "end": 20,
+            "gloss": "heaven and earth / world / scope / field of activity",
+            "pinyin": "tiān dì",
+            "source": "CC-CEDICT",
+            "start": 18,
+            "word": "天地"
+          }
+        ]
       }
     ],
     "summary": "",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "君子之道費而隱。\n夫婦之愚，可以與知焉，及其至也，雖聖人亦有所不知焉；夫婦之不肖，可以能行焉，及其至也，雖聖人亦有所不能焉。天地之大也，人猶有所憾。故君子語大，天下莫能載焉；語小，天下莫能破焉。\n詩云：「鳶飛戾天，魚躍于淵。」言其上下察也。\n君子之道，造端乎夫婦；及其至也，察乎天地。",
+    "text": "君子之道费而隐。\n夫妇之愚，可以与知焉，及其至也，虽圣人亦有所不知焉；夫妇之不肖，可以能行焉，及其至也，虽圣人亦有所不能焉。天地之大也，人犹有所憾。故君子语大，天下莫能载焉；语小，天下莫能破焉。\n诗云：「鸢飞戾天，鱼跃于渊。」言其上下察也。\n君子之道，造端乎夫妇；及其至也，察乎天地。",
     "title": ""
   },
   "chapter_path": "books/zhong-yong/chapters/chapter-012.json",

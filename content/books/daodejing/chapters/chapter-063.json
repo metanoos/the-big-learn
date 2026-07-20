@@ -18,16 +18,645 @@
         "character_count": 79,
         "id": "chapter-063-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "wèi",
+          "wú",
+          "wéi",
+          "",
+          "shì",
+          "wú",
+          "shì",
+          "",
+          "wèi",
+          "wú",
+          "wèi",
+          "",
+          "dà",
+          "xiǎo",
+          "duō",
+          "shǎo",
+          "",
+          "bào",
+          "yuàn",
+          "yǐ",
+          "dé",
+          "",
+          "tú",
+          "nán",
+          "yú",
+          "qí",
+          "yì",
+          "",
+          "wéi",
+          "dà",
+          "yú",
+          "qí",
+          "xì",
+          "",
+          "tiān",
+          "xià",
+          "nán",
+          "shì",
+          "",
+          "bì",
+          "zuò",
+          "yú",
+          "yì",
+          "",
+          "tiān",
+          "xià",
+          "dà",
+          "shì",
+          "",
+          "bì",
+          "zuò",
+          "yú",
+          "xì",
+          "",
+          "shì",
+          "yǐ",
+          "shèng",
+          "rén",
+          "zhōng",
+          "bù",
+          "wéi",
+          "dà",
+          "",
+          "gù",
+          "néng",
+          "chéng",
+          "qí",
+          "dà",
+          "",
+          "fū",
+          "qīng",
+          "nuò",
+          "bì",
+          "guǎ",
+          "xìn",
+          "",
+          "duō",
+          "yì",
+          "bì",
+          "duō",
+          "nán",
+          "",
+          "shì",
+          "yǐ",
+          "shèng",
+          "rén",
+          "yóu",
+          "nán",
+          "zhī",
+          "",
+          "gù",
+          "zhōng",
+          "wú",
+          "nán",
+          "yǐ",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "為無為，事無事，味無味。大小多少，報怨以德。圖難於其易，為大於其細；天下難事，必作於易，天下大事，必作於細。是以聖人終不為大，故能成其大。夫輕諾必寡信，多易必多難。是以聖人猶難之，故終無難矣。"
+        "text": "为无为，事无事，味无味。大小多少，报怨以德。图难于其易，为大于其细；天下难事，必作于易，天下大事，必作于细。是以圣人终不为大，故能成其大。夫轻诺必寡信，多易必多难。是以圣人犹难之，故终无难矣。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "为"
+          },
+          {
+            "end": 3,
+            "gloss": "the Daoist doctrine of inaction / let things take their own course / laissez-faire",
+            "pinyin": "wú wéi",
+            "source": "CC-CEDICT",
+            "start": 1,
+            "word": "无为"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "事"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "无"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "事"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "味"
+          },
+          {
+            "end": 11,
+            "gloss": "flavorless; unpalatable / odorless / dull; uninteresting",
+            "pinyin": "wú wèi",
+            "source": "CC-CEDICT",
+            "start": 9,
+            "word": "无味"
+          },
+          {
+            "end": 14,
+            "gloss": "large and small / size / adults and children / consideration of seniority / at any rate",
+            "pinyin": "dà xiǎo",
+            "source": "CC-CEDICT",
+            "start": 12,
+            "word": "大小"
+          },
+          {
+            "end": 16,
+            "gloss": "how much?; how many? / (phone number, student ID etc) what number?",
+            "pinyin": "duō shao",
+            "source": "CC-CEDICT",
+            "start": 14,
+            "word": "多少"
+          },
+          {
+            "end": 19,
+            "gloss": "to pay back a score / to get revenge / to requite / (old) variant of 抱怨[bao4 yuan4]",
+            "pinyin": "bào yuàn",
+            "source": "CC-CEDICT",
+            "start": 17,
+            "word": "报怨"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "以"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "德"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "图"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "难"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "于"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "其"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "易"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "为"
+          },
+          {
+            "end": 31,
+            "gloss": "greater than; bigger than; more than",
+            "pinyin": "dà yú",
+            "source": "CC-CEDICT",
+            "start": 29,
+            "word": "大于"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "其"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "细"
+          },
+          {
+            "end": 36,
+            "gloss": "land under heaven / the whole world / the whole of China / realm / rule",
+            "pinyin": "tiān xià",
+            "source": "CC-CEDICT",
+            "start": 34,
+            "word": "天下"
+          },
+          {
+            "end": 37,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 36,
+            "word": "难"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "事"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "必"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "作"
+          },
+          {
+            "end": 42,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 41,
+            "word": "于"
+          },
+          {
+            "end": 43,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 42,
+            "word": "易"
+          },
+          {
+            "end": 46,
+            "gloss": "land under heaven / the whole world / the whole of China / realm / rule",
+            "pinyin": "tiān xià",
+            "source": "CC-CEDICT",
+            "start": 44,
+            "word": "天下"
+          },
+          {
+            "end": 48,
+            "gloss": "major event / major political event (war or change of regime) / major social event (wedding or fune…",
+            "pinyin": "dà shì",
+            "source": "CC-CEDICT",
+            "start": 46,
+            "word": "大事"
+          },
+          {
+            "end": 50,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 49,
+            "word": "必"
+          },
+          {
+            "end": 51,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 50,
+            "word": "作"
+          },
+          {
+            "end": 52,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 51,
+            "word": "于"
+          },
+          {
+            "end": 53,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 52,
+            "word": "细"
+          },
+          {
+            "end": 56,
+            "gloss": "therefore / thus / so",
+            "pinyin": "shì yǐ",
+            "source": "CC-CEDICT",
+            "start": 54,
+            "word": "是以"
+          },
+          {
+            "end": 58,
+            "gloss": "the sage; the holy man",
+            "pinyin": "shèng rén",
+            "source": "classical-override",
+            "start": 56,
+            "word": "圣人"
+          },
+          {
+            "end": 59,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 58,
+            "word": "终"
+          },
+          {
+            "end": 60,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 59,
+            "word": "不"
+          },
+          {
+            "end": 61,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 60,
+            "word": "为"
+          },
+          {
+            "end": 62,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 61,
+            "word": "大"
+          },
+          {
+            "end": 64,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 63,
+            "word": "故"
+          },
+          {
+            "end": 65,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 64,
+            "word": "能"
+          },
+          {
+            "end": 66,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 65,
+            "word": "成"
+          },
+          {
+            "end": 67,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 66,
+            "word": "其"
+          },
+          {
+            "end": 68,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 67,
+            "word": "大"
+          },
+          {
+            "end": 70,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 69,
+            "word": "夫"
+          },
+          {
+            "end": 71,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 70,
+            "word": "轻"
+          },
+          {
+            "end": 72,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 71,
+            "word": "诺"
+          },
+          {
+            "end": 73,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 72,
+            "word": "必"
+          },
+          {
+            "end": 74,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 73,
+            "word": "寡"
+          },
+          {
+            "end": 75,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 74,
+            "word": "信"
+          },
+          {
+            "end": 77,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 76,
+            "word": "多"
+          },
+          {
+            "end": 78,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 77,
+            "word": "易"
+          },
+          {
+            "end": 79,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 78,
+            "word": "必"
+          },
+          {
+            "end": 80,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 79,
+            "word": "多"
+          },
+          {
+            "end": 81,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 80,
+            "word": "难"
+          },
+          {
+            "end": 84,
+            "gloss": "therefore / thus / so",
+            "pinyin": "shì yǐ",
+            "source": "CC-CEDICT",
+            "start": 82,
+            "word": "是以"
+          },
+          {
+            "end": 86,
+            "gloss": "the sage; the holy man",
+            "pinyin": "shèng rén",
+            "source": "classical-override",
+            "start": 84,
+            "word": "圣人"
+          },
+          {
+            "end": 87,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 86,
+            "word": "犹"
+          },
+          {
+            "end": 88,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 87,
+            "word": "难"
+          },
+          {
+            "end": 89,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 88,
+            "word": "之"
+          },
+          {
+            "end": 91,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 90,
+            "word": "故"
+          },
+          {
+            "end": 92,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 91,
+            "word": "终"
+          },
+          {
+            "end": 93,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 92,
+            "word": "无"
+          },
+          {
+            "end": 94,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 93,
+            "word": "难"
+          },
+          {
+            "end": 95,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 94,
+            "word": "矣"
+          }
+        ]
       }
     ],
-    "summary": "為無為，事無事，味無味",
+    "summary": "为无为，事无事，味无味",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "為無為，事無事，味無味。大小多少，報怨以德。圖難於其易，為大於其細；天下難事，必作於易，天下大事，必作於細。是以聖人終不為大，故能成其大。夫輕諾必寡信，多易必多難。是以聖人猶難之，故終無難矣。",
+    "text": "为无为，事无事，味无味。大小多少，报怨以德。图难于其易，为大于其细；天下难事，必作于易，天下大事，必作于细。是以圣人终不为大，故能成其大。夫轻诺必寡信，多易必多难。是以圣人犹难之，故终无难矣。",
     "title": "第63章"
   },
   "chapter_path": "books/daodejing/chapters/chapter-063.json",

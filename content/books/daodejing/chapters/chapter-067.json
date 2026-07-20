@@ -18,9 +18,774 @@
         "character_count": 91,
         "id": "chapter-067-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "tiān",
+          "xià",
+          "jiē",
+          "wèi",
+          "wǒ",
+          "dào",
+          "dà",
+          "",
+          "shì",
+          "bú",
+          "xiào",
+          "",
+          "fū",
+          "wéi",
+          "dà",
+          "",
+          "gù",
+          "shì",
+          "bú",
+          "xiào",
+          "",
+          "ruò",
+          "xiào",
+          "jiú",
+          "yǐ",
+          "",
+          "qí",
+          "xì",
+          "yě",
+          "fū",
+          "",
+          "wó",
+          "yǒu",
+          "sān",
+          "bǎo",
+          "",
+          "chí",
+          "ér",
+          "bǎo",
+          "zhī",
+          "",
+          "yī",
+          "yuē",
+          "cí",
+          "",
+          "èr",
+          "yuē",
+          "jiǎn",
+          "",
+          "sān",
+          "yuē",
+          "bù",
+          "gǎn",
+          "wéi",
+          "tiān",
+          "xià",
+          "xiān",
+          "",
+          "cí",
+          "gù",
+          "néng",
+          "yǒng",
+          "",
+          "jiǎn",
+          "gù",
+          "néng",
+          "guǎng",
+          "",
+          "bù",
+          "gǎn",
+          "wéi",
+          "tiān",
+          "xià",
+          "xiān",
+          "",
+          "gù",
+          "néng",
+          "chéng",
+          "qì",
+          "zhǎng",
+          "",
+          "jīn",
+          "shě",
+          "cí",
+          "qié",
+          "yǒng",
+          "",
+          "shé",
+          "jián",
+          "qié",
+          "guǎng",
+          "",
+          "shě",
+          "hòu",
+          "qiě",
+          "xiān",
+          "",
+          "sí",
+          "yǐ",
+          "",
+          "fū",
+          "cí",
+          "yǐ",
+          "zhàn",
+          "zé",
+          "shèng",
+          "",
+          "yí",
+          "shǒu",
+          "zé",
+          "gù",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "天下皆謂我道大，似不肖。夫唯大，故似不肖。若肖久矣。其細也夫！我有三寶，持而保之。一曰慈，二曰儉，三曰不敢為天下先。慈故能勇；儉故能廣；不敢為天下先，故能成器長。今舍慈且勇；舍儉且廣；舍後且先；死矣！夫慈以戰則勝，以守則固。"
+        "text": "天下皆谓我道大，似不肖。夫唯大，故似不肖。若肖久矣。其细也夫！我有三宝，持而保之。一曰慈，二曰俭，三曰不敢为天下先。慈故能勇；俭故能广；不敢为天下先，故能成器长。今舍慈且勇；舍俭且广；舍后且先；死矣！夫慈以战则胜，以守则固。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "land under heaven / the whole world / the whole of China / realm / rule",
+            "pinyin": "tiān xià",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "天下"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "皆"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "谓"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "我"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "道"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "大"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "似"
+          },
+          {
+            "end": 11,
+            "gloss": "(literary) unlike one's parents / degenerate / unworthy",
+            "pinyin": "bù xiào",
+            "source": "CC-CEDICT",
+            "start": 9,
+            "word": "不肖"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "夫"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "唯"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "大"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "故"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "似"
+          },
+          {
+            "end": 20,
+            "gloss": "(literary) unlike one's parents / degenerate / unworthy",
+            "pinyin": "bù xiào",
+            "source": "CC-CEDICT",
+            "start": 18,
+            "word": "不肖"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "若"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "肖"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "久"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "矣"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "其"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "细"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "也"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "夫"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "我"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "有"
+          },
+          {
+            "end": 35,
+            "gloss": "the Three Precious Treasures of Buddhism, namely: the Buddha 佛, the Dharma 法 (his teaching), and th…",
+            "pinyin": "sān bǎo",
+            "source": "CC-CEDICT",
+            "start": 33,
+            "word": "三宝"
+          },
+          {
+            "end": 37,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 36,
+            "word": "持"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "而"
+          },
+          {
+            "end": 39,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 38,
+            "word": "保"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "之"
+          },
+          {
+            "end": 42,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 41,
+            "word": "一"
+          },
+          {
+            "end": 43,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 42,
+            "word": "曰"
+          },
+          {
+            "end": 44,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 43,
+            "word": "慈"
+          },
+          {
+            "end": 46,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 45,
+            "word": "二"
+          },
+          {
+            "end": 47,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 46,
+            "word": "曰"
+          },
+          {
+            "end": 48,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 47,
+            "word": "俭"
+          },
+          {
+            "end": 50,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 49,
+            "word": "三"
+          },
+          {
+            "end": 51,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 50,
+            "word": "曰"
+          },
+          {
+            "end": 52,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 51,
+            "word": "不"
+          },
+          {
+            "end": 54,
+            "gloss": "to dare to do",
+            "pinyin": "gǎn wéi",
+            "source": "CC-CEDICT",
+            "start": 52,
+            "word": "敢为"
+          },
+          {
+            "end": 56,
+            "gloss": "land under heaven / the whole world / the whole of China / realm / rule",
+            "pinyin": "tiān xià",
+            "source": "CC-CEDICT",
+            "start": 54,
+            "word": "天下"
+          },
+          {
+            "end": 57,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 56,
+            "word": "先"
+          },
+          {
+            "end": 59,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 58,
+            "word": "慈"
+          },
+          {
+            "end": 60,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 59,
+            "word": "故"
+          },
+          {
+            "end": 61,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 60,
+            "word": "能"
+          },
+          {
+            "end": 62,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 61,
+            "word": "勇"
+          },
+          {
+            "end": 64,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 63,
+            "word": "俭"
+          },
+          {
+            "end": 65,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 64,
+            "word": "故"
+          },
+          {
+            "end": 66,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 65,
+            "word": "能"
+          },
+          {
+            "end": 67,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 66,
+            "word": "广"
+          },
+          {
+            "end": 69,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 68,
+            "word": "不"
+          },
+          {
+            "end": 71,
+            "gloss": "to dare to do",
+            "pinyin": "gǎn wéi",
+            "source": "CC-CEDICT",
+            "start": 69,
+            "word": "敢为"
+          },
+          {
+            "end": 73,
+            "gloss": "land under heaven / the whole world / the whole of China / realm / rule",
+            "pinyin": "tiān xià",
+            "source": "CC-CEDICT",
+            "start": 71,
+            "word": "天下"
+          },
+          {
+            "end": 74,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 73,
+            "word": "先"
+          },
+          {
+            "end": 76,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 75,
+            "word": "故"
+          },
+          {
+            "end": 77,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 76,
+            "word": "能"
+          },
+          {
+            "end": 79,
+            "gloss": "to make sth of oneself / to become a person who is worthy of respect",
+            "pinyin": "chéng qì",
+            "source": "CC-CEDICT",
+            "start": 77,
+            "word": "成器"
+          },
+          {
+            "end": 80,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 79,
+            "word": "长"
+          },
+          {
+            "end": 82,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 81,
+            "word": "今"
+          },
+          {
+            "end": 83,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 82,
+            "word": "舍"
+          },
+          {
+            "end": 84,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 83,
+            "word": "慈"
+          },
+          {
+            "end": 85,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 84,
+            "word": "且"
+          },
+          {
+            "end": 86,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 85,
+            "word": "勇"
+          },
+          {
+            "end": 88,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 87,
+            "word": "舍"
+          },
+          {
+            "end": 89,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 88,
+            "word": "俭"
+          },
+          {
+            "end": 90,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 89,
+            "word": "且"
+          },
+          {
+            "end": 91,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 90,
+            "word": "广"
+          },
+          {
+            "end": 93,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 92,
+            "word": "舍"
+          },
+          {
+            "end": 94,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 93,
+            "word": "后"
+          },
+          {
+            "end": 95,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 94,
+            "word": "且"
+          },
+          {
+            "end": 96,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 95,
+            "word": "先"
+          },
+          {
+            "end": 98,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 97,
+            "word": "死"
+          },
+          {
+            "end": 99,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 98,
+            "word": "矣"
+          },
+          {
+            "end": 101,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 100,
+            "word": "夫"
+          },
+          {
+            "end": 102,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 101,
+            "word": "慈"
+          },
+          {
+            "end": 103,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 102,
+            "word": "以"
+          },
+          {
+            "end": 104,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 103,
+            "word": "战"
+          },
+          {
+            "end": 105,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 104,
+            "word": "则"
+          },
+          {
+            "end": 106,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 105,
+            "word": "胜"
+          },
+          {
+            "end": 108,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 107,
+            "word": "以"
+          },
+          {
+            "end": 110,
+            "gloss": "rules / regulations",
+            "pinyin": "shǒu zé",
+            "source": "CC-CEDICT",
+            "start": 108,
+            "word": "守则"
+          },
+          {
+            "end": 111,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 110,
+            "word": "固"
+          }
+        ]
       },
       {
         "canonical_translations": [
@@ -35,16 +800,95 @@
         "character_count": 8,
         "id": "chapter-067-line-002",
         "order": 2,
+        "pinyin_per_char": [
+          "tiān",
+          "jiāng",
+          "jiù",
+          "zhī",
+          "",
+          "yǐ",
+          "cí",
+          "wèi",
+          "zhī",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 2,
         "source_block_order": 1,
-        "text": "天將救之，以慈衛之。"
+        "text": "天将救之，以慈卫之。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "天"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "将"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "救"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "之"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "以"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "慈"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "卫"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "之"
+          }
+        ]
       }
     ],
-    "summary": "天下皆謂我道大，似不肖",
+    "summary": "天下皆谓我道大，似不肖",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "天下皆謂我道大，似不肖。夫唯大，故似不肖。若肖久矣。其細也夫！我有三寶，持而保之。一曰慈，二曰儉，三曰不敢為天下先。慈故能勇；儉故能廣；不敢為天下先，故能成器長。今舍慈且勇；舍儉且廣；舍後且先；死矣！夫慈以戰則勝，以守則固。天將救之，以慈衛之。",
+    "text": "天下皆谓我道大，似不肖。夫唯大，故似不肖。若肖久矣。其细也夫！我有三宝，持而保之。一曰慈，二曰俭，三曰不敢为天下先。慈故能勇；俭故能广；不敢为天下先，故能成器长。今舍慈且勇；舍俭且广；舍后且先；死矣！夫慈以战则胜，以守则固。天将救之，以慈卫之。",
     "title": "第67章"
   },
   "chapter_path": "books/daodejing/chapters/chapter-067.json",

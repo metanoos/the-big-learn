@@ -18,9 +18,128 @@
         "character_count": 15,
         "id": "chapter-001-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "tiān",
+          "mìng",
+          "zhī",
+          "wèi",
+          "xìng",
+          "",
+          "shuài",
+          "xìng",
+          "zhī",
+          "wèi",
+          "dào",
+          "",
+          "xiū",
+          "dào",
+          "zhī",
+          "wèi",
+          "jiào",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 6,
-        "text": "天命之謂性，率性之謂道，脩道之謂教。"
+        "text": "天命之谓性，率性之谓道，修道之谓教。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "the Mandate of Heaven; what Heaven has decreed",
+            "pinyin": "tiān mìng",
+            "source": "classical-override",
+            "start": 0,
+            "word": "天命"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "之"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "谓"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "性"
+          },
+          {
+            "end": 8,
+            "gloss": "to follow one's inborn nature (the way that is in accord with nature)",
+            "pinyin": "shuài xìng",
+            "source": "classical-override",
+            "start": 6,
+            "word": "率性"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "之"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "谓"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "道"
+          },
+          {
+            "end": 14,
+            "gloss": "to cultivate the Way (to cultivate one's moral path)",
+            "pinyin": "xiū dào",
+            "source": "classical-override",
+            "start": 12,
+            "word": "修道"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "之"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "谓"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "教"
+          }
+        ]
       },
       {
         "canonical_translations": [
@@ -35,9 +154,243 @@
         "character_count": 32,
         "id": "chapter-001-line-002",
         "order": 2,
+        "pinyin_per_char": [
+          "dào",
+          "yé",
+          "zhě",
+          "",
+          "bù",
+          "kě",
+          "xū",
+          "yú",
+          "lí",
+          "yě",
+          "",
+          "kě",
+          "lí",
+          "fēi",
+          "dào",
+          "yě",
+          "",
+          "shì",
+          "gù",
+          "jūn",
+          "zǐ",
+          "jiè",
+          "shèn",
+          "hū",
+          "qí",
+          "suǒ",
+          "bù",
+          "dǔ",
+          "",
+          "kǒng",
+          "jù",
+          "hū",
+          "qí",
+          "suǒ",
+          "bù",
+          "wén",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 7,
-        "text": "道也者，不可須臾離也，可離非道也。是故君子戒慎乎其所不睹，恐懼乎其所不聞。"
+        "text": "道也者，不可须臾离也，可离非道也。是故君子戒慎乎其所不睹，恐惧乎其所不闻。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "道"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "也"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "者"
+          },
+          {
+            "end": 6,
+            "gloss": "cannot; should not; must not",
+            "pinyin": "bù kě",
+            "source": "CC-CEDICT",
+            "start": 4,
+            "word": "不可"
+          },
+          {
+            "end": 8,
+            "gloss": "in a flash / in a jiffy",
+            "pinyin": "xū yú",
+            "source": "CC-CEDICT",
+            "start": 6,
+            "word": "须臾"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "离"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "也"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "可"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "离"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "非"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "道"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "也"
+          },
+          {
+            "end": 19,
+            "gloss": "therefore / so / consequently",
+            "pinyin": "shì gù",
+            "source": "CC-CEDICT",
+            "start": 17,
+            "word": "是故"
+          },
+          {
+            "end": 21,
+            "gloss": "the superior man; the exemplary person (junzi)",
+            "pinyin": "jūn zǐ",
+            "source": "classical-override",
+            "start": 19,
+            "word": "君子"
+          },
+          {
+            "end": 23,
+            "gloss": "vigilant / cautious",
+            "pinyin": "jiè shèn",
+            "source": "CC-CEDICT",
+            "start": 21,
+            "word": "戒慎"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "乎"
+          },
+          {
+            "end": 26,
+            "gloss": "its place / one's appointed place / the place for that",
+            "pinyin": "qí suǒ",
+            "source": "CC-CEDICT",
+            "start": 24,
+            "word": "其所"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "不"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "睹"
+          },
+          {
+            "end": 31,
+            "gloss": "to be frightened / fear / dread",
+            "pinyin": "kǒng jù",
+            "source": "CC-CEDICT",
+            "start": 29,
+            "word": "恐惧"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "乎"
+          },
+          {
+            "end": 34,
+            "gloss": "its place / one's appointed place / the place for that",
+            "pinyin": "qí suǒ",
+            "source": "CC-CEDICT",
+            "start": 32,
+            "word": "其所"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "不"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "闻"
+          }
+        ]
       },
       {
         "canonical_translations": [
@@ -52,9 +405,144 @@
         "character_count": 15,
         "id": "chapter-001-line-003",
         "order": 3,
+        "pinyin_per_char": [
+          "mò",
+          "jiàn",
+          "hū",
+          "yǐn",
+          "",
+          "mò",
+          "xiǎn",
+          "hū",
+          "wēi",
+          "",
+          "gù",
+          "jūn",
+          "zǐ",
+          "shèn",
+          "qí",
+          "dú",
+          "yě",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 8,
-        "text": "莫見乎隱，莫顯乎微，故君子慎其獨也。"
+        "text": "莫见乎隐，莫显乎微，故君子慎其独也。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "莫"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "见"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "乎"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "隐"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "莫"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "显"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "乎"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "微"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "故"
+          },
+          {
+            "end": 13,
+            "gloss": "the superior man; the exemplary person (junzi)",
+            "pinyin": "jūn zǐ",
+            "source": "classical-override",
+            "start": 11,
+            "word": "君子"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "慎"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "其"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "独"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "也"
+          }
+        ]
       },
       {
         "canonical_translations": [
@@ -69,9 +557,298 @@
         "character_count": 36,
         "id": "chapter-001-line-004",
         "order": 4,
+        "pinyin_per_char": [
+          "xǐ",
+          "nù",
+          "āi",
+          "lè",
+          "zhī",
+          "wèi",
+          "fā",
+          "",
+          "wèi",
+          "zhī",
+          "zhōng",
+          "",
+          "fā",
+          "ér",
+          "jiē",
+          "zhōng",
+          "jié",
+          "",
+          "wèi",
+          "zhī",
+          "hé",
+          "",
+          "zhōng",
+          "yé",
+          "zhě",
+          "",
+          "tiān",
+          "xià",
+          "zhī",
+          "dà",
+          "bén",
+          "yě",
+          "",
+          "hé",
+          "yé",
+          "zhě",
+          "",
+          "tiān",
+          "xià",
+          "zhī",
+          "dá",
+          "dào",
+          "yě",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 9,
-        "text": "喜怒哀樂之未發，謂之中；發而皆中節，謂之和。中也者，天下之大本也；和也者，天下之達道也。"
+        "text": "喜怒哀乐之未发，谓之中；发而皆中节，谓之和。中也者，天下之大本也；和也者，天下之达道也。",
+        "word_spans": [
+          {
+            "end": 4,
+            "gloss": "(lit.) happiness, anger, sorrow, and joy (idiom) / (fig.) emotions",
+            "pinyin": "xǐ nù āi lè",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "喜怒哀乐"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "之"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "未"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "发"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "谓"
+          },
+          {
+            "end": 11,
+            "gloss": "inside / among / in the midst of (doing sth) / during",
+            "pinyin": "zhī zhōng",
+            "source": "CC-CEDICT",
+            "start": 9,
+            "word": "之中"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "发"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "而"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "皆"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "中"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "节"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "谓"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "之"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "和"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "中"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "也"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "者"
+          },
+          {
+            "end": 28,
+            "gloss": "land under heaven / the whole world / the whole of China / realm / rule",
+            "pinyin": "tiān xià",
+            "source": "CC-CEDICT",
+            "start": 26,
+            "word": "天下"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "之"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "大"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "本"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "也"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "和"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "也"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "者"
+          },
+          {
+            "end": 39,
+            "gloss": "land under heaven / the whole world / the whole of China / realm / rule",
+            "pinyin": "tiān xià",
+            "source": "CC-CEDICT",
+            "start": 37,
+            "word": "天下"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "之"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "达"
+          },
+          {
+            "end": 42,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 41,
+            "word": "道"
+          },
+          {
+            "end": 43,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 42,
+            "word": "也"
+          }
+        ]
       },
       {
         "canonical_translations": [
@@ -86,16 +863,99 @@
         "character_count": 11,
         "id": "chapter-001-line-005",
         "order": 5,
+        "pinyin_per_char": [
+          "zhì",
+          "zhōng",
+          "hé",
+          "",
+          "tiān",
+          "dì",
+          "wèi",
+          "yān",
+          "",
+          "wàn",
+          "wù",
+          "yù",
+          "yān",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 10,
-        "text": "致中和，天地位焉，萬物育焉。"
+        "text": "致中和，天地位焉，万物育焉。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "致"
+          },
+          {
+            "end": 3,
+            "gloss": "to neutralize / to counteract / neutralization (chemistry)",
+            "pinyin": "zhōng hé",
+            "source": "CC-CEDICT",
+            "start": 1,
+            "word": "中和"
+          },
+          {
+            "end": 6,
+            "gloss": "heaven and earth / world / scope / field of activity",
+            "pinyin": "tiān dì",
+            "source": "CC-CEDICT",
+            "start": 4,
+            "word": "天地"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "位"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "焉"
+          },
+          {
+            "end": 11,
+            "gloss": "all things / all that exists",
+            "pinyin": "wàn wù",
+            "source": "CC-CEDICT",
+            "start": 9,
+            "word": "万物"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "育"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "焉"
+          }
+        ]
       }
     ],
     "summary": "",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "天命之謂性，率性之謂道，脩道之謂教。\n道也者，不可須臾離也，可離非道也。是故君子戒慎乎其所不睹，恐懼乎其所不聞。\n莫見乎隱，莫顯乎微，故君子慎其獨也。\n喜怒哀樂之未發，謂之中；發而皆中節，謂之和。中也者，天下之大本也；和也者，天下之達道也。\n致中和，天地位焉，萬物育焉。",
+    "text": "天命之谓性，率性之谓道，修道之谓教。\n道也者，不可须臾离也，可离非道也。是故君子戒慎乎其所不睹，恐惧乎其所不闻。\n莫见乎隐，莫显乎微，故君子慎其独也。\n喜怒哀乐之未发，谓之中；发而皆中节，谓之和。中也者，天下之大本也；和也者，天下之达道也。\n致中和，天地位焉，万物育焉。",
     "title": ""
   },
   "chapter_path": "books/zhong-yong/chapters/chapter-001.json",

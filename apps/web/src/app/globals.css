@@ -12,18 +12,246 @@ body {
   @apply bg-stone-50 text-stone-900 antialiased;
   font-feature-settings: "kern" 1;
 }
+.dark body {
+  @apply bg-stone-950 text-stone-100;
+}
+
+/* Keep very long chapters cheap to scroll without removing their server-rendered
+   text from the document. Browsers can skip paint/layout for off-screen lines
+   while preserving links, find-in-page, and the complete HTML response. */
+.reading-line {
+  content-visibility: auto;
+  contain-intrinsic-size: auto 15rem;
+}
 
 /* Chinese reads larger and more generously than body Latin. */
 .cjk {
   font-family: theme("fontFamily.serif");
-  font-size: 1.25rem;
+  font-size: 1.75rem;
   line-height: 1.9;
   letter-spacing: 0.02em;
+}
+/* Inline CJK glyph styling without the large reading-surface font size — used
+   by the popover's per-char breakdown rows so a constituent char in a small
+   row still picks up the serif CJK stack and correct glyph rendering. */
+.cjk-inline {
+  font-family: theme("fontFamily.serif");
+  letter-spacing: 0.02em;
+}
+
+/* Ruby annotation: pinyin above each CJK character. Sits *over* the glyph so
+   it doesn't push the line height around; the .cjk line-height above already
+   leaves room. rt is small, muted, sans so it reads as annotation not text. */
+ruby {
+  ruby-position: over;
+  /* Some engines (Safari) need this to honor ruby-position. */
+  -webkit-ruby-position: before;
+}
+ruby > rt {
+  font-family: theme("fontFamily.sans");
+  /* Small pinyin rendered as annotation, not text: regular weight keeps it
+     from competing with the character below. Tone marks are still legible
+     at this size because the glyphs themselves are dark enough. */
+  font-size: 0.48em;
+  line-height: 1.3;
+  color: theme("colors.stone.400");
+  letter-spacing: 0;
+  font-weight: 400;
+  user-select: none;
+}
+.dark ruby > rt {
+  /* Muted but still legible against the dark background. */
+  color: theme("colors.stone.500");
+}
+/* This single `ruby > rt` rule is the shared style for ALL pinyin-above
+   rendering — the reader body, book titles & section headings, and the
+   dashboard review tiles. `em` sizing keeps the pinyin proportional to its
+   own glyph everywhere, and the one muted color reads consistently whether
+   the glyph is a 1.75rem reading-surface char or a smaller title/tile char.
+   Titles and tiles previously carried their own overrides; they were folded
+   in here so every pinyin-above instance matches. */
+/* Tone-colored pinyin (opt-in via the chapter reader's tone toggle). When
+   applied, the class overrides the muted default with a tone palette so tones
+   are scannable at a glance:
+     tone 1 (ˉ) yellow · tone 2 (ˊ) lime · tone 3 (ˇ) blue · tone 4 (ˋ) red.
+   The palette follows the most robust cross-modal correspondence in synesthesia
+   research — pitch height ↔ lightness: high pitches map to bright/warm colors,
+   low pitches to dark/cool ones. Mandarin tone contours sit on a 5-level pitch
+   scale (5 = highest):
+     tone 1 (55, high level)  → yellow, the brightest hue
+     tone 2 (35, rising)      → lime, the next-brightest
+     tone 3 (214, low dip)    → blue, cool/low
+     tone 4 (51, sharp fall)  → red, the "alarm" drop
+   So brightness tracks pitch height (yellow→lime→blue→red) while red preserves
+   the strong fall=alarm association. Pure yellow-400 is near-invisible on the
+   light reading surface, so the light-theme tone 1 uses yellow-600 (still the
+   brightest swatch in the set, just legible); the dark theme can use the full
+   yellow-400 since it pops on stone-950. Other tones use the -700 ramp on light
+   and the -400 ramp on dark. Neutral-tone syllables get no tone class and keep
+   the muted default. Element-agnostic (.tone-N, not rt.tone-N) so the same
+   palette colors pinyin in the reader's <rt> annotations AND the popover's
+   per-char <span> rows. Class specificity (0,0,1,0) beats the type-only
+   `ruby > rt` (0,0,0,2), and .dark .tone-N (0,0,2,0) beats .dark ruby > rt
+   (0,0,1,2), so the color always wins when on. */
+.tone-1 { color: theme("colors.yellow.600"); }
+.dark .tone-1 { color: theme("colors.yellow.400"); }
+.tone-2 { color: theme("colors.lime.700"); }
+.dark .tone-2 { color: theme("colors.lime.400"); }
+.tone-3 { color: theme("colors.blue.700"); }
+.dark .tone-3 { color: theme("colors.blue.400"); }
+.tone-4 { color: theme("colors.red.700"); }
+.dark .tone-4 { color: theme("colors.red.400"); }
+/* Per-char click target: a hint of affordance on hover without chrome. */
+.cjk-char {
+  cursor: pointer;
+  border-radius: 2px;
+  transition: background-color 120ms ease;
+}
+.cjk-char:hover {
+  background-color: theme("colors.stone.200");
+}
+.dark .cjk-char:hover {
+  background-color: theme("colors.stone.800");
+}
+.cjk-char:focus-visible {
+  outline: 2px solid theme("colors.amber.600");
+  outline-offset: 3px;
+}
+.dark .cjk-char:focus-visible {
+  outline-color: theme("colors.amber.400");
+}
+/* The clicked char whose definition is open. Held for the duration the def is
+   shown so the reader can see exactly which rune the answer belongs to; cleared
+   on dismiss. Stronger than hover so it reads as a selected state, not a hover. */
+.cjk-char-selected {
+  background-color: theme("colors.amber.200");
+}
+.dark .cjk-char-selected {
+  background-color: theme("colors.amber.900");
+}
+
+/* Word grouping: chars belonging to the same multi-char compound are wrapped
+   in <span class="cjk-word">. A faint hover background hints the chars form a
+   unit without competing with per-char hover; rounded corners + a sliver of
+   horizontal padding keep the compound visually cohesive on hover. The whole
+   group lights up (.cjk-word-selected, mirroring .cjk-char-selected's amber)
+   when its gloss is open, so the reader sees exactly which compound the
+   popover is speaking about. */
+.cjk-word {
+  display: inline-flex; /* keep the compound's rubies on one line together */
+  border-radius: 3px;
+  transition: background-color 120ms ease;
+}
+.cjk-word:hover {
+  background-color: theme("colors.stone.200");
+}
+.dark .cjk-word:hover {
+  background-color: theme("colors.stone.800");
+}
+.cjk-word-selected {
+  background-color: theme("colors.amber.200");
+}
+.dark .cjk-word-selected {
+  background-color: theme("colors.amber.900");
+}
+
+/* Suppress the per-char highlight on rubies INSIDE a word compound so the
+   highlight lives at one level — the <span class="cjk-word"> wrapper — and the
+   chars within light up uniformly instead of painting their own rectangular
+   background on top of the word's. Without this, .cjk-char:hover and the
+   selected classes fire on both the wrapper and each inner <ruby>, and the
+   ruby's box (which includes the <rt> pinyin above) doesn't perfectly align
+   with the word span, leaving a visible inner edge. */
+.cjk-word .cjk-char:hover,
+.cjk-word .cjk-char-selected,
+.cjk-word .cjk-word-selected {
+  background-color: transparent;
+}
+.dark .cjk-word .cjk-char:hover,
+.dark .cjk-word .cjk-char-selected,
+.dark .cjk-word .cjk-word-selected {
+  background-color: transparent;
+}
+
+/* Popover: word section sits above the per-char defs with a divider when both
+   are present. The char section below keeps its own list styling. */
+.cjk-word-section {
+  padding-bottom: 0.4rem;
+  margin-bottom: 0.4rem;
+  border-bottom: 1px solid theme("colors.stone.200");
+}
+.dark .cjk-word-section {
+  border-bottom-color: theme("colors.stone.700");
+}
+
+/* Character definition popover: a portaled speech-bubble anchored above the
+   clicked char. Light card surface, soft shadow, rounded corners. z-50 so it
+   layers above the sticky NavBar (z-10) and the pinned ChatBar. The notch is
+   a small rotated square (::before) that points down toward the char; the
+   flip-below variant ([data-placement="below"]) moves it to the top pointing
+   up. --arrow-x (set inline from JS) carries the char's x-center so the notch
+   tracks the char even when the bubble is shifted to stay on-screen. */
+.char-popover {
+  z-index: 50;
+  max-width: 16rem;
+  padding: 0.5rem 0.75rem;
+  border-radius: 0.5rem;
+  background-color: theme("colors.white");
+  color: theme("colors.stone.700");
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.18), 0 4px 10px -3px rgba(0, 0, 0, 0.1);
+  border: 1px solid theme("colors.stone.200");
+  font-size: 0.875rem;
+  line-height: 1.4;
+}
+.dark .char-popover {
+  background-color: theme("colors.stone.900");
+  color: theme("colors.stone.300");
+  border-color: theme("colors.stone.700");
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.55), 0 4px 10px -3px rgba(0, 0, 0, 0.35);
+}
+/* Notch — a 10px rotated square that pokes out the bottom edge, pointing at
+   the char. left tracks --arrow-x; the 5px negative offset centers the square
+   on that point (half its rotated width). */
+.char-popover::before {
+  content: "";
+  position: absolute;
+  left: var(--arrow-x, 50%);
+  bottom: -5px;
+  width: 10px;
+  height: 10px;
+  background-color: theme("colors.white");
+  border-right: 1px solid theme("colors.stone.200");
+  border-bottom: 1px solid theme("colors.stone.200");
+  transform: translateX(-5px) rotate(45deg);
+}
+.dark .char-popover::before {
+  background-color: theme("colors.stone.900");
+  border-right-color: theme("colors.stone.700");
+  border-bottom-color: theme("colors.stone.700");
+}
+/* Flipped below the char: notch moves to the top, pointing up. Swaps which
+   borders carry the outline so the seam stays clean against the card edge. */
+.char-popover[data-placement="below"]::before {
+  bottom: auto;
+  top: -5px;
+  border-right: 0;
+  border-bottom: 0;
+  border-left: 1px solid theme("colors.stone.200");
+  border-top: 1px solid theme("colors.stone.200");
+}
+.dark .char-popover[data-placement="below"]::before {
+  border-left-color: theme("colors.stone.700");
+  border-top-color: theme("colors.stone.700");
 }
 
 /* Subtle, low-chrome vote button states */
 .vote-btn {
   @apply transition-colors text-stone-400 hover:text-stone-700;
 }
+.dark .vote-btn {
+  @apply text-stone-500 hover:text-stone-200;
+}
 .vote-btn.active-up { @apply text-emerald-600; }
+.dark .vote-btn.active-up { @apply text-emerald-400; }
 .vote-btn.active-down { @apply text-rose-600; }
+.dark .vote-btn.active-down { @apply text-rose-400; }

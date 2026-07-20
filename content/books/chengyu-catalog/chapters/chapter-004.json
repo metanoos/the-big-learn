@@ -114,7 +114,13 @@
         "order": 7,
         "pinyin": "hé ér bù tóng",
         "pinyin_source": "derived from per-character index",
-        "text": "和而不同"
+        "text": "和而不同",
+        "origin": {
+          "book": "lunyu",
+          "chapter": 13,
+          "line": 47,
+          "snippet": "子曰：「君子和而不同，小人同而不和。」"
+        }
       },
       {
         "canonical_translations": [
@@ -225,7 +231,13 @@
         "order": 14,
         "pinyin": "yǔ rén wéi shàn",
         "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
-        "text": "与人为善"
+        "text": "与人为善",
+        "origin": {
+          "book": "mengzi",
+          "chapter": 3,
+          "line": 73,
+          "snippet": "取诸人以为善，是与人为善者也。故君子莫大乎与人为善。」"
+        }
       },
       {
         "canonical_translations": [
@@ -242,7 +254,13 @@
         "order": 15,
         "pinyin": "chéng rén zhī měi",
         "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
-        "text": "成人之美"
+        "text": "成人之美",
+        "origin": {
+          "book": "lunyu",
+          "chapter": 12,
+          "line": 35,
+          "snippet": "子曰：「君子成人之美，不成人之恶。小人反是。」"
+        }
       },
       {
         "canonical_translations": [],

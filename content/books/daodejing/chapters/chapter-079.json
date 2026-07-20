@@ -18,16 +18,334 @@
         "character_count": 40,
         "id": "chapter-079-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "hé",
+          "dà",
+          "yuàn",
+          "",
+          "bì",
+          "yǒu",
+          "yú",
+          "yuàn",
+          "",
+          "ān",
+          "ké",
+          "yǐ",
+          "wéi",
+          "shàn",
+          "",
+          "shì",
+          "yǐ",
+          "shèng",
+          "rén",
+          "zhí",
+          "zuǒ",
+          "qì",
+          "",
+          "ér",
+          "bù",
+          "zé",
+          "yú",
+          "rén",
+          "",
+          "yǒu",
+          "dé",
+          "sī",
+          "qì",
+          "",
+          "wú",
+          "dé",
+          "sī",
+          "chè",
+          "",
+          "tiān",
+          "dào",
+          "wú",
+          "qīn",
+          "",
+          "cháng",
+          "yǔ",
+          "shàn",
+          "rén",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "和大怨，必有餘怨；安可以為善？是以聖人執左契，而不責於人。有德司契，無德司徹。天道無親，常與善人。"
+        "text": "和大怨，必有余怨；安可以为善？是以圣人执左契，而不责于人。有德司契，无德司彻。天道无亲，常与善人。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "和"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "大"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "怨"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "必"
+          },
+          {
+            "end": 7,
+            "gloss": "to have an abundance",
+            "pinyin": "yǒu yú",
+            "source": "CC-CEDICT",
+            "start": 5,
+            "word": "有余"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "怨"
+          },
+          {
+            "end": 11,
+            "gloss": "encore (loanword)",
+            "pinyin": "ān kě",
+            "source": "CC-CEDICT",
+            "start": 9,
+            "word": "安可"
+          },
+          {
+            "end": 13,
+            "gloss": "to think; to believe (often with the implication that the belief is mistaken – unless referring to …",
+            "pinyin": "yǐ wéi",
+            "source": "CC-CEDICT",
+            "start": 11,
+            "word": "以为"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "善"
+          },
+          {
+            "end": 17,
+            "gloss": "therefore / thus / so",
+            "pinyin": "shì yǐ",
+            "source": "CC-CEDICT",
+            "start": 15,
+            "word": "是以"
+          },
+          {
+            "end": 19,
+            "gloss": "the sage; the holy man",
+            "pinyin": "shèng rén",
+            "source": "classical-override",
+            "start": 17,
+            "word": "圣人"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "执"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "左"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "契"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "而"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "不"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "责"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "于"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "人"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "有"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "德"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "司"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "契"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "无"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "德"
+          },
+          {
+            "end": 37,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 36,
+            "word": "司"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "彻"
+          },
+          {
+            "end": 41,
+            "gloss": "natural law / heavenly law / weather (dialect)",
+            "pinyin": "tiān dào",
+            "source": "CC-CEDICT",
+            "start": 39,
+            "word": "天道"
+          },
+          {
+            "end": 42,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 41,
+            "word": "无"
+          },
+          {
+            "end": 43,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 42,
+            "word": "亲"
+          },
+          {
+            "end": 45,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 44,
+            "word": "常"
+          },
+          {
+            "end": 46,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 45,
+            "word": "与"
+          },
+          {
+            "end": 48,
+            "gloss": "philanthropist / charitable person / well-doer",
+            "pinyin": "shàn rén",
+            "source": "CC-CEDICT",
+            "start": 46,
+            "word": "善人"
+          }
+        ]
       }
     ],
-    "summary": "和大怨，必有餘怨；安可以為善？是以聖人執左契，而不責於人",
+    "summary": "和大怨，必有余怨；安可以为善？是以圣人执左契，而不责于人",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "和大怨，必有餘怨；安可以為善？是以聖人執左契，而不責於人。有德司契，無德司徹。天道無親，常與善人。",
+    "text": "和大怨，必有余怨；安可以为善？是以圣人执左契，而不责于人。有德司契，无德司彻。天道无亲，常与善人。",
     "title": "第79章"
   },
   "chapter_path": "books/daodejing/chapters/chapter-079.json",

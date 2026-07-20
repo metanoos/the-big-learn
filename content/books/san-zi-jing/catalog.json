@@ -1,6 +1,23 @@
 {
   "cache_dir": "books/san-zi-jing",
   "catalog_path": "books/san-zi-jing/catalog.json",
+  "display_name": "San Zi Jing 三字经",
+  "name_zh": "三字经",
+  "name_pinyin": "Sān Zì Jīng",
+  "name_en": "The Three Character Classic",
+  "v1": false,
+  "available": true,
+  "tradition": "confucian",
+  "form": "primer",
+  "year": 1270,
+  "tier": "B",
+  "difficulty": "foundational",
+  "curriculum_order": 1,
+  "title": "Three Character Classic",
+  "source_url": "https://ctext.org/three-character-classic?if=en",
+  "provider": "ctext-html",
+  "blurb": "Three characters per line, the entire Confucian curriculum rhymed into a primer. The first text children memorized for six centuries.",
+  "background": "The San Zi Jing (Three Character Classic) is a Song-dynasty primer (c. 1270, attributed to Wang Yinglin) that packs the Confucian curriculum — basic morality, then numbers, then history, then exemplars — into rhymed lines of three characters each. For most of the imperial era it was the first text a child memorized, recited aloud before the meaning was even explained. As a result its phrasing became part of the rhythm of basic literacy: 'Men at their birth are by nature good' (人之初，性本善) is a line every Mandarin speaker knows. It is short, repetitive, and built to be chanted — closer to a nursery rhyme than a treatise — but it carries a compressed worldview, and the historical section is a real chronology of dynasties. Read it for the cultural bedrock, not for argument. Translation seeded from Herbert A. Giles (1900, public domain).",
   "chapter_count": 1,
   "chapters": [
     {
@@ -11,12 +28,11 @@
       "reading_unit_count": 86,
       "summary": "人之初，性本善",
       "supplemental_unit_count": 0,
-      "title": "全篇"
+      "title": "全篇",
+      "title_en": "The Complete Text",
+      "title_en_source": "human"
     }
   ],
   "commentary_chapter_count": 0,
-  "commentary_chapters": [],
-  "provider": "ctext-html",
-  "source_url": "https://ctext.org/three-character-classic?if=en",
-  "title": "Three Character Classic"
+  "commentary_chapters": []
 }

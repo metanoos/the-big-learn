@@ -18,16 +18,291 @@
         "character_count": 39,
         "id": "chapter-043-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "tiān",
+          "xià",
+          "zhī",
+          "zhì",
+          "róu",
+          "",
+          "chí",
+          "chěng",
+          "tiān",
+          "xià",
+          "zhī",
+          "zhì",
+          "jiān",
+          "",
+          "wú",
+          "yǒu",
+          "rù",
+          "wú",
+          "jiàn",
+          "",
+          "wú",
+          "shì",
+          "yǐ",
+          "zhī",
+          "wú",
+          "wéi",
+          "zhī",
+          "yǒu",
+          "yì",
+          "",
+          "bù",
+          "yán",
+          "zhī",
+          "jiào",
+          "",
+          "wú",
+          "wéi",
+          "zhī",
+          "yì",
+          "",
+          "tiān",
+          "xià",
+          "xī",
+          "jí",
+          "zhī",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "天下之至柔，馳騁天下之至堅。無有入無間，吾是以知無為之有益。不言之教，無為之益，天下希及之。"
+        "text": "天下之至柔，驰骋天下之至坚。无有入无间，吾是以知无为之有益。不言之教，无为之益，天下希及之。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "land under heaven / the whole world / the whole of China / realm / rule",
+            "pinyin": "tiān xià",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "天下"
+          },
+          {
+            "end": 4,
+            "gloss": "extremely",
+            "pinyin": "zhī zhì",
+            "source": "CC-CEDICT",
+            "start": 2,
+            "word": "之至"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "柔"
+          },
+          {
+            "end": 8,
+            "gloss": "to gallop / to rush headlong",
+            "pinyin": "chí chěng",
+            "source": "CC-CEDICT",
+            "start": 6,
+            "word": "驰骋"
+          },
+          {
+            "end": 10,
+            "gloss": "land under heaven / the whole world / the whole of China / realm / rule",
+            "pinyin": "tiān xià",
+            "source": "CC-CEDICT",
+            "start": 8,
+            "word": "天下"
+          },
+          {
+            "end": 12,
+            "gloss": "extremely",
+            "pinyin": "zhī zhì",
+            "source": "CC-CEDICT",
+            "start": 10,
+            "word": "之至"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "坚"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "无"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "有"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "入"
+          },
+          {
+            "end": 19,
+            "gloss": "very close / no gap between them / continuously / unbroken / hard to separate / indistinguishable",
+            "pinyin": "wú jiàn",
+            "source": "CC-CEDICT",
+            "start": 17,
+            "word": "无间"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "吾"
+          },
+          {
+            "end": 23,
+            "gloss": "therefore / thus / so",
+            "pinyin": "shì yǐ",
+            "source": "CC-CEDICT",
+            "start": 21,
+            "word": "是以"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "知"
+          },
+          {
+            "end": 26,
+            "gloss": "the Daoist doctrine of inaction / let things take their own course / laissez-faire",
+            "pinyin": "wú wéi",
+            "source": "CC-CEDICT",
+            "start": 24,
+            "word": "无为"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "之"
+          },
+          {
+            "end": 29,
+            "gloss": "useful / beneficial / profitable",
+            "pinyin": "yǒu yì",
+            "source": "CC-CEDICT",
+            "start": 27,
+            "word": "有益"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "不"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "言"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "之"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "教"
+          },
+          {
+            "end": 37,
+            "gloss": "the Daoist doctrine of inaction / let things take their own course / laissez-faire",
+            "pinyin": "wú wéi",
+            "source": "CC-CEDICT",
+            "start": 35,
+            "word": "无为"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "之"
+          },
+          {
+            "end": 39,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 38,
+            "word": "益"
+          },
+          {
+            "end": 42,
+            "gloss": "land under heaven / the whole world / the whole of China / realm / rule",
+            "pinyin": "tiān xià",
+            "source": "CC-CEDICT",
+            "start": 40,
+            "word": "天下"
+          },
+          {
+            "end": 43,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 42,
+            "word": "希"
+          },
+          {
+            "end": 44,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 43,
+            "word": "及"
+          },
+          {
+            "end": 45,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 44,
+            "word": "之"
+          }
+        ]
       }
     ],
-    "summary": "天下之至柔，馳騁天下之至堅",
+    "summary": "天下之至柔，驰骋天下之至坚",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "天下之至柔，馳騁天下之至堅。無有入無間，吾是以知無為之有益。不言之教，無為之益，天下希及之。",
+    "text": "天下之至柔，驰骋天下之至坚。无有入无间，吾是以知无为之有益。不言之教，无为之益，天下希及之。",
     "title": "第43章"
   },
   "chapter_path": "books/daodejing/chapters/chapter-043.json",

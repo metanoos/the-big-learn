@@ -10,7 +10,7 @@
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "The Master said, \"I know how it is that the path of the Mean is not walked in: The knowing go beyond it, and the stupid do not come up to it.",
+            "text": "The Master said, \"I know how it is that the path of the Mean is not walked in: The knowing go beyond it, and the stupid do not come up to it. I know how it is that the path of the Mean is not understood: The men of talents and virtue go beyond it, and the worthless do not come up to it.",
             "translator": "Legge",
             "year": 1885
           }
@@ -18,16 +18,334 @@
         "character_count": 39,
         "id": "chapter-004-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "zǐ",
+          "yuē",
+          "",
+          "",
+          "dào",
+          "zhī",
+          "bù",
+          "xíng",
+          "yě",
+          "",
+          "wǒ",
+          "zhī",
+          "zhī",
+          "yǐ",
+          "",
+          "zhī",
+          "zhě",
+          "guò",
+          "zhī",
+          "",
+          "yú",
+          "zhě",
+          "bù",
+          "jí",
+          "yě",
+          "",
+          "dào",
+          "zhī",
+          "bù",
+          "míng",
+          "yě",
+          "",
+          "wǒ",
+          "zhī",
+          "zhī",
+          "yǐ",
+          "",
+          "xián",
+          "zhě",
+          "guò",
+          "zhī",
+          "",
+          "bú",
+          "xiào",
+          "zhě",
+          "bù",
+          "jí",
+          "yě",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "子曰：「道之不行也，我知之矣，知者過之，愚者不及也；道之不明也，我知之矣，賢者過之，不肖者不及也。"
+        "text": "子曰：「道之不行也，我知之矣，知者过之，愚者不及也；道之不明也，我知之矣，贤者过之，不肖者不及也。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "The Master said (Confucius said)",
+            "pinyin": "zǐ yuē",
+            "source": "classical-override",
+            "start": 0,
+            "word": "子曰"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "道"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "之"
+          },
+          {
+            "end": 8,
+            "gloss": "won't do / be out of the question / be no good / not work / not be capable",
+            "pinyin": "bù xíng",
+            "source": "CC-CEDICT",
+            "start": 6,
+            "word": "不行"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "也"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "我"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "知"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "之"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "矣"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "知"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "者"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "过"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "之"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "愚"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "者"
+          },
+          {
+            "end": 24,
+            "gloss": "to fall short of / not as good as / too late",
+            "pinyin": "bù jí",
+            "source": "CC-CEDICT",
+            "start": 22,
+            "word": "不及"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "也"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "道"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "之"
+          },
+          {
+            "end": 30,
+            "gloss": "not clear / unknown / to fail to understand",
+            "pinyin": "bù míng",
+            "source": "CC-CEDICT",
+            "start": 28,
+            "word": "不明"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "也"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "我"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "知"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "之"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "矣"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "贤"
+          },
+          {
+            "end": 39,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 38,
+            "word": "者"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "过"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "之"
+          },
+          {
+            "end": 44,
+            "gloss": "(literary) unlike one's parents / degenerate / unworthy",
+            "pinyin": "bù xiào",
+            "source": "CC-CEDICT",
+            "start": 42,
+            "word": "不肖"
+          },
+          {
+            "end": 45,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 44,
+            "word": "者"
+          },
+          {
+            "end": 47,
+            "gloss": "to fall short of / not as good as / too late",
+            "pinyin": "bù jí",
+            "source": "CC-CEDICT",
+            "start": 45,
+            "word": "不及"
+          },
+          {
+            "end": 48,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 47,
+            "word": "也"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "I know how it is that the path of the Mean is not understood: The men of talents and virtue go beyond it, and the worthless do not come up to it. There is no body but eats and drinks. But they are few who can distinguish flavors.\"",
+            "text": "There is no body but eats and drinks. But they are few who can distinguish flavors.\"",
             "translator": "Legge",
             "year": 1885
           }
@@ -35,16 +353,107 @@
         "character_count": 11,
         "id": "chapter-004-line-002",
         "order": 2,
+        "pinyin_per_char": [
+          "rén",
+          "mò",
+          "bù",
+          "yǐn",
+          "shí",
+          "yě",
+          "",
+          "xiān",
+          "néng",
+          "zhī",
+          "wèi",
+          "yě",
+          "",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 2,
-        "text": "人莫不飲食也，鮮能知味也。」"
+        "text": "人莫不饮食也，鲜能知味也。」",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "人"
+          },
+          {
+            "end": 3,
+            "gloss": "none doesn't / there is none who isn't / everyone",
+            "pinyin": "mò bù",
+            "source": "CC-CEDICT",
+            "start": 1,
+            "word": "莫不"
+          },
+          {
+            "end": 5,
+            "gloss": "eating and drinking / food and drink; diet",
+            "pinyin": "yǐn shí",
+            "source": "CC-CEDICT",
+            "start": 3,
+            "word": "饮食"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "也"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "鲜"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "能"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "知"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "味"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "也"
+          }
+        ]
       }
     ],
     "summary": "",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "子曰：「道之不行也，我知之矣，知者過之，愚者不及也；道之不明也，我知之矣，賢者過之，不肖者不及也。\n人莫不飲食也，鮮能知味也。」",
+    "text": "子曰：「道之不行也，我知之矣，知者过之，愚者不及也；道之不明也，我知之矣，贤者过之，不肖者不及也。\n人莫不饮食也，鲜能知味也。」",
     "title": ""
   },
   "chapter_path": "books/zhong-yong/chapters/chapter-004.json",

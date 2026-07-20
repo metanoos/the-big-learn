@@ -18,16 +18,521 @@
         "character_count": 64,
         "id": "chapter-059-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "zhì",
+          "rén",
+          "shì",
+          "tiān",
+          "mò",
+          "ruò",
+          "sè",
+          "",
+          "fū",
+          "wéi",
+          "sè",
+          "",
+          "shì",
+          "wèi",
+          "zǎo",
+          "fú",
+          "",
+          "zǎo",
+          "fú",
+          "wèi",
+          "zhī",
+          "zhòng",
+          "jī",
+          "dé",
+          "",
+          "zhòng",
+          "jī",
+          "dé",
+          "zé",
+          "wú",
+          "bú",
+          "kè",
+          "",
+          "wú",
+          "bú",
+          "kè",
+          "zé",
+          "mò",
+          "zhī",
+          "qí",
+          "jí",
+          "",
+          "mò",
+          "zhī",
+          "qí",
+          "jí",
+          "",
+          "ké",
+          "yí",
+          "yǒu",
+          "guó",
+          "",
+          "yǒu",
+          "guó",
+          "zhī",
+          "mǔ",
+          "",
+          "ké",
+          "yǐ",
+          "cháng",
+          "jiǔ",
+          "",
+          "shì",
+          "wèi",
+          "shēn",
+          "gēn",
+          "gù",
+          "dǐ",
+          "",
+          "cháng",
+          "shēng",
+          "jiǔ",
+          "shì",
+          "zhī",
+          "dào",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "治人事天莫若嗇。夫唯嗇，是謂早服；早服謂之重積德；重積德則無不克；無不克則莫知其極；莫知其極，可以有國；有國之母，可以長久；是謂深根固柢，長生久視之道。"
+        "text": "治人事天莫若啬。夫唯啬，是谓早服；早服谓之重积德；重积德则无不克；无不克则莫知其极；莫知其极，可以有国；有国之母，可以长久；是谓深根固柢，长生久视之道。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "治"
+          },
+          {
+            "end": 3,
+            "gloss": "personnel / human resources / human affairs / ways of the world / (euphemism) sexuality / the facts…",
+            "pinyin": "rén shì",
+            "source": "CC-CEDICT",
+            "start": 1,
+            "word": "人事"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "天"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "莫"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "若"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "啬"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "夫"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "唯"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "啬"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "是"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "谓"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "早"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "服"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "早"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "服"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "谓"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "之"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "重"
+          },
+          {
+            "end": 24,
+            "gloss": "to accumulate merit / to do good / to give to charity / virtuous actions",
+            "pinyin": "jī dé",
+            "source": "CC-CEDICT",
+            "start": 22,
+            "word": "积德"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "重"
+          },
+          {
+            "end": 28,
+            "gloss": "to accumulate merit / to do good / to give to charity / virtuous actions",
+            "pinyin": "jī dé",
+            "source": "CC-CEDICT",
+            "start": 26,
+            "word": "积德"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "则"
+          },
+          {
+            "end": 31,
+            "gloss": "none lacking / none missing / everything is there / everyone without exception",
+            "pinyin": "wú bù",
+            "source": "CC-CEDICT",
+            "start": 29,
+            "word": "无不"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "克"
+          },
+          {
+            "end": 35,
+            "gloss": "none lacking / none missing / everything is there / everyone without exception",
+            "pinyin": "wú bù",
+            "source": "CC-CEDICT",
+            "start": 33,
+            "word": "无不"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "克"
+          },
+          {
+            "end": 37,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 36,
+            "word": "则"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "莫"
+          },
+          {
+            "end": 39,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 38,
+            "word": "知"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "其"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "极"
+          },
+          {
+            "end": 43,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 42,
+            "word": "莫"
+          },
+          {
+            "end": 44,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 43,
+            "word": "知"
+          },
+          {
+            "end": 45,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 44,
+            "word": "其"
+          },
+          {
+            "end": 46,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 45,
+            "word": "极"
+          },
+          {
+            "end": 49,
+            "gloss": "can / may / possible / able to / not bad / pretty good",
+            "pinyin": "kě yǐ",
+            "source": "CC-CEDICT",
+            "start": 47,
+            "word": "可以"
+          },
+          {
+            "end": 50,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 49,
+            "word": "有"
+          },
+          {
+            "end": 51,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 50,
+            "word": "国"
+          },
+          {
+            "end": 53,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 52,
+            "word": "有"
+          },
+          {
+            "end": 54,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 53,
+            "word": "国"
+          },
+          {
+            "end": 55,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 54,
+            "word": "之"
+          },
+          {
+            "end": 56,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 55,
+            "word": "母"
+          },
+          {
+            "end": 59,
+            "gloss": "can / may / possible / able to / not bad / pretty good",
+            "pinyin": "kě yǐ",
+            "source": "CC-CEDICT",
+            "start": 57,
+            "word": "可以"
+          },
+          {
+            "end": 61,
+            "gloss": "long-time; long-term / lasting; enduring; permanent / for a long time",
+            "pinyin": "cháng jiǔ",
+            "source": "CC-CEDICT",
+            "start": 59,
+            "word": "长久"
+          },
+          {
+            "end": 63,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 62,
+            "word": "是"
+          },
+          {
+            "end": 64,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 63,
+            "word": "谓"
+          },
+          {
+            "end": 65,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 64,
+            "word": "深"
+          },
+          {
+            "end": 66,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 65,
+            "word": "根"
+          },
+          {
+            "end": 67,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 66,
+            "word": "固"
+          },
+          {
+            "end": 68,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 67,
+            "word": "柢"
+          },
+          {
+            "end": 73,
+            "gloss": "(idiom) to live forever and never grow old",
+            "pinyin": "cháng shēng jiǔ shì",
+            "source": "CC-CEDICT",
+            "start": 69,
+            "word": "长生久视"
+          },
+          {
+            "end": 74,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 73,
+            "word": "之"
+          },
+          {
+            "end": 75,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 74,
+            "word": "道"
+          }
+        ]
       }
     ],
-    "summary": "治人事天莫若嗇",
+    "summary": "治人事天莫若啬",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "治人事天莫若嗇。夫唯嗇，是謂早服；早服謂之重積德；重積德則無不克；無不克則莫知其極；莫知其極，可以有國；有國之母，可以長久；是謂深根固柢，長生久視之道。",
+    "text": "治人事天莫若啬。夫唯啬，是谓早服；早服谓之重积德；重积德则无不克；无不克则莫知其极；莫知其极，可以有国；有国之母，可以长久；是谓深根固柢，长生久视之道。",
     "title": "第59章"
   },
   "chapter_path": "books/daodejing/chapters/chapter-059.json",

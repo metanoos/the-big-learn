@@ -18,9 +18,61 @@
         "character_count": 6,
         "id": "chapter-027-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "dà",
+          "zāi",
+          "shèng",
+          "rén",
+          "zhī",
+          "dào",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "大哉聖人之道！"
+        "text": "大哉圣人之道！",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "大"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "哉"
+          },
+          {
+            "end": 4,
+            "gloss": "the sage; the holy man",
+            "pinyin": "shèng rén",
+            "source": "classical-override",
+            "start": 2,
+            "word": "圣人"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "之"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "道"
+          }
+        ]
       },
       {
         "canonical_translations": [
@@ -35,16 +87,99 @@
         "character_count": 11,
         "id": "chapter-027-line-002",
         "order": 2,
+        "pinyin_per_char": [
+          "yáng",
+          "yáng",
+          "hū",
+          "",
+          "fā",
+          "yù",
+          "wàn",
+          "wù",
+          "",
+          "jùn",
+          "jí",
+          "yú",
+          "tiān",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 2,
-        "text": "洋洋乎！發育萬物，峻極于天。"
+        "text": "洋洋乎！发育万物，峻极于天。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "vast / impressive / self-satisfied / immensely pleased with oneself",
+            "pinyin": "yáng yáng",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "洋洋"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "乎"
+          },
+          {
+            "end": 6,
+            "gloss": "to develop / to mature / growth / development / (sexually) mature",
+            "pinyin": "fā yù",
+            "source": "CC-CEDICT",
+            "start": 4,
+            "word": "发育"
+          },
+          {
+            "end": 8,
+            "gloss": "all things / all that exists",
+            "pinyin": "wàn wù",
+            "source": "CC-CEDICT",
+            "start": 6,
+            "word": "万物"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "峻"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "极"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "于"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "天"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "All-complete is its greatness!",
+            "text": "All-complete is its greatness! It embraces the three hundred rules of ceremony, and the three thousand rules of demeanor.",
             "translator": "Legge",
             "year": 1885
           }
@@ -52,26 +187,109 @@
         "character_count": 12,
         "id": "chapter-027-line-003",
         "order": 3,
+        "pinyin_per_char": [
+          "yōu",
+          "yōu",
+          "dà",
+          "zāi",
+          "",
+          "lǐ",
+          "yí",
+          "sān",
+          "bǎi",
+          "",
+          "wēi",
+          "yí",
+          "sān",
+          "qiān",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 3,
-        "text": "優優大哉！禮儀三百，威儀三千。"
-      },
-      {
-        "canonical_translations": [
+        "text": "优优大哉！礼仪三百，威仪三千。",
+        "word_spans": [
           {
-            "license": "public domain",
-            "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "It embraces the three hundred rules of ceremony, and the three thousand rules of demeanor.",
-            "translator": "Legge",
-            "year": 1885
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "优"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "优"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "大"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "哉"
+          },
+          {
+            "end": 7,
+            "gloss": "etiquette / ceremony",
+            "pinyin": "lǐ yí",
+            "source": "CC-CEDICT",
+            "start": 5,
+            "word": "礼仪"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "三"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "百"
+          },
+          {
+            "end": 12,
+            "gloss": "majestic presence / awe-inspiring manner",
+            "pinyin": "wēi yí",
+            "source": "CC-CEDICT",
+            "start": 10,
+            "word": "威仪"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "三"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "千"
           }
-        ],
-        "character_count": 6,
-        "id": "chapter-027-line-004",
-        "order": 4,
-        "source_block_chunk": 1,
-        "source_block_order": 4,
-        "text": "待其人而後行。"
+        ]
       },
       {
         "canonical_translations": [
@@ -83,19 +301,186 @@
             "year": 1885
           }
         ],
-        "character_count": 11,
-        "id": "chapter-027-line-005",
-        "order": 5,
+        "character_count": 6,
+        "id": "chapter-027-line-004",
+        "order": 4,
+        "pinyin_per_char": [
+          "dài",
+          "qí",
+          "rén",
+          "ér",
+          "hòu",
+          "xíng",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
-        "source_block_order": 5,
-        "text": "故曰苟不至德，至道不凝焉。"
+        "source_block_order": 4,
+        "text": "待其人而后行。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "待"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "其"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "人"
+          },
+          {
+            "end": 5,
+            "gloss": "after that / then",
+            "pinyin": "ér hòu",
+            "source": "CC-CEDICT",
+            "start": 3,
+            "word": "而后"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "行"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "Hence it is said, \"Only by perfect virtue can the perfect path, in all its courses, be made a fact.\" Therefore, the superior man honors his virtuous nature, and maintains constant inquiry and study, seeking to carry it out to its breadth and greatness, so as to omit none of the more exquisite and minute points which it embraces, and to raise it to its greatest height and brilliancy, so as to pursue the course of the Mean.",
+            "text": "Hence it is said, \"Only by perfect virtue can the perfect path, in all its courses, be made a fact.\"",
+            "translator": "Legge",
+            "year": 1885
+          }
+        ],
+        "character_count": 11,
+        "id": "chapter-027-line-005",
+        "order": 5,
+        "pinyin_per_char": [
+          "gù",
+          "yuē",
+          "gǒu",
+          "bú",
+          "zhì",
+          "dé",
+          "",
+          "zhì",
+          "dào",
+          "bù",
+          "níng",
+          "yān",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "故曰苟不至德，至道不凝焉。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "故"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "曰"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "苟"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "不"
+          },
+          {
+            "end": 6,
+            "gloss": "splendid virtue / majestic moral character / great kindness",
+            "pinyin": "zhì dé",
+            "source": "CC-CEDICT",
+            "start": 4,
+            "word": "至德"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "至"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "道"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "不"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "凝"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "焉"
+          }
+        ]
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "public domain",
+            "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
+            "text": "Therefore, the superior man honors his virtuous nature, and maintains constant inquiry and study, seeking to carry it out to its breadth and greatness, so as to omit none of the more exquisite and minute points which it embraces, and to raise it to its greatest height and brilliancy, so as to pursue the course of the Mean. He cherishes his old knowledge, and is continually acquiring new. He exerts an honest, generous earnestness, in the esteem and practice of all propriety.",
             "translator": "Legge",
             "year": 1885
           }
@@ -103,16 +488,236 @@
         "character_count": 34,
         "id": "chapter-027-line-006",
         "order": 6,
+        "pinyin_per_char": [
+          "gù",
+          "jūn",
+          "zǐ",
+          "zūn",
+          "dé",
+          "xìng",
+          "ér",
+          "dào",
+          "wèn",
+          "xué",
+          "",
+          "zhì",
+          "guǎng",
+          "dà",
+          "ér",
+          "jǐn",
+          "jīng",
+          "wēi",
+          "",
+          "jí",
+          "gāo",
+          "míng",
+          "ér",
+          "dào",
+          "zhōng",
+          "yōng",
+          "",
+          "wēn",
+          "gù",
+          "ér",
+          "zhī",
+          "xīn",
+          "",
+          "dūn",
+          "hòu",
+          "yǐ",
+          "chóng",
+          "lǐ",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 6,
-        "text": "故君子尊德性而道問學，致廣大而盡精微，極高明而道中庸。溫故而知新，敦厚以崇禮。"
+        "text": "故君子尊德性而道问学，致广大而尽精微，极高明而道中庸。温故而知新，敦厚以崇礼。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "故"
+          },
+          {
+            "end": 3,
+            "gloss": "the superior man; the exemplary person (junzi)",
+            "pinyin": "jūn zǐ",
+            "source": "classical-override",
+            "start": 1,
+            "word": "君子"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "尊"
+          },
+          {
+            "end": 6,
+            "gloss": "(coll.) revolting behavior / CL:副[fu4]",
+            "pinyin": "dé xing",
+            "source": "CC-CEDICT",
+            "start": 4,
+            "word": "德性"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "而"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "道"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "问"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "学"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "致"
+          },
+          {
+            "end": 14,
+            "gloss": "(of an area) vast or extensive / large-scale / widespread / (of people) numerous",
+            "pinyin": "guǎng dà",
+            "source": "CC-CEDICT",
+            "start": 12,
+            "word": "广大"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "而"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "尽"
+          },
+          {
+            "end": 18,
+            "gloss": "subtle / profound",
+            "pinyin": "jīng wēi",
+            "source": "CC-CEDICT",
+            "start": 16,
+            "word": "精微"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "极"
+          },
+          {
+            "end": 22,
+            "gloss": "brilliant; superior; wise",
+            "pinyin": "gāo míng",
+            "source": "CC-CEDICT",
+            "start": 20,
+            "word": "高明"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "而"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "道"
+          },
+          {
+            "end": 26,
+            "gloss": "The Doctrine of the Mean; the Golden Mean (the constant middle way)",
+            "pinyin": "zhōng yōng",
+            "source": "classical-override",
+            "start": 24,
+            "word": "中庸"
+          },
+          {
+            "end": 32,
+            "gloss": "to review the old and know the new (idiom, from the Analects) / to recall the past to understand th…",
+            "pinyin": "wēn gù ér zhī xīn",
+            "source": "CC-CEDICT",
+            "start": 27,
+            "word": "温故而知新"
+          },
+          {
+            "end": 35,
+            "gloss": "genuine / honest and sincere",
+            "pinyin": "dūn hòu",
+            "source": "CC-CEDICT",
+            "start": 33,
+            "word": "敦厚"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "以"
+          },
+          {
+            "end": 38,
+            "gloss": "see 崇礼区|崇礼区[Chong2 li3 Qu1]",
+            "pinyin": "Chóng lǐ",
+            "source": "CC-CEDICT",
+            "start": 36,
+            "word": "崇礼"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "He cherishes his old knowledge, and is continually acquiring new. He exerts an honest, generous earnestness, in the esteem and practice of all propriety. Thus, when occupying a high situation he is not proud, and in a low situation he is not insubordinate. When the kingdom is well governed, he is sure by his words to rise; and when it is ill governed, he is sure by his silence to command forbearance to himself. Is not this what we find in the Book of Poetry,-\"Intelligent is he and prudent, and so preserves his person?\"",
+            "text": "Thus, when occupying a high situation he is not proud, and in a low situation he is not insubordinate. When the kingdom is well governed, he is sure by his words to rise; and when it is ill governed, he is sure by his silence to command forbearance to himself. Is not this what we find in the Book of Poetry,-\"Intelligent is he and prudent, and so preserves his person?\"",
             "translator": "Legge",
             "year": 1885
           }
@@ -120,16 +725,351 @@
         "character_count": 41,
         "id": "chapter-027-line-007",
         "order": 7,
+        "pinyin_per_char": [
+          "shì",
+          "gù",
+          "jū",
+          "shàng",
+          "bù",
+          "jiāo",
+          "",
+          "wèi",
+          "xià",
+          "bú",
+          "bèi",
+          "",
+          "guó",
+          "yǒu",
+          "dào",
+          "qí",
+          "yán",
+          "zú",
+          "yǐ",
+          "xīng",
+          "",
+          "guó",
+          "wú",
+          "dào",
+          "qí",
+          "mò",
+          "zú",
+          "yǐ",
+          "róng",
+          "",
+          "shī",
+          "yuē",
+          "",
+          "jì",
+          "míng",
+          "qiě",
+          "zhé",
+          "",
+          "yí",
+          "bǎo",
+          "qí",
+          "shēn",
+          "",
+          "",
+          "qí",
+          "cǐ",
+          "zhī",
+          "wèi",
+          "yǔ",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 7,
-        "text": "是故居上不驕，為下不倍，國有道其言足以興，國無道其默足以容。詩曰「既明且哲，以保其身」，其此之謂與！"
+        "text": "是故居上不骄，为下不倍，国有道其言足以兴，国无道其默足以容。诗曰「既明且哲，以保其身」，其此之谓与！",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "therefore / so / consequently",
+            "pinyin": "shì gù",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "是故"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "居"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "上"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "不"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "骄"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "为"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "下"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "不"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "倍"
+          },
+          {
+            "end": 14,
+            "gloss": "nationalized / public / government owned / state-owned",
+            "pinyin": "guó yǒu",
+            "source": "CC-CEDICT",
+            "start": 12,
+            "word": "国有"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "道"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "其"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "言"
+          },
+          {
+            "end": 19,
+            "gloss": "sufficient to... / so much so that / so that",
+            "pinyin": "zú yǐ",
+            "source": "CC-CEDICT",
+            "start": 17,
+            "word": "足以"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "兴"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "国"
+          },
+          {
+            "end": 24,
+            "gloss": "tyrannical / brutal (regime)",
+            "pinyin": "wú dào",
+            "source": "CC-CEDICT",
+            "start": 22,
+            "word": "无道"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "其"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "默"
+          },
+          {
+            "end": 28,
+            "gloss": "sufficient to... / so much so that / so that",
+            "pinyin": "zú yǐ",
+            "source": "CC-CEDICT",
+            "start": 26,
+            "word": "足以"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "容"
+          },
+          {
+            "end": 32,
+            "gloss": "a poem goes:",
+            "pinyin": "shī yuē",
+            "source": "CC-CEDICT",
+            "start": 30,
+            "word": "诗曰"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "既"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "明"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "且"
+          },
+          {
+            "end": 37,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 36,
+            "word": "哲"
+          },
+          {
+            "end": 39,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 38,
+            "word": "以"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "保"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "其"
+          },
+          {
+            "end": 42,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 41,
+            "word": "身"
+          },
+          {
+            "end": 45,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 44,
+            "word": "其"
+          },
+          {
+            "end": 46,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 45,
+            "word": "此"
+          },
+          {
+            "end": 47,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 46,
+            "word": "之"
+          },
+          {
+            "end": 48,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 47,
+            "word": "谓"
+          },
+          {
+            "end": 49,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 48,
+            "word": "与"
+          }
+        ]
       }
     ],
     "summary": "",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "大哉聖人之道！\n洋洋乎！發育萬物，峻極于天。\n優優大哉！禮儀三百，威儀三千。\n待其人而後行。\n故曰苟不至德，至道不凝焉。\n故君子尊德性而道問學，致廣大而盡精微，極高明而道中庸。溫故而知新，敦厚以崇禮。\n是故居上不驕，為下不倍，國有道其言足以興，國無道其默足以容。詩曰「既明且哲，以保其身」，其此之謂與！",
+    "text": "大哉圣人之道！\n洋洋乎！发育万物，峻极于天。\n优优大哉！礼仪三百，威仪三千。\n待其人而后行。\n故曰苟不至德，至道不凝焉。\n故君子尊德性而道问学，致广大而尽精微，极高明而道中庸。温故而知新，敦厚以崇礼。\n是故居上不骄，为下不倍，国有道其言足以兴，国无道其默足以容。诗曰「既明且哲，以保其身」，其此之谓与！",
     "title": ""
   },
   "chapter_path": "books/zhong-yong/chapters/chapter-027.json",

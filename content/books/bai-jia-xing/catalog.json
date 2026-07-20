@@ -1,0 +1,39 @@
+{
+  "available": true,
+  "background": "The Bai Jia Xing (Hundred Family Surnames) is a Song-dynasty primer (c. 1000 CE) that lists several hundred Chinese surnames in four-character rhymed lines, beginning with the imperial surnames of the Song and its predecessors: 赵钱孙李 (Zhao, Qian, Sun, Li). It was one of three texts — together with San Zi Jing and Qian Zi Wen, the 三百千 — that almost every child in late imperial China memorized first, recited for the rhythm and the literacy, with no particular doctrinal content beyond a basic social map of the great family names. As a primer it is the lightest of the three: no curriculum like San Zi Jing, no allusive sweep like Qian Zi Wen, just a list — but the list itself is cultural knowledge every Mandarin speaker implicitly shares, and the text is short enough to read in one sitting. Tradition is `secular` for the same reason Qian Zi Wen is: a literacy copybook with no Confucian, Daoist, or Buddhist program. No English translation is shipped: the text is a list of names, so the reader surfaces pinyin and per-surname glosses rather than a prose rendering.",
+  "blurb": "A rhymed catalogue of Chinese surnames — the second of the 三百千 primer triad. A literacy copybook, no doctrinal program.",
+  "cache_dir": "books/bai-jia-xing",
+  "catalog_path": "books/bai-jia-xing/catalog.json",
+  "chapter_count": 1,
+  "chapters": [
+    {
+      "chapter_path": "books/bai-jia-xing/chapters/chapter-001.json",
+      "character_count": 634,
+      "id": "chapter-001",
+      "order": 1,
+      "reading_unit_count": 71,
+      "summary": "赵钱孙李　周吴郑王",
+      "supplemental_unit_count": 0,
+      "title": "全篇",
+      "title_en": "The Complete Text",
+      "title_en_source": "human"
+    }
+  ],
+  "commentary_chapter_count": 0,
+  "commentary_chapters": [],
+  "curriculum_order": 2,
+  "difficulty": "foundational",
+  "display_name": "Bai Jia Xing 百家姓",
+  "form": "primer",
+  "name_en": "The Hundred Family Surnames",
+  "name_pinyin": "Bǎi Jiā Xìng",
+  "name_zh": "百家姓",
+  "provider": "wikisource-html",
+  "source_title": "v1 canon. Chinese text via zh.wikisource.org/wiki/百家姓 (anonymous Song-dynasty primer, public domain). No English translation is seeded: the text is a rhymed catalogue of surnames with no prose to translate — the reader surfaces pinyin and per-surname glosses instead. Honest gap, not fabricated. Source-of-truth file in this repo: content/SOURCES.md.",
+  "source_url": "https://zh.wikisource.org/wiki/百家姓",
+  "tier": "B",
+  "title": "百家姓",
+  "tradition": "secular",
+  "v1": true,
+  "year": 1000
+}

@@ -18,16 +18,198 @@
         "character_count": 21,
         "id": "chapter-040-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "fán",
+          "zhě",
+          "dào",
+          "zhī",
+          "dòng",
+          "",
+          "ruò",
+          "zhě",
+          "dào",
+          "zhī",
+          "yòng",
+          "",
+          "tiān",
+          "xià",
+          "wàn",
+          "wù",
+          "shēng",
+          "yú",
+          "yǒu",
+          "",
+          "yǒu",
+          "shēng",
+          "yú",
+          "wú",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "反者道之動；弱者道之用。天下萬物生於有，有生於無。"
+        "text": "反者道之动；弱者道之用。天下万物生于有，有生于无。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "反"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "者"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "道"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "之"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "动"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "弱"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "者"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "道"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "之"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "用"
+          },
+          {
+            "end": 14,
+            "gloss": "land under heaven / the whole world / the whole of China / realm / rule",
+            "pinyin": "tiān xià",
+            "source": "CC-CEDICT",
+            "start": 12,
+            "word": "天下"
+          },
+          {
+            "end": 16,
+            "gloss": "all things / all that exists",
+            "pinyin": "wàn wù",
+            "source": "CC-CEDICT",
+            "start": 14,
+            "word": "万物"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "生"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "于"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "有"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "有"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "生"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "于"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "无"
+          }
+        ]
       }
     ],
-    "summary": "反者道之動；弱者道之用",
+    "summary": "反者道之动；弱者道之用",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "反者道之動；弱者道之用。天下萬物生於有，有生於無。",
+    "text": "反者道之动；弱者道之用。天下万物生于有，有生于无。",
     "title": "第40章"
   },
   "chapter_path": "books/daodejing/chapters/chapter-040.json",

@@ -18,16 +18,58 @@
         "character_count": 4,
         "id": "chapter-020-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "āi",
+          "gōng",
+          "wèn",
+          "zhèng",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "哀公問政。"
+        "text": "哀公问政。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "哀"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "公"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "问"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "政"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "The Master said, \"The government of Wen and Wu is displayed in the records - the tablets of wood and bamboo.",
+            "text": "The Master said, \"The government of Wen and Wu is displayed in the records - the tablets of wood and bamboo. Let there be the men and the government will flourish; but without the men, their government decays and ceases.",
             "translator": "Legge",
             "year": 1885
           }
@@ -35,26 +77,214 @@
         "character_count": 24,
         "id": "chapter-020-line-002",
         "order": 2,
+        "pinyin_per_char": [
+          "zǐ",
+          "yuē",
+          "",
+          "",
+          "wén",
+          "wǔ",
+          "zhī",
+          "zhèng",
+          "",
+          "bú",
+          "zài",
+          "fāng",
+          "cè",
+          "",
+          "qí",
+          "rén",
+          "cún",
+          "",
+          "zé",
+          "qí",
+          "zhèng",
+          "jǔ",
+          "",
+          "qí",
+          "rén",
+          "wáng",
+          "",
+          "zé",
+          "qí",
+          "zhèng",
+          "xī",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 2,
-        "text": "子曰：「文武之政，布在方策。其人存，則其政舉；其人亡，則其政息。"
-      },
-      {
-        "canonical_translations": [
+        "text": "子曰：「文武之政，布在方策。其人存，则其政举；其人亡，则其政息。",
+        "word_spans": [
           {
-            "license": "public domain",
-            "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "Let there be the men and the government will flourish; but without the men, their government decays and ceases.",
-            "translator": "Legge",
-            "year": 1885
+            "end": 2,
+            "gloss": "The Master said (Confucius said)",
+            "pinyin": "zǐ yuē",
+            "source": "classical-override",
+            "start": 0,
+            "word": "子曰"
+          },
+          {
+            "end": 6,
+            "gloss": "civil and military",
+            "pinyin": "wén wǔ",
+            "source": "CC-CEDICT",
+            "start": 4,
+            "word": "文武"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "之"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "政"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "布"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "在"
+          },
+          {
+            "end": 13,
+            "gloss": "strategy / policy / general plan / variant of 方册|方册[fang1 ce4]",
+            "pinyin": "fāng cè",
+            "source": "CC-CEDICT",
+            "start": 11,
+            "word": "方策"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "其"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "人"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "存"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "则"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "其"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "政"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "举"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "其"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "人"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "亡"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "则"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "其"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "政"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "息"
           }
-        ],
-        "character_count": 15,
-        "id": "chapter-020-line-003",
-        "order": 3,
-        "source_block_chunk": 1,
-        "source_block_order": 3,
-        "text": "人道敏政，地道敏樹。夫政也者，蒲盧也。"
+        ]
       },
       {
         "canonical_translations": [
@@ -66,19 +296,302 @@
             "year": 1885
           }
         ],
-        "character_count": 17,
-        "id": "chapter-020-line-004",
-        "order": 4,
+        "character_count": 15,
+        "id": "chapter-020-line-003",
+        "order": 3,
+        "pinyin_per_char": [
+          "rén",
+          "dào",
+          "mǐn",
+          "zhèng",
+          "",
+          "dì",
+          "dào",
+          "mǐn",
+          "shù",
+          "",
+          "fū",
+          "zhèng",
+          "yé",
+          "zhě",
+          "",
+          "pú",
+          "lú",
+          "yě",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
-        "source_block_order": 4,
-        "text": "故為政在人，取人以身，脩身以道，脩道以仁。"
+        "source_block_order": 3,
+        "text": "人道敏政，地道敏树。夫政也者，蒲卢也。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "human sympathy / humanitarianism / humane / the \"human way\", one of the stages in the cycle of rein…",
+            "pinyin": "rén dào",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "人道"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "敏"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "政"
+          },
+          {
+            "end": 7,
+            "gloss": "authentic / genuine / proper",
+            "pinyin": "dì dao",
+            "source": "CC-CEDICT",
+            "start": 5,
+            "word": "地道"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "敏"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "树"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "夫"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "政"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "也"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "者"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "蒲"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "卢"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "也"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "Therefore the administration of government lies in getting proper men.",
+            "text": "Therefore the administration of government lies in getting proper men. Such men are to be got by means of the ruler's own character. That character is to be cultivated by his treading in the ways of duty. And the treading those ways of duty is to be cultivated by the cherishing of benevolence.",
+            "translator": "Legge",
+            "year": 1885
+          }
+        ],
+        "character_count": 17,
+        "id": "chapter-020-line-004",
+        "order": 4,
+        "pinyin_per_char": [
+          "gù",
+          "wéi",
+          "zhèng",
+          "zài",
+          "rén",
+          "",
+          "qǔ",
+          "rén",
+          "yǐ",
+          "shēn",
+          "",
+          "xiū",
+          "shēn",
+          "yǐ",
+          "dào",
+          "",
+          "xiū",
+          "dào",
+          "yǐ",
+          "rén",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "故为政在人，取人以身，修身以道，修道以仁。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "故"
+          },
+          {
+            "end": 3,
+            "gloss": "to govern; the practice of government",
+            "pinyin": "wéi zhèng",
+            "source": "classical-override",
+            "start": 1,
+            "word": "为政"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "在"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "人"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "取"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "人"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "以"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "身"
+          },
+          {
+            "end": 13,
+            "gloss": "to cultivate one's character (self-cultivation)",
+            "pinyin": "xiū shēn",
+            "source": "classical-override",
+            "start": 11,
+            "word": "修身"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "以"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "道"
+          },
+          {
+            "end": 18,
+            "gloss": "to cultivate the Way (to cultivate one's moral path)",
+            "pinyin": "xiū dào",
+            "source": "classical-override",
+            "start": 16,
+            "word": "修道"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "以"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "仁"
+          }
+        ]
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "public domain",
+            "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
+            "text": "Benevolence is the characteristic element of humanity, and the great exercise of it is in loving relatives. Righteousness is the accordance of actions with what is right, and the great exercise of it is in honoring the worthy. The decreasing measures of the love due to relatives, and the steps in the honor due to the worthy, are produced by the principle of propriety.",
             "translator": "Legge",
             "year": 1885
           }
@@ -86,16 +599,248 @@
         "character_count": 28,
         "id": "chapter-020-line-005",
         "order": 5,
+        "pinyin_per_char": [
+          "rén",
+          "zhě",
+          "rén",
+          "yě",
+          "",
+          "qīn",
+          "qīn",
+          "wéi",
+          "dà",
+          "",
+          "yì",
+          "zhě",
+          "yí",
+          "yě",
+          "",
+          "zūn",
+          "xián",
+          "wéi",
+          "dà",
+          "",
+          "qīn",
+          "qīn",
+          "zhī",
+          "shā",
+          "",
+          "zūn",
+          "xián",
+          "zhī",
+          "děng",
+          "",
+          "lí",
+          "suǒ",
+          "shēng",
+          "yě",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 5,
-        "text": "仁者人也，親親為大；義者宜也，尊賢為大；親親之殺，尊賢之等，禮所生也。"
+        "text": "仁者人也，亲亲为大；义者宜也，尊贤为大；亲亲之杀，尊贤之等，礼所生也。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "the benevolent person; the man of perfect virtue",
+            "pinyin": "rén zhě",
+            "source": "classical-override",
+            "start": 0,
+            "word": "仁者"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "人"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "也"
+          },
+          {
+            "end": 7,
+            "gloss": "dear one / to kiss / friendly",
+            "pinyin": "qīn qīn",
+            "source": "CC-CEDICT",
+            "start": 5,
+            "word": "亲亲"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "为"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "大"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "义"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "者"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "宜"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "也"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "尊"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "贤"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "为"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "大"
+          },
+          {
+            "end": 22,
+            "gloss": "dear one / to kiss / friendly",
+            "pinyin": "qīn qīn",
+            "source": "CC-CEDICT",
+            "start": 20,
+            "word": "亲亲"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "之"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "杀"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "尊"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "贤"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "之"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "等"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "礼"
+          },
+          {
+            "end": 33,
+            "gloss": "parents (father and mother)",
+            "pinyin": "suǒ shēng",
+            "source": "CC-CEDICT",
+            "start": 31,
+            "word": "所生"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "也"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "Such men are to be got by means of the ruler's own character.",
+            "text": "When those in inferior situations do not possess the confidence of their superiors, they cannot retain the government of the people.",
             "translator": "Legge",
             "year": 1885
           }
@@ -103,16 +848,133 @@
         "character_count": 14,
         "id": "chapter-020-line-006",
         "order": 6,
+        "pinyin_per_char": [
+          "zài",
+          "xià",
+          "wèi",
+          "bú",
+          "huò",
+          "hū",
+          "shàng",
+          "",
+          "mín",
+          "bù",
+          "kě",
+          "dé",
+          "ér",
+          "zhì",
+          "yǐ",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 6,
-        "text": "在下位不獲乎上，民不可得而治矣！"
+        "text": "在下位不获乎上，民不可得而治矣！",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "under / myself (humble)",
+            "pinyin": "zài xià",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "在下"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "位"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "不"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "获"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "乎"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "上"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "民"
+          },
+          {
+            "end": 11,
+            "gloss": "cannot; should not; must not",
+            "pinyin": "bù kě",
+            "source": "CC-CEDICT",
+            "start": 9,
+            "word": "不可"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "得"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "而"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "治"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "矣"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "That character is to be cultivated by his treading in the ways of duty.",
+            "text": "Hence the sovereign may not neglect the cultivation of his own character. Wishing to cultivate his character, he may not neglect to serve his parents. In order to serve his parents, he may not neglect to acquire knowledge of men. In order to know men, he may not dispense with a knowledge of Heaven.",
             "translator": "Legge",
             "year": 1885
           }
@@ -120,16 +982,249 @@
         "character_count": 36,
         "id": "chapter-020-line-007",
         "order": 7,
+        "pinyin_per_char": [
+          "gù",
+          "jūn",
+          "zǐ",
+          "bù",
+          "ké",
+          "yǐ",
+          "bù",
+          "xiū",
+          "shēn",
+          "",
+          "sī",
+          "xiū",
+          "shēn",
+          "",
+          "bù",
+          "ké",
+          "yǐ",
+          "bú",
+          "shì",
+          "qīn",
+          "",
+          "sī",
+          "shì",
+          "qīn",
+          "",
+          "bù",
+          "ké",
+          "yǐ",
+          "bù",
+          "zhī",
+          "rén",
+          "",
+          "sī",
+          "zhī",
+          "rén",
+          "",
+          "bù",
+          "ké",
+          "yǐ",
+          "bù",
+          "zhī",
+          "tiān",
+          "",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 7,
-        "text": "故君子不可以不脩身；思脩身，不可以不事親；思事親，不可以不知人；思知人，不可以不知天。」"
+        "text": "故君子不可以不修身；思修身，不可以不事亲；思事亲，不可以不知人；思知人，不可以不知天。」",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "故"
+          },
+          {
+            "end": 3,
+            "gloss": "the superior man; the exemplary person (junzi)",
+            "pinyin": "jūn zǐ",
+            "source": "classical-override",
+            "start": 1,
+            "word": "君子"
+          },
+          {
+            "end": 6,
+            "gloss": "may not",
+            "pinyin": "bù kě yǐ",
+            "source": "CC-CEDICT",
+            "start": 3,
+            "word": "不可以"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "不"
+          },
+          {
+            "end": 9,
+            "gloss": "to cultivate one's character (self-cultivation)",
+            "pinyin": "xiū shēn",
+            "source": "classical-override",
+            "start": 7,
+            "word": "修身"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "思"
+          },
+          {
+            "end": 13,
+            "gloss": "to cultivate one's character (self-cultivation)",
+            "pinyin": "xiū shēn",
+            "source": "classical-override",
+            "start": 11,
+            "word": "修身"
+          },
+          {
+            "end": 17,
+            "gloss": "may not",
+            "pinyin": "bù kě yǐ",
+            "source": "CC-CEDICT",
+            "start": 14,
+            "word": "不可以"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "不"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "事"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "亲"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "思"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "事"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "亲"
+          },
+          {
+            "end": 28,
+            "gloss": "may not",
+            "pinyin": "bù kě yǐ",
+            "source": "CC-CEDICT",
+            "start": 25,
+            "word": "不可以"
+          },
+          {
+            "end": 30,
+            "gloss": "not to know / unaware / unknowingly / fig. not to admit (defeat, hardships, tiredness etc)",
+            "pinyin": "bù zhī",
+            "source": "CC-CEDICT",
+            "start": 28,
+            "word": "不知"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "人"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "思"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "知"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "人"
+          },
+          {
+            "end": 39,
+            "gloss": "may not",
+            "pinyin": "bù kě yǐ",
+            "source": "CC-CEDICT",
+            "start": 36,
+            "word": "不可以"
+          },
+          {
+            "end": 41,
+            "gloss": "not to know / unaware / unknowingly / fig. not to admit (defeat, hardships, tiredness etc)",
+            "pinyin": "bù zhī",
+            "source": "CC-CEDICT",
+            "start": 39,
+            "word": "不知"
+          },
+          {
+            "end": 42,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 41,
+            "word": "天"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "And the treading those ways of duty is to be cultivated by the cherishing of benevolence.",
+            "text": "The duties of universal obligation are five and the virtues wherewith they are practiced are three. The duties are those between sovereign and minister, between father and son, between husband and wife, between elder brother and younger, and those belonging to the intercourse of friends. Those five are the duties of universal obligation. Knowledge, magnanimity, and energy, these three, are the virtues universally binding. And the means by which they carry the duties into practice is singleness.",
             "translator": "Legge",
             "year": 1885
           }
@@ -137,16 +1232,466 @@
         "character_count": 56,
         "id": "chapter-020-line-008",
         "order": 8,
+        "pinyin_per_char": [
+          "tiān",
+          "xià",
+          "zhī",
+          "dá",
+          "dào",
+          "wǔ",
+          "",
+          "suó",
+          "yǐ",
+          "xíng",
+          "zhī",
+          "zhě",
+          "sān",
+          "",
+          "yuē",
+          "jūn",
+          "chén",
+          "yě",
+          "",
+          "fù",
+          "zí",
+          "yě",
+          "",
+          "fū",
+          "fù",
+          "yě",
+          "",
+          "kūn",
+          "dì",
+          "yě",
+          "",
+          "péng",
+          "yǒu",
+          "zhī",
+          "jiāo",
+          "yě",
+          "",
+          "wú",
+          "zhě",
+          "tiān",
+          "xià",
+          "zhī",
+          "dá",
+          "dào",
+          "yě",
+          "",
+          "zhī",
+          "",
+          "rén",
+          "",
+          "yǒng",
+          "sān",
+          "zhě",
+          "",
+          "tiān",
+          "xià",
+          "zhī",
+          "dá",
+          "dé",
+          "yě",
+          "",
+          "suó",
+          "yǐ",
+          "xíng",
+          "zhī",
+          "zhě",
+          "yī",
+          "yě",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 8,
-        "text": "天下之達道五，所以行之者三：曰君臣也，父子也，夫婦也，昆弟也，朋友之交也：五者天下之達道也。知、仁、勇三者，天下之達德也，所以行之者一也。"
+        "text": "天下之达道五，所以行之者三：曰君臣也，父子也，夫妇也，昆弟也，朋友之交也：五者天下之达道也。知、仁、勇三者，天下之达德也，所以行之者一也。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "land under heaven / the whole world / the whole of China / realm / rule",
+            "pinyin": "tiān xià",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "天下"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "之"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "达"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "道"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "五"
+          },
+          {
+            "end": 9,
+            "gloss": "therefore / as a result / so / the reason why",
+            "pinyin": "suǒ yǐ",
+            "source": "CC-CEDICT",
+            "start": 7,
+            "word": "所以"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "行"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "之"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "者"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "三"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "曰"
+          },
+          {
+            "end": 17,
+            "gloss": "a ruler and his ministers (old)",
+            "pinyin": "jūn chén",
+            "source": "CC-CEDICT",
+            "start": 15,
+            "word": "君臣"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "也"
+          },
+          {
+            "end": 21,
+            "gloss": "father and son",
+            "pinyin": "fù zǐ",
+            "source": "CC-CEDICT",
+            "start": 19,
+            "word": "父子"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "也"
+          },
+          {
+            "end": 25,
+            "gloss": "a (married) couple / husband and wife / CL:对|对[dui4]",
+            "pinyin": "fū fù",
+            "source": "CC-CEDICT",
+            "start": 23,
+            "word": "夫妇"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "也"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "昆"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "弟"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "也"
+          },
+          {
+            "end": 33,
+            "gloss": "friend / CL:个|个[ge4],位[wei4]",
+            "pinyin": "péng you",
+            "source": "CC-CEDICT",
+            "start": 31,
+            "word": "朋友"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "之"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "交"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "也"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "五"
+          },
+          {
+            "end": 39,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 38,
+            "word": "者"
+          },
+          {
+            "end": 41,
+            "gloss": "land under heaven / the whole world / the whole of China / realm / rule",
+            "pinyin": "tiān xià",
+            "source": "CC-CEDICT",
+            "start": 39,
+            "word": "天下"
+          },
+          {
+            "end": 42,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 41,
+            "word": "之"
+          },
+          {
+            "end": 43,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 42,
+            "word": "达"
+          },
+          {
+            "end": 44,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 43,
+            "word": "道"
+          },
+          {
+            "end": 45,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 44,
+            "word": "也"
+          },
+          {
+            "end": 47,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 46,
+            "word": "知"
+          },
+          {
+            "end": 49,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 48,
+            "word": "仁"
+          },
+          {
+            "end": 51,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 50,
+            "word": "勇"
+          },
+          {
+            "end": 52,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 51,
+            "word": "三"
+          },
+          {
+            "end": 53,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 52,
+            "word": "者"
+          },
+          {
+            "end": 56,
+            "gloss": "land under heaven / the whole world / the whole of China / realm / rule",
+            "pinyin": "tiān xià",
+            "source": "CC-CEDICT",
+            "start": 54,
+            "word": "天下"
+          },
+          {
+            "end": 57,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 56,
+            "word": "之"
+          },
+          {
+            "end": 58,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 57,
+            "word": "达"
+          },
+          {
+            "end": 59,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 58,
+            "word": "德"
+          },
+          {
+            "end": 60,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 59,
+            "word": "也"
+          },
+          {
+            "end": 63,
+            "gloss": "therefore / as a result / so / the reason why",
+            "pinyin": "suǒ yǐ",
+            "source": "CC-CEDICT",
+            "start": 61,
+            "word": "所以"
+          },
+          {
+            "end": 64,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 63,
+            "word": "行"
+          },
+          {
+            "end": 65,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 64,
+            "word": "之"
+          },
+          {
+            "end": 66,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 65,
+            "word": "者"
+          },
+          {
+            "end": 67,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 66,
+            "word": "一"
+          },
+          {
+            "end": 68,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 67,
+            "word": "也"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "Benevolence is the characteristic element of humanity, and the great exercise of it is in loving relatives. Righteousness is the accordance of actions with what is right, and the great exercise of it is in honoring the worthy. The decreasing measures of the love due to relatives, and the steps in the honor due to the worthy, are produced by the principle of propriety. When those in inferior situations do not possess the confidence of their superiors, they cannot retain the government of the people. Hence the sovereign may not neglect the cultivation of his own character. Wishing to cultivate his character, he may not neglect to serve his parents. In order to serve his parents, he may not neglect to acquire knowledge of men. In order to know men, he may not dispense with a knowledge of Heaven. The duties of universal obligation are five and the virtues wherewith they are practiced are three. The duties are those between sovereign and minister, between father and son, between husband and wife, between elder brother and younger, and those belonging to the intercourse of friends. Those five are the duties of universal obligation. Knowledge, magnanimity, and energy, these three, are the virtues universally binding. And the means by which they carry the duties into practice is singleness. Some are born with the knowledge of those duties; some know them by study; and some acquire the knowledge after a painful feeling of their ignorance. But the knowledge being possessed, it comes to the same thing. Some practice them with a natural ease; some from a desire for their advantages; and some by strenuous effort. But the achievement being made, it comes to the same thing.\"",
+            "text": "Some are born with the knowledge of those duties; some know them by study; and some acquire the knowledge after a painful feeling of their ignorance. But the knowledge being possessed, it comes to the same thing. Some practice them with a natural ease; some from a desire for their advantages; and some by strenuous effort. But the achievement being made, it comes to the same thing.\"",
             "translator": "Legge",
             "year": 1885
           }
@@ -154,16 +1699,376 @@
         "character_count": 43,
         "id": "chapter-020-line-009",
         "order": 9,
+        "pinyin_per_char": [
+          "huò",
+          "shēng",
+          "ér",
+          "zhī",
+          "zhī",
+          "",
+          "huò",
+          "xué",
+          "ér",
+          "zhī",
+          "zhī",
+          "",
+          "huò",
+          "kùn",
+          "ér",
+          "zhī",
+          "zhī",
+          "",
+          "jí",
+          "qí",
+          "zhī",
+          "zhī",
+          "yī",
+          "yě",
+          "",
+          "huò",
+          "ān",
+          "ér",
+          "xíng",
+          "zhī",
+          "",
+          "huò",
+          "lì",
+          "ér",
+          "xíng",
+          "zhī",
+          "",
+          "huò",
+          "mián",
+          "qiǎng",
+          "ér",
+          "xíng",
+          "zhī",
+          "",
+          "jí",
+          "qí",
+          "chéng",
+          "gōng",
+          "yī",
+          "yě",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 9,
-        "text": "或生而知之，或學而知之，或困而知之，及其知之一也；或安而行之，或利而行之，或勉強而行之，及其成功一也。"
+        "text": "或生而知之，或学而知之，或困而知之，及其知之一也；或安而行之，或利而行之，或勉强而行之，及其成功一也。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "或"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "生"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "而"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "知"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "之"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "或"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "学"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "而"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "知"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "之"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "或"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "困"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "而"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "知"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "之"
+          },
+          {
+            "end": 20,
+            "gloss": "(conjunction linking two nouns) and its ...; and their ...; and his ...; and her ...",
+            "pinyin": "jí qí",
+            "source": "CC-CEDICT",
+            "start": 18,
+            "word": "及其"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "知"
+          },
+          {
+            "end": 23,
+            "gloss": "one of (sth) / one out of a multitude / one (third, quarter, percent etc)",
+            "pinyin": "zhī yī",
+            "source": "CC-CEDICT",
+            "start": 21,
+            "word": "之一"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "也"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "或"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "安"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "而"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "行"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "之"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "或"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "利"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "而"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "行"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "之"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "或"
+          },
+          {
+            "end": 40,
+            "gloss": "to do with difficulty / to force sb to do sth / reluctant / barely enough",
+            "pinyin": "miǎn qiǎng",
+            "source": "CC-CEDICT",
+            "start": 38,
+            "word": "勉强"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "而"
+          },
+          {
+            "end": 42,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 41,
+            "word": "行"
+          },
+          {
+            "end": 43,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 42,
+            "word": "之"
+          },
+          {
+            "end": 46,
+            "gloss": "(conjunction linking two nouns) and its ...; and their ...; and his ...; and her ...",
+            "pinyin": "jí qí",
+            "source": "CC-CEDICT",
+            "start": 44,
+            "word": "及其"
+          },
+          {
+            "end": 48,
+            "gloss": "to succeed / success / successful; fruitful",
+            "pinyin": "chéng gōng",
+            "source": "CC-CEDICT",
+            "start": 46,
+            "word": "成功"
+          },
+          {
+            "end": 49,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 48,
+            "word": "一"
+          },
+          {
+            "end": 50,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 49,
+            "word": "也"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "The Master said, \"To be fond of learning is to be near to knowledge.",
+            "text": "The Master said, \"To be fond of learning is to be near to knowledge. To practice with vigor is to be near to magnanimity. To possess the feeling of shame is to be near to energy.",
             "translator": "Legge",
             "year": 1885
           }
@@ -171,16 +2076,123 @@
         "character_count": 17,
         "id": "chapter-020-line-010",
         "order": 10,
+        "pinyin_per_char": [
+          "zǐ",
+          "yuē",
+          "",
+          "",
+          "hào",
+          "xué",
+          "jìn",
+          "hū",
+          "zhī",
+          "",
+          "lì",
+          "xíng",
+          "jìn",
+          "hū",
+          "rén",
+          "",
+          "zhī",
+          "chǐ",
+          "jìn",
+          "hū",
+          "yǒng",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 10,
-        "text": "子曰：「好學近乎知，力行近乎仁，知恥近乎勇。"
+        "text": "子曰：「好学近乎知，力行近乎仁，知耻近乎勇。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "The Master said (Confucius said)",
+            "pinyin": "zǐ yuē",
+            "source": "classical-override",
+            "start": 0,
+            "word": "子曰"
+          },
+          {
+            "end": 6,
+            "gloss": "eager to study / studious / erudite",
+            "pinyin": "hào xué",
+            "source": "CC-CEDICT",
+            "start": 4,
+            "word": "好学"
+          },
+          {
+            "end": 8,
+            "gloss": "close to / intimate",
+            "pinyin": "jìn hu",
+            "source": "CC-CEDICT",
+            "start": 6,
+            "word": "近乎"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "知"
+          },
+          {
+            "end": 12,
+            "gloss": "to practice diligently / to act energetically",
+            "pinyin": "lì xíng",
+            "source": "CC-CEDICT",
+            "start": 10,
+            "word": "力行"
+          },
+          {
+            "end": 14,
+            "gloss": "close to / intimate",
+            "pinyin": "jìn hu",
+            "source": "CC-CEDICT",
+            "start": 12,
+            "word": "近乎"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "仁"
+          },
+          {
+            "end": 18,
+            "gloss": "to have a sense of shame",
+            "pinyin": "zhī chǐ",
+            "source": "CC-CEDICT",
+            "start": 16,
+            "word": "知耻"
+          },
+          {
+            "end": 20,
+            "gloss": "close to / intimate",
+            "pinyin": "jìn hu",
+            "source": "CC-CEDICT",
+            "start": 18,
+            "word": "近乎"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "勇"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "To practice with vigor is to be near to magnanimity.",
+            "text": "He who knows these three things knows how to cultivate his own character. Knowing how to cultivate his own character, he knows how to govern other men. Knowing how to govern other men, he knows how to govern the kingdom with all its states and families.\"",
             "translator": "Legge",
             "year": 1885
           }
@@ -188,16 +2200,280 @@
         "character_count": 36,
         "id": "chapter-020-line-011",
         "order": 11,
+        "pinyin_per_char": [
+          "zhī",
+          "sī",
+          "sān",
+          "zhě",
+          "",
+          "zé",
+          "zhī",
+          "suó",
+          "yǐ",
+          "xiū",
+          "shēn",
+          "",
+          "zhī",
+          "suó",
+          "yǐ",
+          "xiū",
+          "shēn",
+          "",
+          "zé",
+          "zhī",
+          "suó",
+          "yǐ",
+          "zhì",
+          "rén",
+          "",
+          "zhī",
+          "suó",
+          "yǐ",
+          "zhì",
+          "rén",
+          "",
+          "zé",
+          "zhī",
+          "suó",
+          "yǐ",
+          "zhì",
+          "tiān",
+          "xià",
+          "guó",
+          "jiā",
+          "yǐ",
+          "",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 11,
-        "text": "知斯三者，則知所以脩身；知所以脩身，則知所以治人；知所以治人，則知所以治天下國家矣。」"
+        "text": "知斯三者，则知所以修身；知所以修身，则知所以治人；知所以治人，则知所以治天下国家矣。」",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "知"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "斯"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "三"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "者"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "则"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "知"
+          },
+          {
+            "end": 9,
+            "gloss": "therefore / as a result / so / the reason why",
+            "pinyin": "suǒ yǐ",
+            "source": "CC-CEDICT",
+            "start": 7,
+            "word": "所以"
+          },
+          {
+            "end": 11,
+            "gloss": "to cultivate one's character (self-cultivation)",
+            "pinyin": "xiū shēn",
+            "source": "classical-override",
+            "start": 9,
+            "word": "修身"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "知"
+          },
+          {
+            "end": 15,
+            "gloss": "therefore / as a result / so / the reason why",
+            "pinyin": "suǒ yǐ",
+            "source": "CC-CEDICT",
+            "start": 13,
+            "word": "所以"
+          },
+          {
+            "end": 17,
+            "gloss": "to cultivate one's character (self-cultivation)",
+            "pinyin": "xiū shēn",
+            "source": "classical-override",
+            "start": 15,
+            "word": "修身"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "则"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "知"
+          },
+          {
+            "end": 22,
+            "gloss": "therefore / as a result / so / the reason why",
+            "pinyin": "suǒ yǐ",
+            "source": "CC-CEDICT",
+            "start": 20,
+            "word": "所以"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "治"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "人"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "知"
+          },
+          {
+            "end": 28,
+            "gloss": "therefore / as a result / so / the reason why",
+            "pinyin": "suǒ yǐ",
+            "source": "CC-CEDICT",
+            "start": 26,
+            "word": "所以"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "治"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "人"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "则"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "知"
+          },
+          {
+            "end": 35,
+            "gloss": "therefore / as a result / so / the reason why",
+            "pinyin": "suǒ yǐ",
+            "source": "CC-CEDICT",
+            "start": 33,
+            "word": "所以"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "治"
+          },
+          {
+            "end": 38,
+            "gloss": "land under heaven / the whole world / the whole of China / realm / rule",
+            "pinyin": "tiān xià",
+            "source": "CC-CEDICT",
+            "start": 36,
+            "word": "天下"
+          },
+          {
+            "end": 40,
+            "gloss": "country; nation; state",
+            "pinyin": "guó jiā",
+            "source": "CC-CEDICT",
+            "start": 38,
+            "word": "国家"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "矣"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "To possess the feeling of shame is to be near to energy.",
+            "text": "All who have the government of the kingdom with its states and families have nine standard rules to follow;-viz., the cultivation of their own characters; the honoring of men of virtue and talents; affection towards their relatives; respect towards the great ministers; kind and considerate treatment of the whole body of officers; dealing with the mass of the people as children; encouraging the resort of all classes of artisans; indulgent treatment of men from a distance; and the kindly cherishing of the princes of the states.",
             "translator": "Legge",
             "year": 1885
           }
@@ -205,16 +2481,355 @@
         "character_count": 43,
         "id": "chapter-020-line-012",
         "order": 12,
+        "pinyin_per_char": [
+          "fán",
+          "wèi",
+          "tiān",
+          "xià",
+          "guó",
+          "jiā",
+          "yóu",
+          "jiǔ",
+          "jīng",
+          "",
+          "yuē",
+          "",
+          "xiū",
+          "shēn",
+          "yě",
+          "",
+          "zūn",
+          "xián",
+          "yě",
+          "",
+          "qīn",
+          "qīn",
+          "yě",
+          "",
+          "jìng",
+          "dà",
+          "chén",
+          "yě",
+          "",
+          "tǐ",
+          "qún",
+          "chén",
+          "yě",
+          "",
+          "zi",
+          "shù",
+          "mín",
+          "yě",
+          "",
+          "lái",
+          "bǎi",
+          "gōng",
+          "yě",
+          "",
+          "róu",
+          "yuǎn",
+          "rén",
+          "yě",
+          "",
+          "huái",
+          "zhū",
+          "hóu",
+          "yě",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 12,
-        "text": "凡為天下國家有九經，曰：脩身也，尊賢也，親親也，敬大臣也，體群臣也，子庶民也，來百工也，柔遠人也，懷諸侯也。"
+        "text": "凡为天下国家有九经，曰：修身也，尊贤也，亲亲也，敬大臣也，体群臣也，子庶民也，来百工也，柔远人也，怀诸侯也。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "凡"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "为"
+          },
+          {
+            "end": 4,
+            "gloss": "land under heaven / the whole world / the whole of China / realm / rule",
+            "pinyin": "tiān xià",
+            "source": "CC-CEDICT",
+            "start": 2,
+            "word": "天下"
+          },
+          {
+            "end": 6,
+            "gloss": "country; nation; state",
+            "pinyin": "guó jiā",
+            "source": "CC-CEDICT",
+            "start": 4,
+            "word": "国家"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "有"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "九"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "经"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "曰"
+          },
+          {
+            "end": 14,
+            "gloss": "to cultivate one's character (self-cultivation)",
+            "pinyin": "xiū shēn",
+            "source": "classical-override",
+            "start": 12,
+            "word": "修身"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "也"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "尊"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "贤"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "也"
+          },
+          {
+            "end": 22,
+            "gloss": "dear one / to kiss / friendly",
+            "pinyin": "qīn qīn",
+            "source": "CC-CEDICT",
+            "start": 20,
+            "word": "亲亲"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "也"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "敬"
+          },
+          {
+            "end": 27,
+            "gloss": "chancellor (of a monarchy) / cabinet minister",
+            "pinyin": "dà chén",
+            "source": "CC-CEDICT",
+            "start": 25,
+            "word": "大臣"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "也"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "体"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "群"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "臣"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "也"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "子"
+          },
+          {
+            "end": 37,
+            "gloss": "the multitude of common people (in highbrow literature) / plebeian",
+            "pinyin": "shù mín",
+            "source": "CC-CEDICT",
+            "start": 35,
+            "word": "庶民"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "也"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "来"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "百"
+          },
+          {
+            "end": 42,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 41,
+            "word": "工"
+          },
+          {
+            "end": 43,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 42,
+            "word": "也"
+          },
+          {
+            "end": 45,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 44,
+            "word": "柔"
+          },
+          {
+            "end": 47,
+            "gloss": "an estranged person / sb who is alienated / people far from home",
+            "pinyin": "yuǎn rén",
+            "source": "CC-CEDICT",
+            "start": 45,
+            "word": "远人"
+          },
+          {
+            "end": 48,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 47,
+            "word": "也"
+          },
+          {
+            "end": 50,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 49,
+            "word": "怀"
+          },
+          {
+            "end": 52,
+            "gloss": "dukes or princes who rule a part of the country under the emperor; local rulers",
+            "pinyin": "zhū hóu",
+            "source": "CC-CEDICT",
+            "start": 50,
+            "word": "诸侯"
+          },
+          {
+            "end": 53,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 52,
+            "word": "也"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "He who knows these three things knows how to cultivate his own character.",
+            "text": "By the ruler's cultivation of his own character, the duties of universal obligation are set forth. By honoring men of virtue and talents, he is preserved from errors of judgment. By showing affection to his relatives, there is no grumbling nor resentment among his uncles and brethren. By respecting the great ministers, he is kept from errors in the practice of government. By kind and considerate treatment of the whole body of officers, they are led to make the most grateful return for his courtesies. By dealing with the mass of the people as his children, they are led to exhort one another to what is good. By encouraging the resort of an classes of artisans, his resources for expenditure are rendered ample. By indulgent treatment of men from a distance, they are brought to resort to him from all quarters. And by kindly cherishing the princes of the states, the whole kingdom is brought to revere him.",
             "translator": "Legge",
             "year": 1885
           }
@@ -222,16 +2837,526 @@
         "character_count": 64,
         "id": "chapter-020-line-013",
         "order": 13,
+        "pinyin_per_char": [
+          "xiū",
+          "shēn",
+          "zé",
+          "dào",
+          "lì",
+          "",
+          "zūn",
+          "xián",
+          "zé",
+          "bú",
+          "huò",
+          "",
+          "qīn",
+          "qīn",
+          "zé",
+          "zhū",
+          "fù",
+          "kūn",
+          "dì",
+          "bú",
+          "yuàn",
+          "",
+          "jìng",
+          "dà",
+          "chén",
+          "zé",
+          "bú",
+          "xuàn",
+          "",
+          "tǐ",
+          "qún",
+          "chén",
+          "zé",
+          "shì",
+          "zhī",
+          "bào",
+          "lǐ",
+          "zhòng",
+          "",
+          "zi",
+          "shù",
+          "mín",
+          "zé",
+          "bǎi",
+          "xìng",
+          "quàn",
+          "",
+          "lái",
+          "bǎi",
+          "gōng",
+          "zé",
+          "cái",
+          "yòng",
+          "zú",
+          "",
+          "róu",
+          "yuǎn",
+          "rén",
+          "zé",
+          "sì",
+          "fāng",
+          "guī",
+          "zhī",
+          "",
+          "huái",
+          "zhū",
+          "hóu",
+          "zé",
+          "tiān",
+          "xià",
+          "wèi",
+          "zhī",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 13,
-        "text": "脩身則道立，尊賢則不惑，親親則諸父昆弟不怨，敬大臣則不眩，體群臣則士之報禮重，子庶民則百姓勸，來百工則財用足，柔遠人則四方歸之，懷諸侯則天下畏之。"
+        "text": "修身则道立，尊贤则不惑，亲亲则诸父昆弟不怨，敬大臣则不眩，体群臣则士之报礼重，子庶民则百姓劝，来百工则财用足，柔远人则四方归之，怀诸侯则天下畏之。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "to cultivate one's character (self-cultivation)",
+            "pinyin": "xiū shēn",
+            "source": "classical-override",
+            "start": 0,
+            "word": "修身"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "则"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "道"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "立"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "尊"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "贤"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "则"
+          },
+          {
+            "end": 11,
+            "gloss": "without doubt / with full self-confidence / forty years of age",
+            "pinyin": "bù huò",
+            "source": "CC-CEDICT",
+            "start": 9,
+            "word": "不惑"
+          },
+          {
+            "end": 14,
+            "gloss": "dear one / to kiss / friendly",
+            "pinyin": "qīn qīn",
+            "source": "CC-CEDICT",
+            "start": 12,
+            "word": "亲亲"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "则"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "诸"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "父"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "昆"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "弟"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "不"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "怨"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "敬"
+          },
+          {
+            "end": 25,
+            "gloss": "chancellor (of a monarchy) / cabinet minister",
+            "pinyin": "dà chén",
+            "source": "CC-CEDICT",
+            "start": 23,
+            "word": "大臣"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "则"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "不"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "眩"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "体"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "群"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "臣"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "则"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "士"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "之"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "报"
+          },
+          {
+            "end": 37,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 36,
+            "word": "礼"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "重"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "子"
+          },
+          {
+            "end": 42,
+            "gloss": "the multitude of common people (in highbrow literature) / plebeian",
+            "pinyin": "shù mín",
+            "source": "CC-CEDICT",
+            "start": 40,
+            "word": "庶民"
+          },
+          {
+            "end": 43,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 42,
+            "word": "则"
+          },
+          {
+            "end": 45,
+            "gloss": "common people",
+            "pinyin": "bǎi xìng",
+            "source": "CC-CEDICT",
+            "start": 43,
+            "word": "百姓"
+          },
+          {
+            "end": 46,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 45,
+            "word": "劝"
+          },
+          {
+            "end": 48,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 47,
+            "word": "来"
+          },
+          {
+            "end": 49,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 48,
+            "word": "百"
+          },
+          {
+            "end": 50,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 49,
+            "word": "工"
+          },
+          {
+            "end": 51,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 50,
+            "word": "则"
+          },
+          {
+            "end": 52,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 51,
+            "word": "财"
+          },
+          {
+            "end": 53,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 52,
+            "word": "用"
+          },
+          {
+            "end": 54,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 53,
+            "word": "足"
+          },
+          {
+            "end": 56,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 55,
+            "word": "柔"
+          },
+          {
+            "end": 58,
+            "gloss": "an estranged person / sb who is alienated / people far from home",
+            "pinyin": "yuǎn rén",
+            "source": "CC-CEDICT",
+            "start": 56,
+            "word": "远人"
+          },
+          {
+            "end": 59,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 58,
+            "word": "则"
+          },
+          {
+            "end": 61,
+            "gloss": "four-way / four-sided / in all directions / everywhere",
+            "pinyin": "sì fāng",
+            "source": "CC-CEDICT",
+            "start": 59,
+            "word": "四方"
+          },
+          {
+            "end": 62,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 61,
+            "word": "归"
+          },
+          {
+            "end": 63,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 62,
+            "word": "之"
+          },
+          {
+            "end": 65,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 64,
+            "word": "怀"
+          },
+          {
+            "end": 67,
+            "gloss": "dukes or princes who rule a part of the country under the emperor; local rulers",
+            "pinyin": "zhū hóu",
+            "source": "CC-CEDICT",
+            "start": 65,
+            "word": "诸侯"
+          },
+          {
+            "end": 68,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 67,
+            "word": "则"
+          },
+          {
+            "end": 70,
+            "gloss": "land under heaven / the whole world / the whole of China / realm / rule",
+            "pinyin": "tiān xià",
+            "source": "CC-CEDICT",
+            "start": 68,
+            "word": "天下"
+          },
+          {
+            "end": 71,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 70,
+            "word": "畏"
+          },
+          {
+            "end": 72,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 71,
+            "word": "之"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "Knowing how to cultivate his own character, he knows how to govern other men.",
+            "text": "Self-adjustment and purification, with careful regulation of his dress, and the not making a movement contrary to the rules of propriety this is the way for a ruler to cultivate his person. Discarding slanderers, and keeping himself from the seductions of beauty; making light of riches, and giving honor to virtue-this is the way for him to encourage men of worth and talents. Giving them places of honor and large emolument. and sharing with them in their likes and dislikes-this is the way for him to encourage his relatives to love him. Giving them numerous officers to discharge their orders and commissions:-this is the way for him to encourage the great ministers. According to them a generous confidence, and making their emoluments large:-this is the way to encourage the body of officers. Employing them only at the proper times, and making the imposts light:-this is the way to encourage the people. By daily examinations and monthly trials, and by making their rations in accordance with their labors:-this is the way to encourage the classes of artisans.",
             "translator": "Legge",
             "year": 1885
           }
@@ -239,16 +3364,678 @@
         "character_count": 86,
         "id": "chapter-020-line-014",
         "order": 14,
+        "pinyin_per_char": [
+          "qí",
+          "míng",
+          "shèng",
+          "fú",
+          "",
+          "fēi",
+          "lǐ",
+          "bú",
+          "dòng",
+          "",
+          "suó",
+          "yǐ",
+          "xiū",
+          "shēn",
+          "yě",
+          "",
+          "qù",
+          "chán",
+          "yuǎn",
+          "sè",
+          "",
+          "jiàn",
+          "huò",
+          "ér",
+          "guì",
+          "dé",
+          "",
+          "suó",
+          "yǐ",
+          "quàn",
+          "xián",
+          "yě",
+          "",
+          "zūn",
+          "qí",
+          "wèi",
+          "",
+          "zhòng",
+          "qí",
+          "lù",
+          "",
+          "tóng",
+          "qí",
+          "háo",
+          "ě",
+          "",
+          "suó",
+          "yǐ",
+          "quàn",
+          "qīn",
+          "qīn",
+          "yě",
+          "",
+          "guān",
+          "shèng",
+          "rèn",
+          "shǐ",
+          "",
+          "suó",
+          "yǐ",
+          "quàn",
+          "dà",
+          "chén",
+          "yě",
+          "",
+          "zhōng",
+          "xìn",
+          "zhòng",
+          "lù",
+          "",
+          "suó",
+          "yǐ",
+          "quàn",
+          "shì",
+          "yě",
+          "",
+          "shí",
+          "shǐ",
+          "báo",
+          "liǎn",
+          "",
+          "suó",
+          "yǐ",
+          "quàn",
+          "bǎi",
+          "xìng",
+          "yě",
+          "",
+          "rì",
+          "xǐng",
+          "yuè",
+          "shì",
+          "",
+          "jì",
+          "bǐng",
+          "chēng",
+          "shì",
+          "",
+          "suó",
+          "yǐ",
+          "quàn",
+          "bǎi",
+          "gōng",
+          "yě",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 14,
-        "text": "齊明盛服，非禮不動，所以脩身也；去讒遠色，賤貨而貴德，所以勸賢也；尊其位，重其祿，同其好惡，所以勸親親也；官盛任使，所以勸大臣也；忠信重祿，所以勸士也；時使薄斂，所以勸百姓也；日省月試，既稟稱事，所以勸百工也；"
+        "text": "齐明盛服，非礼不动，所以修身也；去谗远色，贱货而贵德，所以劝贤也；尊其位，重其禄，同其好恶，所以劝亲亲也；官盛任使，所以劝大臣也；忠信重禄，所以劝士也；时使薄敛，所以劝百姓也；日省月试，既禀称事，所以劝百工也；",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "齐"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "明"
+          },
+          {
+            "end": 4,
+            "gloss": "splendid attire",
+            "pinyin": "shèng fú",
+            "source": "CC-CEDICT",
+            "start": 2,
+            "word": "盛服"
+          },
+          {
+            "end": 7,
+            "gloss": "impolite / impropriety / to sexually harass",
+            "pinyin": "fēi lǐ",
+            "source": "CC-CEDICT",
+            "start": 5,
+            "word": "非礼"
+          },
+          {
+            "end": 9,
+            "gloss": "motionless",
+            "pinyin": "bù dòng",
+            "source": "CC-CEDICT",
+            "start": 7,
+            "word": "不动"
+          },
+          {
+            "end": 12,
+            "gloss": "therefore / as a result / so / the reason why",
+            "pinyin": "suǒ yǐ",
+            "source": "CC-CEDICT",
+            "start": 10,
+            "word": "所以"
+          },
+          {
+            "end": 14,
+            "gloss": "to cultivate one's character (self-cultivation)",
+            "pinyin": "xiū shēn",
+            "source": "classical-override",
+            "start": 12,
+            "word": "修身"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "也"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "去"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "谗"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "远"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "色"
+          },
+          {
+            "end": 23,
+            "gloss": "bitch / slut",
+            "pinyin": "jiàn huò",
+            "source": "CC-CEDICT",
+            "start": 21,
+            "word": "贱货"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "而"
+          },
+          {
+            "end": 26,
+            "gloss": "see 贵德县|贵德县[Gui4 de2 Xian4]",
+            "pinyin": "Guì dé",
+            "source": "CC-CEDICT",
+            "start": 24,
+            "word": "贵德"
+          },
+          {
+            "end": 29,
+            "gloss": "therefore / as a result / so / the reason why",
+            "pinyin": "suǒ yǐ",
+            "source": "CC-CEDICT",
+            "start": 27,
+            "word": "所以"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "劝"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "贤"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "也"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "尊"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "其"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "位"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "重"
+          },
+          {
+            "end": 39,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 38,
+            "word": "其"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "禄"
+          },
+          {
+            "end": 42,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 41,
+            "word": "同"
+          },
+          {
+            "end": 43,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 42,
+            "word": "其"
+          },
+          {
+            "end": 44,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 43,
+            "word": "好"
+          },
+          {
+            "end": 45,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 44,
+            "word": "恶"
+          },
+          {
+            "end": 48,
+            "gloss": "therefore / as a result / so / the reason why",
+            "pinyin": "suǒ yǐ",
+            "source": "CC-CEDICT",
+            "start": 46,
+            "word": "所以"
+          },
+          {
+            "end": 49,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 48,
+            "word": "劝"
+          },
+          {
+            "end": 51,
+            "gloss": "dear one / to kiss / friendly",
+            "pinyin": "qīn qīn",
+            "source": "CC-CEDICT",
+            "start": 49,
+            "word": "亲亲"
+          },
+          {
+            "end": 52,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 51,
+            "word": "也"
+          },
+          {
+            "end": 54,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 53,
+            "word": "官"
+          },
+          {
+            "end": 55,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 54,
+            "word": "盛"
+          },
+          {
+            "end": 56,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 55,
+            "word": "任"
+          },
+          {
+            "end": 57,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 56,
+            "word": "使"
+          },
+          {
+            "end": 60,
+            "gloss": "therefore / as a result / so / the reason why",
+            "pinyin": "suǒ yǐ",
+            "source": "CC-CEDICT",
+            "start": 58,
+            "word": "所以"
+          },
+          {
+            "end": 61,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 60,
+            "word": "劝"
+          },
+          {
+            "end": 63,
+            "gloss": "chancellor (of a monarchy) / cabinet minister",
+            "pinyin": "dà chén",
+            "source": "CC-CEDICT",
+            "start": 61,
+            "word": "大臣"
+          },
+          {
+            "end": 64,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 63,
+            "word": "也"
+          },
+          {
+            "end": 67,
+            "gloss": "faithful and honest / loyal and sincere",
+            "pinyin": "zhōng xìn",
+            "source": "CC-CEDICT",
+            "start": 65,
+            "word": "忠信"
+          },
+          {
+            "end": 68,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 67,
+            "word": "重"
+          },
+          {
+            "end": 69,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 68,
+            "word": "禄"
+          },
+          {
+            "end": 72,
+            "gloss": "therefore / as a result / so / the reason why",
+            "pinyin": "suǒ yǐ",
+            "source": "CC-CEDICT",
+            "start": 70,
+            "word": "所以"
+          },
+          {
+            "end": 73,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 72,
+            "word": "劝"
+          },
+          {
+            "end": 74,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 73,
+            "word": "士"
+          },
+          {
+            "end": 75,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 74,
+            "word": "也"
+          },
+          {
+            "end": 77,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 76,
+            "word": "时"
+          },
+          {
+            "end": 78,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 77,
+            "word": "使"
+          },
+          {
+            "end": 79,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 78,
+            "word": "薄"
+          },
+          {
+            "end": 80,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 79,
+            "word": "敛"
+          },
+          {
+            "end": 83,
+            "gloss": "therefore / as a result / so / the reason why",
+            "pinyin": "suǒ yǐ",
+            "source": "CC-CEDICT",
+            "start": 81,
+            "word": "所以"
+          },
+          {
+            "end": 84,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 83,
+            "word": "劝"
+          },
+          {
+            "end": 86,
+            "gloss": "common people",
+            "pinyin": "bǎi xìng",
+            "source": "CC-CEDICT",
+            "start": 84,
+            "word": "百姓"
+          },
+          {
+            "end": 87,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 86,
+            "word": "也"
+          },
+          {
+            "end": 89,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 88,
+            "word": "日"
+          },
+          {
+            "end": 90,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 89,
+            "word": "省"
+          },
+          {
+            "end": 91,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 90,
+            "word": "月"
+          },
+          {
+            "end": 92,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 91,
+            "word": "试"
+          },
+          {
+            "end": 94,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 93,
+            "word": "既"
+          },
+          {
+            "end": 95,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 94,
+            "word": "禀"
+          },
+          {
+            "end": 96,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 95,
+            "word": "称"
+          },
+          {
+            "end": 97,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 96,
+            "word": "事"
+          },
+          {
+            "end": 100,
+            "gloss": "therefore / as a result / so / the reason why",
+            "pinyin": "suǒ yǐ",
+            "source": "CC-CEDICT",
+            "start": 98,
+            "word": "所以"
+          },
+          {
+            "end": 101,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 100,
+            "word": "劝"
+          },
+          {
+            "end": 102,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 101,
+            "word": "百"
+          },
+          {
+            "end": 103,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 102,
+            "word": "工"
+          },
+          {
+            "end": 104,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 103,
+            "word": "也"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "Knowing how to govern other men, he knows how to govern the kingdom with all its states and families.",
+            "text": "To escort them on their departure and meet them on their coming; to commend the good among them, and show compassion to the incompetent:-this is the way to treat indulgently men from a distance. To restore families whose line of succession has been broken, and to revive states that have been extinguished; to reduce to order states that are in confusion, and support those which are in peril; to have fixed times for their own reception at court, and the reception of their envoys; to send them away after liberal treatment, and welcome their coming with small contributions: this is the way to cherish the princes of the states.",
             "translator": "Legge",
             "year": 1885
           }
@@ -256,16 +4043,319 @@
         "character_count": 41,
         "id": "chapter-020-line-015",
         "order": 15,
+        "pinyin_per_char": [
+          "sòng",
+          "wǎng",
+          "yíng",
+          "lái",
+          "",
+          "jiā",
+          "shàn",
+          "ér",
+          "jīn",
+          "bù",
+          "néng",
+          "",
+          "suó",
+          "yǐ",
+          "róu",
+          "yuǎn",
+          "rén",
+          "yě",
+          "",
+          "jì",
+          "jué",
+          "shì",
+          "",
+          "jǔ",
+          "fèi",
+          "guó",
+          "",
+          "zhì",
+          "luàn",
+          "chí",
+          "wēi",
+          "",
+          "cháo",
+          "pìn",
+          "yǐ",
+          "shí",
+          "",
+          "hòu",
+          "wǎng",
+          "ér",
+          "báo",
+          "lái",
+          "",
+          "suó",
+          "yǐ",
+          "huái",
+          "zhū",
+          "hóu",
+          "yě",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 2,
         "source_block_order": 14,
-        "text": "送往迎來，嘉善而矜不能，所以柔遠人也；繼絕世，舉廢國，治亂持危，朝聘以時，厚往而薄來，所以懷諸侯也。"
+        "text": "送往迎来，嘉善而矜不能，所以柔远人也；继绝世，举废国，治乱持危，朝聘以时，厚往而薄来，所以怀诸侯也。",
+        "word_spans": [
+          {
+            "end": 4,
+            "gloss": "see 迎来送往|迎来送往[ying2 lai2 song4 wang3]",
+            "pinyin": "sòng wǎng yíng lái",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "送往迎来"
+          },
+          {
+            "end": 7,
+            "gloss": "see 嘉善县|嘉善县[Jia1 shan4 Xian4]",
+            "pinyin": "Jiā shàn",
+            "source": "CC-CEDICT",
+            "start": 5,
+            "word": "嘉善"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "而"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "矜"
+          },
+          {
+            "end": 11,
+            "gloss": "cannot / must not / should not",
+            "pinyin": "bù néng",
+            "source": "CC-CEDICT",
+            "start": 9,
+            "word": "不能"
+          },
+          {
+            "end": 14,
+            "gloss": "therefore / as a result / so / the reason why",
+            "pinyin": "suǒ yǐ",
+            "source": "CC-CEDICT",
+            "start": 12,
+            "word": "所以"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "柔"
+          },
+          {
+            "end": 17,
+            "gloss": "an estranged person / sb who is alienated / people far from home",
+            "pinyin": "yuǎn rén",
+            "source": "CC-CEDICT",
+            "start": 15,
+            "word": "远人"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "也"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "继"
+          },
+          {
+            "end": 22,
+            "gloss": "unique / exceptional",
+            "pinyin": "jué shì",
+            "source": "CC-CEDICT",
+            "start": 20,
+            "word": "绝世"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "举"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "废"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "国"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "治"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "乱"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "持"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "危"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "朝"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "聘"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "以"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "时"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "厚"
+          },
+          {
+            "end": 39,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 38,
+            "word": "往"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "而"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "薄"
+          },
+          {
+            "end": 42,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 41,
+            "word": "来"
+          },
+          {
+            "end": 45,
+            "gloss": "therefore / as a result / so / the reason why",
+            "pinyin": "suǒ yǐ",
+            "source": "CC-CEDICT",
+            "start": 43,
+            "word": "所以"
+          },
+          {
+            "end": 46,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 45,
+            "word": "怀"
+          },
+          {
+            "end": 48,
+            "gloss": "dukes or princes who rule a part of the country under the emperor; local rulers",
+            "pinyin": "zhū hóu",
+            "source": "CC-CEDICT",
+            "start": 46,
+            "word": "诸侯"
+          },
+          {
+            "end": 49,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 48,
+            "word": "也"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "All who have the government of the kingdom with its states and families have nine standard rules to follow;-viz., the cultivation of their own characters; the honoring of men of virtue and talents; affection towards their relatives; respect towards the great ministers; kind and considerate treatment of the whole body of officers; dealing with the mass of the people as children; encouraging the resort of all classes of artisans; indulgent treatment of men from a distance; and the kindly cherishing of the princes of the states. By the ruler's cultivation of his own character, the duties of universal obligation are set forth. By honoring men of virtue and talents, he is preserved from errors of judgment. By showing affection to his relatives, there is no grumbling nor resentment among his uncles and brethren. By respecting the great ministers, he is kept from errors in the practice of government. By kind and considerate treatment of the whole body of officers, they are led to make the most grateful return for his courtesies. By dealing with the mass of the people as his children, they are led to exhort one another to what is good. By encouraging the resort of an classes of artisans, his resources for expenditure are rendered ample. By indulgent treatment of men from a distance, they are brought to resort to him from all quarters. And by kindly cherishing the princes of the states, the whole kingdom is brought to revere him. Self-adjustment and purification, with careful regulation of his dress, and the not making a movement contrary to the rules of propriety this is the way for a ruler to cultivate his person. Discarding slanderers, and keeping himself from the seductions of beauty; making light of riches, and giving honor to virtue-this is the way for him to encourage men of worth and talents. Giving them places of honor and large emolument. and sharing with them in their likes and dislikes-this is the way for him to encourage his relatives to love him. Giving them numerous officers to discharge their orders and commissions:-this is the way for him to encourage the great ministers. According to them a generous confidence, and making their emoluments large:-this is the way to encourage the body of officers. Employing them only at the proper times, and making the imposts light:-this is the way to encourage the people. By daily examinations and monthly trials, and by making their rations in accordance with their labors:-this is the way to encourage the classes of artisans. To escort them on their departure and meet them on their coming; to commend the good among them, and show compassion to the incompetent:-this is the way to treat indulgently men from a distance. To restore families whose line of succession has been broken, and to revive states that have been extinguished; to reduce to order states that are in confusion, and support those which are in peril; to have fixed times for their own reception at court, and the reception of their envoys; to send them away after liberal treatment, and welcome their coming with small contributions: this is the way to cherish the princes of the states. All who have the government of the kingdom with its states and families have the above nine standard rules. And the means by which they are carried into practice is singleness.",
+            "text": "All who have the government of the kingdom with its states and families have the above nine standard rules. And the means by which they are carried into practice is singleness.",
             "translator": "Legge",
             "year": 1885
           }
@@ -273,16 +4363,143 @@
         "character_count": 16,
         "id": "chapter-020-line-016",
         "order": 16,
+        "pinyin_per_char": [
+          "fán",
+          "wèi",
+          "tiān",
+          "xià",
+          "guó",
+          "jiā",
+          "yóu",
+          "jiǔ",
+          "jīng",
+          "",
+          "suó",
+          "yǐ",
+          "xíng",
+          "zhī",
+          "zhě",
+          "yī",
+          "yě",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 15,
-        "text": "凡為天下國家有九經，所以行之者一也。"
+        "text": "凡为天下国家有九经，所以行之者一也。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "凡"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "为"
+          },
+          {
+            "end": 4,
+            "gloss": "land under heaven / the whole world / the whole of China / realm / rule",
+            "pinyin": "tiān xià",
+            "source": "CC-CEDICT",
+            "start": 2,
+            "word": "天下"
+          },
+          {
+            "end": 6,
+            "gloss": "country; nation; state",
+            "pinyin": "guó jiā",
+            "source": "CC-CEDICT",
+            "start": 4,
+            "word": "国家"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "有"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "九"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "经"
+          },
+          {
+            "end": 12,
+            "gloss": "therefore / as a result / so / the reason why",
+            "pinyin": "suǒ yǐ",
+            "source": "CC-CEDICT",
+            "start": 10,
+            "word": "所以"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "行"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "之"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "者"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "一"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "也"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "\"In all things success depends on previous preparation, and without such previous preparation there is sure to be failure.",
+            "text": "\"In all things success depends on previous preparation, and without such previous preparation there is sure to be failure. If what is to be spoken be previously determined, there will be no stumbling. If affairs be previously determined, there will be no difficulty with them. If one's actions have been previously determined, there will be no sorrow in connection with them. If principles of conduct have been previously determined, the practice of them will be inexhaustible.",
             "translator": "Legge",
             "year": 1885
           }
@@ -290,16 +4507,292 @@
         "character_count": 33,
         "id": "chapter-020-line-017",
         "order": 17,
+        "pinyin_per_char": [
+          "fán",
+          "shì",
+          "yù",
+          "zé",
+          "lì",
+          "",
+          "bú",
+          "yù",
+          "zé",
+          "fèi",
+          "",
+          "yán",
+          "qián",
+          "dìng",
+          "zé",
+          "bù",
+          "jiá",
+          "",
+          "shì",
+          "qián",
+          "dìng",
+          "zé",
+          "bú",
+          "kùn",
+          "",
+          "xíng",
+          "qián",
+          "dìng",
+          "zé",
+          "bú",
+          "jiù",
+          "",
+          "dào",
+          "qián",
+          "dìng",
+          "zé",
+          "bù",
+          "qióng",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 16,
-        "text": "凡事豫則立，不豫則廢。言前定則不跲，事前定則不困，行前定則不疚，道前定則不窮。"
+        "text": "凡事豫则立，不豫则废。言前定则不跲，事前定则不困，行前定则不疚，道前定则不穷。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "everything",
+            "pinyin": "fán shì",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "凡事"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "豫"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "则"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "立"
+          },
+          {
+            "end": 8,
+            "gloss": "(literary) unhappy; displeased",
+            "pinyin": "bù yù",
+            "source": "CC-CEDICT",
+            "start": 6,
+            "word": "不豫"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "则"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "废"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "言"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "前"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "定"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "则"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "不"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "跲"
+          },
+          {
+            "end": 20,
+            "gloss": "in advance; before the event",
+            "pinyin": "shì qián",
+            "source": "CC-CEDICT",
+            "start": 18,
+            "word": "事前"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "定"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "则"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "不"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "困"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "行"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "前"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "定"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "则"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "不"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "疚"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "道"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "前"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "定"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "则"
+          },
+          {
+            "end": 38,
+            "gloss": "endless / boundless / inexhaustible",
+            "pinyin": "bù qióng",
+            "source": "CC-CEDICT",
+            "start": 36,
+            "word": "不穷"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "If what is to be spoken be previously determined, there will be no stumbling.",
+            "text": "When those in inferior situations do not obtain the confidence of the sovereign, they cannot succeed in governing the people. There is a way to obtain the confidence of the sovereign;-if one is not trusted by his friends, he will not get the confidence of the sovereign. There is a way to being trusted by one's friends;-if one is not obedient to his parents, he will not be true to friends. There is a way to being obedient to one's parents;-if one, on turning his thoughts in upon himself, finds a want of sincerity, he will not be obedient to his parents. There is a way to the attainment of sincerity in one's self; -if a man do not understand what is good, he will not attain sincerity in himself.",
             "translator": "Legge",
             "year": 1885
           }
@@ -307,16 +4800,596 @@
         "character_count": 73,
         "id": "chapter-020-line-018",
         "order": 18,
+        "pinyin_per_char": [
+          "zài",
+          "xià",
+          "wèi",
+          "bú",
+          "huò",
+          "hū",
+          "shàng",
+          "",
+          "mín",
+          "bù",
+          "kě",
+          "dé",
+          "ér",
+          "zhì",
+          "yǐ",
+          "",
+          "huò",
+          "hū",
+          "shàng",
+          "yǒu",
+          "dào",
+          "",
+          "bú",
+          "xìn",
+          "hū",
+          "péng",
+          "yǒu",
+          "",
+          "bú",
+          "huò",
+          "hū",
+          "shàng",
+          "yǐ",
+          "",
+          "xìn",
+          "hū",
+          "péng",
+          "yóu",
+          "yǒu",
+          "dào",
+          "",
+          "bú",
+          "shùn",
+          "hū",
+          "qīn",
+          "",
+          "bú",
+          "xìn",
+          "hū",
+          "péng",
+          "yóu",
+          "yǐ",
+          "",
+          "shùn",
+          "hū",
+          "qīn",
+          "yǒu",
+          "dào",
+          "",
+          "fǎn",
+          "zhū",
+          "shēn",
+          "bù",
+          "chéng",
+          "",
+          "bú",
+          "shùn",
+          "hū",
+          "qīn",
+          "yǐ",
+          "",
+          "chéng",
+          "shēn",
+          "yǒu",
+          "dào",
+          "",
+          "bù",
+          "míng",
+          "hū",
+          "shàn",
+          "",
+          "bù",
+          "chéng",
+          "hū",
+          "shēn",
+          "yǐ",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 17,
-        "text": "在下位不獲乎上，民不可得而治矣；獲乎上有道：不信乎朋友，不獲乎上矣；信乎朋友有道：不順乎親，不信乎朋友矣；順乎親有道：反諸身不誠，不順乎親矣；誠身有道：不明乎善，不誠乎身矣。"
+        "text": "在下位不获乎上，民不可得而治矣；获乎上有道：不信乎朋友，不获乎上矣；信乎朋友有道：不顺乎亲，不信乎朋友矣；顺乎亲有道：反诸身不诚，不顺乎亲矣；诚身有道：不明乎善，不诚乎身矣。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "under / myself (humble)",
+            "pinyin": "zài xià",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "在下"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "位"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "不"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "获"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "乎"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "上"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "民"
+          },
+          {
+            "end": 11,
+            "gloss": "cannot; should not; must not",
+            "pinyin": "bù kě",
+            "source": "CC-CEDICT",
+            "start": 9,
+            "word": "不可"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "得"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "而"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "治"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "矣"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "获"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "乎"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "上"
+          },
+          {
+            "end": 21,
+            "gloss": "to have attained the Way / (of a government or a ruler) enlightened / wise and just",
+            "pinyin": "yǒu dào",
+            "source": "CC-CEDICT",
+            "start": 19,
+            "word": "有道"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "不"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "信"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "乎"
+          },
+          {
+            "end": 27,
+            "gloss": "friend / CL:个|个[ge4],位[wei4]",
+            "pinyin": "péng you",
+            "source": "CC-CEDICT",
+            "start": 25,
+            "word": "朋友"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "不"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "获"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "乎"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "上"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "矣"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "信"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "乎"
+          },
+          {
+            "end": 38,
+            "gloss": "friend / CL:个|个[ge4],位[wei4]",
+            "pinyin": "péng you",
+            "source": "CC-CEDICT",
+            "start": 36,
+            "word": "朋友"
+          },
+          {
+            "end": 40,
+            "gloss": "to have attained the Way / (of a government or a ruler) enlightened / wise and just",
+            "pinyin": "yǒu dào",
+            "source": "CC-CEDICT",
+            "start": 38,
+            "word": "有道"
+          },
+          {
+            "end": 43,
+            "gloss": "unfavorable / adverse",
+            "pinyin": "bù shùn",
+            "source": "CC-CEDICT",
+            "start": 41,
+            "word": "不顺"
+          },
+          {
+            "end": 44,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 43,
+            "word": "乎"
+          },
+          {
+            "end": 45,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 44,
+            "word": "亲"
+          },
+          {
+            "end": 47,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 46,
+            "word": "不"
+          },
+          {
+            "end": 48,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 47,
+            "word": "信"
+          },
+          {
+            "end": 49,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 48,
+            "word": "乎"
+          },
+          {
+            "end": 51,
+            "gloss": "friend / CL:个|个[ge4],位[wei4]",
+            "pinyin": "péng you",
+            "source": "CC-CEDICT",
+            "start": 49,
+            "word": "朋友"
+          },
+          {
+            "end": 52,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 51,
+            "word": "矣"
+          },
+          {
+            "end": 54,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 53,
+            "word": "顺"
+          },
+          {
+            "end": 55,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 54,
+            "word": "乎"
+          },
+          {
+            "end": 56,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 55,
+            "word": "亲"
+          },
+          {
+            "end": 58,
+            "gloss": "to have attained the Way / (of a government or a ruler) enlightened / wise and just",
+            "pinyin": "yǒu dào",
+            "source": "CC-CEDICT",
+            "start": 56,
+            "word": "有道"
+          },
+          {
+            "end": 60,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 59,
+            "word": "反"
+          },
+          {
+            "end": 61,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 60,
+            "word": "诸"
+          },
+          {
+            "end": 62,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 61,
+            "word": "身"
+          },
+          {
+            "end": 63,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 62,
+            "word": "不"
+          },
+          {
+            "end": 64,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 63,
+            "word": "诚"
+          },
+          {
+            "end": 67,
+            "gloss": "unfavorable / adverse",
+            "pinyin": "bù shùn",
+            "source": "CC-CEDICT",
+            "start": 65,
+            "word": "不顺"
+          },
+          {
+            "end": 68,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 67,
+            "word": "乎"
+          },
+          {
+            "end": 69,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 68,
+            "word": "亲"
+          },
+          {
+            "end": 70,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 69,
+            "word": "矣"
+          },
+          {
+            "end": 72,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 71,
+            "word": "诚"
+          },
+          {
+            "end": 73,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 72,
+            "word": "身"
+          },
+          {
+            "end": 75,
+            "gloss": "to have attained the Way / (of a government or a ruler) enlightened / wise and just",
+            "pinyin": "yǒu dào",
+            "source": "CC-CEDICT",
+            "start": 73,
+            "word": "有道"
+          },
+          {
+            "end": 78,
+            "gloss": "not clear / unknown / to fail to understand",
+            "pinyin": "bù míng",
+            "source": "CC-CEDICT",
+            "start": 76,
+            "word": "不明"
+          },
+          {
+            "end": 79,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 78,
+            "word": "乎"
+          },
+          {
+            "end": 80,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 79,
+            "word": "善"
+          },
+          {
+            "end": 82,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 81,
+            "word": "不"
+          },
+          {
+            "end": 83,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 82,
+            "word": "诚"
+          },
+          {
+            "end": 84,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 83,
+            "word": "乎"
+          },
+          {
+            "end": 85,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 84,
+            "word": "身"
+          },
+          {
+            "end": 86,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 85,
+            "word": "矣"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "If affairs be previously determined, there will be no difficulty with them.",
+            "text": "Sincerity is the way of Heaven. The attainment of sincerity is the way of men. He who possesses sincerity is he who, without an effort, hits what is right, and apprehends, without the exercise of thought;-he is the sage who naturally and easily embodies the right way. He who attains to sincerity is he who chooses what is good, and firmly holds it fast.",
             "translator": "Legge",
             "year": 1885
           }
@@ -324,16 +5397,376 @@
         "character_count": 41,
         "id": "chapter-020-line-019",
         "order": 19,
+        "pinyin_per_char": [
+          "chéng",
+          "zhě",
+          "",
+          "tiān",
+          "zhī",
+          "dào",
+          "yě",
+          "",
+          "chéng",
+          "zhī",
+          "zhě",
+          "",
+          "rén",
+          "zhī",
+          "dào",
+          "yě",
+          "",
+          "chéng",
+          "zhě",
+          "bù",
+          "miǎn",
+          "ér",
+          "zhōng",
+          "",
+          "bù",
+          "sī",
+          "ér",
+          "dé",
+          "",
+          "cóng",
+          "róng",
+          "zhōng",
+          "dào",
+          "",
+          "shèng",
+          "rén",
+          "yě",
+          "",
+          "chéng",
+          "zhī",
+          "zhě",
+          "",
+          "zé",
+          "shàn",
+          "ér",
+          "gù",
+          "zhí",
+          "zhī",
+          "zhé",
+          "yě",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 18,
-        "text": "誠者，天之道也；誠之者，人之道也。誠者不勉而中，不思而得，從容中道，聖人也。誠之者，擇善而固執之者也。"
+        "text": "诚者，天之道也；诚之者，人之道也。诚者不勉而中，不思而得，从容中道，圣人也。诚之者，择善而固执之者也。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "诚"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "者"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "天"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "之"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "道"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "也"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "诚"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "之"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "者"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "人"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "之"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "道"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "也"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "诚"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "者"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "不"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "勉"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "而"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "中"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "不"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "思"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "而"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "得"
+          },
+          {
+            "end": 31,
+            "gloss": "to go easy / unhurried / calm / Taiwan pr. [cong1 rong2]",
+            "pinyin": "cóng róng",
+            "source": "CC-CEDICT",
+            "start": 29,
+            "word": "从容"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "中"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "道"
+          },
+          {
+            "end": 36,
+            "gloss": "the sage; the holy man",
+            "pinyin": "shèng rén",
+            "source": "classical-override",
+            "start": 34,
+            "word": "圣人"
+          },
+          {
+            "end": 37,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 36,
+            "word": "也"
+          },
+          {
+            "end": 39,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 38,
+            "word": "诚"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "之"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "者"
+          },
+          {
+            "end": 43,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 42,
+            "word": "择"
+          },
+          {
+            "end": 44,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 43,
+            "word": "善"
+          },
+          {
+            "end": 45,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 44,
+            "word": "而"
+          },
+          {
+            "end": 47,
+            "gloss": "obstinate / stubborn / to fixate on / to cling to",
+            "pinyin": "gù zhí",
+            "source": "CC-CEDICT",
+            "start": 45,
+            "word": "固执"
+          },
+          {
+            "end": 48,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 47,
+            "word": "之"
+          },
+          {
+            "end": 49,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 48,
+            "word": "者"
+          },
+          {
+            "end": 50,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 49,
+            "word": "也"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "If one's actions have been previously determined, there will be no sorrow in connection with them.",
+            "text": "To this attainment there are requisite the extensive study of what is good, accurate inquiry about it, careful reflection on it, the clear discrimination of it, and the earnest practice of it.",
             "translator": "Legge",
             "year": 1885
           }
@@ -341,16 +5774,129 @@
         "character_count": 15,
         "id": "chapter-020-line-020",
         "order": 20,
+        "pinyin_per_char": [
+          "bó",
+          "xué",
+          "zhī",
+          "",
+          "shěn",
+          "wèn",
+          "zhī",
+          "",
+          "shèn",
+          "sī",
+          "zhī",
+          "",
+          "míng",
+          "biàn",
+          "zhī",
+          "",
+          "dǔ",
+          "xíng",
+          "zhī",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 19,
-        "text": "博學之，審問之，慎思之，明辨之，篤行之。"
+        "text": "博学之，审问之，慎思之，明辨之，笃行之。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "learned; erudite",
+            "pinyin": "bó xué",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "博学"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "之"
+          },
+          {
+            "end": 6,
+            "gloss": "to interrogate / to examine / to question",
+            "pinyin": "shěn wèn",
+            "source": "CC-CEDICT",
+            "start": 4,
+            "word": "审问"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "之"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "慎"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "思"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "之"
+          },
+          {
+            "end": 14,
+            "gloss": "to discern / to distinguish clearly",
+            "pinyin": "míng biàn",
+            "source": "CC-CEDICT",
+            "start": 12,
+            "word": "明辨"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "之"
+          },
+          {
+            "end": 18,
+            "gloss": "to carry out (obligation) conscientiously / to behave sincerely",
+            "pinyin": "dǔ xíng",
+            "source": "CC-CEDICT",
+            "start": 16,
+            "word": "笃行"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "之"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "If principles of conduct have been previously determined, the practice of them will be inexhaustible.",
+            "text": "The superior man, while there is anything he has not studied, or while in what he has studied there is anything he cannot understand, will not intermit his labor. While there is anything he has not inquired about, or anything in what he has inquired about which he does not know, he will not intermit his labor. While there is anything which he has not reflected on, or anything in what he has reflected on which he does not apprehend, he will not intermit his labor. While there is anything which he has not discriminated or his discrimination is not clear, he will not intermit his labor. If there be anything which he has not practiced, or his practice fails in earnestness, he will not intermit his labor. If another man succeed by one effort, he will use a hundred efforts. If another man succeed by ten efforts, he will use a thousand.",
             "translator": "Legge",
             "year": 1885
           }
@@ -358,16 +5904,609 @@
         "character_count": 64,
         "id": "chapter-020-line-021",
         "order": 21,
+        "pinyin_per_char": [
+          "yǒu",
+          "fú",
+          "xué",
+          "",
+          "xué",
+          "zhī",
+          "fú",
+          "néng",
+          "fú",
+          "cuò",
+          "yě",
+          "",
+          "yǒu",
+          "fú",
+          "wèn",
+          "",
+          "wèn",
+          "zhī",
+          "fú",
+          "zhī",
+          "fú",
+          "cuò",
+          "yě",
+          "",
+          "yǒu",
+          "fú",
+          "sī",
+          "",
+          "sī",
+          "zhī",
+          "fú",
+          "dé",
+          "fú",
+          "cuò",
+          "yě",
+          "",
+          "yǒu",
+          "fú",
+          "biàn",
+          "",
+          "biàn",
+          "zhī",
+          "fú",
+          "míng",
+          "fú",
+          "cuò",
+          "yě",
+          "",
+          "yǒu",
+          "fú",
+          "xíng",
+          "",
+          "xíng",
+          "zhī",
+          "fú",
+          "dǔ",
+          "fú",
+          "cuò",
+          "yě",
+          "",
+          "rén",
+          "yī",
+          "néng",
+          "zhī",
+          "jí",
+          "bǎi",
+          "zhī",
+          "",
+          "rén",
+          "shí",
+          "néng",
+          "zhī",
+          "jǐ",
+          "qiān",
+          "zhī",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 20,
-        "text": "有弗學，學之弗能弗措也；有弗問，問之弗知弗措也；有弗思，思之弗得弗措也；有弗辨，辨之弗明弗措也；有弗行，行之弗篤弗措也；人一能之己百之，人十能之己千之。"
+        "text": "有弗学，学之弗能弗措也；有弗问，问之弗知弗措也；有弗思，思之弗得弗措也；有弗辨，辨之弗明弗措也；有弗行，行之弗笃弗措也；人一能之己百之，人十能之己千之。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "有"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "弗"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "学"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "学"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "之"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "弗"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "能"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "弗"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "措"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "也"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "有"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "弗"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "问"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "问"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "之"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "弗"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "知"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "弗"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "措"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "也"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "有"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "弗"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "思"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "思"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "之"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "弗"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "得"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "弗"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "措"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "也"
+          },
+          {
+            "end": 37,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 36,
+            "word": "有"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "弗"
+          },
+          {
+            "end": 39,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 38,
+            "word": "辨"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "辨"
+          },
+          {
+            "end": 42,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 41,
+            "word": "之"
+          },
+          {
+            "end": 43,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 42,
+            "word": "弗"
+          },
+          {
+            "end": 44,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 43,
+            "word": "明"
+          },
+          {
+            "end": 45,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 44,
+            "word": "弗"
+          },
+          {
+            "end": 46,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 45,
+            "word": "措"
+          },
+          {
+            "end": 47,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 46,
+            "word": "也"
+          },
+          {
+            "end": 49,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 48,
+            "word": "有"
+          },
+          {
+            "end": 50,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 49,
+            "word": "弗"
+          },
+          {
+            "end": 51,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 50,
+            "word": "行"
+          },
+          {
+            "end": 53,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 52,
+            "word": "行"
+          },
+          {
+            "end": 54,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 53,
+            "word": "之"
+          },
+          {
+            "end": 55,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 54,
+            "word": "弗"
+          },
+          {
+            "end": 56,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 55,
+            "word": "笃"
+          },
+          {
+            "end": 57,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 56,
+            "word": "弗"
+          },
+          {
+            "end": 58,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 57,
+            "word": "措"
+          },
+          {
+            "end": 59,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 58,
+            "word": "也"
+          },
+          {
+            "end": 61,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 60,
+            "word": "人"
+          },
+          {
+            "end": 62,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 61,
+            "word": "一"
+          },
+          {
+            "end": 63,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 62,
+            "word": "能"
+          },
+          {
+            "end": 64,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 63,
+            "word": "之"
+          },
+          {
+            "end": 65,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 64,
+            "word": "己"
+          },
+          {
+            "end": 66,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 65,
+            "word": "百"
+          },
+          {
+            "end": 67,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 66,
+            "word": "之"
+          },
+          {
+            "end": 69,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 68,
+            "word": "人"
+          },
+          {
+            "end": 70,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 69,
+            "word": "十"
+          },
+          {
+            "end": 71,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 70,
+            "word": "能"
+          },
+          {
+            "end": 72,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 71,
+            "word": "之"
+          },
+          {
+            "end": 73,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 72,
+            "word": "己"
+          },
+          {
+            "end": 74,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 73,
+            "word": "千"
+          },
+          {
+            "end": 75,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 74,
+            "word": "之"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "When those in inferior situations do not obtain the confidence of the sovereign, they cannot succeed in governing the people. There is a way to obtain the confidence of the sovereign;-if one is not trusted by his friends, he will not get the confidence of his sovereign. There is a way to being trusted by one's friends;-if one is not obedient to his parents, he will not be true to friends. There is a way to being obedient to one's parents;-if one, on turning his thoughts in upon himself, finds a want of sincerity, he will not be obedient to his parents. There is a way to the attainment of sincerity in one's self; -if a man do not understand what is good, he will not attain sincerity in himself. Sincerity is the way of Heaven. The attainment of sincerity is the way of men. He who possesses sincerity is he who, without an effort, hits what is right, and apprehends, without the exercise of thought;-he is the sage who naturally and easily embodies the right way. He who attains to sincerity is he who chooses what is good, and firmly holds it fast. To this attainment there are requisite the extensive study of what is good, accurate inquiry about it, careful reflection on it, the clear discrimination of it, and the earnest practice of it. The superior man, while there is anything he has not studied, or while in what he has studied there is anything he cannot understand, will not intermit his labor. While there is anything he has not inquired about, or anything in what he has inquired about which he does not know, he will not intermit his labor. While there is anything which he has not reflected on, or anything in what he has reflected on which he does not apprehend, he will not intermit his labor. While there is anything which he has not discriminated or his discrimination is not clear, he will not intermit his labor. If there be anything which he has not practiced, or his practice fails in earnestness, he will not intermit his labor. If another man succeed by one effort, he will use a hundred efforts. If another man succeed by ten efforts, he will use a thousand. Let a man proceed in this way, and, though dull, he will surely become intelligent; though weak, he will surely become strong.\"",
+            "text": "Let a man proceed in this way, and, though dull, he will surely become intelligent; though weak, he will surely become strong.\"",
             "translator": "Legge",
             "year": 1885
           }
@@ -375,16 +6514,133 @@
         "character_count": 13,
         "id": "chapter-020-line-022",
         "order": 22,
+        "pinyin_per_char": [
+          "guǒ",
+          "néng",
+          "cǐ",
+          "dào",
+          "yǐ",
+          "",
+          "suī",
+          "yú",
+          "bì",
+          "míng",
+          "",
+          "suī",
+          "róu",
+          "bì",
+          "qiáng",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 21,
-        "text": "果能此道矣，雖愚必明，雖柔必強。"
+        "text": "果能此道矣，虽愚必明，虽柔必强。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "果"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "能"
+          },
+          {
+            "end": 4,
+            "gloss": "such matters / things like this / this line of work / this pursuit / this hobby / this endeavor",
+            "pinyin": "cǐ dào",
+            "source": "CC-CEDICT",
+            "start": 2,
+            "word": "此道"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "矣"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "虽"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "愚"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "必"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "明"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "虽"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "柔"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "必"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "强"
+          }
+        ]
       }
     ],
     "summary": "",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "哀公問政。\n子曰：「文武之政，布在方策。其人存，則其政舉；其人亡，則其政息。\n人道敏政，地道敏樹。夫政也者，蒲盧也。\n故為政在人，取人以身，脩身以道，脩道以仁。\n仁者人也，親親為大；義者宜也，尊賢為大；親親之殺，尊賢之等，禮所生也。\n在下位不獲乎上，民不可得而治矣！\n故君子不可以不脩身；思脩身，不可以不事親；思事親，不可以不知人；思知人，不可以不知天。」\n天下之達道五，所以行之者三：曰君臣也，父子也，夫婦也，昆弟也，朋友之交也：五者天下之達道也。知、仁、勇三者，天下之達德也，所以行之者一也。\n或生而知之，或學而知之，或困而知之，及其知之一也；或安而行之，或利而行之，或勉強而行之，及其成功一也。\n子曰：「好學近乎知，力行近乎仁，知恥近乎勇。\n知斯三者，則知所以脩身；知所以脩身，則知所以治人；知所以治人，則知所以治天下國家矣。」\n凡為天下國家有九經，曰：脩身也，尊賢也，親親也，敬大臣也，體群臣也，子庶民也，來百工也，柔遠人也，懷諸侯也。\n脩身則道立，尊賢則不惑，親親則諸父昆弟不怨，敬大臣則不眩，體群臣則士之報禮重，子庶民則百姓勸，來百工則財用足，柔遠人則四方歸之，懷諸侯則天下畏之。\n齊明盛服，非禮不動，所以脩身也；去讒遠色，賤貨而貴德，所以勸賢也；尊其位，重其祿，同其好惡，所以勸親親也；官盛任使，所以勸大臣也；忠信重祿，所以勸士也；時使薄斂，所以勸百姓也；日省月試，既稟稱事，所以勸百工也；\n送往迎來，嘉善而矜不能，所以柔遠人也；繼絕世，舉廢國，治亂持危，朝聘以時，厚往而薄來，所以懷諸侯也。\n凡為天下國家有九經，所以行之者一也。\n凡事豫則立，不豫則廢。言前定則不跲，事前定則不困，行前定則不疚，道前定則不窮。\n在下位不獲乎上，民不可得而治矣；獲乎上有道：不信乎朋友，不獲乎上矣；信乎朋友有道：不順乎親，不信乎朋友矣；順乎親有道：反諸身不誠，不順乎親矣；誠身有道：不明乎善，不誠乎身矣。\n誠者，天之道也；誠之者，人之道也。誠者不勉而中，不思而得，從容中道，聖人也。誠之者，擇善而固執之者也。\n博學之，審問之，慎思之，明辨之，篤行之。\n有弗學，學之弗能弗措也；有弗問，問之弗知弗措也；有弗思，思之弗得弗措也；有弗辨，辨之弗明弗措也；有弗行，行之弗篤弗措也；人一能之己百之，人十能之己千之。\n果能此道矣，雖愚必明，雖柔必強。",
+    "text": "哀公问政。\n子曰：「文武之政，布在方策。其人存，则其政举；其人亡，则其政息。\n人道敏政，地道敏树。夫政也者，蒲卢也。\n故为政在人，取人以身，修身以道，修道以仁。\n仁者人也，亲亲为大；义者宜也，尊贤为大；亲亲之杀，尊贤之等，礼所生也。\n在下位不获乎上，民不可得而治矣！\n故君子不可以不修身；思修身，不可以不事亲；思事亲，不可以不知人；思知人，不可以不知天。」\n天下之达道五，所以行之者三：曰君臣也，父子也，夫妇也，昆弟也，朋友之交也：五者天下之达道也。知、仁、勇三者，天下之达德也，所以行之者一也。\n或生而知之，或学而知之，或困而知之，及其知之一也；或安而行之，或利而行之，或勉强而行之，及其成功一也。\n子曰：「好学近乎知，力行近乎仁，知耻近乎勇。\n知斯三者，则知所以修身；知所以修身，则知所以治人；知所以治人，则知所以治天下国家矣。」\n凡为天下国家有九经，曰：修身也，尊贤也，亲亲也，敬大臣也，体群臣也，子庶民也，来百工也，柔远人也，怀诸侯也。\n修身则道立，尊贤则不惑，亲亲则诸父昆弟不怨，敬大臣则不眩，体群臣则士之报礼重，子庶民则百姓劝，来百工则财用足，柔远人则四方归之，怀诸侯则天下畏之。\n齐明盛服，非礼不动，所以修身也；去谗远色，贱货而贵德，所以劝贤也；尊其位，重其禄，同其好恶，所以劝亲亲也；官盛任使，所以劝大臣也；忠信重禄，所以劝士也；时使薄敛，所以劝百姓也；日省月试，既禀称事，所以劝百工也；\n送往迎来，嘉善而矜不能，所以柔远人也；继绝世，举废国，治乱持危，朝聘以时，厚往而薄来，所以怀诸侯也。\n凡为天下国家有九经，所以行之者一也。\n凡事豫则立，不豫则废。言前定则不跲，事前定则不困，行前定则不疚，道前定则不穷。\n在下位不获乎上，民不可得而治矣；获乎上有道：不信乎朋友，不获乎上矣；信乎朋友有道：不顺乎亲，不信乎朋友矣；顺乎亲有道：反诸身不诚，不顺乎亲矣；诚身有道：不明乎善，不诚乎身矣。\n诚者，天之道也；诚之者，人之道也。诚者不勉而中，不思而得，从容中道，圣人也。诚之者，择善而固执之者也。\n博学之，审问之，慎思之，明辨之，笃行之。\n有弗学，学之弗能弗措也；有弗问，问之弗知弗措也；有弗思，思之弗得弗措也；有弗辨，辨之弗明弗措也；有弗行，行之弗笃弗措也；人一能之己百之，人十能之己千之。\n果能此道矣，虽愚必明，虽柔必强。",
     "title": ""
   },
   "chapter_path": "books/zhong-yong/chapters/chapter-020.json",

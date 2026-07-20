@@ -1,6 +1,23 @@
 {
   "cache_dir": "books/qian-zi-wen",
   "catalog_path": "books/qian-zi-wen/catalog.json",
+  "display_name": "Qian Zi Wen 千字文",
+  "name_zh": "千字文",
+  "name_pinyin": "Qiān Zì Wén",
+  "name_en": "The Thousand Character Classic",
+  "v1": false,
+  "available": true,
+  "tradition": "secular",
+  "form": "primer",
+  "year": 535,
+  "tier": "B",
+  "difficulty": "foundational",
+  "curriculum_order": 3,
+  "title": "千字文 - 维基文库，自由的图书馆",
+  "source_url": "https://zh.wikisource.org/wiki/%E5%8D%83%E5%AD%97%E6%96%87",
+  "provider": "wikisource-html",
+  "blurb": "Exactly one thousand characters, each used exactly once, rhymed into a primer. Commissioned by an emperor who wanted a calligraphy drill for his princes.",
+  "background": "The Qian Zi Wen (Thousand Character Classic) was composed around 535 CE by Zhou Xingsi on imperial commission — Emperor Wu of Liang wanted a calligraphy exercise for his princes using one thousand distinct characters of Wang Xizhi's brushwork, and Zhou rhymed those exact thousand characters into a 250-line poem. The constraint is absolute: no character repeats. The result is a dense, allusive sweep through cosmology, history, ethics, and rural life, and for centuries it served double duty as a calligraphy model and a first literacy text — every character a child learned was also a high-culture reference. The text is read more for its vocabulary and rhythm than for connected argument. Translation seeded from Chinasage (CC BY 3.0).",
   "chapter_count": 1,
   "chapters": [
     {
@@ -9,14 +26,13 @@
       "id": "chapter-001",
       "order": 1,
       "reading_unit_count": 125,
-      "summary": "天地玄黃　宇宙洪荒",
+      "summary": "天地玄黄　宇宙洪荒",
       "supplemental_unit_count": 0,
-      "title": "全篇"
+      "title": "全篇",
+      "title_en": "The Complete Text",
+      "title_en_source": "human"
     }
   ],
   "commentary_chapter_count": 0,
-  "commentary_chapters": [],
-  "provider": "wikisource-html",
-  "source_url": "https://zh.wikisource.org/wiki/%E5%8D%83%E5%AD%97%E6%96%87",
-  "title": "千字文 - 维基文库，自由的图书馆"
+  "commentary_chapters": []
 }

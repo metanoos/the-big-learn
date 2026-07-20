@@ -18,16 +18,333 @@
         "character_count": 49,
         "id": "chapter-012-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "wǔ",
+          "sè",
+          "lìng",
+          "rén",
+          "mù",
+          "máng",
+          "",
+          "wǔ",
+          "yīn",
+          "lìng",
+          "rén",
+          "ěr",
+          "lóng",
+          "",
+          "wǔ",
+          "wèi",
+          "lìng",
+          "rén",
+          "kóu",
+          "shuǎng",
+          "",
+          "chí",
+          "chěng",
+          "tián",
+          "liè",
+          "lìng",
+          "rén",
+          "xīn",
+          "fā",
+          "kuáng",
+          "",
+          "nán",
+          "dé",
+          "zhī",
+          "huò",
+          "lìng",
+          "rén",
+          "xíng",
+          "fáng",
+          "",
+          "shì",
+          "yǐ",
+          "shèng",
+          "rén",
+          "wèi",
+          "fù",
+          "bù",
+          "wéi",
+          "mù",
+          "",
+          "gù",
+          "qù",
+          "bí",
+          "qú",
+          "cǐ",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "五色令人目盲，五音令人耳聾，五味令人口爽，馳騁畋獵令人心發狂，難得之貨令人行妨。是以聖人為腹不為目，故去彼取此。"
+        "text": "五色令人目盲，五音令人耳聋，五味令人口爽，驰骋畋猎令人心发狂，难得之货令人行妨。是以圣人为腹不为目，故去彼取此。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "multicolored / the rainbow / garish",
+            "pinyin": "wǔ sè",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "五色"
+          },
+          {
+            "end": 4,
+            "gloss": "to cause one (to do sth) / to make one (angry, delighted etc)",
+            "pinyin": "lìng rén",
+            "source": "CC-CEDICT",
+            "start": 2,
+            "word": "令人"
+          },
+          {
+            "end": 6,
+            "gloss": "blind / blindness",
+            "pinyin": "mù máng",
+            "source": "CC-CEDICT",
+            "start": 4,
+            "word": "目盲"
+          },
+          {
+            "end": 9,
+            "gloss": "five notes of pentatonic scale, roughly do, re, mi, sol, la / five classes of initial consonants of…",
+            "pinyin": "wǔ yīn",
+            "source": "CC-CEDICT",
+            "start": 7,
+            "word": "五音"
+          },
+          {
+            "end": 11,
+            "gloss": "to cause one (to do sth) / to make one (angry, delighted etc)",
+            "pinyin": "lìng rén",
+            "source": "CC-CEDICT",
+            "start": 9,
+            "word": "令人"
+          },
+          {
+            "end": 13,
+            "gloss": "deaf",
+            "pinyin": "ěr lóng",
+            "source": "CC-CEDICT",
+            "start": 11,
+            "word": "耳聋"
+          },
+          {
+            "end": 16,
+            "gloss": "the five flavors, namely: sweet 甜, sour 酸, bitter 苦, spicy hot 辣, salty 咸|咸 / all kinds of flavors",
+            "pinyin": "wǔ wèi",
+            "source": "CC-CEDICT",
+            "start": 14,
+            "word": "五味"
+          },
+          {
+            "end": 18,
+            "gloss": "to cause one (to do sth) / to make one (angry, delighted etc)",
+            "pinyin": "lìng rén",
+            "source": "CC-CEDICT",
+            "start": 16,
+            "word": "令人"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "口"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "爽"
+          },
+          {
+            "end": 23,
+            "gloss": "to gallop / to rush headlong",
+            "pinyin": "chí chěng",
+            "source": "CC-CEDICT",
+            "start": 21,
+            "word": "驰骋"
+          },
+          {
+            "end": 25,
+            "gloss": "to hunt",
+            "pinyin": "tián liè",
+            "source": "CC-CEDICT",
+            "start": 23,
+            "word": "畋猎"
+          },
+          {
+            "end": 27,
+            "gloss": "to cause one (to do sth) / to make one (angry, delighted etc)",
+            "pinyin": "lìng rén",
+            "source": "CC-CEDICT",
+            "start": 25,
+            "word": "令人"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "心"
+          },
+          {
+            "end": 30,
+            "gloss": "crazy / mad / madly",
+            "pinyin": "fā kuáng",
+            "source": "CC-CEDICT",
+            "start": 28,
+            "word": "发狂"
+          },
+          {
+            "end": 33,
+            "gloss": "seldom / rare / hard to come by",
+            "pinyin": "nán dé",
+            "source": "CC-CEDICT",
+            "start": 31,
+            "word": "难得"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "之"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "货"
+          },
+          {
+            "end": 37,
+            "gloss": "to cause one (to do sth) / to make one (angry, delighted etc)",
+            "pinyin": "lìng rén",
+            "source": "CC-CEDICT",
+            "start": 35,
+            "word": "令人"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "行"
+          },
+          {
+            "end": 39,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 38,
+            "word": "妨"
+          },
+          {
+            "end": 42,
+            "gloss": "therefore / thus / so",
+            "pinyin": "shì yǐ",
+            "source": "CC-CEDICT",
+            "start": 40,
+            "word": "是以"
+          },
+          {
+            "end": 44,
+            "gloss": "the sage; the holy man",
+            "pinyin": "shèng rén",
+            "source": "classical-override",
+            "start": 42,
+            "word": "圣人"
+          },
+          {
+            "end": 45,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 44,
+            "word": "为"
+          },
+          {
+            "end": 46,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 45,
+            "word": "腹"
+          },
+          {
+            "end": 47,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 46,
+            "word": "不"
+          },
+          {
+            "end": 48,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 47,
+            "word": "为"
+          },
+          {
+            "end": 49,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 48,
+            "word": "目"
+          },
+          {
+            "end": 52,
+            "gloss": "(euphemism) to pass away; to die",
+            "pinyin": "gù qù",
+            "source": "CC-CEDICT",
+            "start": 50,
+            "word": "故去"
+          },
+          {
+            "end": 53,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 52,
+            "word": "彼"
+          },
+          {
+            "end": 54,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 53,
+            "word": "取"
+          },
+          {
+            "end": 55,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 54,
+            "word": "此"
+          }
+        ]
       }
     ],
-    "summary": "五色令人目盲；五音令人耳聾；五味令人口爽；馳騁田獵，令人心發狂；難得之貨，令人行妨",
+    "summary": "五色令人目盲；五音令人耳聋；五味令人口爽；驰骋田猎，令人心发狂；难得之货，令人行妨",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "五色令人目盲；五音令人耳聾；五味令人口爽；馳騁田獵，令人心發狂；難得之貨，令人行妨。是以聖人為腹不為目，故去彼取此。",
+    "text": "五色令人目盲；五音令人耳聋；五味令人口爽；驰骋田猎，令人心发狂；难得之货，令人行妨。是以圣人为腹不为目，故去彼取此。",
     "title": "第12章"
   },
   "chapter_path": "books/daodejing/chapters/chapter-012.json",

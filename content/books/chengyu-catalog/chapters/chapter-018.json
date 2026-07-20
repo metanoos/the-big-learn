@@ -99,7 +99,13 @@
         "order": 8,
         "pinyin": "bì bù dé yǐ",
         "pinyin_source": "derived from per-character index",
-        "text": "必不得已"
+        "text": "必不得已",
+        "origin": {
+          "book": "lunyu",
+          "chapter": 12,
+          "line": 15,
+          "snippet": "子贡曰：「必不得已而去，于斯三者何先？」曰：「去兵。」"
+        }
       },
       {
         "canonical_translations": [
@@ -131,7 +137,7 @@
         "character_count": 4,
         "id": "chapter-018-line-010",
         "order": 10,
-        "pinyin": "wú sī wú lu:4",
+        "pinyin": "wú sī wú lǜ",
         "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
         "text": "无思无虑"
       },

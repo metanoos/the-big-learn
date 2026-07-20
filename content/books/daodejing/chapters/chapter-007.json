@@ -18,16 +18,398 @@
         "character_count": 49,
         "id": "chapter-007-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "tiān",
+          "cháng",
+          "dì",
+          "jiǔ",
+          "",
+          "tiān",
+          "dì",
+          "suó",
+          "yǐ",
+          "néng",
+          "zháng",
+          "qié",
+          "jiú",
+          "zhě",
+          "",
+          "yǐ",
+          "qí",
+          "bú",
+          "zì",
+          "shēng",
+          "",
+          "gù",
+          "néng",
+          "cháng",
+          "shēng",
+          "",
+          "shì",
+          "yǐ",
+          "shèng",
+          "rén",
+          "hòu",
+          "qí",
+          "shēn",
+          "ér",
+          "shēn",
+          "xiān",
+          "",
+          "wài",
+          "qí",
+          "shēn",
+          "ér",
+          "shēn",
+          "cún",
+          "",
+          "fēi",
+          "yǐ",
+          "qí",
+          "wú",
+          "sī",
+          "xié",
+          "",
+          "gù",
+          "néng",
+          "chéng",
+          "qí",
+          "sī",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "天長地久。天地所以能長且久者，以其不自生，故能長生。是以聖人後其身而身先；外其身而身存。非以其無私邪，故能成其私。"
+        "text": "天长地久。天地所以能长且久者，以其不自生，故能长生。是以圣人后其身而身先；外其身而身存。非以其无私邪，故能成其私。",
+        "word_spans": [
+          {
+            "end": 4,
+            "gloss": "enduring while the world lasts (idiom) / eternal",
+            "pinyin": "tiān cháng dì jiǔ",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "天长地久"
+          },
+          {
+            "end": 7,
+            "gloss": "heaven and earth / world / scope / field of activity",
+            "pinyin": "tiān dì",
+            "source": "CC-CEDICT",
+            "start": 5,
+            "word": "天地"
+          },
+          {
+            "end": 9,
+            "gloss": "therefore / as a result / so / the reason why",
+            "pinyin": "suǒ yǐ",
+            "source": "CC-CEDICT",
+            "start": 7,
+            "word": "所以"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "能"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "长"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "且"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "久"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "者"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "以"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "其"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "不"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "自"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "生"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "故"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "能"
+          },
+          {
+            "end": 25,
+            "gloss": "long life",
+            "pinyin": "cháng shēng",
+            "source": "CC-CEDICT",
+            "start": 23,
+            "word": "长生"
+          },
+          {
+            "end": 28,
+            "gloss": "therefore / thus / so",
+            "pinyin": "shì yǐ",
+            "source": "CC-CEDICT",
+            "start": 26,
+            "word": "是以"
+          },
+          {
+            "end": 30,
+            "gloss": "the sage; the holy man",
+            "pinyin": "shèng rén",
+            "source": "classical-override",
+            "start": 28,
+            "word": "圣人"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "后"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "其"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "身"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "而"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "身"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "先"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "外"
+          },
+          {
+            "end": 39,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 38,
+            "word": "其"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "身"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "而"
+          },
+          {
+            "end": 42,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 41,
+            "word": "身"
+          },
+          {
+            "end": 43,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 42,
+            "word": "存"
+          },
+          {
+            "end": 45,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 44,
+            "word": "非"
+          },
+          {
+            "end": 46,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 45,
+            "word": "以"
+          },
+          {
+            "end": 47,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 46,
+            "word": "其"
+          },
+          {
+            "end": 49,
+            "gloss": "selfless / unselfish / disinterested / altruistic",
+            "pinyin": "wú sī",
+            "source": "CC-CEDICT",
+            "start": 47,
+            "word": "无私"
+          },
+          {
+            "end": 50,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 49,
+            "word": "邪"
+          },
+          {
+            "end": 52,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 51,
+            "word": "故"
+          },
+          {
+            "end": 53,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 52,
+            "word": "能"
+          },
+          {
+            "end": 54,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 53,
+            "word": "成"
+          },
+          {
+            "end": 55,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 54,
+            "word": "其"
+          },
+          {
+            "end": 56,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 55,
+            "word": "私"
+          }
+        ]
       }
     ],
-    "summary": "天長地久",
+    "summary": "天长地久",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "天長地久。天地所以能長且久者，以其不自生，故能長生。是以聖人後其身而身先；外其身而身存。非以其無私耶？故能成其私。",
+    "text": "天长地久。天地所以能长且久者，以其不自生，故能长生。是以圣人后其身而身先；外其身而身存。非以其无私耶？故能成其私。",
     "title": "第7章"
   },
   "chapter_path": "books/daodejing/chapters/chapter-007.json",

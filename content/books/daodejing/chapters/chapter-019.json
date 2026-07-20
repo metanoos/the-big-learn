@@ -18,16 +18,398 @@
         "character_count": 45,
         "id": "chapter-019-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "jué",
+          "shèng",
+          "qì",
+          "zhì",
+          "",
+          "mín",
+          "lì",
+          "bǎi",
+          "bèi",
+          "",
+          "jué",
+          "rén",
+          "qì",
+          "yì",
+          "",
+          "mín",
+          "fù",
+          "xiào",
+          "cí",
+          "",
+          "jué",
+          "qiǎo",
+          "qì",
+          "lì",
+          "",
+          "dào",
+          "zéi",
+          "wú",
+          "yǒu",
+          "",
+          "cǐ",
+          "sān",
+          "zhé",
+          "yǐ",
+          "wéi",
+          "wén",
+          "bù",
+          "zú",
+          "",
+          "gù",
+          "lìng",
+          "yóu",
+          "suó",
+          "shǔ",
+          "",
+          "",
+          "",
+          "xiàn",
+          "sù",
+          "bào",
+          "pǔ",
+          "",
+          "shǎo",
+          "sī",
+          "guǎ",
+          "yù",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "絕聖棄智，民利百倍；絕仁棄義，民復孝慈；絕巧棄利，盜賊無有。此三者以為文不足，故令有所屬 ﹕ 見素抱樸，少私寡欲。"
+        "text": "绝圣弃智，民利百倍；绝仁弃义，民复孝慈；绝巧弃利，盗贼无有。此三者以为文不足，故令有所属 ﹕ 见素抱朴，少私寡欲。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "绝"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "圣"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "弃"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "智"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "民"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "利"
+          },
+          {
+            "end": 9,
+            "gloss": "a hundredfold; (fig.) markedly / to increase markedly (transitive or intransitive) (often in refere…",
+            "pinyin": "bǎi bèi",
+            "source": "CC-CEDICT",
+            "start": 7,
+            "word": "百倍"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "绝"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "仁"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "弃"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "义"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "民"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "复"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "孝"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "慈"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "绝"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "巧"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "弃"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "利"
+          },
+          {
+            "end": 27,
+            "gloss": "robber",
+            "pinyin": "dào zéi",
+            "source": "CC-CEDICT",
+            "start": 25,
+            "word": "盗贼"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "无"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "有"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "此"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "三"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "者"
+          },
+          {
+            "end": 35,
+            "gloss": "to think; to believe (often with the implication that the belief is mistaken – unless referring to …",
+            "pinyin": "yǐ wéi",
+            "source": "CC-CEDICT",
+            "start": 33,
+            "word": "以为"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "文"
+          },
+          {
+            "end": 38,
+            "gloss": "insufficient / lacking / deficiency / not enough / inadequate / not worth / cannot / should not",
+            "pinyin": "bù zú",
+            "source": "CC-CEDICT",
+            "start": 36,
+            "word": "不足"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "故"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "令"
+          },
+          {
+            "end": 43,
+            "gloss": "somewhat / to some extent",
+            "pinyin": "yǒu suǒ",
+            "source": "CC-CEDICT",
+            "start": 41,
+            "word": "有所"
+          },
+          {
+            "end": 44,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 43,
+            "word": "属"
+          },
+          {
+            "end": 48,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 47,
+            "word": "见"
+          },
+          {
+            "end": 49,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 48,
+            "word": "素"
+          },
+          {
+            "end": 50,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 49,
+            "word": "抱"
+          },
+          {
+            "end": 51,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 50,
+            "word": "朴"
+          },
+          {
+            "end": 53,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 52,
+            "word": "少"
+          },
+          {
+            "end": 54,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 53,
+            "word": "私"
+          },
+          {
+            "end": 55,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 54,
+            "word": "寡"
+          },
+          {
+            "end": 56,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 55,
+            "word": "欲"
+          }
+        ]
       }
     ],
-    "summary": "絕聖棄智，民利百倍；絕仁棄義，民復孝慈；絕巧棄利，盜賊無有",
+    "summary": "绝圣弃智，民利百倍；绝仁弃义，民复孝慈；绝巧弃利，盗贼无有",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "絕聖棄智，民利百倍；絕仁棄義，民復孝慈；絕巧棄利，盜賊無有。此三者以為文不足。故令有所屬：見素抱樸，少私寡欲。",
+    "text": "绝圣弃智，民利百倍；绝仁弃义，民复孝慈；绝巧弃利，盗贼无有。此三者以为文不足。故令有所属：见素抱朴，少私寡欲。",
     "title": "第19章"
   },
   "chapter_path": "books/daodejing/chapters/chapter-019.json",

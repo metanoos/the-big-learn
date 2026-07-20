@@ -18,9 +18,101 @@
         "character_count": 11,
         "id": "chapter-016-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "zǐ",
+          "yuē",
+          "",
+          "",
+          "guǐ",
+          "shén",
+          "zhī",
+          "wéi",
+          "dé",
+          "",
+          "qí",
+          "shèng",
+          "yǐ",
+          "hū",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "子曰：「鬼神之為德，其盛矣乎！"
+        "text": "子曰：「鬼神之为德，其盛矣乎！",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "The Master said (Confucius said)",
+            "pinyin": "zǐ yuē",
+            "source": "classical-override",
+            "start": 0,
+            "word": "子曰"
+          },
+          {
+            "end": 6,
+            "gloss": "supernatural beings",
+            "pinyin": "guǐ shén",
+            "source": "CC-CEDICT",
+            "start": 4,
+            "word": "鬼神"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "之"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "为"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "德"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "其"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "盛"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "矣"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "乎"
+          }
+        ]
       },
       {
         "canonical_translations": [
@@ -35,16 +127,160 @@
         "character_count": 16,
         "id": "chapter-016-line-002",
         "order": 2,
+        "pinyin_per_char": [
+          "shì",
+          "zhī",
+          "ér",
+          "fú",
+          "jiàn",
+          "",
+          "tīng",
+          "zhī",
+          "ér",
+          "fú",
+          "wén",
+          "",
+          "tǐ",
+          "wù",
+          "ér",
+          "bù",
+          "kě",
+          "yí",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 2,
-        "text": "視之而弗見，聽之而弗聞，體物而不可遺。"
+        "text": "视之而弗见，听之而弗闻，体物而不可遗。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "视"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "之"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "而"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "弗"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "见"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "听"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "之"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "而"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "弗"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "闻"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "体"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "物"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "而"
+          },
+          {
+            "end": 17,
+            "gloss": "cannot; should not; must not",
+            "pinyin": "bù kě",
+            "source": "CC-CEDICT",
+            "start": 15,
+            "word": "不可"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "遗"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "They cause all the people in the kingdom to fast and purify themselves, and array themselves in their richest dresses, in order to attend at their sacrifices.",
+            "text": "They cause all the people in the kingdom to fast and purify themselves, and array themselves in their richest dresses, in order to attend at their sacrifices. Then, like overflowing water, they seem to be over the heads, and on the right and left of their worshippers.",
             "translator": "Legge",
             "year": 1885
           }
@@ -52,16 +288,211 @@
         "character_count": 25,
         "id": "chapter-016-line-003",
         "order": 3,
+        "pinyin_per_char": [
+          "shǐ",
+          "tiān",
+          "xià",
+          "zhī",
+          "rén",
+          "qí",
+          "míng",
+          "shèng",
+          "fú",
+          "",
+          "yǐ",
+          "chéng",
+          "jì",
+          "sì",
+          "",
+          "yáng",
+          "yáng",
+          "hū",
+          "",
+          "rú",
+          "zài",
+          "qí",
+          "shàng",
+          "",
+          "rú",
+          "zài",
+          "qí",
+          "zuǒ",
+          "yòu",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 3,
-        "text": "使天下之人齊明盛服，以承祭祀。洋洋乎！如在其上，如在其左右。"
+        "text": "使天下之人齐明盛服，以承祭祀。洋洋乎！如在其上，如在其左右。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "使"
+          },
+          {
+            "end": 3,
+            "gloss": "land under heaven / the whole world / the whole of China / realm / rule",
+            "pinyin": "tiān xià",
+            "source": "CC-CEDICT",
+            "start": 1,
+            "word": "天下"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "之"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "人"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "齐"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "明"
+          },
+          {
+            "end": 9,
+            "gloss": "splendid attire",
+            "pinyin": "shèng fú",
+            "source": "CC-CEDICT",
+            "start": 7,
+            "word": "盛服"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "以"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "承"
+          },
+          {
+            "end": 14,
+            "gloss": "to offer sacrifices to the gods or ancestors",
+            "pinyin": "jì sì",
+            "source": "CC-CEDICT",
+            "start": 12,
+            "word": "祭祀"
+          },
+          {
+            "end": 17,
+            "gloss": "vast / impressive / self-satisfied / immensely pleased with oneself",
+            "pinyin": "yáng yáng",
+            "source": "CC-CEDICT",
+            "start": 15,
+            "word": "洋洋"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "乎"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "如"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "在"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "其"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "上"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "如"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "在"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "其"
+          },
+          {
+            "end": 29,
+            "gloss": "left and right / nearby / approximately / attendant / to control / to influence",
+            "pinyin": "zuǒ yòu",
+            "source": "CC-CEDICT",
+            "start": 27,
+            "word": "左右"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "Then, like overflowing water, they seem to be over the heads, and on the right and left of their worshippers.",
+            "text": "It is said in the Book of Poetry, 'The approaches of the spirits, you cannot surmise; and can you treat them with indifference?'",
             "translator": "Legge",
             "year": 1885
           }
@@ -69,16 +500,137 @@
         "character_count": 14,
         "id": "chapter-016-line-004",
         "order": 4,
+        "pinyin_per_char": [
+          "shī",
+          "yuē",
+          "",
+          "",
+          "shén",
+          "zhī",
+          "gé",
+          "sī",
+          "",
+          "bù",
+          "kě",
+          "dù",
+          "sī",
+          "",
+          "shén",
+          "kě",
+          "shè",
+          "sī",
+          "",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 4,
-        "text": "詩曰：『神之格思，不可度思！矧可射思！』"
+        "text": "诗曰：『神之格思，不可度思！矧可射思！』",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "a poem goes:",
+            "pinyin": "shī yuē",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "诗曰"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "神"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "之"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "格"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "思"
+          },
+          {
+            "end": 11,
+            "gloss": "cannot; should not; must not",
+            "pinyin": "bù kě",
+            "source": "CC-CEDICT",
+            "start": 9,
+            "word": "不可"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "度"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "思"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "矧"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "可"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "射"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "思"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "It is said in the Book of Poetry, 'The approaches of the spirits, you cannot surmise; and can you treat them with indifference?' Such is the manifestness of what is minute! Such is the impossibility of repressing the outgoings of sincerity!\"",
+            "text": "Such is the manifestness of what is minute! Such is the impossibility of repressing the outgoings of sincerity!\"",
             "translator": "Legge",
             "year": 1885
           }
@@ -86,16 +638,116 @@
         "character_count": 12,
         "id": "chapter-016-line-005",
         "order": 5,
+        "pinyin_per_char": [
+          "fū",
+          "wēi",
+          "zhī",
+          "xiǎn",
+          "",
+          "chéng",
+          "zhī",
+          "bù",
+          "ké",
+          "yǎn",
+          "rú",
+          "cǐ",
+          "fū",
+          "",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 5,
-        "text": "夫微之顯，誠之不可揜如此夫。」"
+        "text": "夫微之显，诚之不可揜如此夫。」",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "夫"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "微"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "之"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "显"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "诚"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "之"
+          },
+          {
+            "end": 9,
+            "gloss": "cannot; should not; must not",
+            "pinyin": "bù kě",
+            "source": "CC-CEDICT",
+            "start": 7,
+            "word": "不可"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "揜"
+          },
+          {
+            "end": 12,
+            "gloss": "like this; so; such",
+            "pinyin": "rú cǐ",
+            "source": "CC-CEDICT",
+            "start": 10,
+            "word": "如此"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "夫"
+          }
+        ]
       }
     ],
     "summary": "",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "子曰：「鬼神之為德，其盛矣乎！\n視之而弗見，聽之而弗聞，體物而不可遺。\n使天下之人齊明盛服，以承祭祀。洋洋乎！如在其上，如在其左右。\n詩曰：『神之格思，不可度思！矧可射思！』\n夫微之顯，誠之不可揜如此夫。」",
+    "text": "子曰：「鬼神之为德，其盛矣乎！\n视之而弗见，听之而弗闻，体物而不可遗。\n使天下之人齐明盛服，以承祭祀。洋洋乎！如在其上，如在其左右。\n诗曰：『神之格思，不可度思！矧可射思！』\n夫微之显，诚之不可揜如此夫。」",
     "title": ""
   },
   "chapter_path": "books/zhong-yong/chapters/chapter-016.json",

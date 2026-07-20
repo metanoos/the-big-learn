@@ -18,16 +18,755 @@
         "character_count": 88,
         "id": "chapter-023-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "xī",
+          "yán",
+          "zì",
+          "rán",
+          "",
+          "gù",
+          "piāo",
+          "fēng",
+          "bù",
+          "zhōng",
+          "cháo",
+          "",
+          "zhòu",
+          "yǔ",
+          "bù",
+          "zhōng",
+          "rì",
+          "",
+          "shú",
+          "wèi",
+          "cí",
+          "zhě",
+          "",
+          "tiān",
+          "dì",
+          "",
+          "tiān",
+          "dì",
+          "shàng",
+          "bù",
+          "néng",
+          "jiǔ",
+          "",
+          "ér",
+          "kuàng",
+          "yú",
+          "rén",
+          "hū",
+          "",
+          "gù",
+          "cóng",
+          "shì",
+          "yú",
+          "dào",
+          "zhě",
+          "",
+          "dào",
+          "zhě",
+          "",
+          "tóng",
+          "yú",
+          "dào",
+          "",
+          "dé",
+          "zhě",
+          "",
+          "tóng",
+          "yú",
+          "dé",
+          "",
+          "shī",
+          "zhě",
+          "",
+          "tóng",
+          "yú",
+          "shī",
+          "",
+          "tóng",
+          "yú",
+          "dào",
+          "zhě",
+          "",
+          "dào",
+          "yì",
+          "lè",
+          "dé",
+          "zhī",
+          "",
+          "tóng",
+          "yú",
+          "dé",
+          "zhě",
+          "",
+          "dé",
+          "yì",
+          "lè",
+          "dé",
+          "zhī",
+          "",
+          "tóng",
+          "yú",
+          "shī",
+          "zhě",
+          "",
+          "shī",
+          "yì",
+          "lè",
+          "dé",
+          "zhī",
+          "",
+          "xìn",
+          "bù",
+          "zú",
+          "",
+          "yān",
+          "yǒu",
+          "bú",
+          "xìn",
+          "yān",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "希言自然，故飄風不終朝，驟雨不終日。孰為此者？天地。天地尚不能久，而況於人乎？故從事於道者，道者，同於道；德者，同於德；失者，同於失。同於道者，道亦樂得之；同於德者，德亦樂得之；同於失者，失亦樂得之。信不足，焉有不信焉。"
+        "text": "希言自然，故飘风不终朝，骤雨不终日。孰为此者？天地。天地尚不能久，而况于人乎？故从事于道者，道者，同于道；德者，同于德；失者，同于失。同于道者，道亦乐得之；同于德者，德亦乐得之；同于失者，失亦乐得之。信不足，焉有不信焉。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "希"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "言"
+          },
+          {
+            "end": 4,
+            "gloss": "nature / natural / naturally",
+            "pinyin": "zì rán",
+            "source": "CC-CEDICT",
+            "start": 2,
+            "word": "自然"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "故"
+          },
+          {
+            "end": 8,
+            "gloss": "whirlwind / stormy wind",
+            "pinyin": "piāo fēng",
+            "source": "CC-CEDICT",
+            "start": 6,
+            "word": "飘风"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "不"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "终"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "朝"
+          },
+          {
+            "end": 14,
+            "gloss": "sudden downpour; brief heavy rain",
+            "pinyin": "zhòu yǔ",
+            "source": "CC-CEDICT",
+            "start": 12,
+            "word": "骤雨"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "不"
+          },
+          {
+            "end": 17,
+            "gloss": "all day long",
+            "pinyin": "zhōng rì",
+            "source": "CC-CEDICT",
+            "start": 15,
+            "word": "终日"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "孰"
+          },
+          {
+            "end": 21,
+            "gloss": "for this reason / with regards to this / in this respect / in order to do this / to this end",
+            "pinyin": "wèi cǐ",
+            "source": "CC-CEDICT",
+            "start": 19,
+            "word": "为此"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "者"
+          },
+          {
+            "end": 25,
+            "gloss": "heaven and earth / world / scope / field of activity",
+            "pinyin": "tiān dì",
+            "source": "CC-CEDICT",
+            "start": 23,
+            "word": "天地"
+          },
+          {
+            "end": 28,
+            "gloss": "heaven and earth / world / scope / field of activity",
+            "pinyin": "tiān dì",
+            "source": "CC-CEDICT",
+            "start": 26,
+            "word": "天地"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "尚"
+          },
+          {
+            "end": 31,
+            "gloss": "cannot / must not / should not",
+            "pinyin": "bù néng",
+            "source": "CC-CEDICT",
+            "start": 29,
+            "word": "不能"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "久"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "而"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "况"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "于"
+          },
+          {
+            "end": 37,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 36,
+            "word": "人"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "乎"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "故"
+          },
+          {
+            "end": 42,
+            "gloss": "to go for / to engage in / to undertake / to deal with / to handle / to do",
+            "pinyin": "cóng shì",
+            "source": "CC-CEDICT",
+            "start": 40,
+            "word": "从事"
+          },
+          {
+            "end": 43,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 42,
+            "word": "于"
+          },
+          {
+            "end": 44,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 43,
+            "word": "道"
+          },
+          {
+            "end": 45,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 44,
+            "word": "者"
+          },
+          {
+            "end": 47,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 46,
+            "word": "道"
+          },
+          {
+            "end": 48,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 47,
+            "word": "者"
+          },
+          {
+            "end": 50,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 49,
+            "word": "同"
+          },
+          {
+            "end": 51,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 50,
+            "word": "于"
+          },
+          {
+            "end": 52,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 51,
+            "word": "道"
+          },
+          {
+            "end": 54,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 53,
+            "word": "德"
+          },
+          {
+            "end": 55,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 54,
+            "word": "者"
+          },
+          {
+            "end": 57,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 56,
+            "word": "同"
+          },
+          {
+            "end": 58,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 57,
+            "word": "于"
+          },
+          {
+            "end": 59,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 58,
+            "word": "德"
+          },
+          {
+            "end": 61,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 60,
+            "word": "失"
+          },
+          {
+            "end": 62,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 61,
+            "word": "者"
+          },
+          {
+            "end": 64,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 63,
+            "word": "同"
+          },
+          {
+            "end": 65,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 64,
+            "word": "于"
+          },
+          {
+            "end": 66,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 65,
+            "word": "失"
+          },
+          {
+            "end": 68,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 67,
+            "word": "同"
+          },
+          {
+            "end": 69,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 68,
+            "word": "于"
+          },
+          {
+            "end": 70,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 69,
+            "word": "道"
+          },
+          {
+            "end": 71,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 70,
+            "word": "者"
+          },
+          {
+            "end": 73,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 72,
+            "word": "道"
+          },
+          {
+            "end": 74,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 73,
+            "word": "亦"
+          },
+          {
+            "end": 75,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 74,
+            "word": "乐"
+          },
+          {
+            "end": 76,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 75,
+            "word": "得"
+          },
+          {
+            "end": 77,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 76,
+            "word": "之"
+          },
+          {
+            "end": 79,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 78,
+            "word": "同"
+          },
+          {
+            "end": 80,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 79,
+            "word": "于"
+          },
+          {
+            "end": 81,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 80,
+            "word": "德"
+          },
+          {
+            "end": 82,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 81,
+            "word": "者"
+          },
+          {
+            "end": 84,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 83,
+            "word": "德"
+          },
+          {
+            "end": 85,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 84,
+            "word": "亦"
+          },
+          {
+            "end": 86,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 85,
+            "word": "乐"
+          },
+          {
+            "end": 87,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 86,
+            "word": "得"
+          },
+          {
+            "end": 88,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 87,
+            "word": "之"
+          },
+          {
+            "end": 90,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 89,
+            "word": "同"
+          },
+          {
+            "end": 91,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 90,
+            "word": "于"
+          },
+          {
+            "end": 92,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 91,
+            "word": "失"
+          },
+          {
+            "end": 93,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 92,
+            "word": "者"
+          },
+          {
+            "end": 95,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 94,
+            "word": "失"
+          },
+          {
+            "end": 96,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 95,
+            "word": "亦"
+          },
+          {
+            "end": 97,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 96,
+            "word": "乐"
+          },
+          {
+            "end": 98,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 97,
+            "word": "得"
+          },
+          {
+            "end": 99,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 98,
+            "word": "之"
+          },
+          {
+            "end": 101,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 100,
+            "word": "信"
+          },
+          {
+            "end": 103,
+            "gloss": "insufficient / lacking / deficiency / not enough / inadequate / not worth / cannot / should not",
+            "pinyin": "bù zú",
+            "source": "CC-CEDICT",
+            "start": 101,
+            "word": "不足"
+          },
+          {
+            "end": 105,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 104,
+            "word": "焉"
+          },
+          {
+            "end": 106,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 105,
+            "word": "有"
+          },
+          {
+            "end": 107,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 106,
+            "word": "不"
+          },
+          {
+            "end": 108,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 107,
+            "word": "信"
+          },
+          {
+            "end": 109,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 108,
+            "word": "焉"
+          }
+        ]
       }
     ],
-    "summary": "希言自然，故飄風不終朝，驟雨不終日",
+    "summary": "希言自然，故飘风不终朝，骤雨不终日",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "希言自然，故飄風不終朝，驟雨不終日。孰為此者？天地。天地尚不能久，而況於人乎？故從事於道者，道者，同於道；德者，同於德；失者，同於失。同於道者，道亦樂得之；同於德者，德亦樂得之；同於失者，失亦樂得之。信不足，焉有不信焉。",
+    "text": "希言自然，故飘风不终朝，骤雨不终日。孰为此者？天地。天地尚不能久，而况于人乎？故从事于道者，道者，同于道；德者，同于德；失者，同于失。同于道者，道亦乐得之；同于德者，德亦乐得之；同于失者，失亦乐得之。信不足，焉有不信焉。",
     "title": "第23章"
   },
   "chapter_path": "books/daodejing/chapters/chapter-023.json",

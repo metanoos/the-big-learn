@@ -18,16 +18,347 @@
         "character_count": 43,
         "id": "chapter-035-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "zhí",
+          "dà",
+          "xiàng",
+          "",
+          "tiān",
+          "xià",
+          "wǎng",
+          "",
+          "wǎng",
+          "ér",
+          "bú",
+          "hài",
+          "",
+          "ān",
+          "píng",
+          "dà",
+          "",
+          "lè",
+          "yú",
+          "ěr",
+          "",
+          "guò",
+          "kè",
+          "zhǐ",
+          "",
+          "dào",
+          "zhī",
+          "chū",
+          "kǒu",
+          "",
+          "dàn",
+          "hū",
+          "qí",
+          "wú",
+          "wèi",
+          "",
+          "shì",
+          "zhī",
+          "bù",
+          "zú",
+          "jiàn",
+          "",
+          "tīng",
+          "zhī",
+          "bù",
+          "zú",
+          "wén",
+          "",
+          "yòng",
+          "zhī",
+          "bù",
+          "zú",
+          "jì",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "執大象，天下往。往而不害，安平大。樂與餌，過客止。道之出口，淡乎其無味，視之不足見，聽之不足聞，用之不足既。"
+        "text": "执大象，天下往。往而不害，安平大。乐与饵，过客止。道之出口，淡乎其无味，视之不足见，听之不足闻，用之不足既。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "执"
+          },
+          {
+            "end": 3,
+            "gloss": "elephant / CL:头|头[tou2]",
+            "pinyin": "dà xiàng",
+            "source": "CC-CEDICT",
+            "start": 1,
+            "word": "大象"
+          },
+          {
+            "end": 6,
+            "gloss": "land under heaven / the whole world / the whole of China / realm / rule",
+            "pinyin": "tiān xià",
+            "source": "CC-CEDICT",
+            "start": 4,
+            "word": "天下"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "往"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "往"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "而"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "不"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "害"
+          },
+          {
+            "end": 15,
+            "gloss": "see 安平县|安平县[An1 ping2 Xian4] / see 安平区|安平区[An1 ping2 Qu1]",
+            "pinyin": "Ān píng",
+            "source": "CC-CEDICT",
+            "start": 13,
+            "word": "安平"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "大"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "乐"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "与"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "饵"
+          },
+          {
+            "end": 23,
+            "gloss": "passing traveler / transient guest / sojourner",
+            "pinyin": "guò kè",
+            "source": "CC-CEDICT",
+            "start": 21,
+            "word": "过客"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "止"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "道"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "之"
+          },
+          {
+            "end": 29,
+            "gloss": "an exit / CL:个|个[ge4] / to speak / to export / (of a ship) to leave port",
+            "pinyin": "chū kǒu",
+            "source": "CC-CEDICT",
+            "start": 27,
+            "word": "出口"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "淡"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "乎"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "其"
+          },
+          {
+            "end": 35,
+            "gloss": "flavorless; unpalatable / odorless / dull; uninteresting",
+            "pinyin": "wú wèi",
+            "source": "CC-CEDICT",
+            "start": 33,
+            "word": "无味"
+          },
+          {
+            "end": 37,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 36,
+            "word": "视"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "之"
+          },
+          {
+            "end": 40,
+            "gloss": "insufficient / lacking / deficiency / not enough / inadequate / not worth / cannot / should not",
+            "pinyin": "bù zú",
+            "source": "CC-CEDICT",
+            "start": 38,
+            "word": "不足"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "见"
+          },
+          {
+            "end": 43,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 42,
+            "word": "听"
+          },
+          {
+            "end": 44,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 43,
+            "word": "之"
+          },
+          {
+            "end": 46,
+            "gloss": "insufficient / lacking / deficiency / not enough / inadequate / not worth / cannot / should not",
+            "pinyin": "bù zú",
+            "source": "CC-CEDICT",
+            "start": 44,
+            "word": "不足"
+          },
+          {
+            "end": 47,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 46,
+            "word": "闻"
+          },
+          {
+            "end": 49,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 48,
+            "word": "用"
+          },
+          {
+            "end": 50,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 49,
+            "word": "之"
+          },
+          {
+            "end": 52,
+            "gloss": "insufficient / lacking / deficiency / not enough / inadequate / not worth / cannot / should not",
+            "pinyin": "bù zú",
+            "source": "CC-CEDICT",
+            "start": 50,
+            "word": "不足"
+          },
+          {
+            "end": 53,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 52,
+            "word": "既"
+          }
+        ]
       }
     ],
-    "summary": "執大象，天下往",
+    "summary": "执大象，天下往",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "執大象，天下往。往而不害，安平大。樂與餌，過客止。道之出口，淡乎其無味，視之不足見，聽之不足聞，用之不足既。",
+    "text": "执大象，天下往。往而不害，安平大。乐与饵，过客止。道之出口，淡乎其无味，视之不足见，听之不足闻，用之不足既。",
     "title": "第35章"
   },
   "chapter_path": "books/daodejing/chapters/chapter-035.json",

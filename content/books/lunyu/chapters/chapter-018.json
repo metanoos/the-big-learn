@@ -10,7 +10,7 @@
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/Confucian_Analects",
-            "text": "The Viscount of Wei withdrew from the court.",
+            "text": "The Viscount of Wei withdrew from the court. The Viscount of Ji became a slave to Zhou. Bi Gan remonstrated with him and died.",
             "translator": "Legge",
             "year": 1891
           }
@@ -18,16 +18,134 @@
         "character_count": 14,
         "id": "chapter-018-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "wēi",
+          "zi",
+          "qù",
+          "zhī",
+          "",
+          "jī",
+          "zi",
+          "wéi",
+          "zhī",
+          "nú",
+          "",
+          "bǐ",
+          "gān",
+          "jiàn",
+          "ér",
+          "sǐ",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "微子去之，箕子為之奴，比干諫而死。"
+        "text": "微子去之，箕子为之奴，比干谏而死。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "微"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "子"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "去"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "之"
+          },
+          {
+            "end": 7,
+            "gloss": "Jizi, legendary sage from end of Shang dynasty (c. 1100 BC), said to have opposed the tyrant Zhou 纣…",
+            "pinyin": "Jī zǐ",
+            "source": "CC-CEDICT",
+            "start": 5,
+            "word": "箕子"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "为"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "之"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "奴"
+          },
+          {
+            "end": 13,
+            "gloss": "Bi Gan (Chinese god of wealth)",
+            "pinyin": "Bǐ gān",
+            "source": "CC-CEDICT",
+            "start": 11,
+            "word": "比干"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "谏"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "而"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "死"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/Confucian_Analects",
-            "text": "The Viscount of Ji became a slave to Zhou. Bi Gan remonstrated with him and died. Confucius said, \"The Yin dynasty possessed these three men of virtue.\"",
+            "text": "Confucius said, \"The Yin dynasty possessed these three men of virtue.\"",
             "translator": "Legge",
             "year": 1891
           }
@@ -35,9 +153,82 @@
         "character_count": 8,
         "id": "chapter-018-line-002",
         "order": 2,
+        "pinyin_per_char": [
+          "kóng",
+          "zǐ",
+          "yuē",
+          "",
+          "",
+          "yīn",
+          "yǒu",
+          "sān",
+          "rén",
+          "yān",
+          "",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 2,
-        "text": "孔子曰：「殷有三仁焉。」"
+        "text": "孔子曰：「殷有三仁焉。」",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "Confucius (551-479 BC), Chinese thinker and social philosopher, also known as 孔夫子[Kong3 fu1 zi3]",
+            "pinyin": "Kǒng zǐ",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "孔子"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "曰"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "殷"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "有"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "三"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "仁"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "焉"
+          }
+        ]
       },
       {
         "canonical_translations": [
@@ -52,9 +243,363 @@
         "character_count": 40,
         "id": "chapter-018-line-003",
         "order": 3,
+        "pinyin_per_char": [
+          "liǔ",
+          "xià",
+          "huì",
+          "wèi",
+          "shì",
+          "shī",
+          "",
+          "sān",
+          "chù",
+          "",
+          "rén",
+          "yuē",
+          "",
+          "",
+          "zi",
+          "wèi",
+          "ké",
+          "yǐ",
+          "qù",
+          "hū",
+          "",
+          "",
+          "yuē",
+          "",
+          "",
+          "zhí",
+          "dào",
+          "ér",
+          "shì",
+          "rén",
+          "",
+          "yān",
+          "wǎng",
+          "ér",
+          "bù",
+          "sān",
+          "chù",
+          "",
+          "wǎng",
+          "dào",
+          "ér",
+          "shì",
+          "rén",
+          "",
+          "hé",
+          "bì",
+          "qù",
+          "fù",
+          "mǔ",
+          "zhī",
+          "bāng",
+          "",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 3,
-        "text": "柳下惠為士師，三黜。人曰：「子未可以去乎？」曰：「直道而事人，焉往而不三黜？枉道而事人，何必去父母之邦。」"
+        "text": "柳下惠为士师，三黜。人曰：「子未可以去乎？」曰：「直道而事人，焉往而不三黜？枉道而事人，何必去父母之邦。」",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "柳"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "下"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "惠"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "为"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "士"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "师"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "三"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "黜"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "人"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "曰"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "子"
+          },
+          {
+            "end": 17,
+            "gloss": "cannot",
+            "pinyin": "wèi kě",
+            "source": "CC-CEDICT",
+            "start": 15,
+            "word": "未可"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "以"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "去"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "乎"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "曰"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "直"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "道"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "而"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "事"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "人"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "焉"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "往"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "而"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "不"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "三"
+          },
+          {
+            "end": 37,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 36,
+            "word": "黜"
+          },
+          {
+            "end": 39,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 38,
+            "word": "枉"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "道"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "而"
+          },
+          {
+            "end": 42,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 41,
+            "word": "事"
+          },
+          {
+            "end": 43,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 42,
+            "word": "人"
+          },
+          {
+            "end": 46,
+            "gloss": "there is no need / why should",
+            "pinyin": "hé bì",
+            "source": "CC-CEDICT",
+            "start": 44,
+            "word": "何必"
+          },
+          {
+            "end": 47,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 46,
+            "word": "去"
+          },
+          {
+            "end": 49,
+            "gloss": "father and mother; parents",
+            "pinyin": "fù mǔ",
+            "source": "CC-CEDICT",
+            "start": 47,
+            "word": "父母"
+          },
+          {
+            "end": 50,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 49,
+            "word": "之"
+          },
+          {
+            "end": 51,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 50,
+            "word": "邦"
+          }
+        ]
       },
       {
         "canonical_translations": [
@@ -69,9 +614,283 @@
         "character_count": 32,
         "id": "chapter-018-line-004",
         "order": 4,
+        "pinyin_per_char": [
+          "qí",
+          "jǐng",
+          "gōng",
+          "dài",
+          "kǒng",
+          "zi",
+          "",
+          "yuē",
+          "",
+          "",
+          "ruò",
+          "jì",
+          "shì",
+          "zé",
+          "wú",
+          "bù",
+          "néng",
+          "",
+          "yǐ",
+          "jì",
+          "",
+          "mèng",
+          "zhī",
+          "xián",
+          "dài",
+          "zhī",
+          "",
+          "",
+          "yuē",
+          "",
+          "",
+          "wú",
+          "láo",
+          "yǐ",
+          "",
+          "bù",
+          "néng",
+          "yòng",
+          "yě",
+          "",
+          "",
+          "kǒng",
+          "zi",
+          "xíng",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 4,
-        "text": "齊景公待孔子，曰：「若季氏則吾不能，以季、孟之閒待之。」曰：「吾老矣，不能用也。」孔子行。"
+        "text": "齐景公待孔子，曰：「若季氏则吾不能，以季、孟之闲待之。」曰：「吾老矣，不能用也。」孔子行。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "齐"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "景"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "公"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "待"
+          },
+          {
+            "end": 6,
+            "gloss": "Confucius (551-479 BC), Chinese thinker and social philosopher, also known as 孔夫子[Kong3 fu1 zi3]",
+            "pinyin": "Kǒng zǐ",
+            "source": "CC-CEDICT",
+            "start": 4,
+            "word": "孔子"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "曰"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "若"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "季"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "氏"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "则"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "吾"
+          },
+          {
+            "end": 17,
+            "gloss": "cannot / must not / should not",
+            "pinyin": "bù néng",
+            "source": "CC-CEDICT",
+            "start": 15,
+            "word": "不能"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "以"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "季"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "孟"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "之"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "闲"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "待"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "之"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "曰"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "吾"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "老"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "矣"
+          },
+          {
+            "end": 37,
+            "gloss": "cannot / must not / should not",
+            "pinyin": "bù néng",
+            "source": "CC-CEDICT",
+            "start": 35,
+            "word": "不能"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "用"
+          },
+          {
+            "end": 39,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 38,
+            "word": "也"
+          },
+          {
+            "end": 43,
+            "gloss": "Confucius (551-479 BC), Chinese thinker and social philosopher, also known as 孔夫子[Kong3 fu1 zi3]",
+            "pinyin": "Kǒng zǐ",
+            "source": "CC-CEDICT",
+            "start": 41,
+            "word": "孔子"
+          },
+          {
+            "end": 44,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 43,
+            "word": "行"
+          }
+        ]
       },
       {
         "canonical_translations": [
@@ -86,16 +905,170 @@
         "character_count": 17,
         "id": "chapter-018-line-005",
         "order": 5,
+        "pinyin_per_char": [
+          "qí",
+          "rén",
+          "guī",
+          "nǚ",
+          "lè",
+          "",
+          "jì",
+          "huán",
+          "zi",
+          "shòu",
+          "zhī",
+          "",
+          "sān",
+          "rì",
+          "bù",
+          "cháo",
+          "",
+          "kǒng",
+          "zi",
+          "xíng",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 5,
-        "text": "齊人歸女樂，季桓子受之。三日不朝，孔子行。"
+        "text": "齐人归女乐，季桓子受之。三日不朝，孔子行。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "齐"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "人"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "归"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "女"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "乐"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "季"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "桓"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "子"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "受"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "之"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "三"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "日"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "不"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "朝"
+          },
+          {
+            "end": 19,
+            "gloss": "Confucius (551-479 BC), Chinese thinker and social philosopher, also known as 孔夫子[Kong3 fu1 zi3]",
+            "pinyin": "Kǒng zǐ",
+            "source": "CC-CEDICT",
+            "start": 17,
+            "word": "孔子"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "行"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/Confucian_Analects",
-            "text": "The madman of Chu, Jie Yu, passed by Confucius, singing and saying, \"O Feng!",
+            "text": "The madman of Chu, Jie Yu, passed by Confucius, singing and saying, \"O Feng! O Feng! How is your virtue degenerated! As to the past, reproof is useless; but the future may still be provided against. Give up your vain pursuit. Give up your vain pursuit. Peril awaits those who now engage in affairs of government.\"",
             "translator": "Legge",
             "year": 1891
           }
@@ -103,16 +1076,351 @@
         "character_count": 39,
         "id": "chapter-018-line-006",
         "order": 6,
+        "pinyin_per_char": [
+          "chǔ",
+          "kuáng",
+          "jiē",
+          "yú",
+          "gē",
+          "ér",
+          "guò",
+          "kóng",
+          "zǐ",
+          "yuē",
+          "",
+          "",
+          "fèng",
+          "xī",
+          "",
+          "fèng",
+          "xī",
+          "",
+          "hé",
+          "dé",
+          "zhī",
+          "shuāi",
+          "",
+          "wáng",
+          "zhě",
+          "bù",
+          "kě",
+          "jiàn",
+          "",
+          "lái",
+          "zhě",
+          "yóu",
+          "kě",
+          "zhuī",
+          "",
+          "yǐ",
+          "ér",
+          "",
+          "yǐ",
+          "ér",
+          "",
+          "jīn",
+          "zhī",
+          "cóng",
+          "zhèng",
+          "zhě",
+          "dài",
+          "ér",
+          "",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 6,
-        "text": "楚狂接輿歌而過孔子曰：「鳳兮！鳳兮！何德之衰？往者不可諫，來者猶可追。已而，已而！今之從政者殆而！」"
+        "text": "楚狂接舆歌而过孔子曰：「凤兮！凤兮！何德之衰？往者不可谏，来者犹可追。已而，已而！今之从政者殆而！」",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "楚"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "狂"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "接"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "舆"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "歌"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "而"
+          },
+          {
+            "end": 8,
+            "gloss": "(electronics) via (a type of hole in a circuit board)",
+            "pinyin": "guò kǒng",
+            "source": "CC-CEDICT",
+            "start": 6,
+            "word": "过孔"
+          },
+          {
+            "end": 10,
+            "gloss": "The Master said (Confucius said)",
+            "pinyin": "zǐ yuē",
+            "source": "classical-override",
+            "start": 8,
+            "word": "子曰"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "凤"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "兮"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "凤"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "兮"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "何"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "德"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "之"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "衰"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "往"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "者"
+          },
+          {
+            "end": 27,
+            "gloss": "cannot; should not; must not",
+            "pinyin": "bù kě",
+            "source": "CC-CEDICT",
+            "start": 25,
+            "word": "不可"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "谏"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "来"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "者"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "犹"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "可"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "追"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "已"
+          },
+          {
+            "end": 37,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 36,
+            "word": "而"
+          },
+          {
+            "end": 39,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 38,
+            "word": "已"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "而"
+          },
+          {
+            "end": 42,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 41,
+            "word": "今"
+          },
+          {
+            "end": 43,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 42,
+            "word": "之"
+          },
+          {
+            "end": 45,
+            "gloss": "to be engaged in politics (esp. as a government official)",
+            "pinyin": "cóng zhèng",
+            "source": "CC-CEDICT",
+            "start": 43,
+            "word": "从政"
+          },
+          {
+            "end": 46,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 45,
+            "word": "者"
+          },
+          {
+            "end": 47,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 46,
+            "word": "殆"
+          },
+          {
+            "end": 48,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 47,
+            "word": "而"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/Confucian_Analects",
-            "text": "O Feng! How is your virtue degenerated! As to the past, reproof is useless; but the future may still be provided against. Give up your vain pursuit. Give up your vain pursuit. Peril awaits those who now engage in affairs of government.\" Confucius alighted and wished to converse with him, but Jie Yu hastened away, so that he could not talk with him.",
+            "text": "Confucius alighted and wished to converse with him, but Jie Yu hastened away, so that he could not talk with him.",
             "translator": "Legge",
             "year": 1891
           }
@@ -120,9 +1428,146 @@
         "character_count": 16,
         "id": "chapter-018-line-007",
         "order": 7,
+        "pinyin_per_char": [
+          "kǒng",
+          "zi",
+          "xià",
+          "",
+          "yù",
+          "yǔ",
+          "zhī",
+          "yán",
+          "",
+          "qū",
+          "ér",
+          "pì",
+          "zhī",
+          "",
+          "bù",
+          "dé",
+          "yǔ",
+          "zhī",
+          "yán",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 7,
-        "text": "孔子下，欲與之言。趨而辟之，不得與之言。"
+        "text": "孔子下，欲与之言。趋而辟之，不得与之言。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "Confucius (551-479 BC), Chinese thinker and social philosopher, also known as 孔夫子[Kong3 fu1 zi3]",
+            "pinyin": "Kǒng zǐ",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "孔子"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "下"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "欲"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "与"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "之"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "言"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "趋"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "而"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "辟"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "之"
+          },
+          {
+            "end": 16,
+            "gloss": "must not / may not / not to be allowed / cannot",
+            "pinyin": "bù dé",
+            "source": "CC-CEDICT",
+            "start": 14,
+            "word": "不得"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "与"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "之"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "言"
+          }
+        ]
       },
       {
         "canonical_translations": [
@@ -137,9 +1582,147 @@
         "character_count": 17,
         "id": "chapter-018-line-008",
         "order": 8,
+        "pinyin_per_char": [
+          "zháng",
+          "jǔ",
+          "",
+          "jié",
+          "nì",
+          "ǒu",
+          "ér",
+          "gēng",
+          "",
+          "kǒng",
+          "zi",
+          "guò",
+          "zhī",
+          "",
+          "shǐ",
+          "zi",
+          "lù",
+          "wèn",
+          "jīn",
+          "yān",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 8,
-        "text": "長沮、桀溺耦而耕，孔子過之，使子路問津焉。"
+        "text": "长沮、桀溺耦而耕，孔子过之，使子路问津焉。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "长"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "沮"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "桀"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "溺"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "耦"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "而"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "耕"
+          },
+          {
+            "end": 11,
+            "gloss": "Confucius (551-479 BC), Chinese thinker and social philosopher, also known as 孔夫子[Kong3 fu1 zi3]",
+            "pinyin": "Kǒng zǐ",
+            "source": "CC-CEDICT",
+            "start": 9,
+            "word": "孔子"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "过"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "之"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "使"
+          },
+          {
+            "end": 17,
+            "gloss": "Zi Lu (542-480 BC), disciple of Confucius 孔夫子[Kong3 fu1 zi3], also known as Ji Lu 季路[Ji4 Lu4]",
+            "pinyin": "Zǐ Lù",
+            "source": "CC-CEDICT",
+            "start": 15,
+            "word": "子路"
+          },
+          {
+            "end": 19,
+            "gloss": "to make inquiries (mostly used in the negative)",
+            "pinyin": "wèn jīn",
+            "source": "CC-CEDICT",
+            "start": 17,
+            "word": "问津"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "焉"
+          }
+        ]
       },
       {
         "canonical_translations": [
@@ -154,9 +1737,271 @@
         "character_count": 29,
         "id": "chapter-018-line-009",
         "order": 9,
+        "pinyin_per_char": [
+          "zháng",
+          "jǔ",
+          "yuē",
+          "",
+          "",
+          "fū",
+          "zhí",
+          "yú",
+          "zhě",
+          "wéi",
+          "shuí",
+          "",
+          "",
+          "zi",
+          "lù",
+          "yuē",
+          "",
+          "",
+          "wèi",
+          "kǒng",
+          "qiū",
+          "",
+          "",
+          "yuē",
+          "",
+          "",
+          "shì",
+          "lú",
+          "kǒng",
+          "qiū",
+          "yǔ",
+          "",
+          "",
+          "yuē",
+          "",
+          "",
+          "shì",
+          "yě",
+          "",
+          "",
+          "yuē",
+          "",
+          "",
+          "shì",
+          "zhī",
+          "jīn",
+          "yǐ",
+          "",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 9,
-        "text": "長沮曰：「夫執輿者為誰？」子路曰：「為孔丘。」曰：「是魯孔丘與？」曰：「是也。」曰：「是知津矣。」"
+        "text": "长沮曰：「夫执舆者为谁？」子路曰：「为孔丘。」曰：「是鲁孔丘与？」曰：「是也。」曰：「是知津矣。」",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "长"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "沮"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "曰"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "夫"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "执"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "舆"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "者"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "为"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "谁"
+          },
+          {
+            "end": 15,
+            "gloss": "Zi Lu (542-480 BC), disciple of Confucius 孔夫子[Kong3 fu1 zi3], also known as Ji Lu 季路[Ji4 Lu4]",
+            "pinyin": "Zǐ Lù",
+            "source": "CC-CEDICT",
+            "start": 13,
+            "word": "子路"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "曰"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "为"
+          },
+          {
+            "end": 21,
+            "gloss": "Confucius",
+            "pinyin": "Kǒng Qiū",
+            "source": "CC-CEDICT",
+            "start": 19,
+            "word": "孔丘"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "曰"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "是"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "鲁"
+          },
+          {
+            "end": 30,
+            "gloss": "Confucius",
+            "pinyin": "Kǒng Qiū",
+            "source": "CC-CEDICT",
+            "start": 28,
+            "word": "孔丘"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "与"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "曰"
+          },
+          {
+            "end": 37,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 36,
+            "word": "是"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "也"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "曰"
+          },
+          {
+            "end": 44,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 43,
+            "word": "是"
+          },
+          {
+            "end": 45,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 44,
+            "word": "知"
+          },
+          {
+            "end": 46,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 45,
+            "word": "津"
+          },
+          {
+            "end": 47,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 46,
+            "word": "矣"
+          }
+        ]
       },
       {
         "canonical_translations": [
@@ -171,9 +2016,548 @@
         "character_count": 61,
         "id": "chapter-018-line-010",
         "order": 10,
+        "pinyin_per_char": [
+          "wèn",
+          "yú",
+          "jié",
+          "nì",
+          "",
+          "jié",
+          "nì",
+          "yuē",
+          "",
+          "",
+          "zi",
+          "wèi",
+          "shuí",
+          "",
+          "",
+          "yuē",
+          "",
+          "",
+          "wèi",
+          "zhòng",
+          "yóu",
+          "",
+          "",
+          "yuē",
+          "",
+          "",
+          "shì",
+          "lú",
+          "kǒng",
+          "qiū",
+          "zhī",
+          "tú",
+          "yǔ",
+          "",
+          "",
+          "duì",
+          "yuē",
+          "",
+          "",
+          "rán",
+          "",
+          "",
+          "yuē",
+          "",
+          "",
+          "tāo",
+          "tāo",
+          "zhě",
+          "tiān",
+          "xià",
+          "jiē",
+          "shì",
+          "yě",
+          "",
+          "ér",
+          "shuí",
+          "yǐ",
+          "yì",
+          "zhī",
+          "",
+          "qiě",
+          "ér",
+          "yǔ",
+          "qí",
+          "cóng",
+          "pì",
+          "rén",
+          "zhī",
+          "shì",
+          "yě",
+          "",
+          "qǐ",
+          "ruò",
+          "cóng",
+          "pì",
+          "shì",
+          "zhī",
+          "shì",
+          "zāi",
+          "",
+          "",
+          "yōu",
+          "ér",
+          "bú",
+          "chuò",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 10,
-        "text": "問於桀溺，桀溺曰：「子為誰？」曰：「為仲由。」曰：「是魯孔丘之徒與？」對曰：「然。」曰：「滔滔者天下皆是也，而誰以易之？且而與其從辟人之士也，豈若從辟世之士哉？」耰而不輟。"
+        "text": "问于桀溺，桀溺曰：「子为谁？」曰：「为仲由。」曰：「是鲁孔丘之徒与？」对曰：「然。」曰：「滔滔者天下皆是也，而谁以易之？且而与其从辟人之士也，岂若从辟世之士哉？」耰而不辍。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "问"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "于"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "桀"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "溺"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "桀"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "溺"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "曰"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "子"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "为"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "谁"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "曰"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "为"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "仲"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "由"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "曰"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "是"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "鲁"
+          },
+          {
+            "end": 30,
+            "gloss": "Confucius",
+            "pinyin": "Kǒng Qiū",
+            "source": "CC-CEDICT",
+            "start": 28,
+            "word": "孔丘"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "之"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "徒"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "与"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "对"
+          },
+          {
+            "end": 37,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 36,
+            "word": "曰"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "然"
+          },
+          {
+            "end": 43,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 42,
+            "word": "曰"
+          },
+          {
+            "end": 47,
+            "gloss": "torrential",
+            "pinyin": "tāo tāo",
+            "source": "CC-CEDICT",
+            "start": 45,
+            "word": "滔滔"
+          },
+          {
+            "end": 48,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 47,
+            "word": "者"
+          },
+          {
+            "end": 50,
+            "gloss": "land under heaven / the whole world / the whole of China / realm / rule",
+            "pinyin": "tiān xià",
+            "source": "CC-CEDICT",
+            "start": 48,
+            "word": "天下"
+          },
+          {
+            "end": 51,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 50,
+            "word": "皆"
+          },
+          {
+            "end": 52,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 51,
+            "word": "是"
+          },
+          {
+            "end": 53,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 52,
+            "word": "也"
+          },
+          {
+            "end": 55,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 54,
+            "word": "而"
+          },
+          {
+            "end": 56,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 55,
+            "word": "谁"
+          },
+          {
+            "end": 57,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 56,
+            "word": "以"
+          },
+          {
+            "end": 58,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 57,
+            "word": "易"
+          },
+          {
+            "end": 59,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 58,
+            "word": "之"
+          },
+          {
+            "end": 61,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 60,
+            "word": "且"
+          },
+          {
+            "end": 62,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 61,
+            "word": "而"
+          },
+          {
+            "end": 64,
+            "gloss": "rather than... (used in expressions of the form 与其|与其[yu3 qi2] + {verb1} + 不如[bu4 ru2] + {verb2} \"r…",
+            "pinyin": "yǔ qí",
+            "source": "CC-CEDICT",
+            "start": 62,
+            "word": "与其"
+          },
+          {
+            "end": 65,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 64,
+            "word": "从"
+          },
+          {
+            "end": 66,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 65,
+            "word": "辟"
+          },
+          {
+            "end": 67,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 66,
+            "word": "人"
+          },
+          {
+            "end": 68,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 67,
+            "word": "之"
+          },
+          {
+            "end": 69,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 68,
+            "word": "士"
+          },
+          {
+            "end": 70,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 69,
+            "word": "也"
+          },
+          {
+            "end": 72,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 71,
+            "word": "岂"
+          },
+          {
+            "end": 73,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 72,
+            "word": "若"
+          },
+          {
+            "end": 74,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 73,
+            "word": "从"
+          },
+          {
+            "end": 75,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 74,
+            "word": "辟"
+          },
+          {
+            "end": 76,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 75,
+            "word": "世"
+          },
+          {
+            "end": 77,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 76,
+            "word": "之"
+          },
+          {
+            "end": 78,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 77,
+            "word": "士"
+          },
+          {
+            "end": 79,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 78,
+            "word": "哉"
+          },
+          {
+            "end": 82,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 81,
+            "word": "耰"
+          },
+          {
+            "end": 83,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 82,
+            "word": "而"
+          },
+          {
+            "end": 85,
+            "gloss": "incessant / relentless",
+            "pinyin": "bù chuò",
+            "source": "CC-CEDICT",
+            "start": 83,
+            "word": "不辍"
+          }
+        ]
       },
       {
         "canonical_translations": [
@@ -188,9 +2572,290 @@
         "character_count": 36,
         "id": "chapter-018-line-011",
         "order": 11,
+        "pinyin_per_char": [
+          "zi",
+          "lù",
+          "xíng",
+          "yǐ",
+          "gào",
+          "",
+          "fū",
+          "zí",
+          "wǔ",
+          "rán",
+          "yuē",
+          "",
+          "",
+          "niǎo",
+          "shòu",
+          "bù",
+          "ké",
+          "yǔ",
+          "tóng",
+          "qún",
+          "",
+          "wú",
+          "fēi",
+          "sī",
+          "rén",
+          "zhī",
+          "tú",
+          "yǔ",
+          "ér",
+          "shuí",
+          "yǔ",
+          "",
+          "tiān",
+          "xià",
+          "yǒu",
+          "dào",
+          "",
+          "qiū",
+          "bù",
+          "yǔ",
+          "yì",
+          "yě",
+          "",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 11,
-        "text": "子路行以告。夫子憮然曰：「鳥獸不可與同群，吾非斯人之徒與而誰與？天下有道，丘不與易也。」"
+        "text": "子路行以告。夫子怃然曰：「鸟兽不可与同群，吾非斯人之徒与而谁与？天下有道，丘不与易也。」",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "Zi Lu (542-480 BC), disciple of Confucius 孔夫子[Kong3 fu1 zi3], also known as Ji Lu 季路[Ji4 Lu4]",
+            "pinyin": "Zǐ Lù",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "子路"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "行"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "以"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "告"
+          },
+          {
+            "end": 8,
+            "gloss": "Master (old form of address for teachers, scholars) / (used sarcastically) pedant",
+            "pinyin": "fū zǐ",
+            "source": "CC-CEDICT",
+            "start": 6,
+            "word": "夫子"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "怃"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "然"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "曰"
+          },
+          {
+            "end": 15,
+            "gloss": "birds and beasts / fauna",
+            "pinyin": "niǎo shòu",
+            "source": "CC-CEDICT",
+            "start": 13,
+            "word": "鸟兽"
+          },
+          {
+            "end": 17,
+            "gloss": "cannot; should not; must not",
+            "pinyin": "bù kě",
+            "source": "CC-CEDICT",
+            "start": 15,
+            "word": "不可"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "与"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "同"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "群"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "吾"
+          },
+          {
+            "end": 24,
+            "gloss": "Fes (third largest city of Morocco)",
+            "pinyin": "Fēi sī",
+            "source": "CC-CEDICT",
+            "start": 22,
+            "word": "非斯"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "人"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "之"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "徒"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "与"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "而"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "谁"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "与"
+          },
+          {
+            "end": 34,
+            "gloss": "land under heaven / the whole world / the whole of China / realm / rule",
+            "pinyin": "tiān xià",
+            "source": "CC-CEDICT",
+            "start": 32,
+            "word": "天下"
+          },
+          {
+            "end": 36,
+            "gloss": "to have attained the Way / (of a government or a ruler) enlightened / wise and just",
+            "pinyin": "yǒu dào",
+            "source": "CC-CEDICT",
+            "start": 34,
+            "word": "有道"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "丘"
+          },
+          {
+            "end": 39,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 38,
+            "word": "不"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "与"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "易"
+          },
+          {
+            "end": 42,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 41,
+            "word": "也"
+          }
+        ]
       },
       {
         "canonical_translations": [
@@ -205,9 +2870,309 @@
         "character_count": 41,
         "id": "chapter-018-line-012",
         "order": 12,
+        "pinyin_per_char": [
+          "zi",
+          "lù",
+          "cóng",
+          "ér",
+          "hòu",
+          "",
+          "yù",
+          "zhàng",
+          "rén",
+          "",
+          "yǐ",
+          "zhàng",
+          "hé",
+          "",
+          "",
+          "zi",
+          "lù",
+          "wèn",
+          "yuē",
+          "",
+          "",
+          "zi",
+          "jiàn",
+          "fū",
+          "zǐ",
+          "hū",
+          "",
+          "",
+          "zhàng",
+          "rén",
+          "yuē",
+          "",
+          "",
+          "sì",
+          "tǐ",
+          "bù",
+          "qín",
+          "",
+          "wú",
+          "gǔ",
+          "bù",
+          "fēn",
+          "",
+          "shú",
+          "wèi",
+          "fū",
+          "zǐ",
+          "",
+          "",
+          "zhí",
+          "qí",
+          "zhàng",
+          "ér",
+          "yún",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 12,
-        "text": "子路從而後，遇丈人，以杖荷蓧。子路問曰：「子見夫子乎？」丈人曰：「四體不勤，五穀不分。孰為夫子？」植其杖而芸。"
+        "text": "子路从而后，遇丈人，以杖荷𦰏。子路问曰：「子见夫子乎？」丈人曰：「四体不勤，五谷不分。孰为夫子？」植其杖而芸。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "Zi Lu (542-480 BC), disciple of Confucius 孔夫子[Kong3 fu1 zi3], also known as Ji Lu 季路[Ji4 Lu4]",
+            "pinyin": "Zǐ Lù",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "子路"
+          },
+          {
+            "end": 4,
+            "gloss": "thus; thereby",
+            "pinyin": "cóng ér",
+            "source": "CC-CEDICT",
+            "start": 2,
+            "word": "从而"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "后"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "遇"
+          },
+          {
+            "end": 9,
+            "gloss": "wife's father (father-in-law) / old man",
+            "pinyin": "zhàng rén",
+            "source": "CC-CEDICT",
+            "start": 7,
+            "word": "丈人"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "以"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "杖"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "荷"
+          },
+          {
+            "end": 17,
+            "gloss": "Zi Lu (542-480 BC), disciple of Confucius 孔夫子[Kong3 fu1 zi3], also known as Ji Lu 季路[Ji4 Lu4]",
+            "pinyin": "Zǐ Lù",
+            "source": "CC-CEDICT",
+            "start": 15,
+            "word": "子路"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "问"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "曰"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "子"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "见"
+          },
+          {
+            "end": 25,
+            "gloss": "Master (old form of address for teachers, scholars) / (used sarcastically) pedant",
+            "pinyin": "fū zǐ",
+            "source": "CC-CEDICT",
+            "start": 23,
+            "word": "夫子"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "乎"
+          },
+          {
+            "end": 30,
+            "gloss": "wife's father (father-in-law) / old man",
+            "pinyin": "zhàng rén",
+            "source": "CC-CEDICT",
+            "start": 28,
+            "word": "丈人"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "曰"
+          },
+          {
+            "end": 35,
+            "gloss": "one's four limbs / two arms and two legs",
+            "pinyin": "sì tǐ",
+            "source": "CC-CEDICT",
+            "start": 33,
+            "word": "四体"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "不"
+          },
+          {
+            "end": 37,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 36,
+            "word": "勤"
+          },
+          {
+            "end": 40,
+            "gloss": "five crops, e.g. millet 粟[su4], soybean 豆[dou4], sesame 麻[ma2], barley 麦|麦[mai4], rice 稻[dao4] or o…",
+            "pinyin": "wǔ gǔ",
+            "source": "CC-CEDICT",
+            "start": 38,
+            "word": "五谷"
+          },
+          {
+            "end": 42,
+            "gloss": "not to distinguish; to make no distinction / (LGBT slang) versatile (open to either penetrative or …",
+            "pinyin": "bù fēn",
+            "source": "CC-CEDICT",
+            "start": 40,
+            "word": "不分"
+          },
+          {
+            "end": 44,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 43,
+            "word": "孰"
+          },
+          {
+            "end": 46,
+            "gloss": "(archaic) term used by a husband to refer to himself when speaking to his wife",
+            "pinyin": "wéi fū",
+            "source": "CC-CEDICT",
+            "start": 44,
+            "word": "为夫"
+          },
+          {
+            "end": 47,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 46,
+            "word": "子"
+          },
+          {
+            "end": 50,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 49,
+            "word": "植"
+          },
+          {
+            "end": 51,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 50,
+            "word": "其"
+          },
+          {
+            "end": 52,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 51,
+            "word": "杖"
+          },
+          {
+            "end": 53,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 52,
+            "word": "而"
+          },
+          {
+            "end": 54,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 53,
+            "word": "芸"
+          }
+        ]
       },
       {
         "canonical_translations": [
@@ -222,9 +3187,52 @@
         "character_count": 5,
         "id": "chapter-018-line-013",
         "order": 13,
+        "pinyin_per_char": [
+          "zi",
+          "lù",
+          "gǒng",
+          "ér",
+          "lì",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 13,
-        "text": "子路拱而立。"
+        "text": "子路拱而立。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "Zi Lu (542-480 BC), disciple of Confucius 孔夫子[Kong3 fu1 zi3], also known as Ji Lu 季路[Ji4 Lu4]",
+            "pinyin": "Zǐ Lù",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "子路"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "拱"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "而"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "立"
+          }
+        ]
       },
       {
         "canonical_translations": [
@@ -239,9 +3247,145 @@
         "character_count": 16,
         "id": "chapter-018-line-014",
         "order": 14,
+        "pinyin_per_char": [
+          "zhǐ",
+          "zi",
+          "lù",
+          "sù",
+          "",
+          "shā",
+          "jī",
+          "wéi",
+          "shǔ",
+          "ér",
+          "shí",
+          "zhī",
+          "",
+          "jiàn",
+          "qí",
+          "èr",
+          "zi",
+          "yān",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 14,
-        "text": "止子路宿，殺雞為黍而食之，見其二子焉。"
+        "text": "止子路宿，杀鸡为黍而食之，见其二子焉。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "止"
+          },
+          {
+            "end": 3,
+            "gloss": "Zi Lu (542-480 BC), disciple of Confucius 孔夫子[Kong3 fu1 zi3], also known as Ji Lu 季路[Ji4 Lu4]",
+            "pinyin": "Zǐ Lù",
+            "source": "CC-CEDICT",
+            "start": 1,
+            "word": "子路"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "宿"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "杀"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "鸡"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "为"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "黍"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "而"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "食"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "之"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "见"
+          },
+          {
+            "end": 16,
+            "gloss": "secondly / the other (usu. of two) / the second",
+            "pinyin": "qí èr",
+            "source": "CC-CEDICT",
+            "start": 14,
+            "word": "其二"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "子"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "焉"
+          }
+        ]
       },
       {
         "canonical_translations": [
@@ -256,9 +3400,188 @@
         "character_count": 22,
         "id": "chapter-018-line-015",
         "order": 15,
+        "pinyin_per_char": [
+          "míng",
+          "rì",
+          "",
+          "zi",
+          "lù",
+          "xíng",
+          "yǐ",
+          "gào",
+          "",
+          "zǐ",
+          "yuē",
+          "",
+          "",
+          "yín",
+          "zhé",
+          "yě",
+          "",
+          "",
+          "shǐ",
+          "zi",
+          "lù",
+          "fǎn",
+          "jiàn",
+          "zhī",
+          "",
+          "zhì",
+          "zé",
+          "xíng",
+          "yǐ",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 15,
-        "text": "明日，子路行以告。子曰：「隱者也。」使子路反見之。至則行矣。"
+        "text": "明日，子路行以告。子曰：「隐者也。」使子路反见之。至则行矣。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "tomorrow",
+            "pinyin": "míng rì",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "明日"
+          },
+          {
+            "end": 5,
+            "gloss": "Zi Lu (542-480 BC), disciple of Confucius 孔夫子[Kong3 fu1 zi3], also known as Ji Lu 季路[Ji4 Lu4]",
+            "pinyin": "Zǐ Lù",
+            "source": "CC-CEDICT",
+            "start": 3,
+            "word": "子路"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "行"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "以"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "告"
+          },
+          {
+            "end": 11,
+            "gloss": "The Master said (Confucius said)",
+            "pinyin": "zǐ yuē",
+            "source": "classical-override",
+            "start": 9,
+            "word": "子曰"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "隐"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "者"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "也"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "使"
+          },
+          {
+            "end": 21,
+            "gloss": "Zi Lu (542-480 BC), disciple of Confucius 孔夫子[Kong3 fu1 zi3], also known as Ji Lu 季路[Ji4 Lu4]",
+            "pinyin": "Zǐ Lù",
+            "source": "CC-CEDICT",
+            "start": 19,
+            "word": "子路"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "反"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "见"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "之"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "至"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "则"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "行"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "矣"
+          }
+        ]
       },
       {
         "canonical_translations": [
@@ -273,9 +3596,406 @@
         "character_count": 50,
         "id": "chapter-018-line-016",
         "order": 16,
+        "pinyin_per_char": [
+          "zi",
+          "lù",
+          "yuē",
+          "",
+          "",
+          "bú",
+          "shì",
+          "wú",
+          "yì",
+          "",
+          "zhǎng",
+          "yòu",
+          "zhī",
+          "jié",
+          "",
+          "bù",
+          "kě",
+          "fèi",
+          "yě",
+          "",
+          "jūn",
+          "chén",
+          "zhī",
+          "yì",
+          "",
+          "rú",
+          "zhī",
+          "hé",
+          "qí",
+          "fèi",
+          "zhī",
+          "",
+          "yù",
+          "jié",
+          "qí",
+          "shēn",
+          "",
+          "ér",
+          "luàn",
+          "dà",
+          "lún",
+          "",
+          "jūn",
+          "zǐ",
+          "zhī",
+          "shì",
+          "yě",
+          "",
+          "xíng",
+          "qí",
+          "yì",
+          "yě",
+          "",
+          "dào",
+          "zhī",
+          "bù",
+          "xíng",
+          "",
+          "yǐ",
+          "zhī",
+          "zhī",
+          "yǐ",
+          "",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 16,
-        "text": "子路曰：「不仕無義。長幼之節，不可廢也；君臣之義，如之何其廢之？欲潔其身，而亂大倫。君子之仕也，行其義也。道之不行，已知之矣。」"
+        "text": "子路曰：「不仕无义。长幼之节，不可废也；君臣之义，如之何其废之？欲洁其身，而乱大伦。君子之仕也，行其义也。道之不行，已知之矣。」",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "Zi Lu (542-480 BC), disciple of Confucius 孔夫子[Kong3 fu1 zi3], also known as Ji Lu 季路[Ji4 Lu4]",
+            "pinyin": "Zǐ Lù",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "子路"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "曰"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "不"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "仕"
+          },
+          {
+            "end": 9,
+            "gloss": "without meaning / nonsense / immoral / faithless",
+            "pinyin": "wú yì",
+            "source": "CC-CEDICT",
+            "start": 7,
+            "word": "无义"
+          },
+          {
+            "end": 12,
+            "gloss": "older and younger / seniority",
+            "pinyin": "zhǎng yòu",
+            "source": "CC-CEDICT",
+            "start": 10,
+            "word": "长幼"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "之"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "节"
+          },
+          {
+            "end": 17,
+            "gloss": "cannot; should not; must not",
+            "pinyin": "bù kě",
+            "source": "CC-CEDICT",
+            "start": 15,
+            "word": "不可"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "废"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "也"
+          },
+          {
+            "end": 22,
+            "gloss": "a ruler and his ministers (old)",
+            "pinyin": "jūn chén",
+            "source": "CC-CEDICT",
+            "start": 20,
+            "word": "君臣"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "之"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "义"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "如"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "之"
+          },
+          {
+            "end": 29,
+            "gloss": "(literary) (similar to 多么|多么[duo1 me5], used before an adjective in exclamations) how (fortunate et…",
+            "pinyin": "hé qí",
+            "source": "CC-CEDICT",
+            "start": 27,
+            "word": "何其"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "废"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "之"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "欲"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "洁"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "其"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "身"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "而"
+          },
+          {
+            "end": 39,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 38,
+            "word": "乱"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "大"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "伦"
+          },
+          {
+            "end": 44,
+            "gloss": "the superior man; the exemplary person (junzi)",
+            "pinyin": "jūn zǐ",
+            "source": "classical-override",
+            "start": 42,
+            "word": "君子"
+          },
+          {
+            "end": 45,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 44,
+            "word": "之"
+          },
+          {
+            "end": 46,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 45,
+            "word": "仕"
+          },
+          {
+            "end": 47,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 46,
+            "word": "也"
+          },
+          {
+            "end": 49,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 48,
+            "word": "行"
+          },
+          {
+            "end": 50,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 49,
+            "word": "其"
+          },
+          {
+            "end": 51,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 50,
+            "word": "义"
+          },
+          {
+            "end": 52,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 51,
+            "word": "也"
+          },
+          {
+            "end": 54,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 53,
+            "word": "道"
+          },
+          {
+            "end": 55,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 54,
+            "word": "之"
+          },
+          {
+            "end": 57,
+            "gloss": "won't do / be out of the question / be no good / not work / not be capable",
+            "pinyin": "bù xíng",
+            "source": "CC-CEDICT",
+            "start": 55,
+            "word": "不行"
+          },
+          {
+            "end": 60,
+            "gloss": "known (to science)",
+            "pinyin": "yǐ zhī",
+            "source": "CC-CEDICT",
+            "start": 58,
+            "word": "已知"
+          },
+          {
+            "end": 61,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 60,
+            "word": "之"
+          },
+          {
+            "end": 62,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 61,
+            "word": "矣"
+          }
+        ]
       },
       {
         "canonical_translations": [
@@ -290,9 +4010,167 @@
         "character_count": 17,
         "id": "chapter-018-line-017",
         "order": 17,
+        "pinyin_per_char": [
+          "yì",
+          "mín",
+          "",
+          "bó",
+          "yí",
+          "",
+          "shū",
+          "qí",
+          "",
+          "yú",
+          "zhòng",
+          "",
+          "yí",
+          "yì",
+          "",
+          "zhū",
+          "zhāng",
+          "",
+          "liǔ",
+          "xià",
+          "huì",
+          "",
+          "shǎo",
+          "lián",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 17,
-        "text": "逸民：伯夷、叔齊、虞仲、夷逸、朱張、柳下惠、少連。"
+        "text": "逸民：伯夷、叔齐、虞仲、夷逸、朱张、柳下惠、少连。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "recluse / hermit",
+            "pinyin": "yì mín",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "逸民"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "伯"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "夷"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "叔"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "齐"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "虞"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "仲"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "夷"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "逸"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "朱"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "张"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "柳"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "下"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "惠"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "少"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "连"
+          }
+        ]
       },
       {
         "canonical_translations": [
@@ -307,9 +4185,148 @@
         "character_count": 15,
         "id": "chapter-018-line-018",
         "order": 18,
+        "pinyin_per_char": [
+          "zǐ",
+          "yuē",
+          "",
+          "",
+          "bú",
+          "jiàng",
+          "qí",
+          "zhì",
+          "",
+          "bù",
+          "rǔ",
+          "qí",
+          "shēn",
+          "",
+          "bó",
+          "yí",
+          "",
+          "shū",
+          "qí",
+          "yǔ",
+          "",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 18,
-        "text": "子曰：「不降其志，不辱其身，伯夷、叔齊與！」"
+        "text": "子曰：「不降其志，不辱其身，伯夷、叔齐与！」",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "The Master said (Confucius said)",
+            "pinyin": "zǐ yuē",
+            "source": "classical-override",
+            "start": 0,
+            "word": "子曰"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "不"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "降"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "其"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "志"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "不"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "辱"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "其"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "身"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "伯"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "夷"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "叔"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "齐"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "与"
+          }
+        ]
       },
       {
         "canonical_translations": [
@@ -324,9 +4341,205 @@
         "character_count": 22,
         "id": "chapter-018-line-019",
         "order": 19,
+        "pinyin_per_char": [
+          "wèi",
+          "",
+          "",
+          "liǔ",
+          "xià",
+          "huì",
+          "",
+          "shǎo",
+          "lián",
+          "",
+          "jiàng",
+          "zhì",
+          "rǔ",
+          "shēn",
+          "yǐ",
+          "",
+          "yán",
+          "zhōng",
+          "lún",
+          "",
+          "xíng",
+          "zhōng",
+          "lǜ",
+          "",
+          "qí",
+          "sī",
+          "ér",
+          "yí",
+          "yǐ",
+          "",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 19,
-        "text": "謂：「柳下惠、少連，降志辱身矣。言中倫，行中慮，其斯而已矣。」"
+        "text": "谓：「柳下惠、少连，降志辱身矣。言中伦，行中虑，其斯而已矣。」",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "谓"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "柳"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "下"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "惠"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "少"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "连"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "降"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "志"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "辱"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "身"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "矣"
+          },
+          {
+            "end": 18,
+            "gloss": "to have one's words prove to be prophetic",
+            "pinyin": "yán zhòng",
+            "source": "CC-CEDICT",
+            "start": 16,
+            "word": "言中"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "伦"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "行"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "中"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "虑"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "其"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "斯"
+          },
+          {
+            "end": 28,
+            "gloss": "that's all / nothing more",
+            "pinyin": "ér yǐ",
+            "source": "CC-CEDICT",
+            "start": 26,
+            "word": "而已"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "矣"
+          }
+        ]
       },
       {
         "canonical_translations": [
@@ -341,9 +4554,148 @@
         "character_count": 15,
         "id": "chapter-018-line-020",
         "order": 20,
+        "pinyin_per_char": [
+          "wèi",
+          "",
+          "",
+          "yú",
+          "zhòng",
+          "",
+          "yí",
+          "yì",
+          "",
+          "yǐn",
+          "jū",
+          "fàng",
+          "yán",
+          "",
+          "shēn",
+          "zhōng",
+          "qīng",
+          "",
+          "fèi",
+          "zhōng",
+          "quán",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 20,
-        "text": "謂：「虞仲、夷逸，隱居放言。身中清，廢中權。"
+        "text": "谓：「虞仲、夷逸，隐居放言。身中清，废中权。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "谓"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "虞"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "仲"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "夷"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "逸"
+          },
+          {
+            "end": 11,
+            "gloss": "to live in seclusion",
+            "pinyin": "yǐn jū",
+            "source": "CC-CEDICT",
+            "start": 9,
+            "word": "隐居"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "放"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "言"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "身"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "中"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "清"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "废"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "中"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "权"
+          }
+        ]
       },
       {
         "canonical_translations": [
@@ -358,9 +4710,67 @@
         "character_count": 10,
         "id": "chapter-018-line-021",
         "order": 21,
+        "pinyin_per_char": [
+          "wǒ",
+          "zé",
+          "yì",
+          "yú",
+          "shì",
+          "",
+          "wú",
+          "kě",
+          "wú",
+          "bù",
+          "kě",
+          "",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 21,
-        "text": "我則異於是，無可無不可。」"
+        "text": "我则异于是，无可无不可。」",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "我"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "则"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "异"
+          },
+          {
+            "end": 5,
+            "gloss": "thereupon; as a result; consequently; thus; hence",
+            "pinyin": "yú shì",
+            "source": "CC-CEDICT",
+            "start": 3,
+            "word": "于是"
+          },
+          {
+            "end": 11,
+            "gloss": "neither for nor against sth / indifferent",
+            "pinyin": "wú kě wú bù kě",
+            "source": "CC-CEDICT",
+            "start": 6,
+            "word": "无可无不可"
+          }
+        ]
       },
       {
         "canonical_translations": [
@@ -375,9 +4785,52 @@
         "character_count": 5,
         "id": "chapter-018-line-022",
         "order": 22,
+        "pinyin_per_char": [
+          "dà",
+          "shī",
+          "zhì",
+          "shì",
+          "qí",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 22,
-        "text": "大師摯適齊，"
+        "text": "大师挚适齐，",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "great master / master",
+            "pinyin": "dà shī",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "大师"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "挚"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "适"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "齐"
+          }
+        ]
       },
       {
         "canonical_translations": [
@@ -392,9 +4845,152 @@
         "character_count": 15,
         "id": "chapter-018-line-023",
         "order": 23,
+        "pinyin_per_char": [
+          "yà",
+          "fàn",
+          "gàn",
+          "shì",
+          "chǔ",
+          "",
+          "sān",
+          "fàn",
+          "liáo",
+          "shì",
+          "cài",
+          "",
+          "sì",
+          "fàn",
+          "quē",
+          "shì",
+          "qín",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 23,
-        "text": "亞飯干適楚，三飯繚適蔡，四飯缺適秦。"
+        "text": "亚饭干适楚，三饭缭适蔡，四饭缺适秦。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "亚"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "饭"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "干"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "适"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "楚"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "三"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "饭"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "缭"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "适"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "蔡"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "四"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "饭"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "缺"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "适"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "秦"
+          }
+        ]
       },
       {
         "canonical_translations": [
@@ -409,9 +5005,69 @@
         "character_count": 6,
         "id": "chapter-018-line-024",
         "order": 24,
+        "pinyin_per_char": [
+          "gǔ",
+          "fāng",
+          "shū",
+          "rù",
+          "yú",
+          "hé",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 24,
-        "text": "鼓方叔入於河，"
+        "text": "鼓方叔入于河，",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "鼓"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "方"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "叔"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "入"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "于"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "河"
+          }
+        ]
       },
       {
         "canonical_translations": [
@@ -426,9 +5082,69 @@
         "character_count": 6,
         "id": "chapter-018-line-025",
         "order": 25,
+        "pinyin_per_char": [
+          "bō",
+          "qián",
+          "wǔ",
+          "rù",
+          "yú",
+          "hàn",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 25,
-        "text": "播浅武入於漢，"
+        "text": "播浅武入于汉，",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "播"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "浅"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "武"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "入"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "于"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "汉"
+          }
+        ]
       },
       {
         "canonical_translations": [
@@ -443,9 +5159,97 @@
         "character_count": 9,
         "id": "chapter-018-line-026",
         "order": 26,
+        "pinyin_per_char": [
+          "shǎo",
+          "shī",
+          "yáng",
+          "",
+          "jī",
+          "qìng",
+          "xiāng",
+          "rù",
+          "yú",
+          "hǎi",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 26,
-        "text": "少師陽、擊磬襄入於海。"
+        "text": "少师阳、击磬襄入于海。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "少"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "师"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "阳"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "击"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "磬"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "襄"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "入"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "于"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "海"
+          }
+        ]
       },
       {
         "canonical_translations": [
@@ -460,9 +5264,305 @@
         "character_count": 35,
         "id": "chapter-018-line-027",
         "order": 27,
+        "pinyin_per_char": [
+          "zhōu",
+          "gōng",
+          "wèi",
+          "lǔ",
+          "gōng",
+          "yuē",
+          "",
+          "",
+          "jūn",
+          "zǐ",
+          "bù",
+          "shī",
+          "qí",
+          "qīn",
+          "",
+          "bù",
+          "shǐ",
+          "dà",
+          "chén",
+          "yuàn",
+          "hū",
+          "bù",
+          "yǐ",
+          "",
+          "gù",
+          "jiù",
+          "wú",
+          "dà",
+          "gù",
+          "",
+          "zé",
+          "bú",
+          "qì",
+          "yě",
+          "",
+          "wú",
+          "qiú",
+          "bèi",
+          "yú",
+          "yī",
+          "rén",
+          "",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 27,
-        "text": "周公謂魯公曰：「君子不施其親，不使大臣怨乎不以。故舊無大故，則不棄也。無求備於一人。」"
+        "text": "周公谓鲁公曰：「君子不施其亲，不使大臣怨乎不以。故旧无大故，则不弃也。无求备于一人。」",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "Duke of Zhou (11th c. BC), son of King Wen of Zhou 周文王[Zhou1 Wen2 wang2], played an important role …",
+            "pinyin": "Zhōu gōng",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "周公"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "谓"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "鲁"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "公"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "曰"
+          },
+          {
+            "end": 10,
+            "gloss": "the superior man; the exemplary person (junzi)",
+            "pinyin": "jūn zǐ",
+            "source": "classical-override",
+            "start": 8,
+            "word": "君子"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "不"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "施"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "其"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "亲"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "不"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "使"
+          },
+          {
+            "end": 19,
+            "gloss": "chancellor (of a monarchy) / cabinet minister",
+            "pinyin": "dà chén",
+            "source": "CC-CEDICT",
+            "start": 17,
+            "word": "大臣"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "怨"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "乎"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "不"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "以"
+          },
+          {
+            "end": 26,
+            "gloss": "old friends",
+            "pinyin": "gù jiù",
+            "source": "CC-CEDICT",
+            "start": 24,
+            "word": "故旧"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "无"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "大"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "故"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "则"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "不"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "弃"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "也"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "无"
+          },
+          {
+            "end": 37,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 36,
+            "word": "求"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "备"
+          },
+          {
+            "end": 39,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 38,
+            "word": "于"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "一"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "人"
+          }
+        ]
       },
       {
         "canonical_translations": [
@@ -477,13 +5577,199 @@
         "character_count": 20,
         "id": "chapter-018-line-028",
         "order": 28,
+        "pinyin_per_char": [
+          "zhōu",
+          "yǒu",
+          "bā",
+          "shì",
+          "",
+          "bó",
+          "dá",
+          "",
+          "bó",
+          "shì",
+          "",
+          "zhòng",
+          "tū",
+          "",
+          "zhòng",
+          "hū",
+          "",
+          "shū",
+          "yè",
+          "",
+          "shū",
+          "xià",
+          "",
+          "jì",
+          "suí",
+          "",
+          "jì",
+          "",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 28,
-        "text": "周有八士：伯達、伯適、仲突、仲忽、叔夜、叔夏、季隨、季騧。"
+        "text": "周有八士：伯达、伯适、仲突、仲忽、叔夜、叔夏、季随、季䯄。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "周"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "有"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "八"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "士"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "伯"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "达"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "伯"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "适"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "仲"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "突"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "仲"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "忽"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "叔"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "夜"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "叔"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "夏"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "季"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "随"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "季"
+          }
+        ]
       }
     ],
     "summary": "",
-    "supplemental_text": "此篇多記聖賢之出處，凡十一章。\n微、箕，二國名。子，爵也。微子，紂庶兄。箕子、比干，紂諸父。微子見紂無道，去之以存宗祀。箕子、比干皆諫，紂殺比干，囚箕子以為奴，箕子因佯狂而受辱。三人之行不同，而同出於至誠惻怛之意，故不咈乎愛之理，而有以全其心之德也。楊氏曰：「此三人者，各得其本心，故同謂之仁。」\n三，去聲。焉，於虔反。士師，獄官。黜，退也。柳下惠三黜不去，而其辭氣雍容如此，可謂和矣。然其不能枉道之意，則有確乎其不可拔者。是則所謂必以其道，而不自失焉者也。○胡氏曰：「此必有孔子斷之之言而亡之矣。」\n魯三卿，季氏最貴，孟氏為下卿。孔子去之，事見世家。然此言必非面語孔子，蓋自以告其臣，而孔子聞之爾。程子曰：「季氏強臣，君待之之禮極隆，然非所以待孔子也。以季、孟之閒待之，則禮亦至矣。然復曰『吾老矣不能用也』，故孔子去之。蓋不繫待之輕重，特以不用而去爾。」\n歸，如字，或作饋。朝，音潮。季桓子，魯大夫，名斯。按史記，「定公十四年，孔子為魯司寇，攝行相事。齊人懼，歸女樂以沮之」。尹氏曰：「受女樂而怠於政事如此，其簡賢棄禮，不足與有為可知矣。夫子所以行也，所謂見幾而作，不俟終日者與？」范氏曰：「此篇記仁賢之出處，而折中以聖人之行，所以明中庸之道也。」\n接輿，楚人，佯狂辟世。夫子時將適楚，故接輿歌而過其車前也。鳳有道則見，無道則隱，接輿以比孔子，而譏其不能隱為德衰也。來者可追，言及今尚可隱去。已，止也。而，語助辭。殆，危也。接輿蓋知尊孔子而趨不同者也。辟，去聲。孔子下車，蓋欲告之以出處之意。接輿自以為是，故不欲聞而避之也。\n沮，七餘反。溺，乃歷反。二人，隱者。耦，並耕也。時孔子自楚反乎蔡。津，濟渡處。夫，音扶。與，平聲。執輿，執轡在車也。蓋本子路御而執轡，今下問津，故夫子代之也。知津，言數周流，自知津處。徒與之與，平聲。滔，吐刀反。辟，去聲。耰，音憂。滔滔，流而不反之意。以，猶與也。言天下皆亂，將誰與變易之？而，汝也。辟人，謂孔子。辟世，桀溺自謂。耰，覆種也。亦不告以津處。憮，音武。與，如字。憮然，猶悵然，惜其不喻己意也。言所當與同群者，斯人而已，豈可絕人逃世以為潔哉？天下若已平治，則我無用變易之。正為天下無道，故欲以道易之耳。程子曰：「聖人不敢有忘天下之心，故其言如此也。」張子曰：「聖人之仁，不以無道必天下而棄之也。」\n蓧，徒弔反。植，音值。丈人，亦隱者。蓧，竹器。分，辨也。五穀不分，猶言不辨菽麥爾，責其不事農業而從師遠遊也。植，立之也。芸，去草也。知其隱者，敬之也。食，音嗣。見，賢遍反。孔子使子路反見之，蓋欲告之以君臣之義。而丈人意子路必將復來，故先去之以滅其跡，亦接輿之意也。長，上聲。子路述夫子之意如此。蓋丈人之接子路甚倨，而子路益恭，丈人因見其二子焉。則於長幼之節，固知其不可廢矣，故因其所明以曉之。倫，序也。人之大倫有五：父子有親，君臣有義，夫婦有別，長幼有序，朋友有信是也。仕所以行君臣之義，故雖知道之不行而不可廢。然謂之義，則事之可否，身之去就，亦自有不可苟者。是以雖不潔身以亂倫，亦非忘義以殉祿也。福州有國初時寫本，路下有「反子」二字，以此為子路反而夫子言之也。未知是否？○范氏曰：「隱者為高，故往而不反。仕者為通，故溺而不止。不與鳥獸同群，則決性命之情以饕富貴。此二者皆惑也，是以依乎中庸者為難。惟聖人不廢君臣之義，而必以其正，所以或出或處而終不離於道也。」\n少，去聲，下同。逸，遺逸。民者，無位之稱。虞仲，即仲雍，與大伯同竄荊蠻者。夷逸、朱張，不見經傳。少連，東夷人。與，平聲。\n中，去聲，下同。柳下惠事見上。倫，義理之次第也。慮，思慮也。中慮，言有意義合人心。少連事不可考。然記稱其「善居喪，三日不怠，三月不解。期悲哀，三年憂」。則行之中慮，亦可見矣。仲雍居吳，斷髮文身，裸以為飾。隱居獨善，合乎道之清。放言自廢，合乎道之權。孟子曰：「孔子可以仕則仕，可以止則止，可以久則久，可以速則速。」所謂無可無不可也。謝氏曰「七人隱遯不汙則同，其立心造行則異。伯夷、叔齊，天子不得臣，諸侯不得友，蓋已遯世離群矣，下聖人一等，此其最高與！柳下惠、少連，雖降志而不枉己，雖辱身而不求合，其心有不屑也。故言能中倫，行能中慮。虞仲、夷逸隱居放言，則言不合先王之法者多矣。然清而不汙也，權而適宜也，與方外之士害義傷教而亂大倫者殊科。是以均謂之逸民。」尹氏曰：「七人各守其一節，而孔子則無可無不可，此所以常適其可，而異於逸民之徒也。」揚雄曰：「觀乎聖人則見賢人。是以孟子語夷，惠，亦必以孔子斷之。」\n大，音泰。大師，魯樂官之長。摯，其名也。飯，扶晚反。繚，音了。亞飯以下，以樂侑食之官。干、繚、缺，皆名也。鼓，擊鼓者。方叔，名。河，河內。浅，徒刀反。播，搖也。浅，小鼓。兩旁有耳，持其柄而搖之，則旁耳還自擊。武，名也。漢，漢中。少，去聲。少師，樂官之佐。陽、襄，二人名。襄即孔子所從學琴者。海，海島也。此記賢人之隱遯以附前章，然未必夫子之言也。末章放此。張子曰：「周衰樂廢，夫子自衛反魯，一嘗治之。其後伶人賤工識樂之正。及魯益衰，三桓僭妄，自大師以下，皆知散之四方，逾河蹈海以去亂。聖人俄頃之助，功化如此。如有用我，期月而可。豈虛語哉？」\n施，陸氏本作弛，詩紙反。福本同。魯公，周公子伯禽也。弛，遺棄也。以，用也。大臣非其人則去之，在其位則不可不用。大故，謂惡逆。李氏曰：「四者皆君子之事，忠厚之至也。」胡氏曰：「此伯禽受封之國，周公訓戒之辭。魯人傳誦，久而不忘也。其或夫子嘗與門弟子言之歟？\n騧，烏瓜反。或曰「成王時人」，或曰「宣王時人」。蓋一母四乳而生八子也，然不可考矣。張子曰：「記善人之多也。」愚按：此篇孔子於三仁、逸民、師摯、八士，既皆稱贊而品列之；於接輿、沮、溺、丈人，又每有惓惓接引之意。皆衰世之志也，其所感者深矣。在陳之歎，蓋亦如此。三仁則無間然矣，其餘數君子者，亦皆一世之高士。若使得聞聖人之道，以裁其所過而勉其所不及，則其所立，豈止於此而已哉？",
+    "supplemental_text": "此篇多记圣贤之出处，凡十一章。\n微、箕，二国名。子，爵也。微子，纣庶兄。箕子、比干，纣诸父。微子见纣无道，去之以存宗祀。箕子、比干皆谏，纣杀比干，囚箕子以为奴，箕子因佯狂而受辱。三人之行不同，而同出于至诚恻怛之意，故不咈乎爱之理，而有以全其心之德也。杨氏曰：「此三人者，各得其本心，故同谓之仁。」\n三，去声。焉，于虔反。士师，狱官。黜，退也。柳下惠三黜不去，而其辞气雍容如此，可谓和矣。然其不能枉道之意，则有确乎其不可拔者。是则所谓必以其道，而不自失焉者也。○胡氏曰：「此必有孔子断之之言而亡之矣。」\n鲁三卿，季氏最贵，孟氏为下卿。孔子去之，事见世家。然此言必非面语孔子，盖自以告其臣，而孔子闻之尔。程子曰：「季氏强臣，君待之之礼极隆，然非所以待孔子也。以季、孟之闲待之，则礼亦至矣。然复曰『吾老矣不能用也』，故孔子去之。盖不系待之轻重，特以不用而去尔。」\n归，如字，或作馈。朝，音潮。季桓子，鲁大夫，名斯。按史记，「定公十四年，孔子为鲁司寇，摄行相事。齐人惧，归女乐以沮之」。尹氏曰：「受女乐而怠于政事如此，其简贤弃礼，不足与有为可知矣。夫子所以行也，所谓见几而作，不俟终日者与？」范氏曰：「此篇记仁贤之出处，而折中以圣人之行，所以明中庸之道也。」\n接舆，楚人，佯狂辟世。夫子时将适楚，故接舆歌而过其车前也。凤有道则见，无道则隐，接舆以比孔子，而讥其不能隐为德衰也。来者可追，言及今尚可隐去。已，止也。而，语助辞。殆，危也。接舆盖知尊孔子而趋不同者也。辟，去声。孔子下车，盖欲告之以出处之意。接舆自以为是，故不欲闻而避之也。\n沮，七余反。溺，乃历反。二人，隐者。耦，并耕也。时孔子自楚反乎蔡。津，济渡处。夫，音扶。与，平声。执舆，执辔在车也。盖本子路御而执辔，今下问津，故夫子代之也。知津，言数周流，自知津处。徒与之与，平声。滔，吐刀反。辟，去声。耰，音忧。滔滔，流而不反之意。以，犹与也。言天下皆乱，将谁与变易之？而，汝也。辟人，谓孔子。辟世，桀溺自谓。耰，覆种也。亦不告以津处。怃，音武。与，如字。怃然，犹怅然，惜其不喻己意也。言所当与同群者，斯人而已，岂可绝人逃世以为洁哉？天下若已平治，则我无用变易之。正为天下无道，故欲以道易之耳。程子曰：「圣人不敢有忘天下之心，故其言如此也。」张子曰：「圣人之仁，不以无道必天下而弃之也。」\n𦰏，徒吊反。植，音值。丈人，亦隐者。𦰏，竹器。分，辨也。五谷不分，犹言不辨菽麦尔，责其不事农业而从师远游也。植，立之也。芸，去草也。知其隐者，敬之也。食，音嗣。见，贤遍反。孔子使子路反见之，盖欲告之以君臣之义。而丈人意子路必将复来，故先去之以灭其迹，亦接舆之意也。长，上声。子路述夫子之意如此。盖丈人之接子路甚倨，而子路益恭，丈人因见其二子焉。则于长幼之节，固知其不可废矣，故因其所明以晓之。伦，序也。人之大伦有五：父子有亲，君臣有义，夫妇有别，长幼有序，朋友有信是也。仕所以行君臣之义，故虽知道之不行而不可废。然谓之义，则事之可否，身之去就，亦自有不可苟者。是以虽不洁身以乱伦，亦非忘义以殉禄也。福州有国初时写本，路下有「反子」二字，以此为子路反而夫子言之也。未知是否？○范氏曰：「隐者为高，故往而不反。仕者为通，故溺而不止。不与鸟兽同群，则决性命之情以饕富贵。此二者皆惑也，是以依乎中庸者为难。惟圣人不废君臣之义，而必以其正，所以或出或处而终不离于道也。」\n少，去声，下同。逸，遗逸。民者，无位之称。虞仲，即仲雍，与大伯同窜荆蛮者。夷逸、朱张，不见经传。少连，东夷人。与，平声。\n中，去声，下同。柳下惠事见上。伦，义理之次第也。虑，思虑也。中虑，言有意义合人心。少连事不可考。然记称其「善居丧，三日不怠，三月不解。期悲哀，三年忧」。则行之中虑，亦可见矣。仲雍居吴，断发文身，裸以为饰。隐居独善，合乎道之清。放言自废，合乎道之权。孟子曰：「孔子可以仕则仕，可以止则止，可以久则久，可以速则速。」所谓无可无不可也。谢氏曰「七人隐遯不污则同，其立心造行则异。伯夷、叔齐，天子不得臣，诸侯不得友，盖已遯世离群矣，下圣人一等，此其最高与！柳下惠、少连，虽降志而不枉己，虽辱身而不求合，其心有不屑也。故言能中伦，行能中虑。虞仲、夷逸隐居放言，则言不合先王之法者多矣。然清而不污也，权而适宜也，与方外之士害义伤教而乱大伦者殊科。是以均谓之逸民。」尹氏曰：「七人各守其一节，而孔子则无可无不可，此所以常适其可，而异于逸民之徒也。」扬雄曰：「观乎圣人则见贤人。是以孟子语夷，惠，亦必以孔子断之。」\n大，音泰。大师，鲁乐官之长。挚，其名也。饭，扶晚反。缭，音了。亚饭以下，以乐侑食之官。干、缭、缺，皆名也。鼓，击鼓者。方叔，名。河，河内。浅，徒刀反。播，摇也。浅，小鼓。两旁有耳，持其柄而摇之，则旁耳还自击。武，名也。汉，汉中。少，去声。少师，乐官之佐。阳、襄，二人名。襄即孔子所从学琴者。海，海岛也。此记贤人之隐遯以附前章，然未必夫子之言也。末章放此。张子曰：「周衰乐废，夫子自卫反鲁，一尝治之。其后伶人贱工识乐之正。及鲁益衰，三桓僭妄，自大师以下，皆知散之四方，逾河蹈海以去乱。圣人俄顷之助，功化如此。如有用我，期月而可。岂虚语哉？」\n施，陆氏本作弛，诗纸反。福本同。鲁公，周公子伯禽也。弛，遗弃也。以，用也。大臣非其人则去之，在其位则不可不用。大故，谓恶逆。李氏曰：「四者皆君子之事，忠厚之至也。」胡氏曰：「此伯禽受封之国，周公训戒之辞。鲁人传诵，久而不忘也。」其或夫子尝与门弟子言之欤？\n䯄，乌瓜反。或曰「成王时人」，或曰「宣王时人」。盖一母四乳而生八子也，然不可考矣。张子曰：「记善人之多也。」愚按：此篇孔子于三仁、逸民、师挚、八士，既皆称赞而品列之；于接舆、沮、溺、丈人，又每有惓惓接引之意。皆衰世之志也，其所感者深矣。在陈之叹，盖亦如此。三仁则无间然矣，其余数君子者，亦皆一世之高士。若使得闻圣人之道，以裁其所过而勉其所不及，则其所立，岂止于此而已哉？",
     "supplemental_unit_count": 30,
     "supplemental_units": [
       {
@@ -492,7 +5778,7 @@
         "order": 1,
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "此篇多記聖賢之出處，凡十一章。"
+        "text": "此篇多记圣贤之出处，凡十一章。"
       },
       {
         "character_count": 88,
@@ -500,7 +5786,7 @@
         "order": 2,
         "source_block_chunk": 1,
         "source_block_order": 2,
-        "text": "微、箕，二國名。子，爵也。微子，紂庶兄。箕子、比干，紂諸父。微子見紂無道，去之以存宗祀。箕子、比干皆諫，紂殺比干，囚箕子以為奴，箕子因佯狂而受辱。三人之行不同，而同出於至誠惻怛之意，故不咈乎愛之理，而有以全其心之德也。"
+        "text": "微、箕，二国名。子，爵也。微子，纣庶兄。箕子、比干，纣诸父。微子见纣无道，去之以存宗祀。箕子、比干皆谏，纣杀比干，囚箕子以为奴，箕子因佯狂而受辱。三人之行不同，而同出于至诚恻怛之意，故不咈乎爱之理，而有以全其心之德也。"
       },
       {
         "character_count": 17,
@@ -508,7 +5794,7 @@
         "order": 3,
         "source_block_chunk": 2,
         "source_block_order": 2,
-        "text": "楊氏曰：「此三人者，各得其本心，故同謂之仁。」"
+        "text": "杨氏曰：「此三人者，各得其本心，故同谓之仁。」"
       },
       {
         "character_count": 82,
@@ -516,7 +5802,7 @@
         "order": 4,
         "source_block_chunk": 1,
         "source_block_order": 3,
-        "text": "三，去聲。焉，於虔反。士師，獄官。黜，退也。柳下惠三黜不去，而其辭氣雍容如此，可謂和矣。然其不能枉道之意，則有確乎其不可拔者。是則所謂必以其道，而不自失焉者也。○胡氏曰：「此必有孔子斷之之言而亡之矣。」"
+        "text": "三，去声。焉，于虔反。士师，狱官。黜，退也。柳下惠三黜不去，而其辞气雍容如此，可谓和矣。然其不能枉道之意，则有确乎其不可拔者。是则所谓必以其道，而不自失焉者也。○胡氏曰：「此必有孔子断之之言而亡之矣。」"
       },
       {
         "character_count": 90,
@@ -524,7 +5810,7 @@
         "order": 5,
         "source_block_chunk": 1,
         "source_block_order": 4,
-        "text": "魯三卿，季氏最貴，孟氏為下卿。孔子去之，事見世家。然此言必非面語孔子，蓋自以告其臣，而孔子聞之爾。程子曰：「季氏強臣，君待之之禮極隆，然非所以待孔子也。以季、孟之閒待之，則禮亦至矣。然復曰『吾老矣不能用也』，故孔子去之。"
+        "text": "鲁三卿，季氏最贵，孟氏为下卿。孔子去之，事见世家。然此言必非面语孔子，盖自以告其臣，而孔子闻之尔。程子曰：「季氏强臣，君待之之礼极隆，然非所以待孔子也。以季、孟之闲待之，则礼亦至矣。然复曰『吾老矣不能用也』，故孔子去之。"
       },
       {
         "character_count": 14,
@@ -532,7 +5818,7 @@
         "order": 6,
         "source_block_chunk": 2,
         "source_block_order": 4,
-        "text": "蓋不繫待之輕重，特以不用而去爾。」"
+        "text": "盖不系待之轻重，特以不用而去尔。」"
       },
       {
         "character_count": 88,
@@ -540,7 +5826,7 @@
         "order": 7,
         "source_block_chunk": 1,
         "source_block_order": 5,
-        "text": "歸，如字，或作饋。朝，音潮。季桓子，魯大夫，名斯。按史記，「定公十四年，孔子為魯司寇，攝行相事。齊人懼，歸女樂以沮之」。尹氏曰：「受女樂而怠於政事如此，其簡賢棄禮，不足與有為可知矣。夫子所以行也，所謂見幾而作，不俟終日者與？"
+        "text": "归，如字，或作馈。朝，音潮。季桓子，鲁大夫，名斯。按史记，「定公十四年，孔子为鲁司寇，摄行相事。齐人惧，归女乐以沮之」。尹氏曰：「受女乐而怠于政事如此，其简贤弃礼，不足与有为可知矣。夫子所以行也，所谓见几而作，不俟终日者与？"
       },
       {
         "character_count": 27,
@@ -548,7 +5834,7 @@
         "order": 8,
         "source_block_chunk": 2,
         "source_block_order": 5,
-        "text": "」范氏曰：「此篇記仁賢之出處，而折中以聖人之行，所以明中庸之道也。」"
+        "text": "」范氏曰：「此篇记仁贤之出处，而折中以圣人之行，所以明中庸之道也。」"
       },
       {
         "character_count": 86,
@@ -556,7 +5842,7 @@
         "order": 9,
         "source_block_chunk": 1,
         "source_block_order": 6,
-        "text": "接輿，楚人，佯狂辟世。夫子時將適楚，故接輿歌而過其車前也。鳳有道則見，無道則隱，接輿以比孔子，而譏其不能隱為德衰也。來者可追，言及今尚可隱去。已，止也。而，語助辭。殆，危也。接輿蓋知尊孔子而趨不同者也。辟，去聲。"
+        "text": "接舆，楚人，佯狂辟世。夫子时将适楚，故接舆歌而过其车前也。凤有道则见，无道则隐，接舆以比孔子，而讥其不能隐为德衰也。来者可追，言及今尚可隐去。已，止也。而，语助辞。殆，危也。接舆盖知尊孔子而趋不同者也。辟，去声。"
       },
       {
         "character_count": 27,
@@ -564,7 +5850,7 @@
         "order": 10,
         "source_block_chunk": 2,
         "source_block_order": 6,
-        "text": "孔子下車，蓋欲告之以出處之意。接輿自以為是，故不欲聞而避之也。"
+        "text": "孔子下车，盖欲告之以出处之意。接舆自以为是，故不欲闻而避之也。"
       },
       {
         "character_count": 85,
@@ -572,7 +5858,7 @@
         "order": 11,
         "source_block_chunk": 1,
         "source_block_order": 7,
-        "text": "沮，七餘反。溺，乃歷反。二人，隱者。耦，並耕也。時孔子自楚反乎蔡。津，濟渡處。夫，音扶。與，平聲。執輿，執轡在車也。蓋本子路御而執轡，今下問津，故夫子代之也。知津，言數周流，自知津處。徒與之與，平聲。滔，吐刀反。辟，去聲。耰，音憂。"
+        "text": "沮，七余反。溺，乃历反。二人，隐者。耦，并耕也。时孔子自楚反乎蔡。津，济渡处。夫，音扶。与，平声。执舆，执辔在车也。盖本子路御而执辔，今下问津，故夫子代之也。知津，言数周流，自知津处。徒与之与，平声。滔，吐刀反。辟，去声。耰，音忧。"
       },
       {
         "character_count": 86,
@@ -580,7 +5866,7 @@
         "order": 12,
         "source_block_chunk": 2,
         "source_block_order": 7,
-        "text": "滔滔，流而不反之意。以，猶與也。言天下皆亂，將誰與變易之？而，汝也。辟人，謂孔子。辟世，桀溺自謂。耰，覆種也。亦不告以津處。憮，音武。與，如字。憮然，猶悵然，惜其不喻己意也。言所當與同群者，斯人而已，豈可絕人逃世以為潔哉？"
+        "text": "滔滔，流而不反之意。以，犹与也。言天下皆乱，将谁与变易之？而，汝也。辟人，谓孔子。辟世，桀溺自谓。耰，覆种也。亦不告以津处。怃，音武。与，如字。怃然，犹怅然，惜其不喻己意也。言所当与同群者，斯人而已，岂可绝人逃世以为洁哉？"
       },
       {
         "character_count": 63,
@@ -588,7 +5874,7 @@
         "order": 13,
         "source_block_chunk": 3,
         "source_block_order": 7,
-        "text": "天下若已平治，則我無用變易之。正為天下無道，故欲以道易之耳。程子曰：「聖人不敢有忘天下之心，故其言如此也。」張子曰：「聖人之仁，不以無道必天下而棄之也。」"
+        "text": "天下若已平治，则我无用变易之。正为天下无道，故欲以道易之耳。程子曰：「圣人不敢有忘天下之心，故其言如此也。」张子曰：「圣人之仁，不以无道必天下而弃之也。」"
       },
       {
         "character_count": 80,
@@ -596,7 +5882,7 @@
         "order": 14,
         "source_block_chunk": 1,
         "source_block_order": 8,
-        "text": "蓧，徒弔反。植，音值。丈人，亦隱者。蓧，竹器。分，辨也。五穀不分，猶言不辨菽麥爾，責其不事農業而從師遠遊也。植，立之也。芸，去草也。知其隱者，敬之也。食，音嗣。見，賢遍反。孔子使子路反見之，蓋欲告之以君臣之義。"
+        "text": "𦰏，徒吊反。植，音值。丈人，亦隐者。𦰏，竹器。分，辨也。五谷不分，犹言不辨菽麦尔，责其不事农业而从师远游也。植，立之也。芸，去草也。知其隐者，敬之也。食，音嗣。见，贤遍反。孔子使子路反见之，盖欲告之以君臣之义。"
       },
       {
         "character_count": 82,
@@ -604,7 +5890,7 @@
         "order": 15,
         "source_block_chunk": 2,
         "source_block_order": 8,
-        "text": "而丈人意子路必將復來，故先去之以滅其跡，亦接輿之意也。長，上聲。子路述夫子之意如此。蓋丈人之接子路甚倨，而子路益恭，丈人因見其二子焉。則於長幼之節，固知其不可廢矣，故因其所明以曉之。倫，序也。"
+        "text": "而丈人意子路必将复来，故先去之以灭其迹，亦接舆之意也。长，上声。子路述夫子之意如此。盖丈人之接子路甚倨，而子路益恭，丈人因见其二子焉。则于长幼之节，固知其不可废矣，故因其所明以晓之。伦，序也。"
       },
       {
         "character_count": 84,
@@ -612,7 +5898,7 @@
         "order": 16,
         "source_block_chunk": 3,
         "source_block_order": 8,
-        "text": "人之大倫有五：父子有親，君臣有義，夫婦有別，長幼有序，朋友有信是也。仕所以行君臣之義，故雖知道之不行而不可廢。然謂之義，則事之可否，身之去就，亦自有不可苟者。是以雖不潔身以亂倫，亦非忘義以殉祿也。"
+        "text": "人之大伦有五：父子有亲，君臣有义，夫妇有别，长幼有序，朋友有信是也。仕所以行君臣之义，故虽知道之不行而不可废。然谓之义，则事之可否，身之去就，亦自有不可苟者。是以虽不洁身以乱伦，亦非忘义以殉禄也。"
       },
       {
         "character_count": 84,
@@ -620,7 +5906,7 @@
         "order": 17,
         "source_block_chunk": 4,
         "source_block_order": 8,
-        "text": "福州有國初時寫本，路下有「反子」二字，以此為子路反而夫子言之也。未知是否？○范氏曰：「隱者為高，故往而不反。仕者為通，故溺而不止。不與鳥獸同群，則決性命之情以饕富貴。此二者皆惑也，是以依乎中庸者為難。"
+        "text": "福州有国初时写本，路下有「反子」二字，以此为子路反而夫子言之也。未知是否？○范氏曰：「隐者为高，故往而不反。仕者为通，故溺而不止。不与鸟兽同群，则决性命之情以饕富贵。此二者皆惑也，是以依乎中庸者为难。"
       },
       {
         "character_count": 27,
@@ -628,7 +5914,7 @@
         "order": 18,
         "source_block_chunk": 5,
         "source_block_order": 8,
-        "text": "惟聖人不廢君臣之義，而必以其正，所以或出或處而終不離於道也。」"
+        "text": "惟圣人不废君臣之义，而必以其正，所以或出或处而终不离于道也。」"
       },
       {
         "character_count": 43,
@@ -636,7 +5922,7 @@
         "order": 19,
         "source_block_chunk": 1,
         "source_block_order": 9,
-        "text": "少，去聲，下同。逸，遺逸。民者，無位之稱。虞仲，即仲雍，與大伯同竄荊蠻者。夷逸、朱張，不見經傳。少連，東夷人。與，平聲。"
+        "text": "少，去声，下同。逸，遗逸。民者，无位之称。虞仲，即仲雍，与大伯同窜荆蛮者。夷逸、朱张，不见经传。少连，东夷人。与，平声。"
       },
       {
         "character_count": 88,
@@ -644,7 +5930,7 @@
         "order": 20,
         "source_block_chunk": 1,
         "source_block_order": 10,
-        "text": "中，去聲，下同。柳下惠事見上。倫，義理之次第也。慮，思慮也。中慮，言有意義合人心。少連事不可考。然記稱其「善居喪，三日不怠，三月不解。期悲哀，三年憂」。則行之中慮，亦可見矣。仲雍居吳，斷髮文身，裸以為飾。隱居獨善，合乎道之清。"
+        "text": "中，去声，下同。柳下惠事见上。伦，义理之次第也。虑，思虑也。中虑，言有意义合人心。少连事不可考。然记称其「善居丧，三日不怠，三月不解。期悲哀，三年忧」。则行之中虑，亦可见矣。仲雍居吴，断发文身，裸以为饰。隐居独善，合乎道之清。"
       },
       {
         "character_count": 91,
@@ -652,7 +5938,7 @@
         "order": 21,
         "source_block_chunk": 2,
         "source_block_order": 10,
-        "text": "放言自廢，合乎道之權。孟子曰：「孔子可以仕則仕，可以止則止，可以久則久，可以速則速。」所謂無可無不可也。謝氏曰「七人隱遯不汙則同，其立心造行則異。伯夷、叔齊，天子不得臣，諸侯不得友，蓋已遯世離群矣，下聖人一等，此其最高與！"
+        "text": "放言自废，合乎道之权。孟子曰：「孔子可以仕则仕，可以止则止，可以久则久，可以速则速。」所谓无可无不可也。谢氏曰「七人隐遯不污则同，其立心造行则异。伯夷、叔齐，天子不得臣，诸侯不得友，盖已遯世离群矣，下圣人一等，此其最高与！"
       },
       {
         "character_count": 87,
@@ -660,7 +5946,7 @@
         "order": 22,
         "source_block_chunk": 3,
         "source_block_order": 10,
-        "text": "柳下惠、少連，雖降志而不枉己，雖辱身而不求合，其心有不屑也。故言能中倫，行能中慮。虞仲、夷逸隱居放言，則言不合先王之法者多矣。然清而不汙也，權而適宜也，與方外之士害義傷教而亂大倫者殊科。是以均謂之逸民。"
+        "text": "柳下惠、少连，虽降志而不枉己，虽辱身而不求合，其心有不屑也。故言能中伦，行能中虑。虞仲、夷逸隐居放言，则言不合先王之法者多矣。然清而不污也，权而适宜也，与方外之士害义伤教而乱大伦者殊科。是以均谓之逸民。"
       },
       {
         "character_count": 59,
@@ -668,7 +5954,7 @@
         "order": 23,
         "source_block_chunk": 4,
         "source_block_order": 10,
-        "text": "」尹氏曰：「七人各守其一節，而孔子則無可無不可，此所以常適其可，而異於逸民之徒也。」揚雄曰：「觀乎聖人則見賢人。是以孟子語夷，惠，亦必以孔子斷之。」"
+        "text": "」尹氏曰：「七人各守其一节，而孔子则无可无不可，此所以常适其可，而异于逸民之徒也。」扬雄曰：「观乎圣人则见贤人。是以孟子语夷，惠，亦必以孔子断之。」"
       },
       {
         "character_count": 82,
@@ -676,7 +5962,7 @@
         "order": 24,
         "source_block_chunk": 1,
         "source_block_order": 11,
-        "text": "大，音泰。大師，魯樂官之長。摯，其名也。飯，扶晚反。繚，音了。亞飯以下，以樂侑食之官。干、繚、缺，皆名也。鼓，擊鼓者。方叔，名。河，河內。浅，徒刀反。播，搖也。浅，小鼓。兩旁有耳，持其柄而搖之，則旁耳還自擊。武，名也。漢，漢中。少，去聲。"
+        "text": "大，音泰。大师，鲁乐官之长。挚，其名也。饭，扶晚反。缭，音了。亚饭以下，以乐侑食之官。干、缭、缺，皆名也。鼓，击鼓者。方叔，名。河，河内。浅，徒刀反。播，摇也。浅，小鼓。两旁有耳，持其柄而摇之，则旁耳还自击。武，名也。汉，汉中。少，去声。"
       },
       {
         "character_count": 74,
@@ -684,7 +5970,7 @@
         "order": 25,
         "source_block_chunk": 2,
         "source_block_order": 11,
-        "text": "少師，樂官之佐。陽、襄，二人名。襄即孔子所從學琴者。海，海島也。此記賢人之隱遯以附前章，然未必夫子之言也。末章放此。張子曰：「周衰樂廢，夫子自衛反魯，一嘗治之。其後伶人賤工識樂之正。"
+        "text": "少师，乐官之佐。阳、襄，二人名。襄即孔子所从学琴者。海，海岛也。此记贤人之隐遯以附前章，然未必夫子之言也。末章放此。张子曰：「周衰乐废，夫子自卫反鲁，一尝治之。其后伶人贱工识乐之正。"
       },
       {
         "character_count": 48,
@@ -692,7 +5978,7 @@
         "order": 26,
         "source_block_chunk": 3,
         "source_block_order": 11,
-        "text": "及魯益衰，三桓僭妄，自大師以下，皆知散之四方，逾河蹈海以去亂。聖人俄頃之助，功化如此。如有用我，期月而可。豈虛語哉？」"
+        "text": "及鲁益衰，三桓僭妄，自大师以下，皆知散之四方，逾河蹈海以去乱。圣人俄顷之助，功化如此。如有用我，期月而可。岂虚语哉？」"
       },
       {
         "character_count": 88,
@@ -700,7 +5986,7 @@
         "order": 27,
         "source_block_chunk": 1,
         "source_block_order": 12,
-        "text": "施，陸氏本作弛，詩紙反。福本同。魯公，周公子伯禽也。弛，遺棄也。以，用也。大臣非其人則去之，在其位則不可不用。大故，謂惡逆。李氏曰：「四者皆君子之事，忠厚之至也。」胡氏曰：「此伯禽受封之國，周公訓戒之辭。魯人傳誦，久而不忘也。"
+        "text": "施，陆氏本作弛，诗纸反。福本同。鲁公，周公子伯禽也。弛，遗弃也。以，用也。大臣非其人则去之，在其位则不可不用。大故，谓恶逆。李氏曰：「四者皆君子之事，忠厚之至也。」胡氏曰：「此伯禽受封之国，周公训戒之辞。鲁人传诵，久而不忘也。"
       },
       {
         "character_count": 12,
@@ -708,7 +5994,7 @@
         "order": 28,
         "source_block_chunk": 2,
         "source_block_order": 12,
-        "text": "其或夫子嘗與門弟子言之歟？"
+        "text": "其或夫子尝与门弟子言之欤？"
       },
       {
         "character_count": 91,
@@ -716,7 +6002,7 @@
         "order": 29,
         "source_block_chunk": 1,
         "source_block_order": 13,
-        "text": "騧，烏瓜反。或曰「成王時人」，或曰「宣王時人」。蓋一母四乳而生八子也，然不可考矣。張子曰：「記善人之多也。」愚按：此篇孔子於三仁、逸民、師摯、八士，既皆稱贊而品列之；於接輿、沮、溺、丈人，又每有惓惓接引之意。皆衰世之志也，其所感者深矣。"
+        "text": "䯄，乌瓜反。或曰「成王时人」，或曰「宣王时人」。盖一母四乳而生八子也，然不可考矣。张子曰：「记善人之多也。」愚按：此篇孔子于三仁、逸民、师挚、八士，既皆称赞而品列之；于接舆、沮、溺、丈人，又每有惓惓接引之意。皆衰世之志也，其所感者深矣。"
       },
       {
         "character_count": 58,
@@ -724,10 +6010,10 @@
         "order": 30,
         "source_block_chunk": 2,
         "source_block_order": 13,
-        "text": "在陳之歎，蓋亦如此。三仁則無間然矣，其餘數君子者，亦皆一世之高士。若使得聞聖人之道，以裁其所過而勉其所不及，則其所立，豈止於此而已哉？"
+        "text": "在陈之叹，盖亦如此。三仁则无间然矣，其余数君子者，亦皆一世之高士。若使得闻圣人之道，以裁其所过而勉其所不及，则其所立，岂止于此而已哉？"
       }
     ],
-    "text": "微子去之，箕子為之奴，比干諫而死。\n孔子曰：「殷有三仁焉。」\n柳下惠為士師，三黜。人曰：「子未可以去乎？」曰：「直道而事人，焉往而不三黜？枉道而事人，何必去父母之邦。」\n齊景公待孔子，曰：「若季氏則吾不能，以季、孟之閒待之。」曰：「吾老矣，不能用也。」孔子行。\n齊人歸女樂，季桓子受之。三日不朝，孔子行。\n楚狂接輿歌而過孔子曰：「鳳兮！鳳兮！何德之衰？往者不可諫，來者猶可追。已而，已而！今之從政者殆而！」\n孔子下，欲與之言。趨而辟之，不得與之言。\n長沮、桀溺耦而耕，孔子過之，使子路問津焉。\n長沮曰：「夫執輿者為誰？」子路曰：「為孔丘。」曰：「是魯孔丘與？」曰：「是也。」曰：「是知津矣。」\n問於桀溺，桀溺曰：「子為誰？」曰：「為仲由。」曰：「是魯孔丘之徒與？」對曰：「然。」曰：「滔滔者天下皆是也，而誰以易之？且而與其從辟人之士也，豈若從辟世之士哉？」耰而不輟。\n子路行以告。夫子憮然曰：「鳥獸不可與同群，吾非斯人之徒與而誰與？天下有道，丘不與易也。」\n子路從而後，遇丈人，以杖荷蓧。子路問曰：「子見夫子乎？」丈人曰：「四體不勤，五穀不分。孰為夫子？」植其杖而芸。\n子路拱而立。\n止子路宿，殺雞為黍而食之，見其二子焉。\n明日，子路行以告。子曰：「隱者也。」使子路反見之。至則行矣。\n子路曰：「不仕無義。長幼之節，不可廢也；君臣之義，如之何其廢之？欲潔其身，而亂大倫。君子之仕也，行其義也。道之不行，已知之矣。」\n逸民：伯夷、叔齊、虞仲、夷逸、朱張、柳下惠、少連。\n子曰：「不降其志，不辱其身，伯夷、叔齊與！」\n謂：「柳下惠、少連，降志辱身矣。言中倫，行中慮，其斯而已矣。」\n謂：「虞仲、夷逸，隱居放言。身中清，廢中權。\n我則異於是，無可無不可。」\n大師摯適齊，\n亞飯干適楚，三飯繚適蔡，四飯缺適秦。\n鼓方叔入於河，\n播浅武入於漢，\n少師陽、擊磬襄入於海。\n周公謂魯公曰：「君子不施其親，不使大臣怨乎不以。故舊無大故，則不棄也。無求備於一人。」\n周有八士：伯達、伯适、仲突、仲忽、叔夜、叔夏、季隨、季騧。",
+    "text": "微子去之，箕子为之奴，比干谏而死。\n孔子曰：「殷有三仁焉。」\n柳下惠为士师，三黜。人曰：「子未可以去乎？」曰：「直道而事人，焉往而不三黜？枉道而事人，何必去父母之邦。」\n齐景公待孔子，曰：「若季氏则吾不能，以季、孟之闲待之。」曰：「吾老矣，不能用也。」孔子行。\n齐人归女乐，季桓子受之。三日不朝，孔子行。\n楚狂接舆歌而过孔子曰：「凤兮！凤兮！何德之衰？往者不可谏，来者犹可追。已而，已而！今之从政者殆而！」\n孔子下，欲与之言。趋而辟之，不得与之言。\n长沮、桀溺耦而耕，孔子过之，使子路问津焉。\n长沮曰：「夫执舆者为谁？」子路曰：「为孔丘。」曰：「是鲁孔丘与？」曰：「是也。」曰：「是知津矣。」\n问于桀溺，桀溺曰：「子为谁？」曰：「为仲由。」曰：「是鲁孔丘之徒与？」对曰：「然。」曰：「滔滔者天下皆是也，而谁以易之？且而与其从辟人之士也，岂若从辟世之士哉？」耰而不辍。\n子路行以告。夫子怃然曰：「鸟兽不可与同群，吾非斯人之徒与而谁与？天下有道，丘不与易也。」\n子路从而后，遇丈人，以杖荷𦰏。子路问曰：「子见夫子乎？」丈人曰：「四体不勤，五谷不分。孰为夫子？」植其杖而芸。\n子路拱而立。\n止子路宿，杀鸡为黍而食之，见其二子焉。\n明日，子路行以告。子曰：「隐者也。」使子路反见之。至则行矣。\n子路曰：「不仕无义。长幼之节，不可废也；君臣之义，如之何其废之？欲洁其身，而乱大伦。君子之仕也，行其义也。道之不行，已知之矣。」\n逸民：伯夷、叔齐、虞仲、夷逸、朱张、柳下惠、少连。\n子曰：「不降其志，不辱其身，伯夷、叔齐与！」\n谓：「柳下惠、少连，降志辱身矣。言中伦，行中虑，其斯而已矣。」\n谓：「虞仲、夷逸，隐居放言。身中清，废中权。\n我则异于是，无可无不可。」\n大师挚适齐，\n亚饭干适楚，三饭缭适蔡，四饭缺适秦。\n鼓方叔入于河，\n播浅武入于汉，\n少师阳、击磬襄入于海。\n周公谓鲁公曰：「君子不施其亲，不使大臣怨乎不以。故旧无大故，则不弃也。无求备于一人。」\n周有八士：伯达、伯适、仲突、仲忽、叔夜、叔夏、季随、季䯄。",
     "title": "微子第十八"
   },
   "chapter_path": "books/lunyu/chapters/chapter-018.json",

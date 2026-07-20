@@ -333,7 +333,7 @@
           {
             "license": "CC BY-SA 3.0",
             "source_url": "https://cc-cedict.org/",
-            "text": "lit. military tactics on paper (idiom) / fig. theoretical discussion that is worse than useless in practice / armchair strategist / idle theorizing / cf Zhao Kuo 趙括|赵括[Zhao4 Kuo4] leading an army of 400,000 to total annihilation at battle of Changping 長平之戰|长平之战[Chang2 ping2 zhi1 Zhan4] in 260 BC",
+            "text": "lit. military tactics on paper (idiom) / fig. theoretical discussion that is worse than useless in practice / armchair strategist / idle theorizing / cf Zhao Kuo 赵括|赵括[Zhao4 Kuo4] leading an army of 400,000 to total annihilation at battle of Changping 长平之战|长平之战[Chang2 ping2 zhi1 Zhan4] in 260 BC",
             "translator": "CC-CEDICT",
             "year": null
           }
@@ -435,7 +435,7 @@
           {
             "license": "CC BY-SA 3.0",
             "source_url": "https://cc-cedict.org/",
-            "text": "variant of 臥薪嘗膽|卧薪尝胆[wo4 xin1 chang2 dan3]",
+            "text": "variant of 卧薪尝胆|卧薪尝胆[wo4 xin1 chang2 dan3]",
             "translator": "CC-CEDICT",
             "year": null
           }
@@ -469,7 +469,7 @@
           {
             "license": "CC BY-SA 3.0",
             "source_url": "https://cc-cedict.org/",
-            "text": "lit. to make three visits to the thatched cottage (idiom) (allusion to an episode in Romance of the Three Kingdoms 三國演義|三国演义[San1 guo2 Yan3 yi4] in which Liu Bei 劉備|刘备[Liu2 Bei4] recruits Zhuge Liang 諸葛亮|诸葛亮[Zhu1 ge3 Liang4] to his cause by visiting him three times) / fig. to make earnest and repeated requests of sb",
+            "text": "lit. to make three visits to the thatched cottage (idiom) (allusion to an episode in Romance of the Three Kingdoms 三国演义|三国演义[San1 guo2 Yan3 yi4] in which Liu Bei 刘备|刘备[Liu2 Bei4] recruits Zhuge Liang 诸葛亮|诸葛亮[Zhu1 ge3 Liang4] to his cause by visiting him three times) / fig. to make earnest and repeated requests of sb",
             "translator": "CC-CEDICT",
             "year": null
           }
@@ -520,7 +520,7 @@
           {
             "license": "CC BY-SA 3.0",
             "source_url": "https://cc-cedict.org/",
-            "text": "see 拔苗助長|拔苗助长[ba2 miao2 zhu4 zhang3]",
+            "text": "see 拔苗助长|拔苗助长[ba2 miao2 zhu4 zhang3]",
             "translator": "CC-CEDICT",
             "year": null
           }
@@ -699,7 +699,7 @@
           {
             "license": "CC BY-SA 3.0",
             "source_url": "https://cc-cedict.org/",
-            "text": "blind people touch an elephant (idiom, from Nirvana sutra 大般涅槃經|大般涅盘经[da4 ban1 Nie4 pan2 jing1]); fig. unable to see the big picture / to mistake the part for the whole / unable to see the wood for the trees",
+            "text": "blind people touch an elephant (idiom, from Nirvana sutra 大般涅槃经|大般涅盘经[da4 ban1 Nie4 pan2 jing1]); fig. unable to see the big picture / to mistake the part for the whole / unable to see the wood for the trees",
             "translator": "CC-CEDICT",
             "year": null
           }
@@ -769,7 +769,13 @@
         "order": 46,
         "pinyin": "bù chǐ xià wèn",
         "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
-        "text": "不耻下问"
+        "text": "不耻下问",
+        "origin": {
+          "book": "lunyu",
+          "chapter": 5,
+          "line": 22,
+          "snippet": "子贡问曰：「孔文子何以谓之文也？」子曰：「敏而好学，不耻下问，是以谓之文也。」"
+        }
       },
       {
         "canonical_translations": [

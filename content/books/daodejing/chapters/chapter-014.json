@@ -18,16 +18,782 @@
         "character_count": 94,
         "id": "chapter-014-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "shì",
+          "zhī",
+          "bú",
+          "jiàn",
+          "míng",
+          "yuē",
+          "yí",
+          "",
+          "tīng",
+          "zhī",
+          "bù",
+          "wén",
+          "míng",
+          "yuē",
+          "xī",
+          "",
+          "bó",
+          "zhī",
+          "bù",
+          "dé",
+          "míng",
+          "yuē",
+          "wēi",
+          "",
+          "cǐ",
+          "sān",
+          "zhě",
+          "",
+          "bù",
+          "kě",
+          "zhì",
+          "jí",
+          "",
+          "gù",
+          "hùn",
+          "ér",
+          "wéi",
+          "yī",
+          "",
+          "qí",
+          "shàng",
+          "bù",
+          "jiǎo",
+          "",
+          "qí",
+          "xià",
+          "bú",
+          "mèi",
+          "",
+          "shéng",
+          "shéng",
+          "bù",
+          "kě",
+          "míng",
+          "",
+          "fù",
+          "guī",
+          "yú",
+          "wú",
+          "wù",
+          "",
+          "shì",
+          "wèi",
+          "wú",
+          "zhuàng",
+          "zhī",
+          "zhuàng",
+          "",
+          "wú",
+          "wù",
+          "zhī",
+          "xiàng",
+          "",
+          "shì",
+          "wèi",
+          "hū",
+          "huǎng",
+          "",
+          "yíng",
+          "zhī",
+          "bú",
+          "jiàn",
+          "qí",
+          "shǒu",
+          "",
+          "suí",
+          "zhī",
+          "bú",
+          "jiàn",
+          "qí",
+          "hòu",
+          "",
+          "zhí",
+          "gǔ",
+          "zhī",
+          "dào",
+          "",
+          "yǐ",
+          "yù",
+          "jīn",
+          "zhī",
+          "yǒu",
+          "",
+          "néng",
+          "zhī",
+          "gú",
+          "shǐ",
+          "",
+          "shì",
+          "wèi",
+          "dào",
+          "jì",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "視之不見名曰夷，聽之不聞名曰希，搏之不得名曰微。此三者，不可致詰，故混而為一。其上不皦，其下不昧。繩繩不可名，復歸於無物。是謂無狀之狀，無物之象，是謂惚恍。迎之不見其首，隨之不見其後。執古之道，以御今之有。能知古始，是謂道紀。"
+        "text": "视之不见名曰夷，听之不闻名曰希，搏之不得名曰微。此三者，不可致诘，故混而为一。其上不皦，其下不昧。绳绳不可名，复归于无物。是谓无状之状，无物之象，是谓惚恍。迎之不见其首，随之不见其后。执古之道，以御今之有。能知古始，是谓道纪。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "视"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "之"
+          },
+          {
+            "end": 4,
+            "gloss": "not to see / not to meet / to have disappeared / to be missing",
+            "pinyin": "bù jiàn",
+            "source": "CC-CEDICT",
+            "start": 2,
+            "word": "不见"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "名"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "曰"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "夷"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "听"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "之"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "不"
+          },
+          {
+            "end": 13,
+            "gloss": "well-known / famous / renowned / eminent",
+            "pinyin": "wén míng",
+            "source": "CC-CEDICT",
+            "start": 11,
+            "word": "闻名"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "曰"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "希"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "搏"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "之"
+          },
+          {
+            "end": 20,
+            "gloss": "must not / may not / not to be allowed / cannot",
+            "pinyin": "bù dé",
+            "source": "CC-CEDICT",
+            "start": 18,
+            "word": "不得"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "名"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "曰"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "微"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "此"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "三"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "者"
+          },
+          {
+            "end": 30,
+            "gloss": "cannot; should not; must not",
+            "pinyin": "bù kě",
+            "source": "CC-CEDICT",
+            "start": 28,
+            "word": "不可"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "致"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "诘"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "故"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "混"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "而"
+          },
+          {
+            "end": 37,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 36,
+            "word": "为"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "一"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "其"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "上"
+          },
+          {
+            "end": 42,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 41,
+            "word": "不"
+          },
+          {
+            "end": 43,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 42,
+            "word": "皦"
+          },
+          {
+            "end": 45,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 44,
+            "word": "其"
+          },
+          {
+            "end": 46,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 45,
+            "word": "下"
+          },
+          {
+            "end": 47,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 46,
+            "word": "不"
+          },
+          {
+            "end": 48,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 47,
+            "word": "昧"
+          },
+          {
+            "end": 50,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 49,
+            "word": "绳"
+          },
+          {
+            "end": 51,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 50,
+            "word": "绳"
+          },
+          {
+            "end": 53,
+            "gloss": "cannot; should not; must not",
+            "pinyin": "bù kě",
+            "source": "CC-CEDICT",
+            "start": 51,
+            "word": "不可"
+          },
+          {
+            "end": 54,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 53,
+            "word": "名"
+          },
+          {
+            "end": 57,
+            "gloss": "to return / to come back",
+            "pinyin": "fù guī",
+            "source": "CC-CEDICT",
+            "start": 55,
+            "word": "复归"
+          },
+          {
+            "end": 58,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 57,
+            "word": "于"
+          },
+          {
+            "end": 60,
+            "gloss": "nothing / empty",
+            "pinyin": "wú wù",
+            "source": "CC-CEDICT",
+            "start": 58,
+            "word": "无物"
+          },
+          {
+            "end": 62,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 61,
+            "word": "是"
+          },
+          {
+            "end": 63,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 62,
+            "word": "谓"
+          },
+          {
+            "end": 65,
+            "gloss": "insolence / insolent / ill-mannered",
+            "pinyin": "wú zhuàng",
+            "source": "CC-CEDICT",
+            "start": 63,
+            "word": "无状"
+          },
+          {
+            "end": 66,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 65,
+            "word": "之"
+          },
+          {
+            "end": 67,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 66,
+            "word": "状"
+          },
+          {
+            "end": 70,
+            "gloss": "nothing / empty",
+            "pinyin": "wú wù",
+            "source": "CC-CEDICT",
+            "start": 68,
+            "word": "无物"
+          },
+          {
+            "end": 71,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 70,
+            "word": "之"
+          },
+          {
+            "end": 72,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 71,
+            "word": "象"
+          },
+          {
+            "end": 74,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 73,
+            "word": "是"
+          },
+          {
+            "end": 75,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 74,
+            "word": "谓"
+          },
+          {
+            "end": 76,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 75,
+            "word": "惚"
+          },
+          {
+            "end": 77,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 76,
+            "word": "恍"
+          },
+          {
+            "end": 79,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 78,
+            "word": "迎"
+          },
+          {
+            "end": 80,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 79,
+            "word": "之"
+          },
+          {
+            "end": 82,
+            "gloss": "not to see / not to meet / to have disappeared / to be missing",
+            "pinyin": "bù jiàn",
+            "source": "CC-CEDICT",
+            "start": 80,
+            "word": "不见"
+          },
+          {
+            "end": 83,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 82,
+            "word": "其"
+          },
+          {
+            "end": 84,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 83,
+            "word": "首"
+          },
+          {
+            "end": 87,
+            "gloss": "thereupon / subsequently / accordingly",
+            "pinyin": "suí zhī",
+            "source": "CC-CEDICT",
+            "start": 85,
+            "word": "随之"
+          },
+          {
+            "end": 89,
+            "gloss": "not to see / not to meet / to have disappeared / to be missing",
+            "pinyin": "bù jiàn",
+            "source": "CC-CEDICT",
+            "start": 87,
+            "word": "不见"
+          },
+          {
+            "end": 91,
+            "gloss": "next / later / after that",
+            "pinyin": "qí hòu",
+            "source": "CC-CEDICT",
+            "start": 89,
+            "word": "其后"
+          },
+          {
+            "end": 93,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 92,
+            "word": "执"
+          },
+          {
+            "end": 94,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 93,
+            "word": "古"
+          },
+          {
+            "end": 95,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 94,
+            "word": "之"
+          },
+          {
+            "end": 96,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 95,
+            "word": "道"
+          },
+          {
+            "end": 98,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 97,
+            "word": "以"
+          },
+          {
+            "end": 99,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 98,
+            "word": "御"
+          },
+          {
+            "end": 100,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 99,
+            "word": "今"
+          },
+          {
+            "end": 101,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 100,
+            "word": "之"
+          },
+          {
+            "end": 102,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 101,
+            "word": "有"
+          },
+          {
+            "end": 104,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 103,
+            "word": "能"
+          },
+          {
+            "end": 105,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 104,
+            "word": "知"
+          },
+          {
+            "end": 106,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 105,
+            "word": "古"
+          },
+          {
+            "end": 107,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 106,
+            "word": "始"
+          },
+          {
+            "end": 109,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 108,
+            "word": "是"
+          },
+          {
+            "end": 110,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 109,
+            "word": "谓"
+          },
+          {
+            "end": 111,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 110,
+            "word": "道"
+          },
+          {
+            "end": 112,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 111,
+            "word": "纪"
+          }
+        ]
       }
     ],
-    "summary": "視之不見，名曰夷；聽之不聞，名曰希；搏之不得，名曰微",
+    "summary": "视之不见，名曰夷；听之不闻，名曰希；搏之不得，名曰微",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "視之不見，名曰夷；聽之不聞，名曰希；搏之不得，名曰微。此三者不可致詰，故混而為一。其上不皦，其下不昧。繩繩不可名，復歸於無物。是謂無狀之狀，無物之象，是謂惚恍。迎之不見其首，隨之不見其後。執古之道，以御今之有。能知古始，是謂道紀。",
+    "text": "视之不见，名曰夷；听之不闻，名曰希；搏之不得，名曰微。此三者不可致诘，故混而为一。其上不皦，其下不昧。绳绳不可名，复归于无物。是谓无状之状，无物之象，是谓惚恍。迎之不见其首，随之不见其后。执古之道，以御今之有。能知古始，是谓道纪。",
     "title": "第14章"
   },
   "chapter_path": "books/daodejing/chapters/chapter-014.json",

@@ -1,0 +1,5778 @@
+{
+  "chapter": {
+    "character_count": 634,
+    "id": "chapter-001",
+    "order": 1,
+    "reading_unit_count": 71,
+    "reading_units": [
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-001",
+        "order": 1,
+        "pinyin_per_char": [
+          "zhào",
+          "qián",
+          "sūn",
+          "lǐ",
+          "",
+          "zhōu",
+          "wú",
+          "zhèng",
+          "wáng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "赵钱孙李　周吴郑王",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "赵"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "钱"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "孙"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "李"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "周"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "吴"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "郑"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "王"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-002",
+        "order": 2,
+        "pinyin_per_char": [
+          "féng",
+          "chén",
+          "chǔ",
+          "wèi",
+          "",
+          "jiáng",
+          "shěn",
+          "hán",
+          "yáng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "冯陈褚卫　蒋沈韩杨",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "冯"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "陈"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "褚"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "卫"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "蒋"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "沈"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "韩"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "杨"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-003",
+        "order": 3,
+        "pinyin_per_char": [
+          "zhū",
+          "qín",
+          "yóu",
+          "xǔ",
+          "",
+          "hé",
+          "lǚ",
+          "shī",
+          "zhāng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "朱秦尤许　何吕施张",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "朱"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "秦"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "尤"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "许"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "何"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "吕"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "施"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "张"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-004",
+        "order": 4,
+        "pinyin_per_char": [
+          "kǒng",
+          "cáo",
+          "yán",
+          "huá",
+          "",
+          "jīn",
+          "wèi",
+          "táo",
+          "jiāng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "孔曹严华　金魏陶姜",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "孔"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "曹"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "严"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "华"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "金"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "魏"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "陶"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "姜"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-005",
+        "order": 5,
+        "pinyin_per_char": [
+          "qī",
+          "xiè",
+          "zōu",
+          "yù",
+          "",
+          "bái",
+          "shuǐ",
+          "dòu",
+          "zhāng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "戚谢邹喻　栢水窦章",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "戚"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "谢"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "邹"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "喻"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "栢"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "水"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "窦"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "章"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-006",
+        "order": 6,
+        "pinyin_per_char": [
+          "yún",
+          "sū",
+          "pān",
+          "gé",
+          "",
+          "xī",
+          "fàn",
+          "péng",
+          "láng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "云苏潘葛　奚范彭郎",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "云"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "苏"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "潘"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "葛"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "奚"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "范"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "彭"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "郎"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-007",
+        "order": 7,
+        "pinyin_per_char": [
+          "lǔ",
+          "wéi",
+          "chāng",
+          "mǎ",
+          "",
+          "miáo",
+          "fèng",
+          "huā",
+          "fāng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "鲁韦昌马　苗凤花方",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "鲁"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "韦"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "昌"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "马"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "苗"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "凤"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "花"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "方"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-008",
+        "order": 8,
+        "pinyin_per_char": [
+          "yú",
+          "rèn",
+          "yuán",
+          "liǔ",
+          "",
+          "fēng",
+          "bào",
+          "shǐ",
+          "táng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "俞任袁柳　酆鲍史唐",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "俞"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "任"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "袁"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "柳"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "酆"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "鲍"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "史"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "唐"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-009",
+        "order": 9,
+        "pinyin_per_char": [
+          "fèi",
+          "lián",
+          "cén",
+          "xuē",
+          "",
+          "léi",
+          "hè",
+          "ní",
+          "tāng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "费廉岑薛　雷贺倪汤",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "费"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "廉"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "岑"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "薛"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "雷"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "贺"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "倪"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "汤"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-010",
+        "order": 10,
+        "pinyin_per_char": [
+          "téng",
+          "yīn",
+          "luó",
+          "bì",
+          "",
+          "hǎo",
+          "wū",
+          "ān",
+          "cháng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "滕殷罗毕　郝邬安常",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "滕"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "殷"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "罗"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "毕"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "郝"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "邬"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "安"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "常"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-011",
+        "order": 11,
+        "pinyin_per_char": [
+          "lè",
+          "yú",
+          "shí",
+          "fù",
+          "",
+          "pí",
+          "biàn",
+          "qí",
+          "kāng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "乐于时傅　皮卞齐康",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "willing (to do sth) / to take pleasure in",
+            "pinyin": "lè yú",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "乐于"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "时"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "傅"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "皮"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "卞"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "齐"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "康"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-012",
+        "order": 12,
+        "pinyin_per_char": [
+          "wǔ",
+          "yú",
+          "yuán",
+          "bo",
+          "",
+          "gù",
+          "mèng",
+          "píng",
+          "huáng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "伍余元卜　顾孟平黄",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "伍"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "余"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "元"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "卜"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "顾"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "孟"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "平"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "黄"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-013",
+        "order": 13,
+        "pinyin_per_char": [
+          "hé",
+          "mù",
+          "xiāo",
+          "yǐn",
+          "",
+          "yáo",
+          "shào",
+          "zhàn",
+          "wāng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "和穆萧尹　姚邵湛汪",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "和"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "穆"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "萧"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "尹"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "姚"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "邵"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "湛"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "汪"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-014",
+        "order": 14,
+        "pinyin_per_char": [
+          "qí",
+          "máo",
+          "yǔ",
+          "dí",
+          "",
+          "mǐ",
+          "bèi",
+          "míng",
+          "zāng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "祁毛禹狄　米贝明臧",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "祁"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "毛"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "禹"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "狄"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "米"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "贝"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "明"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "臧"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-015",
+        "order": 15,
+        "pinyin_per_char": [
+          "jì",
+          "fú",
+          "chéng",
+          "dài",
+          "",
+          "tán",
+          "sòng",
+          "máo",
+          "páng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "计伏成戴　谈宋茅厐",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "计"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "伏"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "成"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "戴"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "谈"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "宋"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "茅"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "厐"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-016",
+        "order": 16,
+        "pinyin_per_char": [
+          "xióng",
+          "jì",
+          "shū",
+          "qū",
+          "",
+          "xiàng",
+          "zhù",
+          "dǒng",
+          "liáng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "熊纪舒屈　项祝董梁",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "熊"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "纪"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "舒"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "屈"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "项"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "祝"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "董"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "梁"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-017",
+        "order": 17,
+        "pinyin_per_char": [
+          "dù",
+          "ruǎn",
+          "lán",
+          "mǐn",
+          "",
+          "xí",
+          "jì",
+          "má",
+          "qiáng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "杜阮蓝闵　席季麻强",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "杜"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "阮"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "蓝"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "闵"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "席"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "季"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "麻"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "强"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-018",
+        "order": 18,
+        "pinyin_per_char": [
+          "jiǎ",
+          "lù",
+          "lóu",
+          "wēi",
+          "",
+          "jiāng",
+          "tóng",
+          "yán",
+          "guō"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "贾路娄危　江童颜郭",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "贾"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "路"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "娄"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "危"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "江"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "童"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "颜"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "郭"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-019",
+        "order": 19,
+        "pinyin_per_char": [
+          "méi",
+          "shèng",
+          "lín",
+          "diāo",
+          "",
+          "zhōng",
+          "xú",
+          "qiū",
+          "luò"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "梅盛林刁　钟徐邱骆",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "梅"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "盛"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "林"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "刁"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "钟"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "徐"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "邱"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "骆"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-020",
+        "order": 20,
+        "pinyin_per_char": [
+          "gāo",
+          "xià",
+          "cài",
+          "tián",
+          "",
+          "fán",
+          "hú",
+          "líng",
+          "huò"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "高夏蔡田　樊胡凌霍",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "高"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "夏"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "蔡"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "田"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "樊"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "胡"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "凌"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "霍"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-021",
+        "order": 21,
+        "pinyin_per_char": [
+          "yú",
+          "wàn",
+          "zhī",
+          "kē",
+          "",
+          "zán",
+          "guǎn",
+          "lú",
+          "mò"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "虞万支柯　昝管卢莫",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "虞"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "万"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "支"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "柯"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "昝"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "管"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "卢"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "莫"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-022",
+        "order": 22,
+        "pinyin_per_char": [
+          "jīng",
+          "fáng",
+          "qiú",
+          "móu",
+          "",
+          "gàn",
+          "jiě",
+          "yīng",
+          "zōng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "经房裘缪　干解应宗",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "经"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "房"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "裘"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "缪"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "干"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "解"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "应"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "宗"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-023",
+        "order": 23,
+        "pinyin_per_char": [
+          "dīng",
+          "xuān",
+          "bēn",
+          "dèng",
+          "",
+          "yù",
+          "dān",
+          "háng",
+          "hóng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "丁宣贲邓　郁单杭洪",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "丁"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "宣"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "贲"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "邓"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "郁"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "单"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "杭"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "洪"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-024",
+        "order": 24,
+        "pinyin_per_char": [
+          "bāo",
+          "zhū",
+          "zuǒ",
+          "shí",
+          "",
+          "cuī",
+          "jí",
+          "chú",
+          "gōng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "包诸左石　崔吉鉏龚",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "包"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "诸"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "左"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "石"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "崔"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "吉"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "鉏"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "龚"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-025",
+        "order": 25,
+        "pinyin_per_char": [
+          "chéng",
+          "jī",
+          "xíng",
+          "huá",
+          "",
+          "péi",
+          "lù",
+          "róng",
+          "wēng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "程嵇邢滑　裴陆荣翁",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "程"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "嵇"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "邢"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "滑"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "裴"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "陆"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "荣"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "翁"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-026",
+        "order": 26,
+        "pinyin_per_char": [
+          "xún",
+          "yú",
+          "yáng",
+          "huì",
+          "",
+          "zhēn",
+          "qū",
+          "jiā",
+          "fēng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "荀于羊惠　甄曲家封",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "荀"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "于"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "羊"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "惠"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "甄"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "曲"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "家"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "封"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-027",
+        "order": 27,
+        "pinyin_per_char": [
+          "ruì",
+          "yì",
+          "chǔ",
+          "jìn",
+          "",
+          "jí",
+          "bǐng",
+          "mí",
+          "sōng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "芮羿储靳　汲邴糜松",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "芮"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "羿"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "储"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "靳"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "汲"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "邴"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "糜"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "松"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-028",
+        "order": 28,
+        "pinyin_per_char": [
+          "jǐng",
+          "duàn",
+          "fù",
+          "wū",
+          "",
+          "wū",
+          "jiāo",
+          "bā",
+          "gōng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "井段富巫　乌焦巴弓",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "井"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "段"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "富"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "巫"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "乌"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "焦"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "巴"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "弓"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-029",
+        "order": 29,
+        "pinyin_per_char": [
+          "mù",
+          "kuí",
+          "shān",
+          "gǔ",
+          "",
+          "chē",
+          "hóu",
+          "mì",
+          "péng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "牧隗山谷　车侯宓蓬",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "牧"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "隗"
+          },
+          {
+            "end": 4,
+            "gloss": "valley / ravine",
+            "pinyin": "shān gǔ",
+            "source": "CC-CEDICT",
+            "start": 2,
+            "word": "山谷"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "车"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "侯"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "宓"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "蓬"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-030",
+        "order": 30,
+        "pinyin_per_char": [
+          "quán",
+          "xī",
+          "bān",
+          "yǎng",
+          "",
+          "qiū",
+          "zhòng",
+          "yī",
+          "gōng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "全郗班仰　秋仲伊宫",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "全"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "郗"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "班"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "仰"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "秋"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "仲"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "伊"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "宫"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-031",
+        "order": 31,
+        "pinyin_per_char": [
+          "níng",
+          "chóu",
+          "luán",
+          "bào",
+          "",
+          "gān",
+          "zhēn",
+          "lì",
+          "róng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 31,
+        "text": "宁仇栾暴　甘针厉戎",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "宁"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "仇"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "栾"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "暴"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "甘"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "针"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "厉"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "戎"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-032",
+        "order": 32,
+        "pinyin_per_char": [
+          "zú",
+          "wǔ",
+          "fú",
+          "liú",
+          "",
+          "jǐng",
+          "zhān",
+          "shù",
+          "lóng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 32,
+        "text": "祖武符刘　景詹束龙",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "祖"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "武"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "符"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "刘"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "景"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "詹"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "束"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "龙"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-033",
+        "order": 33,
+        "pinyin_per_char": [
+          "yè",
+          "xìng",
+          "sī",
+          "sháo",
+          "",
+          "gào",
+          "lí",
+          "jì",
+          "báo"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 33,
+        "text": "叶幸司韶　郜黎蓟薄",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "叶"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "幸"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "司"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "韶"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "郜"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "黎"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "蓟"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "薄"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-034",
+        "order": 34,
+        "pinyin_per_char": [
+          "yìn",
+          "sù",
+          "bái",
+          "huái",
+          "",
+          "pú",
+          "tái",
+          "cóng",
+          "è"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 34,
+        "text": "印宿白怀　蒲邰从鄂",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "印"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "宿"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "白"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "怀"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "蒲"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "邰"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "从"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "鄂"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-035",
+        "order": 35,
+        "pinyin_per_char": [
+          "suǒ",
+          "xián",
+          "jí",
+          "lài",
+          "",
+          "zhuó",
+          "lìn",
+          "tú",
+          "méng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 35,
+        "text": "索咸籍赖　卓蔺屠蒙",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "索"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "咸"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "籍"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "赖"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "卓"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "蔺"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "屠"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "蒙"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-036",
+        "order": 36,
+        "pinyin_per_char": [
+          "chí",
+          "qiáo",
+          "yīn",
+          "yù",
+          "",
+          "xū",
+          "néng",
+          "cāng",
+          "shuāng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 36,
+        "text": "池乔阴郁　胥能苍双",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "池"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "乔"
+          },
+          {
+            "end": 4,
+            "gloss": "(of skies or one's mood) gloomy",
+            "pinyin": "yīn yù",
+            "source": "CC-CEDICT",
+            "start": 2,
+            "word": "阴郁"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "胥"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "能"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "苍"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "双"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-037",
+        "order": 37,
+        "pinyin_per_char": [
+          "wén",
+          "shēn",
+          "dǎng",
+          "dí",
+          "",
+          "tán",
+          "gòng",
+          "láo",
+          "páng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 37,
+        "text": "闻莘党翟　谭贡劳逄",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "闻"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "莘"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "党"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "翟"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "谭"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "贡"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "劳"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "逄"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-038",
+        "order": 38,
+        "pinyin_per_char": [
+          "jī",
+          "shēn",
+          "fú",
+          "dǔ",
+          "",
+          "rán",
+          "zǎi",
+          "lì",
+          "yōng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 38,
+        "text": "姬申扶堵　冉宰郦雍",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "姬"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "申"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "扶"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "堵"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "冉"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "宰"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "郦"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "雍"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-039",
+        "order": 39,
+        "pinyin_per_char": [
+          "xì",
+          "qú",
+          "sāng",
+          "guì",
+          "",
+          "pú",
+          "niú",
+          "shòu",
+          "tōng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 39,
+        "text": "郤璩桑桂　濮牛寿通",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "郤"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "璩"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "桑"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "桂"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "濮"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "牛"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "寿"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "通"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-040",
+        "order": 40,
+        "pinyin_per_char": [
+          "biān",
+          "hù",
+          "yàn",
+          "yì",
+          "",
+          "jiá",
+          "pǔ",
+          "shàng",
+          "nóng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 40,
+        "text": "边扈燕翼　郏浦尚农",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "边"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "扈"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "燕"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "翼"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "郏"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "浦"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "尚"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "农"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-041",
+        "order": 41,
+        "pinyin_per_char": [
+          "wēn",
+          "bié",
+          "zhuāng",
+          "yàn",
+          "",
+          "chái",
+          "qú",
+          "yán",
+          "chōng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 41,
+        "text": "温别庄晏　柴瞿阎充",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "温"
+          },
+          {
+            "end": 3,
+            "gloss": "villa",
+            "pinyin": "bié zhuāng",
+            "source": "CC-CEDICT",
+            "start": 1,
+            "word": "别庄"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "晏"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "柴"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "瞿"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "阎"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "充"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-042",
+        "order": 42,
+        "pinyin_per_char": [
+          "mù",
+          "lián",
+          "rú",
+          "xí",
+          "",
+          "huàn",
+          "ài",
+          "yú",
+          "róng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 42,
+        "text": "慕连茹习　宦艾鱼容",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "慕"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "连"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "茹"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "习"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "宦"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "艾"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "鱼"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "容"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-043",
+        "order": 43,
+        "pinyin_per_char": [
+          "xiàng",
+          "gǔ",
+          "yì",
+          "shèn",
+          "",
+          "gē",
+          "liào",
+          "yǔ",
+          "zhōng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 43,
+        "text": "向古易慎　戈廖庾终",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "向"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "古"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "易"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "慎"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "戈"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "廖"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "庾"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "终"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-044",
+        "order": 44,
+        "pinyin_per_char": [
+          "jì",
+          "jū",
+          "héng",
+          "bù",
+          "",
+          "dōu",
+          "géng",
+          "mǎn",
+          "hóng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 44,
+        "text": "暨居衡步　都耿满弘",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "暨"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "居"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "衡"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "步"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "都"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "耿"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "满"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "弘"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-045",
+        "order": 45,
+        "pinyin_per_char": [
+          "kuāng",
+          "guó",
+          "wén",
+          "kòu",
+          "",
+          "guǎng",
+          "lù",
+          "quē",
+          "dōng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 45,
+        "text": "匡国文寇　广禄阙东",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "匡"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "国"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "文"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "寇"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "广"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "禄"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "阙"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "东"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-046",
+        "order": 46,
+        "pinyin_per_char": [
+          "ōu",
+          "shū",
+          "wò",
+          "lì",
+          "",
+          "wèi",
+          "yuè",
+          "kuí",
+          "lóng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 46,
+        "text": "欧殳沃利　蔚越夔隆",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "欧"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "殳"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "沃"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "利"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "蔚"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "越"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "夔"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "隆"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-047",
+        "order": 47,
+        "pinyin_per_char": [
+          "shī",
+          "gǒng",
+          "kù",
+          "niè",
+          "",
+          "cháo",
+          "gōu",
+          "áo",
+          "róng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 47,
+        "text": "师巩库聂　晁勾敖融",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "师"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "巩"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "库"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "聂"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "晁"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "勾"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "敖"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "融"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-048",
+        "order": 48,
+        "pinyin_per_char": [
+          "lěng",
+          "zī",
+          "xīn",
+          "hǎn",
+          "",
+          "nà",
+          "jiǎn",
+          "ráo",
+          "kōng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 48,
+        "text": "冷訾辛阚　那简饶空",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "冷"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "訾"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "辛"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "阚"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "那"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "简"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "饶"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "空"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-049",
+        "order": 49,
+        "pinyin_per_char": [
+          "céng",
+          "wú",
+          "shā",
+          "miē",
+          "",
+          "yǎng",
+          "jū",
+          "xū",
+          "fēng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 49,
+        "text": "曾毋沙乜　养鞠须丰",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "曾"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "毋"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "沙"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "乜"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "养"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "鞠"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "须"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "丰"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-050",
+        "order": 50,
+        "pinyin_per_char": [
+          "cháo",
+          "guān",
+          "kuǎi",
+          "xiāng",
+          "",
+          "chá",
+          "hòu",
+          "jīng",
+          "hóng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 50,
+        "text": "巢关蒯相　查后荆红",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "巢"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "关"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "蒯"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "相"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "查"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "后"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "荆"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "红"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-051",
+        "order": 51,
+        "pinyin_per_char": [
+          "yóu",
+          "zhú",
+          "quán",
+          "lù",
+          "",
+          "gài",
+          "yì",
+          "huán",
+          "gōng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 51,
+        "text": "游竺权逯　盖益桓公",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "游"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "竺"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "权"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "逯"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "盖"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "益"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "桓"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "公"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-052",
+        "order": 52,
+        "pinyin_per_char": [
+          "mò",
+          "qí",
+          "sī",
+          "mǎ",
+          "",
+          "shàng",
+          "guān",
+          "ōu",
+          "yáng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 52,
+        "text": "万俟司马　上官欧阳",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "two-character surname Moqi",
+            "pinyin": "Mò qí",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "万俟"
+          },
+          {
+            "end": 4,
+            "gloss": "Minister of War (official title in pre-Han Chinese states) / two-character surname Sima",
+            "pinyin": "Sī mǎ",
+            "source": "CC-CEDICT",
+            "start": 2,
+            "word": "司马"
+          },
+          {
+            "end": 7,
+            "gloss": "high-ranking official / superior",
+            "pinyin": "shàng guān",
+            "source": "CC-CEDICT",
+            "start": 5,
+            "word": "上官"
+          },
+          {
+            "end": 9,
+            "gloss": "two-character surname Ouyang",
+            "pinyin": "Ōu yáng",
+            "source": "CC-CEDICT",
+            "start": 7,
+            "word": "欧阳"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-053",
+        "order": 53,
+        "pinyin_per_char": [
+          "xià",
+          "hóu",
+          "zhū",
+          "gě",
+          "",
+          "wén",
+          "rén",
+          "dōng",
+          "fāng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 53,
+        "text": "夏侯诸葛　闻人东方",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "two-character surname Xiahou",
+            "pinyin": "Xià hóu",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "夏侯"
+          },
+          {
+            "end": 4,
+            "gloss": "two-character surname Zhuge / Taiwan pr. [Zhu1ge2]",
+            "pinyin": "Zhū gě",
+            "source": "CC-CEDICT",
+            "start": 2,
+            "word": "诸葛"
+          },
+          {
+            "end": 7,
+            "gloss": "famous person",
+            "pinyin": "wén rén",
+            "source": "CC-CEDICT",
+            "start": 5,
+            "word": "闻人"
+          },
+          {
+            "end": 9,
+            "gloss": "east",
+            "pinyin": "dōng fāng",
+            "source": "CC-CEDICT",
+            "start": 7,
+            "word": "东方"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-054",
+        "order": 54,
+        "pinyin_per_char": [
+          "hè",
+          "lián",
+          "huáng",
+          "fǔ",
+          "",
+          "yù",
+          "chí",
+          "gōng",
+          "yáng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 54,
+        "text": "赫连皇甫　尉迟公羊",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "赫"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "连"
+          },
+          {
+            "end": 4,
+            "gloss": "two-character surname Huangfu",
+            "pinyin": "Huáng fǔ",
+            "source": "CC-CEDICT",
+            "start": 2,
+            "word": "皇甫"
+          },
+          {
+            "end": 7,
+            "gloss": "two-character surname Yuchi",
+            "pinyin": "Yù chí",
+            "source": "CC-CEDICT",
+            "start": 5,
+            "word": "尉迟"
+          },
+          {
+            "end": 9,
+            "gloss": "ram (male sheep)",
+            "pinyin": "gōng yáng",
+            "source": "CC-CEDICT",
+            "start": 7,
+            "word": "公羊"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-055",
+        "order": 55,
+        "pinyin_per_char": [
+          "tán",
+          "tái",
+          "gōng",
+          "yě",
+          "",
+          "zōng",
+          "zhèng",
+          "pú",
+          "yáng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 55,
+        "text": "澹台公冶　宗政濮阳",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "澹"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "台"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "公"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "冶"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "宗"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "政"
+          },
+          {
+            "end": 9,
+            "gloss": "see 濮阳市|濮阳市[Pu2 yang2 Shi4] / see 濮阳县|濮阳县[Pu2 yang2 Xian4]",
+            "pinyin": "Pú yáng",
+            "source": "CC-CEDICT",
+            "start": 7,
+            "word": "濮阳"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-056",
+        "order": 56,
+        "pinyin_per_char": [
+          "chún",
+          "yú",
+          "chán",
+          "yú",
+          "",
+          "tài",
+          "shū",
+          "shēn",
+          "tú"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 56,
+        "text": "淳于单于　太叔申屠",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "two-character surname Chunyu",
+            "pinyin": "Chún yú",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "淳于"
+          },
+          {
+            "end": 4,
+            "gloss": "king of the Xiongnu 匈奴[Xiong1 nu2]",
+            "pinyin": "chán yú",
+            "source": "CC-CEDICT",
+            "start": 2,
+            "word": "单于"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "太"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "叔"
+          },
+          {
+            "end": 9,
+            "gloss": "two-character surname Shentu",
+            "pinyin": "Shēn tú",
+            "source": "CC-CEDICT",
+            "start": 7,
+            "word": "申屠"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-057",
+        "order": 57,
+        "pinyin_per_char": [
+          "gōng",
+          "sūn",
+          "zhòng",
+          "sūn",
+          "",
+          "xuān",
+          "yuán",
+          "líng",
+          "hú"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 57,
+        "text": "公孙仲孙　轩辕令狐",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "two-character surname Gongsun",
+            "pinyin": "Gōng sūn",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "公孙"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "仲"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "孙"
+          },
+          {
+            "end": 7,
+            "gloss": "two-character surname Xuanyuan",
+            "pinyin": "Xuān yuán",
+            "source": "CC-CEDICT",
+            "start": 5,
+            "word": "轩辕"
+          },
+          {
+            "end": 9,
+            "gloss": "old place name (in present-day Linyi County 临猗县|临猗县[Lin2 yi1 Xian4], Shanxi) / two-character surnam…",
+            "pinyin": "Líng hú",
+            "source": "CC-CEDICT",
+            "start": 7,
+            "word": "令狐"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-058",
+        "order": 58,
+        "pinyin_per_char": [
+          "zhōng",
+          "lí",
+          "yǔ",
+          "wén",
+          "",
+          "zhǎng",
+          "sūn",
+          "mù",
+          "róng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 58,
+        "text": "钟离宇文　长孙慕容",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "钟"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "离"
+          },
+          {
+            "end": 4,
+            "gloss": "a branch of the Xianbei 鲜卑|鲜卑[Xian1 bei1] nomadic people / two-character surname Yuwen",
+            "pinyin": "Yǔ wén",
+            "source": "CC-CEDICT",
+            "start": 2,
+            "word": "宇文"
+          },
+          {
+            "end": 7,
+            "gloss": "eldest grandson / the eldest son of one's eldest son",
+            "pinyin": "zhǎng sūn",
+            "source": "CC-CEDICT",
+            "start": 5,
+            "word": "长孙"
+          },
+          {
+            "end": 9,
+            "gloss": "a branch of the Xianbei 鲜卑|鲜卑[Xian1 bei1] nomadic people / two-character surname Murong",
+            "pinyin": "Mù róng",
+            "source": "CC-CEDICT",
+            "start": 7,
+            "word": "慕容"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-059",
+        "order": 59,
+        "pinyin_per_char": [
+          "xiān",
+          "yú",
+          "lǘ",
+          "qiū",
+          "",
+          "sī",
+          "tú",
+          "sī",
+          "kōng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 59,
+        "text": "鲜于闾丘　司徒司空",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "鲜"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "于"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "闾"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "丘"
+          },
+          {
+            "end": 7,
+            "gloss": "minister of land and people (in ancient times)",
+            "pinyin": "sī tú",
+            "source": "CC-CEDICT",
+            "start": 5,
+            "word": "司徒"
+          },
+          {
+            "end": 9,
+            "gloss": "two-character surname Sikong",
+            "pinyin": "Sī kōng",
+            "source": "CC-CEDICT",
+            "start": 7,
+            "word": "司空"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-060",
+        "order": 60,
+        "pinyin_per_char": [
+          "jī",
+          "guān",
+          "sī",
+          "kòu",
+          "",
+          "zhǎng",
+          "dū",
+          "zi",
+          "chē"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 60,
+        "text": "丌官司寇　仉督子车",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "丌"
+          },
+          {
+            "end": 3,
+            "gloss": "lawsuit / CL:场|场[chang2]",
+            "pinyin": "guān si",
+            "source": "CC-CEDICT",
+            "start": 1,
+            "word": "官司"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "寇"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "仉"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "督"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "子"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "车"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-061",
+        "order": 61,
+        "pinyin_per_char": [
+          "zhuān",
+          "sūn",
+          "duān",
+          "mù",
+          "",
+          "wū",
+          "mǎ",
+          "gōng",
+          "xī"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 61,
+        "text": "颛孙端木　巫马公西",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "颛"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "孙"
+          },
+          {
+            "end": 4,
+            "gloss": "two-character surname Duanmu",
+            "pinyin": "Duān mù",
+            "source": "CC-CEDICT",
+            "start": 2,
+            "word": "端木"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "巫"
+          },
+          {
+            "end": 8,
+            "gloss": "Makung city in Penghu county 澎湖县|澎湖县[Peng2 hu2 xian4] (Pescadores Islands), Taiwan",
+            "pinyin": "Mǎ gōng",
+            "source": "CC-CEDICT",
+            "start": 6,
+            "word": "马公"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "西"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-062",
+        "order": 62,
+        "pinyin_per_char": [
+          "qī",
+          "diāo",
+          "lè",
+          "zhèng",
+          "",
+          "rǎng",
+          "sì",
+          "gōng",
+          "liáng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 62,
+        "text": "漆雕乐正　壤驷公良",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "carved or engraved lacquerware",
+            "pinyin": "qī diāo",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "漆雕"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "乐"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "正"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "壤"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "驷"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "公"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "良"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-063",
+        "order": 63,
+        "pinyin_per_char": [
+          "tuò",
+          "bá",
+          "jiā",
+          "gǔ",
+          "",
+          "zǎi",
+          "fù",
+          "gǔ",
+          "liáng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 63,
+        "text": "拓跋夹谷　宰父谷梁",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "branch of the Xianbei 鲜卑|鲜卑 nomadic people, founders of Wei 北魏 of the Northern Dynasties (386-534) …",
+            "pinyin": "Tuò bá",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "拓跋"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "夹"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "谷"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "宰"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "父"
+          },
+          {
+            "end": 9,
+            "gloss": "two-character surname Guliang / abbr. for 谷梁传|谷梁传[Gu3 liang2 Zhuan4], Guliang Annals",
+            "pinyin": "Gǔ liáng",
+            "source": "CC-CEDICT",
+            "start": 7,
+            "word": "谷梁"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-064",
+        "order": 64,
+        "pinyin_per_char": [
+          "jìn",
+          "chǔ",
+          "yán",
+          "fǎ",
+          "",
+          "rǔ",
+          "yān",
+          "tú",
+          "qīn"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 64,
+        "text": "晋楚闫法　汝鄢涂钦",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "晋"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "楚"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "闫"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "法"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "汝"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "鄢"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "涂"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "钦"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-065",
+        "order": 65,
+        "pinyin_per_char": [
+          "duàn",
+          "gàn",
+          "bái",
+          "lǐ",
+          "",
+          "dōng",
+          "guō",
+          "nán",
+          "mén"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 65,
+        "text": "段干百里　东郭南门",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "段"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "干"
+          },
+          {
+            "end": 4,
+            "gloss": "two-character surname Baili",
+            "pinyin": "Bǎi lǐ",
+            "source": "CC-CEDICT",
+            "start": 2,
+            "word": "百里"
+          },
+          {
+            "end": 7,
+            "gloss": "two-character surname Dongguo",
+            "pinyin": "Dōng guō",
+            "source": "CC-CEDICT",
+            "start": 5,
+            "word": "东郭"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "南"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "门"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-066",
+        "order": 66,
+        "pinyin_per_char": [
+          "hū",
+          "yán",
+          "guī",
+          "hǎi",
+          "",
+          "yáng",
+          "shé",
+          "wēi",
+          "shēng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 66,
+        "text": "呼延归海　羊舌微生",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "two-character surname Huyan",
+            "pinyin": "Hū yán",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "呼延"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "归"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "海"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "羊"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "舌"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "微"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "生"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-067",
+        "order": 67,
+        "pinyin_per_char": [
+          "yuè",
+          "shuài",
+          "gōu",
+          "kàng",
+          "",
+          "kuàng",
+          "hòu",
+          "yǒu",
+          "qín"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 67,
+        "text": "岳帅缑亢　况后有琴",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "岳"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "帅"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "缑"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "亢"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "况"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "后"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "有"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "琴"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-068",
+        "order": 68,
+        "pinyin_per_char": [
+          "liáng",
+          "qiū",
+          "zuǒ",
+          "qiū",
+          "",
+          "dōng",
+          "mén",
+          "xī",
+          "mén"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 68,
+        "text": "梁丘左丘　东门西门",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "梁"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "丘"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "左"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "丘"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "东"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "门"
+          },
+          {
+            "end": 9,
+            "gloss": "two-character surname Ximen",
+            "pinyin": "Xī mén",
+            "source": "CC-CEDICT",
+            "start": 7,
+            "word": "西门"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-069",
+        "order": 69,
+        "pinyin_per_char": [
+          "shāng",
+          "móu",
+          "shé",
+          "èr",
+          "",
+          "bó",
+          "shǎng",
+          "nán",
+          "gōng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 69,
+        "text": "商牟佘佴　伯赏南宫",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "商"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "牟"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "佘"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "佴"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "伯"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "赏"
+          },
+          {
+            "end": 9,
+            "gloss": "two-character surname Nangong / see 南宫市|南宫市[Nan2 gong1 Shi4]",
+            "pinyin": "Nán gōng",
+            "source": "CC-CEDICT",
+            "start": 7,
+            "word": "南宫"
+          }
+        ]
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-001-line-070",
+        "order": 70,
+        "pinyin_per_char": [
+          "mò",
+          "hā",
+          "qiáo",
+          "dá",
+          "",
+          "nián",
+          "ài",
+          "yáng",
+          "tóng"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 70,
+        "text": "墨哈谯笪　年爱阳佟",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "墨"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "哈"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "谯"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "笪"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "年"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "爱"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "阳"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "佟"
+          }
+        ]
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-001-line-071",
+        "order": 71,
+        "pinyin_per_char": [
+          "dì",
+          "wǔ",
+          "yán",
+          "fú"
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 71,
+        "text": "第五言福",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "fifth",
+            "pinyin": "dì wǔ",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "第五"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "言"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "福"
+          }
+        ]
+      }
+    ],
+    "summary": "赵钱孙李　周吴郑王",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "赵钱孙李　周吴郑王 冯陈褚卫　蒋沈韩杨 朱秦尤许　何吕施张 孔曹严华　金魏陶姜 戚谢邹喻　栢水窦章 云苏潘葛　奚范彭郎 鲁韦昌马　苗凤花方 俞任袁柳　酆鲍史唐 费廉岑薛　雷贺倪汤 滕殷罗毕　郝邬安常 乐于时傅　皮卞齐康 伍余元卜　顾孟平黄 和穆萧尹　姚邵湛汪 祁毛禹狄　米贝明臧 计伏成戴　谈宋茅厐 熊纪舒屈　项祝董梁 杜阮蓝闵　席季麻强 贾路娄危　江童颜郭 梅盛林刁　钟徐邱骆 高夏蔡田　樊胡凌霍 虞万支柯　昝管卢莫 经房裘缪　干解应宗 丁宣贲邓　郁单杭洪 包诸左石　崔吉鉏龚 程嵇邢滑　裴陆荣翁 荀于羊惠　甄曲家封 芮羿储靳　汲邴糜松 井段富巫　乌焦巴弓 牧隗山谷　车侯宓蓬 全郗班仰　秋仲伊宫 宁仇栾暴　甘针厉戎 祖武符刘　景詹束龙 叶幸司韶　郜黎蓟薄 印宿白怀　蒲邰从鄂 索咸籍赖　卓蔺屠蒙 池乔阴郁　胥能苍双 闻莘党翟　谭贡劳逄 姬申扶堵　冉宰郦雍 郤璩桑桂　濮牛寿通 边扈燕翼　郏浦尚农 温别庄晏　柴瞿阎充 慕连茹习　宦艾鱼容 向古易慎　戈廖庾终 暨居衡步　都耿满弘 匡国文寇　广禄阙东 欧殳沃利　蔚越夔隆 师巩库聂　晁勾敖融 冷訾辛阚　那简饶空 曾毋沙乜　养鞠须丰 巢关蒯相　查后荆红 游竺权逯　盖益桓公 万俟司马　上官欧阳 夏侯诸葛　闻人东方 赫连皇甫　尉迟公羊 澹台公冶　宗政濮阳 淳于单于　太叔申屠 公孙仲孙　轩辕令狐 钟离宇文　长孙慕容 鲜于闾丘　司徒司空 丌官司寇　仉督子车 颛孙端木　巫马公西 漆雕乐正　壤驷公良 拓跋夹谷　宰父谷梁 晋楚闫法　汝鄢涂钦 段干百里　东郭南门 呼延归海　羊舌微生 岳帅缑亢　况后有琴 梁丘左丘　东门西门 商牟佘佴　伯赏南宫 墨哈谯笪　年爱阳佟 第五言福",
+    "title": "全篇"
+  },
+  "chapter_path": "books/bai-jia-xing/chapters/chapter-001.json",
+  "provider": "wikisource-html",
+  "schema_version": 2,
+  "source_title": "百家姓 (zh.wikisource) — anonymous Song-dynasty primer, public domain ({{PD-old}}). No English translation shipped: the text is a rhymed list of surnames with no prose to translate (honest gap, not fabricated).",
+  "source_url": "https://zh.wikisource.org/wiki/百家姓"
+}

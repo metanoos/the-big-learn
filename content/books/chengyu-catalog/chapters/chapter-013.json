@@ -153,7 +153,13 @@
         "order": 14,
         "pinyin": "bù gǎi qí lè",
         "pinyin_source": "derived from per-character index",
-        "text": "不改其乐"
+        "text": "不改其乐",
+        "origin": {
+          "book": "lunyu",
+          "chapter": 6,
+          "line": 15,
+          "snippet": "子曰：「贤哉回也！一箪食，一瓢饮，在陋巷。人不堪其忧，回也不改其乐。贤哉回也！」"
+        }
       },
       {
         "canonical_translations": [
@@ -381,7 +387,13 @@
         "order": 34,
         "pinyin": "bù jiào ér shā",
         "pinyin_source": "derived from per-character index",
-        "text": "不教而杀"
+        "text": "不教而杀",
+        "origin": {
+          "book": "lunyu",
+          "chapter": 20,
+          "line": 12,
+          "snippet": "子张曰：「何谓四恶？」子曰：「不教而杀谓之虐；不戒视成谓之暴；慢令致期谓之贼；犹之与人也，出纳之吝，谓之有司。」"
+        }
       },
       {
         "canonical_translations": [],
@@ -442,7 +454,13 @@
         "order": 39,
         "pinyin": "bù wéi yǐ shèn",
         "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
-        "text": "不为已甚"
+        "text": "不为已甚",
+        "origin": {
+          "book": "mengzi",
+          "chapter": 8,
+          "line": 20,
+          "snippet": "孟子曰：「仲尼不为已甚者。」已，犹太也。杨氏曰：「言圣人所为，本分之外，不加毫末。非孟子真知孔子，不能以是称之。」"
+        }
       },
       {
         "canonical_translations": [],
@@ -469,7 +487,13 @@
         "order": 42,
         "pinyin": "xiù ér bù shí",
         "pinyin_source": "derived from per-character index",
-        "text": "秀而不实"
+        "text": "秀而不实",
+        "origin": {
+          "book": "lunyu",
+          "chapter": 9,
+          "line": 33,
+          "snippet": "子曰；「苗而不秀者有矣夫！秀而不实者有矣夫！」"
+        }
       },
       {
         "canonical_translations": [],

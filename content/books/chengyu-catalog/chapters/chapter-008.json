@@ -20,7 +20,13 @@
         "order": 1,
         "pinyin": "bù bài zhī dì",
         "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
-        "text": "不败之地"
+        "text": "不败之地",
+        "origin": {
+          "book": "sunzi-bingfa",
+          "chapter": 4,
+          "line": 4,
+          "snippet": "故 善 战 者 ， 立于不败之地 ， 而 不 失 敌 之 败 也 。是故 胜兵 先 胜 而后 求战 ，败 兵 先 战 而后 求 胜 。 善用 兵 者 ， 修道…"
+        }
       },
       {
         "canonical_translations": [],
@@ -64,7 +70,13 @@
         "order": 5,
         "pinyin": "bù yán ér xìn",
         "pinyin_source": "derived from per-character index",
-        "text": "不言而信"
+        "text": "不言而信",
+        "origin": {
+          "book": "zhong-yong",
+          "chapter": 33,
+          "line": 3,
+          "snippet": "《诗》云：「相在尔室，尚不愧于屋漏。」故君子不动而敬，不言而信。"
+        }
       },
       {
         "canonical_translations": [],
@@ -73,7 +85,13 @@
         "order": 6,
         "pinyin": "wú wèi ér zhì",
         "pinyin_source": "derived from per-character index",
-        "text": "无为而治"
+        "text": "无为而治",
+        "origin": {
+          "book": "lunyu",
+          "chapter": 15,
+          "line": 8,
+          "snippet": "子曰：「无为而治者，其舜也与？夫何为哉，恭己正南面而已矣。」"
+        }
       },
       {
         "canonical_translations": [
@@ -273,7 +291,13 @@
         "order": 22,
         "pinyin": "dà ér huà zhī",
         "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
-        "text": "大而化之"
+        "text": "大而化之",
+        "origin": {
+          "book": "mengzi",
+          "chapter": 14,
+          "line": 52,
+          "snippet": "大而化之之谓圣，"
+        }
       },
       {
         "canonical_translations": [
@@ -377,7 +401,13 @@
         "order": 30,
         "pinyin": "lǎo ér bù sǐ",
         "pinyin_source": "derived from per-character index",
-        "text": "老而不死"
+        "text": "老而不死",
+        "origin": {
+          "book": "lunyu",
+          "chapter": 14,
+          "line": 73,
+          "snippet": "原壤夷俟。子曰：「幼而不孙弟，长而无述焉，老而不死，是为贼！」以杖叩其胫。"
+        }
       },
       {
         "canonical_translations": [
@@ -420,7 +450,13 @@
         "order": 33,
         "pinyin": "tiān wú èr rì",
         "pinyin_source": "derived from per-character index",
-        "text": "天无二日"
+        "text": "天无二日",
+        "origin": {
+          "book": "mengzi",
+          "chapter": 9,
+          "line": 18,
+          "snippet": "尧老而舜摄也。尧典曰：『二十有八载，放勋乃徂落，百姓如丧考妣，三年，四海遏密八音。』孔子曰：『天无二日，民无二王。』舜既为天子矣，又帅天下诸侯以为尧三年丧，是…"
+        }
       },
       {
         "canonical_translations": [
@@ -463,7 +499,13 @@
         "order": 36,
         "pinyin": "zì yǐ wéi shì",
         "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
-        "text": "自以为是"
+        "text": "自以为是",
+        "origin": {
+          "book": "mengzi",
+          "chapter": 14,
+          "line": 87,
+          "snippet": "曰：「非之无举也，刺之无刺也；同乎流俗，合乎污世；居之似忠信，行之似廉洁；众皆悦之，自以为是，而不可与入尧舜之道，故曰德之贼也。"
+        }
       },
       {
         "canonical_translations": [],
@@ -552,7 +594,13 @@
         "order": 45,
         "pinyin": "chéng shì bù shuō",
         "pinyin_source": "derived from per-character index",
-        "text": "成事不说"
+        "text": "成事不说",
+        "origin": {
+          "book": "lunyu",
+          "chapter": 3,
+          "line": 29,
+          "snippet": "子闻之曰：「成事不说，遂事不谏，既往不咎。」"
+        }
       },
       {
         "canonical_translations": [

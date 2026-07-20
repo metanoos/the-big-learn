@@ -18,16 +18,487 @@
         "character_count": 59,
         "id": "chapter-001-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "dào",
+          "kě",
+          "dào",
+          "",
+          "fēi",
+          "cháng",
+          "dào",
+          "",
+          "míng",
+          "kě",
+          "míng",
+          "",
+          "fēi",
+          "cháng",
+          "míng",
+          "",
+          "wú",
+          "míng",
+          "tiān",
+          "dì",
+          "zhī",
+          "shǐ",
+          "",
+          "yǒu",
+          "míng",
+          "wàn",
+          "wù",
+          "zhī",
+          "mǔ",
+          "",
+          "gù",
+          "cháng",
+          "wú",
+          "yù",
+          "",
+          "yǐ",
+          "guān",
+          "qí",
+          "miào",
+          "",
+          "cháng",
+          "yǒu",
+          "yù",
+          "",
+          "yǐ",
+          "guān",
+          "qí",
+          "jiǎo",
+          "",
+          "cí",
+          "liáng",
+          "zhě",
+          "",
+          "tóng",
+          "chū",
+          "ér",
+          "yì",
+          "míng",
+          "",
+          "tóng",
+          "wèi",
+          "zhī",
+          "xuán",
+          "",
+          "xuán",
+          "zhī",
+          "yòu",
+          "xuán",
+          "",
+          "zhòng",
+          "miào",
+          "zhī",
+          "mén",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "道可道、非常道，名可名、非常名；無名天地之始，有名萬物之母。故常無欲、以觀其妙，常有欲、以觀其徼；此兩者、同出而異名，同謂之玄、玄之又玄、眾妙之門。"
+        "text": "道可道、非常道，名可名、非常名；无名天地之始，有名万物之母。故常无欲、以观其妙，常有欲、以观其徼；此两者、同出而异名，同谓之玄、玄之又玄、众妙之门。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "道"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "可"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "道"
+          },
+          {
+            "end": 6,
+            "gloss": "very; really / unusual; extraordinary",
+            "pinyin": "fēi cháng",
+            "source": "CC-CEDICT",
+            "start": 4,
+            "word": "非常"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "道"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "名"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "可"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "名"
+          },
+          {
+            "end": 14,
+            "gloss": "very; really / unusual; extraordinary",
+            "pinyin": "fēi cháng",
+            "source": "CC-CEDICT",
+            "start": 12,
+            "word": "非常"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "名"
+          },
+          {
+            "end": 18,
+            "gloss": "nameless / obscure",
+            "pinyin": "wú míng",
+            "source": "CC-CEDICT",
+            "start": 16,
+            "word": "无名"
+          },
+          {
+            "end": 20,
+            "gloss": "heaven and earth / world / scope / field of activity",
+            "pinyin": "tiān dì",
+            "source": "CC-CEDICT",
+            "start": 18,
+            "word": "天地"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "之"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "始"
+          },
+          {
+            "end": 25,
+            "gloss": "famous / well-known",
+            "pinyin": "yǒu míng",
+            "source": "CC-CEDICT",
+            "start": 23,
+            "word": "有名"
+          },
+          {
+            "end": 27,
+            "gloss": "all things / all that exists",
+            "pinyin": "wàn wù",
+            "source": "CC-CEDICT",
+            "start": 25,
+            "word": "万物"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "之"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "母"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "故"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "常"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "无"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "欲"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "以"
+          },
+          {
+            "end": 37,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 36,
+            "word": "观"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "其"
+          },
+          {
+            "end": 39,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 38,
+            "word": "妙"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "常"
+          },
+          {
+            "end": 42,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 41,
+            "word": "有"
+          },
+          {
+            "end": 43,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 42,
+            "word": "欲"
+          },
+          {
+            "end": 45,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 44,
+            "word": "以"
+          },
+          {
+            "end": 46,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 45,
+            "word": "观"
+          },
+          {
+            "end": 47,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 46,
+            "word": "其"
+          },
+          {
+            "end": 48,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 47,
+            "word": "徼"
+          },
+          {
+            "end": 50,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 49,
+            "word": "此"
+          },
+          {
+            "end": 52,
+            "gloss": "both of them; the two of them",
+            "pinyin": "liǎng zhě",
+            "source": "CC-CEDICT",
+            "start": 50,
+            "word": "两者"
+          },
+          {
+            "end": 54,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 53,
+            "word": "同"
+          },
+          {
+            "end": 55,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 54,
+            "word": "出"
+          },
+          {
+            "end": 56,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 55,
+            "word": "而"
+          },
+          {
+            "end": 57,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 56,
+            "word": "异"
+          },
+          {
+            "end": 58,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 57,
+            "word": "名"
+          },
+          {
+            "end": 60,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 59,
+            "word": "同"
+          },
+          {
+            "end": 61,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 60,
+            "word": "谓"
+          },
+          {
+            "end": 62,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 61,
+            "word": "之"
+          },
+          {
+            "end": 63,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 62,
+            "word": "玄"
+          },
+          {
+            "end": 68,
+            "gloss": "mystery within a mystery / the mysteries of the Dao according to Laozi 老子[Lao3 zi3]",
+            "pinyin": "xuán zhī yòu xuán",
+            "source": "CC-CEDICT",
+            "start": 64,
+            "word": "玄之又玄"
+          },
+          {
+            "end": 70,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 69,
+            "word": "众"
+          },
+          {
+            "end": 71,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 70,
+            "word": "妙"
+          },
+          {
+            "end": 72,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 71,
+            "word": "之"
+          },
+          {
+            "end": 73,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 72,
+            "word": "门"
+          }
+        ]
       }
     ],
     "summary": "道可道，非常道",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "道可道，非常道。名可名，非常名。無名天地之始；有名萬物之母。故常無欲，以觀其妙；常有欲，以觀其徼。此兩者，同出而異名，同謂之玄。玄之又玄，衆妙之門。",
+    "text": "道可道，非常道。名可名，非常名。无名天地之始；有名万物之母。故常无欲，以观其妙；常有欲，以观其徼。此两者，同出而异名，同谓之玄。玄之又玄，众妙之门。",
     "title": "第1章"
   },
   "chapter_path": "books/daodejing/chapters/chapter-001.json",

@@ -18,16 +18,345 @@
         "character_count": 39,
         "id": "chapter-007-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "zǐ",
+          "yuē",
+          "",
+          "",
+          "rén",
+          "jiē",
+          "yuē",
+          "",
+          "yǔ",
+          "zhī",
+          "",
+          "",
+          "qū",
+          "ér",
+          "nà",
+          "zhū",
+          "gǔ",
+          "wò",
+          "xiàn",
+          "jǐng",
+          "zhī",
+          "zhōng",
+          "",
+          "ér",
+          "mò",
+          "zhī",
+          "zhī",
+          "pì",
+          "yě",
+          "",
+          "rén",
+          "jiē",
+          "yuē",
+          "",
+          "yǔ",
+          "zhī",
+          "",
+          "",
+          "zé",
+          "hū",
+          "zhōng",
+          "yōng",
+          "",
+          "ér",
+          "bù",
+          "néng",
+          "qī",
+          "yuè",
+          "shóu",
+          "yě",
+          "",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "子曰：「人皆曰『予知』，驅而納諸罟擭陷阱之中，而莫之知辟也。人皆曰『予知』，擇乎中庸，而不能期月守也。」"
+        "text": "子曰：「人皆曰『予知』，驱而纳诸罟擭陷阱之中，而莫之知辟也。人皆曰『予知』，择乎中庸，而不能期月守也。」",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "The Master said (Confucius said)",
+            "pinyin": "zǐ yuē",
+            "source": "classical-override",
+            "start": 0,
+            "word": "子曰"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "人"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "皆"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "曰"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "予"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "知"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "驱"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "而"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "纳"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "诸"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "罟"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "擭"
+          },
+          {
+            "end": 20,
+            "gloss": "pitfall / snare / trap",
+            "pinyin": "xiàn jǐng",
+            "source": "CC-CEDICT",
+            "start": 18,
+            "word": "陷阱"
+          },
+          {
+            "end": 22,
+            "gloss": "inside / among / in the midst of (doing sth) / during",
+            "pinyin": "zhī zhōng",
+            "source": "CC-CEDICT",
+            "start": 20,
+            "word": "之中"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "而"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "莫"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "之"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "知"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "辟"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "也"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "人"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "皆"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "曰"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "予"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "知"
+          },
+          {
+            "end": 39,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 38,
+            "word": "择"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "乎"
+          },
+          {
+            "end": 42,
+            "gloss": "The Doctrine of the Mean; the Golden Mean (the constant middle way)",
+            "pinyin": "zhōng yōng",
+            "source": "classical-override",
+            "start": 40,
+            "word": "中庸"
+          },
+          {
+            "end": 44,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 43,
+            "word": "而"
+          },
+          {
+            "end": 46,
+            "gloss": "cannot / must not / should not",
+            "pinyin": "bù néng",
+            "source": "CC-CEDICT",
+            "start": 44,
+            "word": "不能"
+          },
+          {
+            "end": 47,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 46,
+            "word": "期"
+          },
+          {
+            "end": 48,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 47,
+            "word": "月"
+          },
+          {
+            "end": 49,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 48,
+            "word": "守"
+          },
+          {
+            "end": 50,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 49,
+            "word": "也"
+          }
+        ]
       }
     ],
     "summary": "",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "子曰：「人皆曰予知，驅而納諸罟擭陷阱之中，而莫之知辟也。人皆曰予知，擇乎中庸而不能期月守也。」",
+    "text": "子曰：「人皆曰予知，驱而纳诸罟擭陷阱之中，而莫之知辟也。人皆曰予知，择乎中庸而不能期月守也。」",
     "title": ""
   },
   "chapter_path": "books/zhong-yong/chapters/chapter-007.json",

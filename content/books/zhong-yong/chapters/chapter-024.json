@@ -18,16 +18,407 @@
         "character_count": 52,
         "id": "chapter-024-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "zhì",
+          "chéng",
+          "zhī",
+          "dào",
+          "",
+          "ké",
+          "yǐ",
+          "qián",
+          "zhī",
+          "",
+          "guó",
+          "jiā",
+          "jiāng",
+          "xīng",
+          "",
+          "bì",
+          "yǒu",
+          "zhēn",
+          "xiáng",
+          "",
+          "guó",
+          "jiā",
+          "jiāng",
+          "wáng",
+          "",
+          "bì",
+          "yǒu",
+          "yāo",
+          "niè",
+          "",
+          "jiàn",
+          "hū",
+          "shī",
+          "guī",
+          "",
+          "dòng",
+          "hū",
+          "sì",
+          "tǐ",
+          "",
+          "huò",
+          "fú",
+          "jiàng",
+          "zhì",
+          "",
+          "shàn",
+          "",
+          "bì",
+          "xiān",
+          "zhī",
+          "zhī",
+          "",
+          "bú",
+          "shàn",
+          "",
+          "bì",
+          "xiān",
+          "zhī",
+          "zhī",
+          "",
+          "gù",
+          "zhì",
+          "chéng",
+          "rú",
+          "shén",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "至誠之道，可以前知。國家將興，必有禎祥；國家將亡，必有妖孽；見乎蓍龜，動乎四體。禍福將至：善，必先知之；不善，必先知之。故至誠如神。"
+        "text": "至诚之道，可以前知。国家将兴，必有祯祥；国家将亡，必有妖孽；见乎蓍龟，动乎四体。祸福将至：善，必先知之；不善，必先知之。故至诚如神。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "sincere",
+            "pinyin": "zhì chéng",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "至诚"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "之"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "道"
+          },
+          {
+            "end": 7,
+            "gloss": "can / may / possible / able to / not bad / pretty good",
+            "pinyin": "kě yǐ",
+            "source": "CC-CEDICT",
+            "start": 5,
+            "word": "可以"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "前"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "知"
+          },
+          {
+            "end": 12,
+            "gloss": "country; nation; state",
+            "pinyin": "guó jiā",
+            "source": "CC-CEDICT",
+            "start": 10,
+            "word": "国家"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "将"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "兴"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "必"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "有"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "祯"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "祥"
+          },
+          {
+            "end": 22,
+            "gloss": "country; nation; state",
+            "pinyin": "guó jiā",
+            "source": "CC-CEDICT",
+            "start": 20,
+            "word": "国家"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "将"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "亡"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "必"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "有"
+          },
+          {
+            "end": 29,
+            "gloss": "evildoer",
+            "pinyin": "yāo niè",
+            "source": "CC-CEDICT",
+            "start": 27,
+            "word": "妖孽"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "见"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "乎"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "蓍"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "龟"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "动"
+          },
+          {
+            "end": 37,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 36,
+            "word": "乎"
+          },
+          {
+            "end": 39,
+            "gloss": "one's four limbs / two arms and two legs",
+            "pinyin": "sì tǐ",
+            "source": "CC-CEDICT",
+            "start": 37,
+            "word": "四体"
+          },
+          {
+            "end": 42,
+            "gloss": "disaster and happiness",
+            "pinyin": "huò fú",
+            "source": "CC-CEDICT",
+            "start": 40,
+            "word": "祸福"
+          },
+          {
+            "end": 44,
+            "gloss": "to be about to arrive / to be around the corner",
+            "pinyin": "jiāng zhì",
+            "source": "CC-CEDICT",
+            "start": 42,
+            "word": "将至"
+          },
+          {
+            "end": 46,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 45,
+            "word": "善"
+          },
+          {
+            "end": 48,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 47,
+            "word": "必"
+          },
+          {
+            "end": 50,
+            "gloss": "a person of foresight / (religion) a prophet",
+            "pinyin": "xiān zhī",
+            "source": "CC-CEDICT",
+            "start": 48,
+            "word": "先知"
+          },
+          {
+            "end": 51,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 50,
+            "word": "之"
+          },
+          {
+            "end": 54,
+            "gloss": "bad / ill / not good at / not to be pooh-poohed / quite impressive",
+            "pinyin": "bù shàn",
+            "source": "CC-CEDICT",
+            "start": 52,
+            "word": "不善"
+          },
+          {
+            "end": 56,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 55,
+            "word": "必"
+          },
+          {
+            "end": 58,
+            "gloss": "a person of foresight / (religion) a prophet",
+            "pinyin": "xiān zhī",
+            "source": "CC-CEDICT",
+            "start": 56,
+            "word": "先知"
+          },
+          {
+            "end": 59,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 58,
+            "word": "之"
+          },
+          {
+            "end": 61,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 60,
+            "word": "故"
+          },
+          {
+            "end": 63,
+            "gloss": "sincere",
+            "pinyin": "zhì chéng",
+            "source": "CC-CEDICT",
+            "start": 61,
+            "word": "至诚"
+          },
+          {
+            "end": 64,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 63,
+            "word": "如"
+          },
+          {
+            "end": 65,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 64,
+            "word": "神"
+          }
+        ]
       }
     ],
     "summary": "",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "至誠之道，可以前知。國家將興，必有禎祥；國家將亡，必有妖孽；見乎蓍龜，動乎四體。禍福將至：善，必先知之；不善，必先知之。故至誠如神。",
+    "text": "至诚之道，可以前知。国家将兴，必有祯祥；国家将亡，必有妖孽；见乎蓍龟，动乎四体。祸福将至：善，必先知之；不善，必先知之。故至诚如神。",
     "title": ""
   },
   "chapter_path": "books/zhong-yong/chapters/chapter-024.json",

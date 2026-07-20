@@ -18,16 +18,257 @@
         "character_count": 31,
         "id": "chapter-032-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "wéi",
+          "tiān",
+          "xià",
+          "zhì",
+          "chéng",
+          "",
+          "wèi",
+          "néng",
+          "jīng",
+          "lún",
+          "tiān",
+          "xià",
+          "zhī",
+          "dà",
+          "jīng",
+          "",
+          "lì",
+          "tiān",
+          "xià",
+          "zhī",
+          "dà",
+          "běn",
+          "",
+          "zhī",
+          "tiān",
+          "dì",
+          "zhī",
+          "huà",
+          "yù",
+          "",
+          "fū",
+          "yān",
+          "yóu",
+          "suó",
+          "yǐ",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "唯天下至誠，為能經綸天下之大經，立天下之大本，知天地之化育。夫焉有所倚？"
+        "text": "唯天下至诚，为能经纶天下之大经，立天下之大本，知天地之化育。夫焉有所倚？",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "唯"
+          },
+          {
+            "end": 3,
+            "gloss": "land under heaven / the whole world / the whole of China / realm / rule",
+            "pinyin": "tiān xià",
+            "source": "CC-CEDICT",
+            "start": 1,
+            "word": "天下"
+          },
+          {
+            "end": 5,
+            "gloss": "sincere",
+            "pinyin": "zhì chéng",
+            "source": "CC-CEDICT",
+            "start": 3,
+            "word": "至诚"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "为"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "能"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "经"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "纶"
+          },
+          {
+            "end": 12,
+            "gloss": "land under heaven / the whole world / the whole of China / realm / rule",
+            "pinyin": "tiān xià",
+            "source": "CC-CEDICT",
+            "start": 10,
+            "word": "天下"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "之"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "大"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "经"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "立"
+          },
+          {
+            "end": 19,
+            "gloss": "land under heaven / the whole world / the whole of China / realm / rule",
+            "pinyin": "tiān xià",
+            "source": "CC-CEDICT",
+            "start": 17,
+            "word": "天下"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "之"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "大"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "本"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "知"
+          },
+          {
+            "end": 26,
+            "gloss": "heaven and earth / world / scope / field of activity",
+            "pinyin": "tiān dì",
+            "source": "CC-CEDICT",
+            "start": 24,
+            "word": "天地"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "之"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "化"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "育"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "夫"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "焉"
+          },
+          {
+            "end": 34,
+            "gloss": "somewhat / to some extent",
+            "pinyin": "yǒu suǒ",
+            "source": "CC-CEDICT",
+            "start": 32,
+            "word": "有所"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "倚"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "Call him man in his ideal, how earnest is he!",
+            "text": "Call him man in his ideal, how earnest is he! Call him an abyss, how deep is he! Call him Heaven, how vast is he!",
             "translator": "Legge",
             "year": 1885
           }
@@ -35,16 +276,116 @@
         "character_count": 12,
         "id": "chapter-032-line-002",
         "order": 2,
+        "pinyin_per_char": [
+          "zhūn",
+          "zhūn",
+          "qí",
+          "rén",
+          "",
+          "yuān",
+          "yuān",
+          "qí",
+          "yuān",
+          "",
+          "hào",
+          "hào",
+          "qí",
+          "tiān",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 2,
-        "text": "肫肫其仁！淵淵其淵！浩浩其天！"
+        "text": "肫肫其仁！渊渊其渊！浩浩其天！",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "肫"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "肫"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "其"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "仁"
+          },
+          {
+            "end": 7,
+            "gloss": "deep and still / sound of a drum",
+            "pinyin": "yuān yuān",
+            "source": "CC-CEDICT",
+            "start": 5,
+            "word": "渊渊"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "其"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "渊"
+          },
+          {
+            "end": 12,
+            "gloss": "vast / expansive (universe) / torrential (floods)",
+            "pinyin": "hào hào",
+            "source": "CC-CEDICT",
+            "start": 10,
+            "word": "浩浩"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "其"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "天"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "Call him an abyss, how deep is he! Call him Heaven, how vast is he! Who can know him, but he who is indeed quick in apprehension, clear in discernment, of far-reaching intelligence, and all-embracing knowledge, possessing all Heavenly virtue?",
+            "text": "Who can know him, but he who is indeed quick in apprehension, clear in discernment, of far-reaching intelligence, and all-embracing knowledge, possessing all Heavenly virtue?",
             "translator": "Legge",
             "year": 1885
           }
@@ -52,16 +393,159 @@
         "character_count": 16,
         "id": "chapter-032-line-003",
         "order": 3,
+        "pinyin_per_char": [
+          "gǒu",
+          "bú",
+          "gù",
+          "cōng",
+          "míng",
+          "shèng",
+          "zhī",
+          "dá",
+          "tiān",
+          "dé",
+          "zhě",
+          "",
+          "qí",
+          "shú",
+          "néng",
+          "zhī",
+          "zhī",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 3,
-        "text": "苟不固聰明聖知達天德者，其孰能知之？"
+        "text": "苟不固聪明圣知达天德者，其孰能知之？",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "苟"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "不"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "固"
+          },
+          {
+            "end": 5,
+            "gloss": "intelligent; clever; bright / acute (of sight and hearing)",
+            "pinyin": "cōng ming",
+            "source": "CC-CEDICT",
+            "start": 3,
+            "word": "聪明"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "圣"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "知"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "达"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "天"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "德"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "者"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "其"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "孰"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "能"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "知"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "之"
+          }
+        ]
       }
     ],
     "summary": "",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "唯天下至誠，為能經綸天下之大經，立天下之大本，知天地之化育。夫焉有所倚？\n肫肫其仁！淵淵其淵！浩浩其天！\n苟不固聰明聖知達天德者，其孰能知之？",
+    "text": "唯天下至诚，为能经纶天下之大经，立天下之大本，知天地之化育。夫焉有所倚？\n肫肫其仁！渊渊其渊！浩浩其天！\n苟不固聪明圣知达天德者，其孰能知之？",
     "title": ""
   },
   "chapter_path": "books/zhong-yong/chapters/chapter-032.json",

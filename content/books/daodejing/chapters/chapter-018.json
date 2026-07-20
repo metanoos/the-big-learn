@@ -18,16 +18,199 @@
         "character_count": 26,
         "id": "chapter-018-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "dà",
+          "dào",
+          "fèi",
+          "",
+          "yǒu",
+          "rén",
+          "yì",
+          "",
+          "zhì",
+          "huì",
+          "chū",
+          "",
+          "yǒu",
+          "dà",
+          "wěi",
+          "",
+          "liù",
+          "qīn",
+          "bù",
+          "hé",
+          "",
+          "yǒu",
+          "xiào",
+          "cí",
+          "",
+          "guó",
+          "jiā",
+          "hūn",
+          "luàn",
+          "",
+          "yǒu",
+          "zhōng",
+          "chén",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "大道廢，有仁義；智慧出，有大偽；六親不和，有孝慈；國家昏亂，有忠臣。"
+        "text": "大道废，有仁义；智慧出，有大伪；六亲不和，有孝慈；国家昏乱，有忠臣。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "the great Way (the Dao)",
+            "pinyin": "dà dào",
+            "source": "classical-override",
+            "start": 0,
+            "word": "大道"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "废"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "有"
+          },
+          {
+            "end": 7,
+            "gloss": "affable and even-tempered",
+            "pinyin": "rén yi",
+            "source": "CC-CEDICT",
+            "start": 5,
+            "word": "仁义"
+          },
+          {
+            "end": 10,
+            "gloss": "wisdom; intelligence",
+            "pinyin": "zhì huì",
+            "source": "CC-CEDICT",
+            "start": 8,
+            "word": "智慧"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "出"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "有"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "大"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "伪"
+          },
+          {
+            "end": 18,
+            "gloss": "six close relatives, namely: father 父[fu4], mother 母[mu3], older brothers 兄[xiong1], younger brothe…",
+            "pinyin": "liù qīn",
+            "source": "CC-CEDICT",
+            "start": 16,
+            "word": "六亲"
+          },
+          {
+            "end": 20,
+            "gloss": "not to get along well / to be on bad terms / to be at odds / discord",
+            "pinyin": "bù hé",
+            "source": "CC-CEDICT",
+            "start": 18,
+            "word": "不和"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "有"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "孝"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "慈"
+          },
+          {
+            "end": 27,
+            "gloss": "country; nation; state",
+            "pinyin": "guó jiā",
+            "source": "CC-CEDICT",
+            "start": 25,
+            "word": "国家"
+          },
+          {
+            "end": 29,
+            "gloss": "dazed / confused / fuddled",
+            "pinyin": "hūn luàn",
+            "source": "CC-CEDICT",
+            "start": 27,
+            "word": "昏乱"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "有"
+          },
+          {
+            "end": 33,
+            "gloss": "faithful official",
+            "pinyin": "zhōng chén",
+            "source": "CC-CEDICT",
+            "start": 31,
+            "word": "忠臣"
+          }
+        ]
       }
     ],
-    "summary": "大道廢，有仁義；智慧出，有大偽；六親不和，有孝慈；國家昏亂，有忠臣",
+    "summary": "大道废，有仁义；智慧出，有大伪；六亲不和，有孝慈；国家昏乱，有忠臣",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "大道廢，有仁義；智慧出，有大偽；六親不和，有孝慈；國家昏亂，有忠臣。",
+    "text": "大道废，有仁义；智慧出，有大伪；六亲不和，有孝慈；国家昏乱，有忠臣。",
     "title": "第18章"
   },
   "chapter_path": "books/daodejing/chapters/chapter-018.json",

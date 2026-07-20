@@ -22,107 +22,22 @@ Network: downloads CC-CEDICT once (~4MB gz) to /tmp. Re-uses cached file.
 """
 from __future__ import annotations
 
-import gzip
 import json
-import re
+import shutil
 import sys
-import urllib.request
 from pathlib import Path
+
+# _cedict holds the shared CC-CEDICT download/parse + numeric→marked pinyin
+# logic. Importing it here keeps build_chengyu.py and build_word_gloss.py from
+# drifting. min_simp_len=4 preserves the idiom-only filter this builder has
+# always applied (now parameterized in _cedict.load_cedict).
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from _cedict import load_cedict  # noqa: E402
 
 REPO = Path(__file__).resolve().parents[1]
 SRC = REPO.parent / "agent-skill-the-big-learn" / "books" / "chengyu-catalog"
 DST = REPO / "content" / "books" / "chengyu-catalog"
 CHAR_INDEX = REPO / "content" / "references" / "characters" / "index.json"
-CEDICT_CACHE = Path("/tmp/tbl_cedict.tsv")  # uncompressed cache for re-runs
-
-CEDICT_URL = "https://cc-cedict.org/editor/editor_export_cedict.php?c=gz"
-CEDICT_LINE = re.compile(r"^(\S+)\s+(\S+)\s+\[(.*?)\]\s+/(.*)/$")
-
-# numeric-tone -> tone-mark map (a1..a4, etc.)
-_TONE_MARKS = {
-    "a": "āáǎà", "e": "ēéěè", "i": "īíǐì", "o": "ōóǒò",
-    "u": "ūúǔù", "ü": "ǖǘǚǜ", "A": "ĀÁǍÀ", "E": "ĒÉĚÈ",
-    "I": "ĪÍǏÌ", "O": "ŌÓǑÒ", "U": "ŪÚǓÙ", "Ü": "ǕǗǙǛ",
-}
-
-
-def numeric_to_marked(numeric: str) -> str:
-    """'chi2 zhi1 yi3 heng2' -> 'chí zhī yǐ héng'."""
-    out = []
-    for syll in numeric.split():
-        out.append(_one_syllable(syll))
-    return " ".join(out)
-
-
-def _one_syllable(syll: str) -> str:
-    m = re.match(r"^([a-züA-ZÜ]+?)([1-5])?$", syll)
-    if not m:
-        return syll
-    base, tone = m.group(1), m.group(2)
-    if not tone or tone == "5":
-        return base.replace("v", "ü").replace("V", "Ü")
-    tone = int(tone)
-    # handle u: -> ü
-    base = base.replace("v", "ü").replace("V", "Ü")
-    # find vowel to mark: priority a,o,e, then last of a pair, else first vowel
-    vowels = "aeiouüAEIOUÜ"
-    # rule: if 'a' or 'e' or 'o' present, mark the first of those; else mark last vowel
-    idx = -1
-    for pri in ("a", "e", "o", "A", "E", "O"):
-        if pri in base:
-            idx = base.index(pri)
-            break
-    if idx < 0:
-        # mark the last vowel in the cluster (or first if no cluster)
-        v_positions = [i for i, c in enumerate(base) if c in vowels]
-        if v_positions:
-            # if two+ consecutive vowels, mark the second; else the only one
-            seq = [v_positions[0]]
-            for p in v_positions[1:]:
-                if p == seq[-1] + 1:
-                    seq.append(p)
-                else:
-                    break
-            idx = seq[-1] if len(seq) >= 2 else seq[0]
-    if idx < 0:
-        return base  # no vowel (shouldn't happen for valid pinyin)
-    c = base[idx]
-    marked = _TONE_MARKS.get(c, c)
-    if c in _TONE_MARKS:
-        return base[:idx] + marked[tone - 1] + base[idx + 1:]
-    return base
-
-
-# --- data loading -----------------------------------------------------------
-
-def load_cedict() -> dict[str, tuple[str, str]]:
-    """{simplified: (marked_pinyin, slash-joined defs)}. Phrase-keyed only."""
-    raw = None
-    if CEDICT_CACHE.exists():
-        raw = CEDICT_CACHE.read_bytes()
-    else:
-        print(f"  downloading CC-CEDICT from {CEDICT_URL} ...", file=sys.stderr)
-        req = urllib.request.Request(CEDICT_URL, headers={"User-Agent": "tbl-chengyu/1.0"})
-        with urllib.request.urlopen(req, timeout=60) as r:
-            raw = gzip.decompress(r.read())
-        CEDICT_CACHE.write_bytes(raw)
-        print(f"  cached at {CEDICT_CACHE} ({len(raw)} bytes)", file=sys.stderr)
-
-    entries: dict[str, tuple[str, str]] = {}
-    text = raw.decode("utf-8", errors="replace")
-    for line in text.splitlines():
-        if not line or line.startswith("#"):
-            continue
-        m = CEDICT_LINE.match(line)
-        if not m:
-            continue
-        _trad, simp, pinyin_num, defs = m.groups()
-        if len(simp) < 4:  # we only want idiom-length (4-char) entries keyed as phrases
-            continue
-        marked = numeric_to_marked(pinyin_num)
-        clean_defs = " / ".join(d for d in defs.split("/") if d)
-        entries[simp] = (marked, clean_defs)
-    return entries
 
 
 def load_char_index() -> dict[str, dict]:
@@ -203,13 +118,12 @@ def main() -> int:
         return 1
 
     print("Loading CC-CEDICT ...")
-    cedict = load_cedict()
+    cedict = load_cedict(min_simp_len=4)
     print(f"  {len(cedict)} phrase entries (4+-char)")
     print("Loading character index ...")
     char_index = load_char_index()
     print(f"  {len(char_index)} characters\n")
 
-    import shutil
     if DST.exists():
         shutil.rmtree(DST)
     DST.mkdir(parents=True)
@@ -255,7 +169,7 @@ def main() -> int:
             "chapter_path": f"books/chengyu-catalog/chapters/{chapter_id}.json",
             "provider": "bundled-local",
             "schema_version": 2,
-            "source_title": "成語目錄",
+            "source_title": "成语目录",
             "source_url": "bundled://chengyu-catalog",
         }
         (DST / "chapters" / f"{chapter_id}.json").write_text(dump_json(doc), encoding="utf-8")

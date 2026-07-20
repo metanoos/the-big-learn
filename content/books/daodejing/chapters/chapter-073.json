@@ -18,16 +18,507 @@
         "character_count": 64,
         "id": "chapter-073-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "yǒng",
+          "yú",
+          "gǎn",
+          "zé",
+          "shā",
+          "",
+          "yǒng",
+          "yú",
+          "bù",
+          "gǎn",
+          "zé",
+          "huó",
+          "",
+          "cí",
+          "liáng",
+          "zhě",
+          "",
+          "huò",
+          "lì",
+          "huò",
+          "hài",
+          "",
+          "tiān",
+          "zhī",
+          "suó",
+          "ě",
+          "",
+          "shú",
+          "zhī",
+          "qí",
+          "gù",
+          "",
+          "shì",
+          "yǐ",
+          "shèng",
+          "rén",
+          "yóu",
+          "nán",
+          "zhī",
+          "",
+          "tiān",
+          "zhī",
+          "dào",
+          "",
+          "bù",
+          "zhēng",
+          "ér",
+          "shàn",
+          "shèng",
+          "",
+          "bù",
+          "yán",
+          "ér",
+          "shàn",
+          "yīng",
+          "",
+          "bú",
+          "zhào",
+          "ér",
+          "zì",
+          "lái",
+          "",
+          "",
+          "rán",
+          "ér",
+          "shàn",
+          "móu",
+          "",
+          "tiān",
+          "wǎng",
+          "huī",
+          "huī",
+          "",
+          "shū",
+          "ér",
+          "bù",
+          "shī",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "勇於敢則殺，勇於不敢則活。此兩者，或利或害。天之所惡，孰知其故？是以聖人猶難之。天之道，不爭而善勝，不言而善應，不召而自來，繟然而善謀。天網恢恢，踈而不失。"
+        "text": "勇于敢则杀，勇于不敢则活。此两者，或利或害。天之所恶，孰知其故？是以圣人犹难之。天之道，不争而善胜，不言而善应，不召而自来，𦈎然而善谋。天网恢恢，踈而不失。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "to dare to / to be brave enough to",
+            "pinyin": "yǒng yú",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "勇于"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "敢"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "则"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "杀"
+          },
+          {
+            "end": 8,
+            "gloss": "to dare to / to be brave enough to",
+            "pinyin": "yǒng yú",
+            "source": "CC-CEDICT",
+            "start": 6,
+            "word": "勇于"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "不"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "敢"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "则"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "活"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "此"
+          },
+          {
+            "end": 16,
+            "gloss": "both of them; the two of them",
+            "pinyin": "liǎng zhě",
+            "source": "CC-CEDICT",
+            "start": 14,
+            "word": "两者"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "或"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "利"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "或"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "害"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "天"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "之"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "所"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "恶"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "孰"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "知"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "其"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "故"
+          },
+          {
+            "end": 34,
+            "gloss": "therefore / thus / so",
+            "pinyin": "shì yǐ",
+            "source": "CC-CEDICT",
+            "start": 32,
+            "word": "是以"
+          },
+          {
+            "end": 36,
+            "gloss": "the sage; the holy man",
+            "pinyin": "shèng rén",
+            "source": "classical-override",
+            "start": 34,
+            "word": "圣人"
+          },
+          {
+            "end": 37,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 36,
+            "word": "犹"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "难"
+          },
+          {
+            "end": 39,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 38,
+            "word": "之"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "天"
+          },
+          {
+            "end": 42,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 41,
+            "word": "之"
+          },
+          {
+            "end": 43,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 42,
+            "word": "道"
+          },
+          {
+            "end": 46,
+            "gloss": "widely known / incontestable / undeniable / to not strive for / to not contend for",
+            "pinyin": "bù zhēng",
+            "source": "CC-CEDICT",
+            "start": 44,
+            "word": "不争"
+          },
+          {
+            "end": 47,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 46,
+            "word": "而"
+          },
+          {
+            "end": 48,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 47,
+            "word": "善"
+          },
+          {
+            "end": 49,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 48,
+            "word": "胜"
+          },
+          {
+            "end": 51,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 50,
+            "word": "不"
+          },
+          {
+            "end": 52,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 51,
+            "word": "言"
+          },
+          {
+            "end": 53,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 52,
+            "word": "而"
+          },
+          {
+            "end": 54,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 53,
+            "word": "善"
+          },
+          {
+            "end": 55,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 54,
+            "word": "应"
+          },
+          {
+            "end": 57,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 56,
+            "word": "不"
+          },
+          {
+            "end": 58,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 57,
+            "word": "召"
+          },
+          {
+            "end": 59,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 58,
+            "word": "而"
+          },
+          {
+            "end": 61,
+            "gloss": "from the beginning / always / to come of one's own accord",
+            "pinyin": "zì lái",
+            "source": "CC-CEDICT",
+            "start": 59,
+            "word": "自来"
+          },
+          {
+            "end": 65,
+            "gloss": "however; but; yet",
+            "pinyin": "rán ér",
+            "source": "CC-CEDICT",
+            "start": 63,
+            "word": "然而"
+          },
+          {
+            "end": 66,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 65,
+            "word": "善"
+          },
+          {
+            "end": 67,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 66,
+            "word": "谋"
+          },
+          {
+            "end": 72,
+            "gloss": "lit. heaven's net has wide meshes, but nothing escapes it (idiom, from Laozi 73) / fig. the way of …",
+            "pinyin": "tiān wǎng huī huī",
+            "source": "CC-CEDICT",
+            "start": 68,
+            "word": "天网恢恢"
+          },
+          {
+            "end": 74,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 73,
+            "word": "踈"
+          },
+          {
+            "end": 75,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 74,
+            "word": "而"
+          },
+          {
+            "end": 77,
+            "gloss": "still possesses; yet retains (some positive attribute that contrasts with another of its attributes)",
+            "pinyin": "bù shī",
+            "source": "CC-CEDICT",
+            "start": 75,
+            "word": "不失"
+          }
+        ]
       }
     ],
-    "summary": "勇於敢則殺，勇於不敢則活",
+    "summary": "勇于敢则杀，勇于不敢则活",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "勇於敢則殺，勇於不敢則活。此兩者，或利或害。天之所惡，孰知其故？是以聖人猶難之。天之道，不爭而善勝，不言而善應，不召而自來，繟然而善謀。天網恢恢，踈而不失。",
+    "text": "勇于敢则杀，勇于不敢则活。此两者，或利或害。天之所恶，孰知其故？是以圣人犹难之。天之道，不争而善胜，不言而善应，不召而自来，𦈎然而善谋。天网恢恢，踈而不失。",
     "title": "第73章"
   },
   "chapter_path": "books/daodejing/chapters/chapter-073.json",

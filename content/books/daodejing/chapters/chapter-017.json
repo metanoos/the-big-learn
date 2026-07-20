@@ -18,16 +18,371 @@
         "character_count": 44,
         "id": "chapter-017-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "dà",
+          "shàng",
+          "",
+          "xià",
+          "zhī",
+          "yǒu",
+          "zhī",
+          "",
+          "qí",
+          "cì",
+          "qīn",
+          "ér",
+          "yù",
+          "zhī",
+          "",
+          "qí",
+          "cì",
+          "wèi",
+          "zhī",
+          "",
+          "qí",
+          "cì",
+          "wǔ",
+          "zhī",
+          "",
+          "xìn",
+          "bù",
+          "zú",
+          "yān",
+          "",
+          "yǒu",
+          "bú",
+          "xìn",
+          "yān",
+          "",
+          "yōu",
+          "xī",
+          "qí",
+          "guì",
+          "yán",
+          "",
+          "gōng",
+          "chéng",
+          "shì",
+          "suì",
+          "",
+          "bǎi",
+          "xìng",
+          "jiē",
+          "wèi",
+          "wǒ",
+          "zì",
+          "rán",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "大上，下知有之，其次親而譽之，其次畏之，其次侮之。信不足焉，有不信焉。悠兮其貴言，功成事遂，百姓皆謂我自然。"
+        "text": "大上，下知有之，其次亲而誉之，其次畏之，其次侮之。信不足焉，有不信焉。悠兮其贵言，功成事遂，百姓皆谓我自然。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "大"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "上"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "下"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "知"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "有"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "之"
+          },
+          {
+            "end": 10,
+            "gloss": "next / secondly",
+            "pinyin": "qí cì",
+            "source": "CC-CEDICT",
+            "start": 8,
+            "word": "其次"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "亲"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "而"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "誉"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "之"
+          },
+          {
+            "end": 17,
+            "gloss": "next / secondly",
+            "pinyin": "qí cì",
+            "source": "CC-CEDICT",
+            "start": 15,
+            "word": "其次"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "畏"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "之"
+          },
+          {
+            "end": 22,
+            "gloss": "next / secondly",
+            "pinyin": "qí cì",
+            "source": "CC-CEDICT",
+            "start": 20,
+            "word": "其次"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "侮"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "之"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "信"
+          },
+          {
+            "end": 28,
+            "gloss": "insufficient / lacking / deficiency / not enough / inadequate / not worth / cannot / should not",
+            "pinyin": "bù zú",
+            "source": "CC-CEDICT",
+            "start": 26,
+            "word": "不足"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "焉"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "有"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "不"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "信"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "焉"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "悠"
+          },
+          {
+            "end": 37,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 36,
+            "word": "兮"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "其"
+          },
+          {
+            "end": 39,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 38,
+            "word": "贵"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "言"
+          },
+          {
+            "end": 42,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 41,
+            "word": "功"
+          },
+          {
+            "end": 44,
+            "gloss": "to accomplish the objective / to succeed",
+            "pinyin": "chéng shì",
+            "source": "CC-CEDICT",
+            "start": 42,
+            "word": "成事"
+          },
+          {
+            "end": 45,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 44,
+            "word": "遂"
+          },
+          {
+            "end": 48,
+            "gloss": "common people",
+            "pinyin": "bǎi xìng",
+            "source": "CC-CEDICT",
+            "start": 46,
+            "word": "百姓"
+          },
+          {
+            "end": 49,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 48,
+            "word": "皆"
+          },
+          {
+            "end": 50,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 49,
+            "word": "谓"
+          },
+          {
+            "end": 51,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 50,
+            "word": "我"
+          },
+          {
+            "end": 53,
+            "gloss": "nature / natural / naturally",
+            "pinyin": "zì rán",
+            "source": "CC-CEDICT",
+            "start": 51,
+            "word": "自然"
+          }
+        ]
       }
     ],
-    "summary": "太上，下知有之；其次，親而譽之；其次，畏之；其次，侮之",
+    "summary": "太上，下知有之；其次，亲而誉之；其次，畏之；其次，侮之",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "太上，下知有之；其次，親而譽之；其次，畏之；其次，侮之。信不足，焉有不信焉。悠兮，其貴言。功成事遂，百姓皆謂我自然。",
+    "text": "太上，下知有之；其次，亲而誉之；其次，畏之；其次，侮之。信不足，焉有不信焉。悠兮，其贵言。功成事遂，百姓皆谓我自然。",
     "title": "第17章"
   },
   "chapter_path": "books/daodejing/chapters/chapter-017.json",

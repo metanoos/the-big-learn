@@ -1,6 +1,29 @@
 {
   "cache_dir": "books/daodejing",
   "catalog_path": "books/daodejing/catalog.json",
+  "display_name": "Daodejing 道德经",
+  "name_zh": "道德经",
+  "name_pinyin": "Dào Dé Jīng",
+  "name_en": "Dao De Jing",
+  "v1": true,
+  "available": true,
+  "tradition": "daoist",
+  "form": "philosophy",
+  "year": -400,
+  "tier": "S",
+  "difficulty": "intermediate",
+  "curriculum_order": 6,
+  "title": "Dao De Jing",
+  "source_url": "https://ctext.org/dao-de-jing?if=en",
+  "source_title": "v1 canon. Chinese text via ctext.org (Si Shu Zhang Ju Ji Zhu). English translation: James Legge (public domain), seeded as the sole canonical translation per line. Modern copyrighted translations (Lau/Slingerland/Watson) are referenced by the platform, not stored. Source-of-truth file in this repo: content/SOURCES.md.",
+  "blurb": "Laozi's 81 short chapters on the dao — the other half of classical Chinese thought, in compressed riddles.",
+  "background": "The Daodejing (Tao Te Ching) is the foundational text of Daoism — a short work of 81 brief chapters traditionally attributed to Laozi, a figure so shadowy that some scholars read the text as a multi-author compilation that crystallized around 400 BCE. Where Confucius asks how to live in the world, the Daodejing asks why you'd want to: it champions wuwei (often translated 'non-action' but closer to 'effortless action'), the uncarved block, the valley spirit, the usefulness of emptiness. The style is gnomic and paradoxical — 'the way that can be spoken of is not the constant way' — and almost every line has generated centuries of commentary. It is one of the most translated books in the world, and the translations diverge sharply (the received text itself has at least three major manuscript traditions, including the Guodian bamboo slips from c. 300 BCE). English seeding is James Legge (public domain); modern alternatives (D.C. Lau, Arthur Waley, Ames & Hall, Mair) are referenced, not stored.",
+  "provider": "ctext-html",
+  "seed_translator": {
+    "license": "public domain",
+    "translator": "Legge",
+    "year": 1891
+  },
   "chapter_count": 81,
   "chapters": [
     {
@@ -11,7 +34,9 @@
       "reading_unit_count": 1,
       "summary": "道可道，非常道",
       "supplemental_unit_count": 0,
-      "title": "第1章"
+      "title": "第1章",
+      "title_en": "Chapter 1",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-002.json",
@@ -19,9 +44,11 @@
       "id": "chapter-002",
       "order": 2,
       "reading_unit_count": 1,
-      "summary": "天下皆知美之為美，斯惡已",
+      "summary": "天下皆知美之为美，斯恶已",
       "supplemental_unit_count": 0,
-      "title": "第2章"
+      "title": "第2章",
+      "title_en": "Chapter 2",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-003.json",
@@ -29,9 +56,11 @@
       "id": "chapter-003",
       "order": 3,
       "reading_unit_count": 1,
-      "summary": "不尚賢，使民不爭；不貴難得之貨，使民不為盜；不見可欲，使心不亂",
+      "summary": "不尚贤，使民不争；不贵难得之货，使民不为盗；不见可欲，使心不乱",
       "supplemental_unit_count": 0,
-      "title": "第3章"
+      "title": "第3章",
+      "title_en": "Chapter 3",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-004.json",
@@ -39,9 +68,11 @@
       "id": "chapter-004",
       "order": 4,
       "reading_unit_count": 1,
-      "summary": "道沖而用之或不盈",
+      "summary": "道冲而用之或不盈",
       "supplemental_unit_count": 0,
-      "title": "第4章"
+      "title": "第4章",
+      "title_en": "Chapter 4",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-005.json",
@@ -49,9 +80,11 @@
       "id": "chapter-005",
       "order": 5,
       "reading_unit_count": 1,
-      "summary": "天地不仁，以萬物為芻狗；聖人不仁，以百姓為芻狗",
+      "summary": "天地不仁，以万物为刍狗；圣人不仁，以百姓为刍狗",
       "supplemental_unit_count": 0,
-      "title": "第5章"
+      "title": "第5章",
+      "title_en": "Chapter 5",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-006.json",
@@ -59,9 +92,11 @@
       "id": "chapter-006",
       "order": 6,
       "reading_unit_count": 1,
-      "summary": "谷神不死，是謂玄牝",
+      "summary": "谷神不死，是谓玄牝",
       "supplemental_unit_count": 0,
-      "title": "第6章"
+      "title": "第6章",
+      "title_en": "Chapter 6",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-007.json",
@@ -69,9 +104,11 @@
       "id": "chapter-007",
       "order": 7,
       "reading_unit_count": 1,
-      "summary": "天長地久",
+      "summary": "天长地久",
       "supplemental_unit_count": 0,
-      "title": "第7章"
+      "title": "第7章",
+      "title_en": "Chapter 7",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-008.json",
@@ -81,7 +118,9 @@
       "reading_unit_count": 1,
       "summary": "上善若水",
       "supplemental_unit_count": 0,
-      "title": "第8章"
+      "title": "第8章",
+      "title_en": "Chapter 8",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-009.json",
@@ -89,9 +128,11 @@
       "id": "chapter-009",
       "order": 9,
       "reading_unit_count": 1,
-      "summary": "持而盈之，不如其已；揣而銳之，不可長保",
+      "summary": "持而盈之，不如其已；揣而锐之，不可长保",
       "supplemental_unit_count": 0,
-      "title": "第9章"
+      "title": "第9章",
+      "title_en": "Chapter 9",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-010.json",
@@ -99,9 +140,11 @@
       "id": "chapter-010",
       "order": 10,
       "reading_unit_count": 1,
-      "summary": "載營魄抱一，能無離乎？專氣致柔，能嬰兒乎？滌除玄覽，能無疵乎？愛民治國，能無知乎？天門開闔，能為雌乎？明白四達，能無知乎？生之、畜之，生而不有，為而不恃，長而不宰，是謂玄德",
+      "summary": "载营魄抱一，能无离乎？专气致柔，能婴儿乎？涤除玄览，能无疵乎？爱民治国，能无知乎？天门开阖，能为雌乎？明白四达，能无知乎？生之、畜之，生而不有，为而不恃，长而不宰，是谓玄德",
       "supplemental_unit_count": 0,
-      "title": "第10章"
+      "title": "第10章",
+      "title_en": "Chapter 10",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-011.json",
@@ -109,9 +152,11 @@
       "id": "chapter-011",
       "order": 11,
       "reading_unit_count": 1,
-      "summary": "三十輻，共一轂，當其無，有車之用",
+      "summary": "三十辐，共一毂，当其无，有车之用",
       "supplemental_unit_count": 0,
-      "title": "第11章"
+      "title": "第11章",
+      "title_en": "Chapter 11",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-012.json",
@@ -119,9 +164,11 @@
       "id": "chapter-012",
       "order": 12,
       "reading_unit_count": 1,
-      "summary": "五色令人目盲；五音令人耳聾；五味令人口爽；馳騁田獵，令人心發狂；難得之貨，令人行妨",
+      "summary": "五色令人目盲；五音令人耳聋；五味令人口爽；驰骋田猎，令人心发狂；难得之货，令人行妨",
       "supplemental_unit_count": 0,
-      "title": "第12章"
+      "title": "第12章",
+      "title_en": "Chapter 12",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-013.json",
@@ -129,9 +176,11 @@
       "id": "chapter-013",
       "order": 13,
       "reading_unit_count": 1,
-      "summary": "寵辱若驚，貴大患若身",
+      "summary": "宠辱若惊，贵大患若身",
       "supplemental_unit_count": 0,
-      "title": "第13章"
+      "title": "第13章",
+      "title_en": "Chapter 13",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-014.json",
@@ -139,9 +188,11 @@
       "id": "chapter-014",
       "order": 14,
       "reading_unit_count": 1,
-      "summary": "視之不見，名曰夷；聽之不聞，名曰希；搏之不得，名曰微",
+      "summary": "视之不见，名曰夷；听之不闻，名曰希；搏之不得，名曰微",
       "supplemental_unit_count": 0,
-      "title": "第14章"
+      "title": "第14章",
+      "title_en": "Chapter 14",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-015.json",
@@ -149,9 +200,11 @@
       "id": "chapter-015",
       "order": 15,
       "reading_unit_count": 1,
-      "summary": "古之善為士者，微妙玄通，深不可識",
+      "summary": "古之善为士者，微妙玄通，深不可识",
       "supplemental_unit_count": 0,
-      "title": "第15章"
+      "title": "第15章",
+      "title_en": "Chapter 15",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-016.json",
@@ -159,9 +212,11 @@
       "id": "chapter-016",
       "order": 16,
       "reading_unit_count": 1,
-      "summary": "致虛極，守靜篤",
+      "summary": "致虚极，守静笃",
       "supplemental_unit_count": 0,
-      "title": "第16章"
+      "title": "第16章",
+      "title_en": "Chapter 16",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-017.json",
@@ -169,9 +224,11 @@
       "id": "chapter-017",
       "order": 17,
       "reading_unit_count": 1,
-      "summary": "太上，下知有之；其次，親而譽之；其次，畏之；其次，侮之",
+      "summary": "太上，下知有之；其次，亲而誉之；其次，畏之；其次，侮之",
       "supplemental_unit_count": 0,
-      "title": "第17章"
+      "title": "第17章",
+      "title_en": "Chapter 17",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-018.json",
@@ -179,9 +236,11 @@
       "id": "chapter-018",
       "order": 18,
       "reading_unit_count": 1,
-      "summary": "大道廢，有仁義；智慧出，有大偽；六親不和，有孝慈；國家昏亂，有忠臣",
+      "summary": "大道废，有仁义；智慧出，有大伪；六亲不和，有孝慈；国家昏乱，有忠臣",
       "supplemental_unit_count": 0,
-      "title": "第18章"
+      "title": "第18章",
+      "title_en": "Chapter 18",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-019.json",
@@ -189,9 +248,11 @@
       "id": "chapter-019",
       "order": 19,
       "reading_unit_count": 1,
-      "summary": "絕聖棄智，民利百倍；絕仁棄義，民復孝慈；絕巧棄利，盜賊無有",
+      "summary": "绝圣弃智，民利百倍；绝仁弃义，民复孝慈；绝巧弃利，盗贼无有",
       "supplemental_unit_count": 0,
-      "title": "第19章"
+      "title": "第19章",
+      "title_en": "Chapter 19",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-020.json",
@@ -199,9 +260,11 @@
       "id": "chapter-020",
       "order": 20,
       "reading_unit_count": 2,
-      "summary": "絕學無憂，唯之與阿，相去幾何？善之與惡，相去若何？人之所畏，不可不畏",
+      "summary": "绝学无忧，唯之与阿，相去几何？善之与恶，相去若何？人之所畏，不可不畏",
       "supplemental_unit_count": 0,
-      "title": "第20章"
+      "title": "第20章",
+      "title_en": "Chapter 20",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-021.json",
@@ -209,9 +272,11 @@
       "id": "chapter-021",
       "order": 21,
       "reading_unit_count": 1,
-      "summary": "孔德之容，唯道是從",
+      "summary": "孔德之容，唯道是从",
       "supplemental_unit_count": 0,
-      "title": "第21章"
+      "title": "第21章",
+      "title_en": "Chapter 21",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-022.json",
@@ -219,9 +284,11 @@
       "id": "chapter-022",
       "order": 22,
       "reading_unit_count": 1,
-      "summary": "曲則全，枉則直，窪則盈，弊則新，少則得，多則惑",
+      "summary": "曲则全，枉则直，洼则盈，弊则新，少则得，多则惑",
       "supplemental_unit_count": 0,
-      "title": "第22章"
+      "title": "第22章",
+      "title_en": "Chapter 22",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-023.json",
@@ -229,9 +296,11 @@
       "id": "chapter-023",
       "order": 23,
       "reading_unit_count": 1,
-      "summary": "希言自然，故飄風不終朝，驟雨不終日",
+      "summary": "希言自然，故飘风不终朝，骤雨不终日",
       "supplemental_unit_count": 0,
-      "title": "第23章"
+      "title": "第23章",
+      "title_en": "Chapter 23",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-024.json",
@@ -239,9 +308,11 @@
       "id": "chapter-024",
       "order": 24,
       "reading_unit_count": 1,
-      "summary": "企者不立；跨者不行；自見者不明；自是者不彰；自伐者無功；自矜者不長",
+      "summary": "企者不立；跨者不行；自见者不明；自是者不彰；自伐者无功；自矜者不长",
       "supplemental_unit_count": 0,
-      "title": "第24章"
+      "title": "第24章",
+      "title_en": "Chapter 24",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-025.json",
@@ -251,7 +322,9 @@
       "reading_unit_count": 1,
       "summary": "有物混成，先天地生",
       "supplemental_unit_count": 0,
-      "title": "第25章"
+      "title": "第25章",
+      "title_en": "Chapter 25",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-026.json",
@@ -259,9 +332,11 @@
       "id": "chapter-026",
       "order": 26,
       "reading_unit_count": 1,
-      "summary": "重為輕根，靜為躁君",
+      "summary": "重为轻根，静为躁君",
       "supplemental_unit_count": 0,
-      "title": "第26章"
+      "title": "第26章",
+      "title_en": "Chapter 26",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-027.json",
@@ -269,9 +344,11 @@
       "id": "chapter-027",
       "order": 27,
       "reading_unit_count": 1,
-      "summary": "善行無轍迹，善言無瑕讁；善數不用籌策；善閉無關楗而不可開，善結無繩約而不可解",
+      "summary": "善行无辙迹，善言无瑕讁；善数不用筹策；善闭无关楗而不可开，善结无绳约而不可解",
       "supplemental_unit_count": 0,
-      "title": "第27章"
+      "title": "第27章",
+      "title_en": "Chapter 27",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-028.json",
@@ -279,9 +356,11 @@
       "id": "chapter-028",
       "order": 28,
       "reading_unit_count": 1,
-      "summary": "知其雄，守其雌，為天下谿",
+      "summary": "知其雄，守其雌，为天下谿",
       "supplemental_unit_count": 0,
-      "title": "第28章"
+      "title": "第28章",
+      "title_en": "Chapter 28",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-029.json",
@@ -289,9 +368,11 @@
       "id": "chapter-029",
       "order": 29,
       "reading_unit_count": 1,
-      "summary": "將欲取天下而為之，吾見其不得已",
+      "summary": "将欲取天下而为之，吾见其不得已",
       "supplemental_unit_count": 0,
-      "title": "第29章"
+      "title": "第29章",
+      "title_en": "Chapter 29",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-030.json",
@@ -299,9 +380,11 @@
       "id": "chapter-030",
       "order": 30,
       "reading_unit_count": 1,
-      "summary": "以道佐人主者，不以兵強天下",
+      "summary": "以道佐人主者，不以兵强天下",
       "supplemental_unit_count": 0,
-      "title": "第30章"
+      "title": "第30章",
+      "title_en": "Chapter 30",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-031.json",
@@ -309,9 +392,11 @@
       "id": "chapter-031",
       "order": 31,
       "reading_unit_count": 2,
-      "summary": "夫佳兵者，不祥之器，物或惡之，故有道者不處",
+      "summary": "夫佳兵者，不祥之器，物或恶之，故有道者不处",
       "supplemental_unit_count": 0,
-      "title": "第31章"
+      "title": "第31章",
+      "title_en": "Chapter 31",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-032.json",
@@ -319,9 +404,11 @@
       "id": "chapter-032",
       "order": 32,
       "reading_unit_count": 1,
-      "summary": "道常無名",
+      "summary": "道常无名",
       "supplemental_unit_count": 0,
-      "title": "第32章"
+      "title": "第32章",
+      "title_en": "Chapter 32",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-033.json",
@@ -331,7 +418,9 @@
       "reading_unit_count": 1,
       "summary": "知人者智，自知者明",
       "supplemental_unit_count": 0,
-      "title": "第33章"
+      "title": "第33章",
+      "title_en": "Chapter 33",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-034.json",
@@ -339,9 +428,11 @@
       "id": "chapter-034",
       "order": 34,
       "reading_unit_count": 1,
-      "summary": "大道汎兮，其可左右",
+      "summary": "大道泛兮，其可左右",
       "supplemental_unit_count": 0,
-      "title": "第34章"
+      "title": "第34章",
+      "title_en": "Chapter 34",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-035.json",
@@ -349,9 +440,11 @@
       "id": "chapter-035",
       "order": 35,
       "reading_unit_count": 1,
-      "summary": "執大象，天下往",
+      "summary": "执大象，天下往",
       "supplemental_unit_count": 0,
-      "title": "第35章"
+      "title": "第35章",
+      "title_en": "Chapter 35",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-036.json",
@@ -359,9 +452,11 @@
       "id": "chapter-036",
       "order": 36,
       "reading_unit_count": 1,
-      "summary": "將欲歙之，必固張之；將欲弱之，必固強之；將欲廢之，必固興之；將欲奪之，必固與之",
+      "summary": "将欲歙之，必固张之；将欲弱之，必固强之；将欲废之，必固兴之；将欲夺之，必固与之",
       "supplemental_unit_count": 0,
-      "title": "第36章"
+      "title": "第36章",
+      "title_en": "Chapter 36",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-037.json",
@@ -369,9 +464,11 @@
       "id": "chapter-037",
       "order": 37,
       "reading_unit_count": 1,
-      "summary": "道常無為而無不為",
+      "summary": "道常无为而无不为",
       "supplemental_unit_count": 0,
-      "title": "第37章"
+      "title": "第37章",
+      "title_en": "Chapter 37",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-038.json",
@@ -379,9 +476,11 @@
       "id": "chapter-038",
       "order": 38,
       "reading_unit_count": 2,
-      "summary": "上德不德，是以有德；下德不失德，是以無德",
+      "summary": "上德不德，是以有德；下德不失德，是以无德",
       "supplemental_unit_count": 0,
-      "title": "第38章"
+      "title": "第38章",
+      "title_en": "Chapter 38",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-039.json",
@@ -389,9 +488,11 @@
       "id": "chapter-039",
       "order": 39,
       "reading_unit_count": 2,
-      "summary": "昔之得一者：天得一以清；地得一以寧；神得一以靈；谷得一以盈；萬物得一以生；侯王得一以為天下貞",
+      "summary": "昔之得一者：天得一以清；地得一以宁；神得一以灵；谷得一以盈；万物得一以生；侯王得一以为天下贞",
       "supplemental_unit_count": 0,
-      "title": "第39章"
+      "title": "第39章",
+      "title_en": "Chapter 39",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-040.json",
@@ -399,9 +500,11 @@
       "id": "chapter-040",
       "order": 40,
       "reading_unit_count": 1,
-      "summary": "反者道之動；弱者道之用",
+      "summary": "反者道之动；弱者道之用",
       "supplemental_unit_count": 0,
-      "title": "第40章"
+      "title": "第40章",
+      "title_en": "Chapter 40",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-041.json",
@@ -409,9 +512,11 @@
       "id": "chapter-041",
       "order": 41,
       "reading_unit_count": 1,
-      "summary": "上士聞道，勤而行之；中士聞道，若存若亡；下士聞道，大笑之",
+      "summary": "上士闻道，勤而行之；中士闻道，若存若亡；下士闻道，大笑之",
       "supplemental_unit_count": 0,
-      "title": "第41章"
+      "title": "第41章",
+      "title_en": "Chapter 41",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-042.json",
@@ -419,9 +524,11 @@
       "id": "chapter-042",
       "order": 42,
       "reading_unit_count": 1,
-      "summary": "道生一，一生二，二生三，三生萬物",
+      "summary": "道生一，一生二，二生三，三生万物",
       "supplemental_unit_count": 0,
-      "title": "第42章"
+      "title": "第42章",
+      "title_en": "Chapter 42",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-043.json",
@@ -429,9 +536,11 @@
       "id": "chapter-043",
       "order": 43,
       "reading_unit_count": 1,
-      "summary": "天下之至柔，馳騁天下之至堅",
+      "summary": "天下之至柔，驰骋天下之至坚",
       "supplemental_unit_count": 0,
-      "title": "第43章"
+      "title": "第43章",
+      "title_en": "Chapter 43",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-044.json",
@@ -439,9 +548,11 @@
       "id": "chapter-044",
       "order": 44,
       "reading_unit_count": 1,
-      "summary": "名與身孰親？身與貨孰多？得與亡孰病？是故甚愛必大費；多藏必厚亡",
+      "summary": "名与身孰亲？身与货孰多？得与亡孰病？是故甚爱必大费；多藏必厚亡",
       "supplemental_unit_count": 0,
-      "title": "第44章"
+      "title": "第44章",
+      "title_en": "Chapter 44",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-045.json",
@@ -451,7 +562,9 @@
       "reading_unit_count": 1,
       "summary": "大成若缺，其用不弊",
       "supplemental_unit_count": 0,
-      "title": "第45章"
+      "title": "第45章",
+      "title_en": "Chapter 45",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-046.json",
@@ -459,9 +572,11 @@
       "id": "chapter-046",
       "order": 46,
       "reading_unit_count": 1,
-      "summary": "天下有道，卻走馬以糞",
+      "summary": "天下有道，却走马以粪",
       "supplemental_unit_count": 0,
-      "title": "第46章"
+      "title": "第46章",
+      "title_en": "Chapter 46",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-047.json",
@@ -469,9 +584,11 @@
       "id": "chapter-047",
       "order": 47,
       "reading_unit_count": 1,
-      "summary": "不出戶知天下；不闚牖見天道",
+      "summary": "不出户知天下；不闚牖见天道",
       "supplemental_unit_count": 0,
-      "title": "第47章"
+      "title": "第47章",
+      "title_en": "Chapter 47",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-048.json",
@@ -479,9 +596,11 @@
       "id": "chapter-048",
       "order": 48,
       "reading_unit_count": 1,
-      "summary": "為學日益，為道日損",
+      "summary": "为学日益，为道日损",
       "supplemental_unit_count": 0,
-      "title": "第48章"
+      "title": "第48章",
+      "title_en": "Chapter 48",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-049.json",
@@ -489,9 +608,11 @@
       "id": "chapter-049",
       "order": 49,
       "reading_unit_count": 1,
-      "summary": "聖人無常心，以百姓心為心",
+      "summary": "圣人无常心，以百姓心为心",
       "supplemental_unit_count": 0,
-      "title": "第49章"
+      "title": "第49章",
+      "title_en": "Chapter 49",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-050.json",
@@ -501,7 +622,9 @@
       "reading_unit_count": 1,
       "summary": "出生入死",
       "supplemental_unit_count": 0,
-      "title": "第50章"
+      "title": "第50章",
+      "title_en": "Chapter 50",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-051.json",
@@ -509,9 +632,11 @@
       "id": "chapter-051",
       "order": 51,
       "reading_unit_count": 1,
-      "summary": "道生之，德畜之，物形之，勢成之",
+      "summary": "道生之，德畜之，物形之，势成之",
       "supplemental_unit_count": 0,
-      "title": "第51章"
+      "title": "第51章",
+      "title_en": "Chapter 51",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-052.json",
@@ -519,9 +644,11 @@
       "id": "chapter-052",
       "order": 52,
       "reading_unit_count": 1,
-      "summary": "天下有始，以為天下母",
+      "summary": "天下有始，以为天下母",
       "supplemental_unit_count": 0,
-      "title": "第52章"
+      "title": "第52章",
+      "title_en": "Chapter 52",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-053.json",
@@ -529,9 +656,11 @@
       "id": "chapter-053",
       "order": 53,
       "reading_unit_count": 1,
-      "summary": "使我介然有知，行於大道，唯施是畏",
+      "summary": "使我介然有知，行于大道，唯施是畏",
       "supplemental_unit_count": 0,
-      "title": "第53章"
+      "title": "第53章",
+      "title_en": "Chapter 53",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-054.json",
@@ -539,9 +668,11 @@
       "id": "chapter-054",
       "order": 54,
       "reading_unit_count": 1,
-      "summary": "善建不拔，善抱者不脫，子孫以祭祀不輟",
+      "summary": "善建不拔，善抱者不脱，子孙以祭祀不辍",
       "supplemental_unit_count": 0,
-      "title": "第54章"
+      "title": "第54章",
+      "title_en": "Chapter 54",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-055.json",
@@ -549,9 +680,11 @@
       "id": "chapter-055",
       "order": 55,
       "reading_unit_count": 1,
-      "summary": "含德之厚，比於赤子",
+      "summary": "含德之厚，比于赤子",
       "supplemental_unit_count": 0,
-      "title": "第55章"
+      "title": "第55章",
+      "title_en": "Chapter 55",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-056.json",
@@ -561,7 +694,9 @@
       "reading_unit_count": 1,
       "summary": "知者不言，言者不知",
       "supplemental_unit_count": 0,
-      "title": "第56章"
+      "title": "第56章",
+      "title_en": "Chapter 56",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-057.json",
@@ -569,9 +704,11 @@
       "id": "chapter-057",
       "order": 57,
       "reading_unit_count": 1,
-      "summary": "以正治國，以奇用兵，以無事取天下",
+      "summary": "以正治国，以奇用兵，以无事取天下",
       "supplemental_unit_count": 0,
-      "title": "第57章"
+      "title": "第57章",
+      "title_en": "Chapter 57",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-058.json",
@@ -579,9 +716,11 @@
       "id": "chapter-058",
       "order": 58,
       "reading_unit_count": 1,
-      "summary": "其政悶悶，其民淳淳；其政察察，其民缺缺",
+      "summary": "其政闷闷，其民淳淳；其政察察，其民缺缺",
       "supplemental_unit_count": 0,
-      "title": "第58章"
+      "title": "第58章",
+      "title_en": "Chapter 58",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-059.json",
@@ -589,9 +728,11 @@
       "id": "chapter-059",
       "order": 59,
       "reading_unit_count": 1,
-      "summary": "治人事天莫若嗇",
+      "summary": "治人事天莫若啬",
       "supplemental_unit_count": 0,
-      "title": "第59章"
+      "title": "第59章",
+      "title_en": "Chapter 59",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-060.json",
@@ -599,9 +740,11 @@
       "id": "chapter-060",
       "order": 60,
       "reading_unit_count": 1,
-      "summary": "治大國若烹小鮮",
+      "summary": "治大国若烹小鲜",
       "supplemental_unit_count": 0,
-      "title": "第60章"
+      "title": "第60章",
+      "title_en": "Chapter 60",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-061.json",
@@ -609,9 +752,11 @@
       "id": "chapter-061",
       "order": 61,
       "reading_unit_count": 1,
-      "summary": "大國者下流，天下之交，天下之牝",
+      "summary": "大国者下流，天下之交，天下之牝",
       "supplemental_unit_count": 0,
-      "title": "第61章"
+      "title": "第61章",
+      "title_en": "Chapter 61",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-062.json",
@@ -619,9 +764,11 @@
       "id": "chapter-062",
       "order": 62,
       "reading_unit_count": 1,
-      "summary": "道者萬物之奧",
+      "summary": "道者万物之奥",
       "supplemental_unit_count": 0,
-      "title": "第62章"
+      "title": "第62章",
+      "title_en": "Chapter 62",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-063.json",
@@ -629,9 +776,11 @@
       "id": "chapter-063",
       "order": 63,
       "reading_unit_count": 1,
-      "summary": "為無為，事無事，味無味",
+      "summary": "为无为，事无事，味无味",
       "supplemental_unit_count": 0,
-      "title": "第63章"
+      "title": "第63章",
+      "title_en": "Chapter 63",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-064.json",
@@ -639,9 +788,11 @@
       "id": "chapter-064",
       "order": 64,
       "reading_unit_count": 2,
-      "summary": "其安易持，其未兆易謀",
+      "summary": "其安易持，其未兆易谋",
       "supplemental_unit_count": 0,
-      "title": "第64章"
+      "title": "第64章",
+      "title_en": "Chapter 64",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-065.json",
@@ -649,9 +800,11 @@
       "id": "chapter-065",
       "order": 65,
       "reading_unit_count": 1,
-      "summary": "古之善為道者，非以明民，將以愚之",
+      "summary": "古之善为道者，非以明民，将以愚之",
       "supplemental_unit_count": 0,
-      "title": "第65章"
+      "title": "第65章",
+      "title_en": "Chapter 65",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-066.json",
@@ -659,9 +812,11 @@
       "id": "chapter-066",
       "order": 66,
       "reading_unit_count": 1,
-      "summary": "江海所以能為百谷王者，以其善下之，故能為百谷王",
+      "summary": "江海所以能为百谷王者，以其善下之，故能为百谷王",
       "supplemental_unit_count": 0,
-      "title": "第66章"
+      "title": "第66章",
+      "title_en": "Chapter 66",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-067.json",
@@ -669,9 +824,11 @@
       "id": "chapter-067",
       "order": 67,
       "reading_unit_count": 2,
-      "summary": "天下皆謂我道大，似不肖",
+      "summary": "天下皆谓我道大，似不肖",
       "supplemental_unit_count": 0,
-      "title": "第67章"
+      "title": "第67章",
+      "title_en": "Chapter 67",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-068.json",
@@ -679,9 +836,11 @@
       "id": "chapter-068",
       "order": 68,
       "reading_unit_count": 1,
-      "summary": "善為士者，不武；善戰者，不怒；善勝敵者，不與；善用人者，為之下",
+      "summary": "善为士者，不武；善战者，不怒；善胜敌者，不与；善用人者，为之下",
       "supplemental_unit_count": 0,
-      "title": "第68章"
+      "title": "第68章",
+      "title_en": "Chapter 68",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-069.json",
@@ -689,9 +848,11 @@
       "id": "chapter-069",
       "order": 69,
       "reading_unit_count": 1,
-      "summary": "用兵有言：吾不敢為主，而為客；不敢進寸，而退尺",
+      "summary": "用兵有言：吾不敢为主，而为客；不敢进寸，而退尺",
       "supplemental_unit_count": 0,
-      "title": "第69章"
+      "title": "第69章",
+      "title_en": "Chapter 69",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-070.json",
@@ -701,7 +862,9 @@
       "reading_unit_count": 1,
       "summary": "吾言甚易知，甚易行",
       "supplemental_unit_count": 0,
-      "title": "第70章"
+      "title": "第70章",
+      "title_en": "Chapter 70",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-071.json",
@@ -711,7 +874,9 @@
       "reading_unit_count": 1,
       "summary": "知不知上；不知知病",
       "supplemental_unit_count": 0,
-      "title": "第71章"
+      "title": "第71章",
+      "title_en": "Chapter 71",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-072.json",
@@ -719,9 +884,11 @@
       "id": "chapter-072",
       "order": 72,
       "reading_unit_count": 1,
-      "summary": "民不畏威，則大威至",
+      "summary": "民不畏威，则大威至",
       "supplemental_unit_count": 0,
-      "title": "第72章"
+      "title": "第72章",
+      "title_en": "Chapter 72",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-073.json",
@@ -729,9 +896,11 @@
       "id": "chapter-073",
       "order": 73,
       "reading_unit_count": 1,
-      "summary": "勇於敢則殺，勇於不敢則活",
+      "summary": "勇于敢则杀，勇于不敢则活",
       "supplemental_unit_count": 0,
-      "title": "第73章"
+      "title": "第73章",
+      "title_en": "Chapter 73",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-074.json",
@@ -739,9 +908,11 @@
       "id": "chapter-074",
       "order": 74,
       "reading_unit_count": 1,
-      "summary": "民不畏死，奈何以死懼之？若使民常畏死，而為奇者，吾得執而殺之，孰敢？常有司殺者殺",
+      "summary": "民不畏死，奈何以死惧之？若使民常畏死，而为奇者，吾得执而杀之，孰敢？常有司杀者杀",
       "supplemental_unit_count": 0,
-      "title": "第74章"
+      "title": "第74章",
+      "title_en": "Chapter 74",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-075.json",
@@ -749,9 +920,11 @@
       "id": "chapter-075",
       "order": 75,
       "reading_unit_count": 1,
-      "summary": "民之飢，以其上食稅之多，是以飢",
+      "summary": "民之饥，以其上食税之多，是以饥",
       "supplemental_unit_count": 0,
-      "title": "第75章"
+      "title": "第75章",
+      "title_en": "Chapter 75",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-076.json",
@@ -759,9 +932,11 @@
       "id": "chapter-076",
       "order": 76,
       "reading_unit_count": 1,
-      "summary": "人之生也柔弱，其死也堅強",
+      "summary": "人之生也柔弱，其死也坚强",
       "supplemental_unit_count": 0,
-      "title": "第76章"
+      "title": "第76章",
+      "title_en": "Chapter 76",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-077.json",
@@ -769,9 +944,11 @@
       "id": "chapter-077",
       "order": 77,
       "reading_unit_count": 1,
-      "summary": "天之道，其猶張弓與？高者抑之，下者舉之；有餘者損之，不足者補之",
+      "summary": "天之道，其犹张弓与？高者抑之，下者举之；有余者损之，不足者补之",
       "supplemental_unit_count": 0,
-      "title": "第77章"
+      "title": "第77章",
+      "title_en": "Chapter 77",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-078.json",
@@ -779,9 +956,11 @@
       "id": "chapter-078",
       "order": 78,
       "reading_unit_count": 1,
-      "summary": "天下莫柔弱於水，而攻堅強者莫之能勝，其無以易之",
+      "summary": "天下莫柔弱于水，而攻坚强者莫之能胜，其无以易之",
       "supplemental_unit_count": 0,
-      "title": "第78章"
+      "title": "第78章",
+      "title_en": "Chapter 78",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-079.json",
@@ -789,9 +968,11 @@
       "id": "chapter-079",
       "order": 79,
       "reading_unit_count": 1,
-      "summary": "和大怨，必有餘怨；安可以為善？是以聖人執左契，而不責於人",
+      "summary": "和大怨，必有余怨；安可以为善？是以圣人执左契，而不责于人",
       "supplemental_unit_count": 0,
-      "title": "第79章"
+      "title": "第79章",
+      "title_en": "Chapter 79",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-080.json",
@@ -799,9 +980,11 @@
       "id": "chapter-080",
       "order": 80,
       "reading_unit_count": 1,
-      "summary": "小國寡民",
+      "summary": "小国寡民",
       "supplemental_unit_count": 0,
-      "title": "第80章"
+      "title": "第80章",
+      "title_en": "Chapter 80",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/daodejing/chapters/chapter-081.json",
@@ -811,18 +994,11 @@
       "reading_unit_count": 1,
       "summary": "信言不美，美言不信",
       "supplemental_unit_count": 0,
-      "title": "第81章"
+      "title": "第81章",
+      "title_en": "Chapter 81",
+      "title_en_source": "human"
     }
   ],
   "commentary_chapter_count": 0,
-  "commentary_chapters": [],
-  "provenance_note_v1": "v1 canon. Chinese text via ctext.org (Si Shu Zhang Ju Ji Zhu). English translation: James Legge (public domain), seeded as the sole canonical translation per line. Modern copyrighted translations (Lau/Slingerland/Watson) are referenced by the platform, not stored. Source-of-truth file in this repo: content/SOURCES.md.",
-  "provider": "ctext-html",
-  "seed_translator": {
-    "license": "public domain",
-    "translator": "Legge",
-    "year": 1891
-  },
-  "source_url": "https://ctext.org/dao-de-jing?if=en",
-  "title": "Dao De Jing"
+  "commentary_chapters": []
 }

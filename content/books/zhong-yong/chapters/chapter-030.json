@@ -10,7 +10,7 @@
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "Zhong-ni handed down the doctrines of Yao and Shun, as if they had been his ancestors, and elegantly displayed the regulations of Wen and Wu taking them as his model.",
+            "text": "Zhong-ni handed down the doctrines of Yao and Shun, as if they had been his ancestors, and elegantly displayed the regulations of Wen and Wu taking them as his model. Above, he harmonized with the times of Heaven, and below, he was conformed to the water and land.",
             "translator": "Legge",
             "year": 1885
           }
@@ -18,16 +18,147 @@
         "character_count": 18,
         "id": "chapter-030-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "zhòng",
+          "ní",
+          "zǔ",
+          "shù",
+          "yáo",
+          "shùn",
+          "",
+          "xiàn",
+          "zhāng",
+          "wén",
+          "wǔ",
+          "",
+          "shàng",
+          "lǜ",
+          "tiān",
+          "shí",
+          "",
+          "xià",
+          "xí",
+          "shuí",
+          "tǔ",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "仲尼祖述堯舜，憲章文武；上律天時，下襲水土。"
+        "text": "仲尼祖述尧舜，宪章文武；上律天时，下袭水土。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "courtesy name for Confucius 孔夫子[Kong3 fu1 zi3]",
+            "pinyin": "Zhòng ní",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "仲尼"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "祖"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "述"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "尧"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "舜"
+          },
+          {
+            "end": 9,
+            "gloss": "charter",
+            "pinyin": "xiàn zhāng",
+            "source": "CC-CEDICT",
+            "start": 7,
+            "word": "宪章"
+          },
+          {
+            "end": 11,
+            "gloss": "civil and military",
+            "pinyin": "wén wǔ",
+            "source": "CC-CEDICT",
+            "start": 9,
+            "word": "文武"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "上"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "律"
+          },
+          {
+            "end": 16,
+            "gloss": "the time / the right time / weather conditions / destiny / course of time / heaven's natural order",
+            "pinyin": "tiān shí",
+            "source": "CC-CEDICT",
+            "start": 14,
+            "word": "天时"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "下"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "袭"
+          },
+          {
+            "end": 21,
+            "gloss": "water and soil / surface water / natural environment (extended meaning) / climate",
+            "pinyin": "shuǐ tǔ",
+            "source": "CC-CEDICT",
+            "start": 19,
+            "word": "水土"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "Above, he harmonized with the times of Heaven, and below, he was conformed to the water and land.",
+            "text": "He may be compared to Heaven and Earth in their supporting and containing, their overshadowing and curtaining, all things. He may be compared to the four seasons in their alternating progress, and to the sun and moon in their successive shining.",
             "translator": "Legge",
             "year": 1885
           }
@@ -35,16 +166,219 @@
         "character_count": 26,
         "id": "chapter-030-line-002",
         "order": 2,
+        "pinyin_per_char": [
+          "pì",
+          "rú",
+          "tiān",
+          "dì",
+          "zhī",
+          "wú",
+          "bù",
+          "chí",
+          "zài",
+          "",
+          "wú",
+          "bú",
+          "fù",
+          "chóu",
+          "",
+          "pì",
+          "rú",
+          "sì",
+          "shí",
+          "zhī",
+          "cuò",
+          "xíng",
+          "",
+          "rú",
+          "rì",
+          "yuè",
+          "zhī",
+          "dài",
+          "míng",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 2,
-        "text": "辟如天地之無不持載，無不覆幬，辟如四時之錯行，如日月之代明。"
+        "text": "辟如天地之无不持载，无不覆帱，辟如四时之错行，如日月之代明。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "辟"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "如"
+          },
+          {
+            "end": 4,
+            "gloss": "heaven and earth / world / scope / field of activity",
+            "pinyin": "tiān dì",
+            "source": "CC-CEDICT",
+            "start": 2,
+            "word": "天地"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "之"
+          },
+          {
+            "end": 7,
+            "gloss": "none lacking / none missing / everything is there / everyone without exception",
+            "pinyin": "wú bù",
+            "source": "CC-CEDICT",
+            "start": 5,
+            "word": "无不"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "持"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "载"
+          },
+          {
+            "end": 12,
+            "gloss": "none lacking / none missing / everything is there / everyone without exception",
+            "pinyin": "wú bù",
+            "source": "CC-CEDICT",
+            "start": 10,
+            "word": "无不"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "覆"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "帱"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "辟"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "如"
+          },
+          {
+            "end": 19,
+            "gloss": "the four seasons, namely: spring 春[chun1], summer 夏[xia4], autumn 秋[qiu1] and winter 冬[dong1]",
+            "pinyin": "sì shí",
+            "source": "CC-CEDICT",
+            "start": 17,
+            "word": "四时"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "之"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "错"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "行"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "如"
+          },
+          {
+            "end": 26,
+            "gloss": "the sun and moon / day and month / every day and every month / season / life and livelihood",
+            "pinyin": "rì yuè",
+            "source": "CC-CEDICT",
+            "start": 24,
+            "word": "日月"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "之"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "代"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "明"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "He may be compared to Heaven and Earth in their supporting and containing, their overshadowing and curtaining, all things. He may be compared to the four seasons in their alternating progress, and to the sun and moon in their successive shining. All things are nourished together without their injuring one another. The courses of the seasons, and of the sun and moon, are pursued without any collision among them. The smaller energies are like river currents; the greater energies are seen in mighty transformations. It is this which makes heaven and earth so great.",
+            "text": "All things are nourished together without their injuring one another. The courses of the seasons, and of the sun and moon, are pursued without any collision among them. The smaller energies are like river currents; the greater energies are seen in mighty transformations. It is this which makes heaven and earth so great.",
             "translator": "Legge",
             "year": 1885
           }
@@ -52,16 +386,250 @@
         "character_count": 32,
         "id": "chapter-030-line-003",
         "order": 3,
+        "pinyin_per_char": [
+          "wàn",
+          "wù",
+          "bìng",
+          "yù",
+          "ér",
+          "bù",
+          "xiāng",
+          "hài",
+          "",
+          "dào",
+          "bìng",
+          "xíng",
+          "ér",
+          "bù",
+          "xiāng",
+          "bèi",
+          "",
+          "xiǎo",
+          "dé",
+          "chuān",
+          "liú",
+          "",
+          "dà",
+          "dé",
+          "dūn",
+          "huà",
+          "",
+          "cǐ",
+          "tiān",
+          "dì",
+          "zhī",
+          "suó",
+          "yǐ",
+          "wéi",
+          "dà",
+          "yě",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 3,
-        "text": "萬物並育而不相害，道並行而不相悖，小德川流，大德敦化，此天地之所以為大也。"
+        "text": "万物并育而不相害，道并行而不相悖，小德川流，大德敦化，此天地之所以为大也。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "all things / all that exists",
+            "pinyin": "wàn wù",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "万物"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "并"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "育"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "而"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "不"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "相"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "害"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "道"
+          },
+          {
+            "end": 12,
+            "gloss": "to proceed in parallel / side by side (of two processes, developments, thoughts etc)",
+            "pinyin": "bìng xíng",
+            "source": "CC-CEDICT",
+            "start": 10,
+            "word": "并行"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "而"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "不"
+          },
+          {
+            "end": 16,
+            "gloss": "contrary; opposite; to run counter to",
+            "pinyin": "xiāng bèi",
+            "source": "CC-CEDICT",
+            "start": 14,
+            "word": "相悖"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "小"
+          },
+          {
+            "end": 20,
+            "gloss": "Tokugawa, Japanese shogunal clan (1603–1867)",
+            "pinyin": "Dé chuān",
+            "source": "CC-CEDICT",
+            "start": 18,
+            "word": "德川"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "流"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "大"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "德"
+          },
+          {
+            "end": 26,
+            "gloss": "see 敦化市[Dun1 hua4 Shi4]",
+            "pinyin": "Dūn huà",
+            "source": "CC-CEDICT",
+            "start": 24,
+            "word": "敦化"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "此"
+          },
+          {
+            "end": 30,
+            "gloss": "heaven and earth / world / scope / field of activity",
+            "pinyin": "tiān dì",
+            "source": "CC-CEDICT",
+            "start": 28,
+            "word": "天地"
+          },
+          {
+            "end": 33,
+            "gloss": "(after a noun N and before a predicate P) the reason why N P / Example: 我之所以讨厌他|我之所以讨厌他[wo3 zhi1 su…",
+            "pinyin": "zhī suǒ yǐ",
+            "source": "CC-CEDICT",
+            "start": 30,
+            "word": "之所以"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "为"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "大"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "也"
+          }
+        ]
       }
     ],
     "summary": "",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "仲尼祖述堯舜，憲章文武；上律天時，下襲水土。\n辟如天地之無不持載，無不覆幬，辟如四時之錯行，如日月之代明。\n萬物並育而不相害，道並行而不相悖，小德川流，大德敦化，此天地之所以為大也。",
+    "text": "仲尼祖述尧舜，宪章文武；上律天时，下袭水土。\n辟如天地之无不持载，无不覆帱，辟如四时之错行，如日月之代明。\n万物并育而不相害，道并行而不相悖，小德川流，大德敦化，此天地之所以为大也。",
     "title": ""
   },
   "chapter_path": "books/zhong-yong/chapters/chapter-030.json",

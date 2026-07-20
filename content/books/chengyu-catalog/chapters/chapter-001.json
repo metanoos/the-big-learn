@@ -353,7 +353,13 @@
         "order": 22,
         "pinyin": "zhuān xīn zhì zhì",
         "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
-        "text": "专心致志"
+        "text": "专心致志",
+        "origin": {
+          "book": "mengzi",
+          "chapter": 11,
+          "line": 43,
+          "snippet": "今夫弈之为数，小数也；不专心致志，则不得也。弈秋，通国之善弈者也。使弈秋诲二人弈，其一人专心致志，惟弈秋之为听。一人虽听之，一心以为有鸿鹄将至，思援弓缴而射之…"
+        }
       },
       {
         "canonical_translations": [
@@ -558,7 +564,13 @@
         "order": 35,
         "pinyin": "xué ér bù yàn",
         "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
-        "text": "学而不厌"
+        "text": "学而不厌",
+        "origin": {
+          "book": "lunyu",
+          "chapter": 7,
+          "line": 2,
+          "snippet": "子曰：「默而识之，学而不厌，诲人不倦，何有于我哉？」"
+        }
       },
       {
         "canonical_translations": [
@@ -650,7 +662,7 @@
           {
             "license": "CC BY-SA 3.0",
             "source_url": "https://cc-cedict.org/",
-            "text": "variant of 融會貫通|融会贯通[rong2 hui4 guan4 tong1]",
+            "text": "variant of 融会贯通|融会贯通[rong2 hui4 guan4 tong1]",
             "translator": "CC-CEDICT",
             "year": null
           }

@@ -18,16 +18,456 @@
         "character_count": 57,
         "id": "chapter-076-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "rén",
+          "zhī",
+          "shēng",
+          "yě",
+          "róu",
+          "ruò",
+          "",
+          "qí",
+          "sí",
+          "yě",
+          "jiān",
+          "qiáng",
+          "",
+          "wàn",
+          "wù",
+          "cǎo",
+          "mù",
+          "zhī",
+          "shēng",
+          "yě",
+          "róu",
+          "cuì",
+          "",
+          "qí",
+          "sí",
+          "yě",
+          "kū",
+          "gǎo",
+          "",
+          "gù",
+          "jiān",
+          "qiáng",
+          "zhé",
+          "sǐ",
+          "zhī",
+          "tú",
+          "",
+          "róu",
+          "ruò",
+          "zhě",
+          "shēng",
+          "zhī",
+          "tú",
+          "",
+          "shì",
+          "yǐ",
+          "bīng",
+          "qiáng",
+          "zé",
+          "bú",
+          "shèng",
+          "",
+          "mù",
+          "qiáng",
+          "zé",
+          "gòng",
+          "",
+          "qiáng",
+          "dà",
+          "chù",
+          "xià",
+          "",
+          "róu",
+          "ruò",
+          "chù",
+          "shàng",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "人之生也柔弱，其死也堅強。萬物草木之生也柔脆，其死也枯槁。故堅強者死之徒，柔弱者生之徒。是以兵強則不勝，木強則共。強大處下，柔弱處上。"
+        "text": "人之生也柔弱，其死也坚强。万物草木之生也柔脆，其死也枯槁。故坚强者死之徒，柔弱者生之徒。是以兵强则不胜，木强则共。强大处下，柔弱处上。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "人"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "之"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "生"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "也"
+          },
+          {
+            "end": 6,
+            "gloss": "weak / delicate",
+            "pinyin": "róu ruò",
+            "source": "CC-CEDICT",
+            "start": 4,
+            "word": "柔弱"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "其"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "死"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "也"
+          },
+          {
+            "end": 12,
+            "gloss": "staunch / strong",
+            "pinyin": "jiān qiáng",
+            "source": "CC-CEDICT",
+            "start": 10,
+            "word": "坚强"
+          },
+          {
+            "end": 15,
+            "gloss": "all things / all that exists",
+            "pinyin": "wàn wù",
+            "source": "CC-CEDICT",
+            "start": 13,
+            "word": "万物"
+          },
+          {
+            "end": 17,
+            "gloss": "vegetation / plants",
+            "pinyin": "cǎo mù",
+            "source": "CC-CEDICT",
+            "start": 15,
+            "word": "草木"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "之"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "生"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "也"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "柔"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "脆"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "其"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "死"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "也"
+          },
+          {
+            "end": 28,
+            "gloss": "(of vegetation) withered / (of a person) haggard",
+            "pinyin": "kū gǎo",
+            "source": "CC-CEDICT",
+            "start": 26,
+            "word": "枯槁"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "故"
+          },
+          {
+            "end": 32,
+            "gloss": "staunch / strong",
+            "pinyin": "jiān qiáng",
+            "source": "CC-CEDICT",
+            "start": 30,
+            "word": "坚强"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "者"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "死"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "之"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "徒"
+          },
+          {
+            "end": 39,
+            "gloss": "weak / delicate",
+            "pinyin": "róu ruò",
+            "source": "CC-CEDICT",
+            "start": 37,
+            "word": "柔弱"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "者"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "生"
+          },
+          {
+            "end": 42,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 41,
+            "word": "之"
+          },
+          {
+            "end": 43,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 42,
+            "word": "徒"
+          },
+          {
+            "end": 46,
+            "gloss": "therefore / thus / so",
+            "pinyin": "shì yǐ",
+            "source": "CC-CEDICT",
+            "start": 44,
+            "word": "是以"
+          },
+          {
+            "end": 47,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 46,
+            "word": "兵"
+          },
+          {
+            "end": 48,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 47,
+            "word": "强"
+          },
+          {
+            "end": 49,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 48,
+            "word": "则"
+          },
+          {
+            "end": 51,
+            "gloss": "cannot bear or stand / be unequal to / very / extremely",
+            "pinyin": "bù shèng",
+            "source": "CC-CEDICT",
+            "start": 49,
+            "word": "不胜"
+          },
+          {
+            "end": 53,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 52,
+            "word": "木"
+          },
+          {
+            "end": 54,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 53,
+            "word": "强"
+          },
+          {
+            "end": 55,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 54,
+            "word": "则"
+          },
+          {
+            "end": 56,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 55,
+            "word": "共"
+          },
+          {
+            "end": 59,
+            "gloss": "big and strong; formidable; powerful",
+            "pinyin": "qiáng dà",
+            "source": "CC-CEDICT",
+            "start": 57,
+            "word": "强大"
+          },
+          {
+            "end": 60,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 59,
+            "word": "处"
+          },
+          {
+            "end": 61,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 60,
+            "word": "下"
+          },
+          {
+            "end": 64,
+            "gloss": "weak / delicate",
+            "pinyin": "róu ruò",
+            "source": "CC-CEDICT",
+            "start": 62,
+            "word": "柔弱"
+          },
+          {
+            "end": 65,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 64,
+            "word": "处"
+          },
+          {
+            "end": 66,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 65,
+            "word": "上"
+          }
+        ]
       }
     ],
-    "summary": "人之生也柔弱，其死也堅強",
+    "summary": "人之生也柔弱，其死也坚强",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "人之生也柔弱，其死也堅強。萬物草木之生也柔脆，其死也枯槁。故堅強者死之徒，柔弱者生之徒。是以兵強則不勝，木強則共。強大處下，柔弱處上。",
+    "text": "人之生也柔弱，其死也坚强。万物草木之生也柔脆，其死也枯槁。故坚强者死之徒，柔弱者生之徒。是以兵强则不胜，木强则共。强大处下，柔弱处上。",
     "title": "第76章"
   },
   "chapter_path": "books/daodejing/chapters/chapter-076.json",

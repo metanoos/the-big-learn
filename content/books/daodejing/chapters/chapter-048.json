@@ -18,16 +18,301 @@
         "character_count": 40,
         "id": "chapter-048-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "wéi",
+          "xué",
+          "rì",
+          "yì",
+          "",
+          "wèi",
+          "dào",
+          "rì",
+          "sǔn",
+          "",
+          "sǔn",
+          "zhī",
+          "yòu",
+          "sǔn",
+          "",
+          "yǐ",
+          "zhì",
+          "yú",
+          "wú",
+          "wéi",
+          "",
+          "wú",
+          "wéi",
+          "ér",
+          "wú",
+          "bù",
+          "wéi",
+          "",
+          "qǔ",
+          "tiān",
+          "xià",
+          "cháng",
+          "yǐ",
+          "wú",
+          "shì",
+          "",
+          "jí",
+          "qí",
+          "yǒu",
+          "shì",
+          "",
+          "bù",
+          "zú",
+          "yí",
+          "qǔ",
+          "tiān",
+          "xià",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "為學日益，為道日損。損之又損，以至於無為。無為而無不為。取天下常以無事，及其有事，不足以取天下。"
+        "text": "为学日益，为道日损。损之又损，以至于无为。无为而无不为。取天下常以无事，及其有事，不足以取天下。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "为"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "学"
+          },
+          {
+            "end": 4,
+            "gloss": "day by day / more and more / increasingly / more and more with each passing day",
+            "pinyin": "rì yì",
+            "source": "CC-CEDICT",
+            "start": 2,
+            "word": "日益"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "为"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "道"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "日"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "损"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "损"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "之"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "又"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "损"
+          },
+          {
+            "end": 18,
+            "gloss": "down to / up to / to the extent that...",
+            "pinyin": "yǐ zhì yú",
+            "source": "CC-CEDICT",
+            "start": 15,
+            "word": "以至于"
+          },
+          {
+            "end": 20,
+            "gloss": "the Daoist doctrine of inaction / let things take their own course / laissez-faire",
+            "pinyin": "wú wéi",
+            "source": "CC-CEDICT",
+            "start": 18,
+            "word": "无为"
+          },
+          {
+            "end": 23,
+            "gloss": "the Daoist doctrine of inaction / let things take their own course / laissez-faire",
+            "pinyin": "wú wéi",
+            "source": "CC-CEDICT",
+            "start": 21,
+            "word": "无为"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "而"
+          },
+          {
+            "end": 26,
+            "gloss": "none lacking / none missing / everything is there / everyone without exception",
+            "pinyin": "wú bù",
+            "source": "CC-CEDICT",
+            "start": 24,
+            "word": "无不"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "为"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "取"
+          },
+          {
+            "end": 31,
+            "gloss": "land under heaven / the whole world / the whole of China / realm / rule",
+            "pinyin": "tiān xià",
+            "source": "CC-CEDICT",
+            "start": 29,
+            "word": "天下"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "常"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "以"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "无"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "事"
+          },
+          {
+            "end": 38,
+            "gloss": "(conjunction linking two nouns) and its ...; and their ...; and his ...; and her ...",
+            "pinyin": "jí qí",
+            "source": "CC-CEDICT",
+            "start": 36,
+            "word": "及其"
+          },
+          {
+            "end": 40,
+            "gloss": "to be occupied with sth / to have sth on one's mind / there is something the matter",
+            "pinyin": "yǒu shì",
+            "source": "CC-CEDICT",
+            "start": 38,
+            "word": "有事"
+          },
+          {
+            "end": 43,
+            "gloss": "insufficient / lacking / deficiency / not enough / inadequate / not worth / cannot / should not",
+            "pinyin": "bù zú",
+            "source": "CC-CEDICT",
+            "start": 41,
+            "word": "不足"
+          },
+          {
+            "end": 44,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 43,
+            "word": "以"
+          },
+          {
+            "end": 45,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 44,
+            "word": "取"
+          },
+          {
+            "end": 47,
+            "gloss": "land under heaven / the whole world / the whole of China / realm / rule",
+            "pinyin": "tiān xià",
+            "source": "CC-CEDICT",
+            "start": 45,
+            "word": "天下"
+          }
+        ]
       }
     ],
-    "summary": "為學日益，為道日損",
+    "summary": "为学日益，为道日损",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "為學日益，為道日損。損之又損，以至於無為。無為而無不為。取天下常以無事，及其有事，不足以取天下。",
+    "text": "为学日益，为道日损。损之又损，以至于无为。无为而无不为。取天下常以无事，及其有事，不足以取天下。",
     "title": "第48章"
   },
   "chapter_path": "books/daodejing/chapters/chapter-048.json",

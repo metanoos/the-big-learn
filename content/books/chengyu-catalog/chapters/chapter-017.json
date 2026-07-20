@@ -82,7 +82,13 @@
         "order": 7,
         "pinyin": "qióng rì zhī lì",
         "pinyin_source": "derived from per-character index",
-        "text": "穷日之力"
+        "text": "穷日之力",
+        "origin": {
+          "book": "mengzi",
+          "chapter": 4,
+          "line": 61,
+          "snippet": "予岂若是小丈夫然哉？谏于其君而不受，则怒，悻悻然见于其面。去则穷日之力而后宿哉？」"
+        }
       },
       {
         "canonical_translations": [
@@ -273,7 +279,13 @@
         "order": 22,
         "pinyin": "suì bù wǒ yǔ",
         "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
-        "text": "岁不我与"
+        "text": "岁不我与",
+        "origin": {
+          "book": "lunyu",
+          "chapter": 17,
+          "line": 2,
+          "snippet": "谓孔子曰：「来！予与尔言。」曰：「怀其宝而迷其邦，可谓仁乎？」曰：「不可。」「好从事而亟失时，可谓知乎？」曰：「不可。」「日月逝矣，岁不我与。」孔子曰：「诺。…"
+        }
       },
       {
         "canonical_translations": [],

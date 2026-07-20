@@ -18,16 +18,107 @@
         "character_count": 12,
         "id": "chapter-014-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "jūn",
+          "zǐ",
+          "sù",
+          "qí",
+          "wèi",
+          "ér",
+          "xíng",
+          "",
+          "bú",
+          "yuàn",
+          "hū",
+          "qí",
+          "wài",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "君子素其位而行，不願乎其外。"
+        "text": "君子素其位而行，不愿乎其外。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "the superior man; the exemplary person (junzi)",
+            "pinyin": "jūn zǐ",
+            "source": "classical-override",
+            "start": 0,
+            "word": "君子"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "素"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "其"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "位"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "而"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "行"
+          },
+          {
+            "end": 10,
+            "gloss": "unwilling",
+            "pinyin": "bù yuàn",
+            "source": "CC-CEDICT",
+            "start": 8,
+            "word": "不愿"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "乎"
+          },
+          {
+            "end": 13,
+            "gloss": "besides / in addition / apart from that",
+            "pinyin": "qí wài",
+            "source": "CC-CEDICT",
+            "start": 11,
+            "word": "其外"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "In a position of wealth and honor, he does what is proper to a position of wealth and honor.",
+            "text": "In a position of wealth and honor, he does what is proper to a position of wealth and honor. In a poor and low position, he does what is proper to a poor and low position. Situated among barbarous tribes, he does what is proper to a situation among barbarous tribes. In a position of sorrow and difficulty, he does what is proper to a position of sorrow and difficulty. The superior man can find himself in no situation in which he is not himself.",
             "translator": "Legge",
             "year": 1885
           }
@@ -35,16 +126,283 @@
         "character_count": 37,
         "id": "chapter-014-line-002",
         "order": 2,
+        "pinyin_per_char": [
+          "sù",
+          "fù",
+          "guì",
+          "",
+          "xíng",
+          "hū",
+          "fù",
+          "guì",
+          "",
+          "sù",
+          "pín",
+          "jiàn",
+          "",
+          "xíng",
+          "hū",
+          "pín",
+          "jiàn",
+          "",
+          "sù",
+          "yí",
+          "dí",
+          "",
+          "xíng",
+          "hū",
+          "yí",
+          "dí",
+          "",
+          "sù",
+          "huàn",
+          "nàn",
+          "",
+          "xíng",
+          "hū",
+          "huàn",
+          "nàn",
+          "",
+          "jūn",
+          "zǐ",
+          "wú",
+          "rù",
+          "ér",
+          "bú",
+          "zì",
+          "dé",
+          "yān",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 2,
-        "text": "素富貴，行乎富貴；素貧賤，行乎貧賤；素夷狄，行乎夷狄；素患難，行乎患難；君子無入而不自得焉。"
+        "text": "素富贵，行乎富贵；素贫贱，行乎贫贱；素夷狄，行乎夷狄；素患难，行乎患难；君子无入而不自得焉。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "素"
+          },
+          {
+            "end": 3,
+            "gloss": "riches and honor",
+            "pinyin": "fù guì",
+            "source": "CC-CEDICT",
+            "start": 1,
+            "word": "富贵"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "行"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "乎"
+          },
+          {
+            "end": 8,
+            "gloss": "riches and honor",
+            "pinyin": "fù guì",
+            "source": "CC-CEDICT",
+            "start": 6,
+            "word": "富贵"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "素"
+          },
+          {
+            "end": 12,
+            "gloss": "poor and lowly",
+            "pinyin": "pín jiàn",
+            "source": "CC-CEDICT",
+            "start": 10,
+            "word": "贫贱"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "行"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "乎"
+          },
+          {
+            "end": 17,
+            "gloss": "poor and lowly",
+            "pinyin": "pín jiàn",
+            "source": "CC-CEDICT",
+            "start": 15,
+            "word": "贫贱"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "素"
+          },
+          {
+            "end": 21,
+            "gloss": "non-Han tribes in the east and north of ancient China / barbarians",
+            "pinyin": "yí dí",
+            "source": "CC-CEDICT",
+            "start": 19,
+            "word": "夷狄"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "行"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "乎"
+          },
+          {
+            "end": 26,
+            "gloss": "non-Han tribes in the east and north of ancient China / barbarians",
+            "pinyin": "yí dí",
+            "source": "CC-CEDICT",
+            "start": 24,
+            "word": "夷狄"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "素"
+          },
+          {
+            "end": 30,
+            "gloss": "trials and tribulations",
+            "pinyin": "huàn nàn",
+            "source": "CC-CEDICT",
+            "start": 28,
+            "word": "患难"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "行"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "乎"
+          },
+          {
+            "end": 35,
+            "gloss": "trials and tribulations",
+            "pinyin": "huàn nàn",
+            "source": "CC-CEDICT",
+            "start": 33,
+            "word": "患难"
+          },
+          {
+            "end": 38,
+            "gloss": "the superior man; the exemplary person (junzi)",
+            "pinyin": "jūn zǐ",
+            "source": "classical-override",
+            "start": 36,
+            "word": "君子"
+          },
+          {
+            "end": 39,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 38,
+            "word": "无"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "入"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "而"
+          },
+          {
+            "end": 42,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 41,
+            "word": "不"
+          },
+          {
+            "end": 44,
+            "gloss": "contented / pleased with one's position",
+            "pinyin": "zì dé",
+            "source": "CC-CEDICT",
+            "start": 42,
+            "word": "自得"
+          },
+          {
+            "end": 45,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 44,
+            "word": "焉"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "In a poor and low position, he does what is proper to a poor and low position.",
+            "text": "In a high situation, he does not treat with contempt his inferiors. In a low situation, he does not court the favor of his superiors. He rectifies himself, and seeks for nothing from others, so that he has no dissatisfactions. He does not murmur against Heaven, nor grumble against men.",
             "translator": "Legge",
             "year": 1885
           }
@@ -52,16 +410,280 @@
         "character_count": 30,
         "id": "chapter-014-line-003",
         "order": 3,
+        "pinyin_per_char": [
+          "zài",
+          "shàng",
+          "wèi",
+          "bù",
+          "líng",
+          "xià",
+          "",
+          "zài",
+          "xià",
+          "wèi",
+          "bù",
+          "yuán",
+          "shàng",
+          "",
+          "zhèng",
+          "jǐ",
+          "ér",
+          "bù",
+          "qiú",
+          "yú",
+          "rén",
+          "zé",
+          "wú",
+          "yuàn",
+          "",
+          "shàng",
+          "bú",
+          "yuàn",
+          "tiān",
+          "",
+          "xià",
+          "bù",
+          "yóu",
+          "rén",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 3,
-        "text": "在上位不陵下，在下位不援上，正己而不求於人則無怨。上不怨天，下不尤人。"
+        "text": "在上位不陵下，在下位不援上，正己而不求于人则无怨。上不怨天，下不尤人。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "在"
+          },
+          {
+            "end": 3,
+            "gloss": "seat of honor / person in a high-ranking position / to be promoted to a more senior role / (genetic…",
+            "pinyin": "shàng wèi",
+            "source": "CC-CEDICT",
+            "start": 1,
+            "word": "上位"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "不"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "陵"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "下"
+          },
+          {
+            "end": 9,
+            "gloss": "under / myself (humble)",
+            "pinyin": "zài xià",
+            "source": "CC-CEDICT",
+            "start": 7,
+            "word": "在下"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "位"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "不"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "援"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "上"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "正"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "己"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "而"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "不"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "求"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "于"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "人"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "则"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "无"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "怨"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "上"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "不"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "怨"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "天"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "下"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "不"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "尤"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "人"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "Situated among barbarous tribes, he does what is proper to a situation among barbarous tribes. In a position of sorrow and difficulty, he does what is proper to a position of sorrow and difficulty. The superior man can find himself in no situation in which he is not himself. In a high situation, he does not treat with contempt his inferiors. In a low situation, he does not court the favor of his superiors. He rectifies himself, and seeks for nothing from others, so that he has no dissatisfactions. He does not murmur against Heaven, nor grumble against men. Thus it is that the superior man is quiet and calm, waiting for the appointments of Heaven, while the mean man walks in dangerous paths, looking for lucky occurrences.",
+            "text": "Thus it is that the superior man is quiet and calm, waiting for the appointments of Heaven, while the mean man walks in dangerous paths, looking for lucky occurrences.",
             "translator": "Legge",
             "year": 1885
           }
@@ -69,16 +691,134 @@
         "character_count": 15,
         "id": "chapter-014-line-004",
         "order": 4,
+        "pinyin_per_char": [
+          "gù",
+          "jūn",
+          "zǐ",
+          "jū",
+          "yì",
+          "yǐ",
+          "qí",
+          "mìng",
+          "",
+          "xiǎo",
+          "rén",
+          "xíng",
+          "xián",
+          "yí",
+          "jiǎo",
+          "xìng",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 4,
-        "text": "故君子居易以俟命，小人行險以徼幸。"
+        "text": "故君子居易以俟命，小人行险以徼幸。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "故"
+          },
+          {
+            "end": 3,
+            "gloss": "the superior man; the exemplary person (junzi)",
+            "pinyin": "jūn zǐ",
+            "source": "classical-override",
+            "start": 1,
+            "word": "君子"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "居"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "易"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "以"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "俟"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "命"
+          },
+          {
+            "end": 11,
+            "gloss": "person of low social status (old) / I, me (used to refer humbly to oneself) / nasty person / vile c…",
+            "pinyin": "xiǎo rén",
+            "source": "CC-CEDICT",
+            "start": 9,
+            "word": "小人"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "行"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "险"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "以"
+          },
+          {
+            "end": 16,
+            "gloss": "variant of 侥幸|侥幸[jiao3 xing4]",
+            "pinyin": "jiǎo xìng",
+            "source": "CC-CEDICT",
+            "start": 14,
+            "word": "徼幸"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "The Master said, \"In archery we have something like the way of the superior man.",
+            "text": "The Master said, \"In archery we have something like the way of the superior man. When the archer misses the center of the target, he turns round and seeks for the cause of his failure in himself.\"",
             "translator": "Legge",
             "year": 1885
           }
@@ -86,16 +826,156 @@
         "character_count": 17,
         "id": "chapter-014-line-005",
         "order": 5,
+        "pinyin_per_char": [
+          "zǐ",
+          "yuē",
+          "",
+          "",
+          "shè",
+          "yǒu",
+          "sì",
+          "hū",
+          "jūn",
+          "zǐ",
+          "",
+          "shī",
+          "zhū",
+          "zhèng",
+          "gǔ",
+          "",
+          "fǎn",
+          "qiú",
+          "zhū",
+          "qí",
+          "shēn",
+          "",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 5,
-        "text": "子曰：「射有似乎君子；失諸正鵠，反求諸其身。」"
+        "text": "子曰：「射有似乎君子；失诸正鹄，反求诸其身。」",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "The Master said (Confucius said)",
+            "pinyin": "zǐ yuē",
+            "source": "classical-override",
+            "start": 0,
+            "word": "子曰"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "射"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "有"
+          },
+          {
+            "end": 8,
+            "gloss": "it seems; seemingly; as if",
+            "pinyin": "sì hū",
+            "source": "CC-CEDICT",
+            "start": 6,
+            "word": "似乎"
+          },
+          {
+            "end": 10,
+            "gloss": "the superior man; the exemplary person (junzi)",
+            "pinyin": "jūn zǐ",
+            "source": "classical-override",
+            "start": 8,
+            "word": "君子"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "失"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "诸"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "正"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "鹄"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "反"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "求"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "诸"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "其"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "身"
+          }
+        ]
       }
     ],
     "summary": "",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "君子素其位而行，不願乎其外。\n素富貴，行乎富貴；素貧賤，行乎貧賤；素夷狄，行乎夷狄；素患難，行乎患難；君子無入而不自得焉。\n在上位不陵下，在下位不援上，正己而不求於人則無怨。上不怨天，下不尤人。\n故君子居易以俟命，小人行險以徼幸。\n子曰：「射有似乎君子；失諸正鵠，反求諸其身。」",
+    "text": "君子素其位而行，不愿乎其外。\n素富贵，行乎富贵；素贫贱，行乎贫贱；素夷狄，行乎夷狄；素患难，行乎患难；君子无入而不自得焉。\n在上位不陵下，在下位不援上，正己而不求于人则无怨。上不怨天，下不尤人。\n故君子居易以俟命，小人行险以徼幸。\n子曰：「射有似乎君子；失诸正鹄，反求诸其身。」",
     "title": ""
   },
   "chapter_path": "books/zhong-yong/chapters/chapter-014.json",

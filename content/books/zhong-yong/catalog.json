@@ -1,6 +1,29 @@
 {
   "cache_dir": "books/zhong-yong",
   "catalog_path": "books/zhong-yong/catalog.json",
+  "display_name": "Zhong Yong 中庸",
+  "name_zh": "中庸",
+  "name_pinyin": "Zhōng Yōng",
+  "name_en": "The Doctrine of the Mean",
+  "v1": true,
+  "available": true,
+  "tradition": "confucian",
+  "form": "philosophy",
+  "year": -300,
+  "tier": "A",
+  "difficulty": "foundational",
+  "curriculum_order": 3,
+  "title": "四书章句集注 : 中庸章句",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/zhong-yong-zhang-ju?if=en",
+  "source_title": "v1 canon. Chinese text via ctext.org (Si Shu Zhang Ju Ji Zhu). English translation: James Legge (public domain), seeded as the sole canonical translation per line. Modern copyrighted translations (Lau/Slingerland/Watson) are referenced by the platform, not stored. Source-of-truth file in this repo: content/SOURCES.md.",
+  "blurb": "The Doctrine of the Mean — the second of Zhu Xi's on-ramps. On holding to the center, and on the rare state where inner and outer are in tune.",
+  "background": "Like the Da Xue, the Zhong Yong (Doctrine of the Mean) was originally a chapter of the Li Ji that Zhu Xi promoted into the Four Books. Traditionally attributed to Confucius's grandson Zisi, it asks what it means to stay centered (中) and in tune (和) — both inside oneself and in one's conduct toward others. Where the Da Xue lays out the Confucian program as a ladder of steps, the Zhong Yong meditates on the inner disposition that makes those steps possible. It is short, dense, and quietly metaphysical — at points the argument opens out into a cosmology where the cultivated person aligns with heaven and earth. The 'mean' here is not mediocrity or splitting the difference; it is the harder ideal of hitting the right note in each situation. English seeding is James Legge (public domain); modern alternatives (Ames & Hall, Tu Weiming) are referenced, not stored.",
+  "provider": "ctext-html",
+  "seed_translator": {
+    "license": "public domain",
+    "translator": "Legge",
+    "year": 1885
+  },
   "chapter_count": 33,
   "chapters": [
     {
@@ -335,14 +358,5 @@
     }
   ],
   "commentary_chapter_count": 0,
-  "commentary_chapters": [],
-  "provenance_note_v1": "v1 canon. Chinese text via ctext.org (Si Shu Zhang Ju Ji Zhu). English translation: James Legge (public domain), seeded as the sole canonical translation per line. Modern copyrighted translations (Lau/Slingerland/Watson) are referenced by the platform, not stored. Source-of-truth file in this repo: content/SOURCES.md.",
-  "provider": "ctext-html",
-  "seed_translator": {
-    "license": "public domain",
-    "translator": "Legge",
-    "year": 1885
-  },
-  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/zhong-yong-zhang-ju?if=en",
-  "title": "四書章句集注 : 中庸章句"
+  "commentary_chapters": []
 }

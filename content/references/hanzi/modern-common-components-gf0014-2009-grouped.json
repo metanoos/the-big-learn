@@ -178,7 +178,7 @@
         "奥",
         "澳",
         "懊",
-        "粵"
+        "粤"
       ],
       "members": [
         {
@@ -197,12 +197,12 @@
           "stroke_order": "325431234",
           "construction_count": 4,
           "occurrence_count": 4,
-          "source_examples_text": "奥澳懊粵",
+          "source_examples_text": "奥澳懊粤",
           "source_example_characters": [
             "奥",
             "澳",
             "懊",
-            "粵"
+            "粤"
           ]
         }
       ]
@@ -660,7 +660,7 @@
         "坝",
         "员",
         "婴",
-        "贏"
+        "赢"
       ],
       "members": [
         {
@@ -679,12 +679,12 @@
           "stroke_order": "2534",
           "construction_count": 77,
           "occurrence_count": 80,
-          "source_examples_text": "坝员婴贏",
+          "source_examples_text": "坝员婴赢",
           "source_example_characters": [
             "坝",
             "员",
             "婴",
-            "贏"
+            "赢"
           ]
         }
       ]
@@ -3964,7 +3964,7 @@
       "source_example_characters": [
         "矾",
         "恐",
-        "贏"
+        "赢"
       ],
       "members": [
         {
@@ -3983,11 +3983,11 @@
           "stroke_order": "354",
           "construction_count": 7,
           "occurrence_count": 7,
-          "source_examples_text": "矾恐贏",
+          "source_examples_text": "矾恐赢",
           "source_example_characters": [
             "矾",
             "恐",
-            "贏"
+            "赢"
           ]
         }
       ]
@@ -6004,7 +6004,7 @@
         "亿",
         "艺",
         "疙",
-        "乾",
+        "干",
         "买",
         "卖",
         "续",
@@ -6034,12 +6034,12 @@
           "stroke_order": "5",
           "construction_count": 11,
           "occurrence_count": 11,
-          "source_examples_text": "亿艺疙乾",
+          "source_examples_text": "亿艺疙干",
           "source_example_characters": [
             "亿",
             "艺",
             "疙",
-            "乾"
+            "干"
           ]
         },
         {
@@ -6952,7 +6952,7 @@
       "source_example_characters": [
         "颊",
         "陕",
-        "莢"
+        "荚"
       ],
       "members": [
         {
@@ -6971,11 +6971,11 @@
           "stroke_order": "143134",
           "construction_count": 7,
           "occurrence_count": 7,
-          "source_examples_text": "颊陕莢",
+          "source_examples_text": "颊陕荚",
           "source_example_characters": [
             "颊",
             "陕",
-            "莢"
+            "荚"
           ]
         }
       ]
@@ -15247,7 +15247,7 @@
       "source_example_characters": [
         "肆",
         "套",
-        "懸"
+        "悬"
       ],
       "members": [
         {
@@ -15266,11 +15266,11 @@
           "stroke_order": "1211154",
           "construction_count": 3,
           "occurrence_count": 3,
-          "source_examples_text": "肆套懸",
+          "source_examples_text": "肆套悬",
           "source_example_characters": [
             "肆",
             "套",
-            "懸"
+            "悬"
           ]
         }
       ]
@@ -18674,7 +18674,7 @@
       ],
       "source_example_characters": [
         "显",
-        "虛",
+        "虚",
         "凿"
       ],
       "members": [
@@ -18694,10 +18694,10 @@
           "stroke_order": "22431",
           "construction_count": 7,
           "occurrence_count": 7,
-          "source_examples_text": "显虛凿",
+          "source_examples_text": "显虚凿",
           "source_example_characters": [
             "显",
-            "虛",
+            "虚",
             "凿"
           ]
         }
@@ -19945,7 +19945,7 @@
       "source_example_characters": [
         "需",
         "霜",
-        "蟜"
+        "𫊸"
       ],
       "members": [
         {
@@ -19964,11 +19964,11 @@
           "stroke_order": "12524444",
           "construction_count": 25,
           "occurrence_count": 25,
-          "source_examples_text": "需霜蟜",
+          "source_examples_text": "需霜𫊸",
           "source_example_characters": [
             "需",
             "霜",
-            "蟜"
+            "𫊸"
           ]
         }
       ]
@@ -20511,7 +20511,7 @@
         "抓",
         "爬",
         "印",
-        "與",
+        "与",
         "采",
         "浮",
         "摇",
@@ -20556,10 +20556,10 @@
           "stroke_order": "351",
           "construction_count": 2,
           "occurrence_count": 3,
-          "source_examples_text": "印與",
+          "source_examples_text": "印与",
           "source_example_characters": [
             "印",
-            "與"
+            "与"
           ]
         },
         {
@@ -21538,7 +21538,7 @@
         "官",
         "管",
         "棺",
-        "遺",
+        "遗",
         "归",
         "帅",
         "狮"
@@ -21584,12 +21584,12 @@
           "stroke_order": "25151",
           "construction_count": 6,
           "occurrence_count": 6,
-          "source_examples_text": "官管棺遺",
+          "source_examples_text": "官管棺遗",
           "source_example_characters": [
             "官",
             "管",
             "棺",
-            "遺"
+            "遗"
           ]
         },
         {

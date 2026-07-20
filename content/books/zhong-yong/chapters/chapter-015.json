@@ -10,7 +10,7 @@
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "When the archer misses the center of the target, he turns round and seeks for the cause of his failure in himself.",
+            "text": "The way of the superior man may be compared to what takes place in traveling, when to go to a distance we must first traverse the space that is near, and in ascending a height, when we must begin from the lower ground.",
             "translator": "Legge",
             "year": 1885
           }
@@ -18,16 +18,170 @@
         "character_count": 18,
         "id": "chapter-015-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "jūn",
+          "zǐ",
+          "zhī",
+          "dào",
+          "",
+          "pì",
+          "rú",
+          "xíng",
+          "yuǎn",
+          "bì",
+          "zì",
+          "ěr",
+          "",
+          "pì",
+          "rú",
+          "dēng",
+          "gāo",
+          "bì",
+          "zì",
+          "bēi",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "君子之道，辟如行遠必自邇，辟如登高必自卑。"
+        "text": "君子之道，辟如行远必自迩，辟如登高必自卑。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "the superior man; the exemplary person (junzi)",
+            "pinyin": "jūn zǐ",
+            "source": "classical-override",
+            "start": 0,
+            "word": "君子"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "之"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "道"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "辟"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "如"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "行"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "远"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "必"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "自"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "迩"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "辟"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "如"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "登"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "高"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "必"
+          },
+          {
+            "end": 20,
+            "gloss": "to have low self-esteem / to abase oneself",
+            "pinyin": "zì bēi",
+            "source": "CC-CEDICT",
+            "start": 18,
+            "word": "自卑"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "The way of the superior man may be compared to what takes place in traveling, when to go to a distance we must first traverse the space that is near, and in ascending a height, when we must begin from the lower ground.",
+            "text": "It is said in the Book of Poetry, \"Happy union with wife and children is like the music of lutes and harps. When there is concord among brethren, the harmony is delightful and enduring. Thus may you regulate your family, and enjoy the pleasure of your wife and children.\"",
             "translator": "Legge",
             "year": 1885
           }
@@ -35,16 +189,232 @@
         "character_count": 26,
         "id": "chapter-015-line-002",
         "order": 2,
+        "pinyin_per_char": [
+          "shī",
+          "yuē",
+          "",
+          "",
+          "qī",
+          "zí",
+          "hǎo",
+          "hé",
+          "",
+          "rú",
+          "gǔ",
+          "sè",
+          "qín",
+          "",
+          "xiōng",
+          "dì",
+          "jì",
+          "xī",
+          "",
+          "hé",
+          "lè",
+          "qiě",
+          "dān",
+          "",
+          "yí",
+          "ěr",
+          "shì",
+          "jiā",
+          "",
+          "lè",
+          "ěr",
+          "qī",
+          "tǎng",
+          "",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 2,
-        "text": "詩曰：「妻子好合，如鼓瑟琴；兄弟既翕，和樂且耽；宜爾室家；樂爾妻帑。」"
+        "text": "诗曰：「妻子好合，如鼓瑟琴；兄弟既翕，和乐且耽；宜尔室家；乐尔妻帑。」",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "a poem goes:",
+            "pinyin": "shī yuē",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "诗曰"
+          },
+          {
+            "end": 6,
+            "gloss": "wife",
+            "pinyin": "qī zi",
+            "source": "CC-CEDICT",
+            "start": 4,
+            "word": "妻子"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "好"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "合"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "如"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "鼓"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "瑟"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "琴"
+          },
+          {
+            "end": 16,
+            "gloss": "brothers / younger brother / CL:个|个[ge4] / I, me (humble term used by men in public speech) / broth…",
+            "pinyin": "xiōng dì",
+            "source": "CC-CEDICT",
+            "start": 14,
+            "word": "兄弟"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "既"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "翕"
+          },
+          {
+            "end": 21,
+            "gloss": "harmonious and happy",
+            "pinyin": "hé lè",
+            "source": "CC-CEDICT",
+            "start": 19,
+            "word": "和乐"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "且"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "耽"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "宜"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "尔"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "室"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "家"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "乐"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "尔"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "妻"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "帑"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "It is said in the Book of Poetry, \"Happy union with wife and children is like the music of lutes and harps. When there is concord among brethren, the harmony is delightful and enduring. Thus may you regulate your family, and enjoy the pleasure of your wife and children.\" The Master said, \"In such a state of things, parents have entire complacence!\"",
+            "text": "The Master said, \"In such a state of things, parents have entire complacence!\"",
             "translator": "Legge",
             "year": 1885
           }
@@ -52,16 +422,81 @@
         "character_count": 8,
         "id": "chapter-015-line-003",
         "order": 3,
+        "pinyin_per_char": [
+          "zǐ",
+          "yuē",
+          "",
+          "",
+          "fù",
+          "mǔ",
+          "qí",
+          "shùn",
+          "yǐ",
+          "hū",
+          "",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 3,
-        "text": "子曰：「父母其順矣乎！」"
+        "text": "子曰：「父母其顺矣乎！」",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "The Master said (Confucius said)",
+            "pinyin": "zǐ yuē",
+            "source": "classical-override",
+            "start": 0,
+            "word": "子曰"
+          },
+          {
+            "end": 6,
+            "gloss": "father and mother; parents",
+            "pinyin": "fù mǔ",
+            "source": "CC-CEDICT",
+            "start": 4,
+            "word": "父母"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "其"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "顺"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "矣"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "乎"
+          }
+        ]
       }
     ],
     "summary": "",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "君子之道，辟如行遠必自邇，辟如登高必自卑。\n詩曰：「妻子好合，如鼓瑟琴；兄弟既翕，和樂且耽；宜爾室家；樂爾妻帑。」\n子曰：「父母其順矣乎！」",
+    "text": "君子之道，辟如行远必自迩，辟如登高必自卑。\n诗曰：「妻子好合，如鼓瑟琴；兄弟既翕，和乐且耽；宜尔室家；乐尔妻帑。」\n子曰：「父母其顺矣乎！」",
     "title": ""
   },
   "chapter_path": "books/zhong-yong/chapters/chapter-015.json",

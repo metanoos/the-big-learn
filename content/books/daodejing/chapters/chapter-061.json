@@ -18,16 +18,646 @@
         "character_count": 82,
         "id": "chapter-061-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "dà",
+          "guó",
+          "zhě",
+          "xià",
+          "liú",
+          "",
+          "tiān",
+          "xià",
+          "zhī",
+          "jiāo",
+          "",
+          "tiān",
+          "xià",
+          "zhī",
+          "pìn",
+          "",
+          "pìn",
+          "cháng",
+          "yǐ",
+          "jìng",
+          "shèng",
+          "mǔ",
+          "",
+          "yǐ",
+          "jìng",
+          "wèi",
+          "xià",
+          "",
+          "gù",
+          "dà",
+          "guó",
+          "yǐ",
+          "xià",
+          "xiǎo",
+          "guó",
+          "",
+          "zé",
+          "qú",
+          "xiǎo",
+          "guó",
+          "",
+          "xiǎo",
+          "guó",
+          "yǐ",
+          "xià",
+          "dà",
+          "guó",
+          "",
+          "zé",
+          "qǔ",
+          "dà",
+          "guó",
+          "",
+          "gù",
+          "huò",
+          "xià",
+          "yí",
+          "qǔ",
+          "",
+          "huò",
+          "xià",
+          "ér",
+          "qǔ",
+          "",
+          "dà",
+          "guó",
+          "bú",
+          "guò",
+          "yù",
+          "jiān",
+          "chù",
+          "rén",
+          "",
+          "xiǎo",
+          "guó",
+          "bú",
+          "guò",
+          "yù",
+          "rù",
+          "shì",
+          "rén",
+          "",
+          "fū",
+          "liáng",
+          "zhě",
+          "gè",
+          "dé",
+          "qí",
+          "suǒ",
+          "yù",
+          "",
+          "dà",
+          "zhě",
+          "yí",
+          "wèi",
+          "xià",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "大國者下流，天下之交，天下之牝。牝常以靜勝牡，以靜為下。故大國以下小國，則取小國；小國以下大國，則取大國。故或下以取，或下而取。大國不過欲兼畜人，小國不過欲入事人。夫兩者各得其所欲，大者宜為下。"
+        "text": "大国者下流，天下之交，天下之牝。牝常以静胜牡，以静为下。故大国以下小国，则取小国；小国以下大国，则取大国。故或下以取，或下而取。大国不过欲兼畜人，小国不过欲入事人。夫两者各得其所欲，大者宜为下。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "a power (i.e. a dominant country)",
+            "pinyin": "dà guó",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "大国"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "者"
+          },
+          {
+            "end": 5,
+            "gloss": "lower course of a river / low-class / mean and lowly / vulgar / obscene",
+            "pinyin": "xià liú",
+            "source": "CC-CEDICT",
+            "start": 3,
+            "word": "下流"
+          },
+          {
+            "end": 8,
+            "gloss": "land under heaven / the whole world / the whole of China / realm / rule",
+            "pinyin": "tiān xià",
+            "source": "CC-CEDICT",
+            "start": 6,
+            "word": "天下"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "之"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "交"
+          },
+          {
+            "end": 13,
+            "gloss": "land under heaven / the whole world / the whole of China / realm / rule",
+            "pinyin": "tiān xià",
+            "source": "CC-CEDICT",
+            "start": 11,
+            "word": "天下"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "之"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "牝"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "牝"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "常"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "以"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "静"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "胜"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "牡"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "以"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "静"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "为"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "下"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "故"
+          },
+          {
+            "end": 31,
+            "gloss": "a power (i.e. a dominant country)",
+            "pinyin": "dà guó",
+            "source": "CC-CEDICT",
+            "start": 29,
+            "word": "大国"
+          },
+          {
+            "end": 33,
+            "gloss": "that level or lower / that amount or less / the following",
+            "pinyin": "yǐ xià",
+            "source": "CC-CEDICT",
+            "start": 31,
+            "word": "以下"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "小"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "国"
+          },
+          {
+            "end": 37,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 36,
+            "word": "则"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "取"
+          },
+          {
+            "end": 39,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 38,
+            "word": "小"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "国"
+          },
+          {
+            "end": 42,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 41,
+            "word": "小"
+          },
+          {
+            "end": 43,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 42,
+            "word": "国"
+          },
+          {
+            "end": 45,
+            "gloss": "that level or lower / that amount or less / the following",
+            "pinyin": "yǐ xià",
+            "source": "CC-CEDICT",
+            "start": 43,
+            "word": "以下"
+          },
+          {
+            "end": 47,
+            "gloss": "a power (i.e. a dominant country)",
+            "pinyin": "dà guó",
+            "source": "CC-CEDICT",
+            "start": 45,
+            "word": "大国"
+          },
+          {
+            "end": 49,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 48,
+            "word": "则"
+          },
+          {
+            "end": 50,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 49,
+            "word": "取"
+          },
+          {
+            "end": 52,
+            "gloss": "a power (i.e. a dominant country)",
+            "pinyin": "dà guó",
+            "source": "CC-CEDICT",
+            "start": 50,
+            "word": "大国"
+          },
+          {
+            "end": 54,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 53,
+            "word": "故"
+          },
+          {
+            "end": 55,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 54,
+            "word": "或"
+          },
+          {
+            "end": 56,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 55,
+            "word": "下"
+          },
+          {
+            "end": 57,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 56,
+            "word": "以"
+          },
+          {
+            "end": 58,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 57,
+            "word": "取"
+          },
+          {
+            "end": 60,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 59,
+            "word": "或"
+          },
+          {
+            "end": 61,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 60,
+            "word": "下"
+          },
+          {
+            "end": 62,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 61,
+            "word": "而"
+          },
+          {
+            "end": 63,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 62,
+            "word": "取"
+          },
+          {
+            "end": 66,
+            "gloss": "a power (i.e. a dominant country)",
+            "pinyin": "dà guó",
+            "source": "CC-CEDICT",
+            "start": 64,
+            "word": "大国"
+          },
+          {
+            "end": 68,
+            "gloss": "only / merely / no more than / but / however / anyway (to get back to a previous topic) / cannot be…",
+            "pinyin": "bù guò",
+            "source": "CC-CEDICT",
+            "start": 66,
+            "word": "不过"
+          },
+          {
+            "end": 69,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 68,
+            "word": "欲"
+          },
+          {
+            "end": 70,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 69,
+            "word": "兼"
+          },
+          {
+            "end": 71,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 70,
+            "word": "畜"
+          },
+          {
+            "end": 72,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 71,
+            "word": "人"
+          },
+          {
+            "end": 74,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 73,
+            "word": "小"
+          },
+          {
+            "end": 75,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 74,
+            "word": "国"
+          },
+          {
+            "end": 77,
+            "gloss": "only / merely / no more than / but / however / anyway (to get back to a previous topic) / cannot be…",
+            "pinyin": "bù guò",
+            "source": "CC-CEDICT",
+            "start": 75,
+            "word": "不过"
+          },
+          {
+            "end": 78,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 77,
+            "word": "欲"
+          },
+          {
+            "end": 79,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 78,
+            "word": "入"
+          },
+          {
+            "end": 80,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 79,
+            "word": "事"
+          },
+          {
+            "end": 81,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 80,
+            "word": "人"
+          },
+          {
+            "end": 83,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 82,
+            "word": "夫"
+          },
+          {
+            "end": 85,
+            "gloss": "both of them; the two of them",
+            "pinyin": "liǎng zhě",
+            "source": "CC-CEDICT",
+            "start": 83,
+            "word": "两者"
+          },
+          {
+            "end": 89,
+            "gloss": "(idiom) each in the correct place; each is provided for",
+            "pinyin": "gè dé qí suǒ",
+            "source": "CC-CEDICT",
+            "start": 85,
+            "word": "各得其所"
+          },
+          {
+            "end": 90,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 89,
+            "word": "欲"
+          },
+          {
+            "end": 92,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 91,
+            "word": "大"
+          },
+          {
+            "end": 93,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 92,
+            "word": "者"
+          },
+          {
+            "end": 94,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 93,
+            "word": "宜"
+          },
+          {
+            "end": 95,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 94,
+            "word": "为"
+          },
+          {
+            "end": 96,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 95,
+            "word": "下"
+          }
+        ]
       }
     ],
-    "summary": "大國者下流，天下之交，天下之牝",
+    "summary": "大国者下流，天下之交，天下之牝",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "大國者下流，天下之交，天下之牝。牝常以靜勝牡，以靜為下。故大國以下小國，則取小國；小國以下大國，則取大國。故或下以取，或下而取。大國不過欲兼畜人，小國不過欲入事人。夫兩者各得其所欲，大者宜為下。",
+    "text": "大国者下流，天下之交，天下之牝。牝常以静胜牡，以静为下。故大国以下小国，则取小国；小国以下大国，则取大国。故或下以取，或下而取。大国不过欲兼畜人，小国不过欲入事人。夫两者各得其所欲，大者宜为下。",
     "title": "第61章"
   },
   "chapter_path": "books/daodejing/chapters/chapter-061.json",

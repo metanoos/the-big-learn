@@ -488,7 +488,13 @@
         "order": 29,
         "pinyin": "guò yóu bù jí",
         "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
-        "text": "过犹不及"
+        "text": "过犹不及",
+        "origin": {
+          "book": "lunyu",
+          "chapter": 11,
+          "line": 28,
+          "snippet": "子曰：「过犹不及。」"
+        }
       },
       {
         "canonical_translations": [

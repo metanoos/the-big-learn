@@ -18,9 +18,389 @@
         "character_count": 52,
         "id": "chapter-031-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "wéi",
+          "tiān",
+          "xià",
+          "zhì",
+          "shèng",
+          "",
+          "wèi",
+          "néng",
+          "cōng",
+          "míng",
+          "ruì",
+          "zhī",
+          "",
+          "zú",
+          "yí",
+          "yǒu",
+          "lín",
+          "yě",
+          "",
+          "kuān",
+          "yù",
+          "wēn",
+          "róu",
+          "",
+          "zú",
+          "yí",
+          "yǒu",
+          "róng",
+          "yě",
+          "",
+          "fā",
+          "qiáng",
+          "gāng",
+          "yì",
+          "",
+          "zú",
+          "yí",
+          "yǒu",
+          "zhí",
+          "yě",
+          "",
+          "qí",
+          "zhuāng",
+          "zhōng",
+          "zhèng",
+          "",
+          "zú",
+          "yí",
+          "yǒu",
+          "jìng",
+          "yě",
+          "",
+          "wén",
+          "lǐ",
+          "mì",
+          "chá",
+          "",
+          "zú",
+          "yí",
+          "yǒu",
+          "bié",
+          "yě",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "唯天下至聖，為能聰明睿知，足以有臨也；寬裕溫柔，足以有容也；發強剛毅，足以有執也；齊莊中正，足以有敬也；文理密察，足以有別也。"
+        "text": "唯天下至圣，为能聪明睿知，足以有临也；宽裕温柔，足以有容也；发强刚毅，足以有执也；齐庄中正，足以有敬也；文理密察，足以有别也。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "唯"
+          },
+          {
+            "end": 3,
+            "gloss": "land under heaven / the whole world / the whole of China / realm / rule",
+            "pinyin": "tiān xià",
+            "source": "CC-CEDICT",
+            "start": 1,
+            "word": "天下"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "至"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "圣"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "为"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "能"
+          },
+          {
+            "end": 10,
+            "gloss": "intelligent; clever; bright / acute (of sight and hearing)",
+            "pinyin": "cōng ming",
+            "source": "CC-CEDICT",
+            "start": 8,
+            "word": "聪明"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "睿"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "知"
+          },
+          {
+            "end": 15,
+            "gloss": "sufficient to... / so much so that / so that",
+            "pinyin": "zú yǐ",
+            "source": "CC-CEDICT",
+            "start": 13,
+            "word": "足以"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "有"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "临"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "也"
+          },
+          {
+            "end": 21,
+            "gloss": "comfortably off / ample / plenty",
+            "pinyin": "kuān yù",
+            "source": "CC-CEDICT",
+            "start": 19,
+            "word": "宽裕"
+          },
+          {
+            "end": 23,
+            "gloss": "gentle and soft; tender; sweet (commonly used to describe a girl or woman)",
+            "pinyin": "wēn róu",
+            "source": "CC-CEDICT",
+            "start": 21,
+            "word": "温柔"
+          },
+          {
+            "end": 26,
+            "gloss": "sufficient to... / so much so that / so that",
+            "pinyin": "zú yǐ",
+            "source": "CC-CEDICT",
+            "start": 24,
+            "word": "足以"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "有"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "容"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "也"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "发"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "强"
+          },
+          {
+            "end": 34,
+            "gloss": "resolute / steadfast / stalwart",
+            "pinyin": "gāng yì",
+            "source": "CC-CEDICT",
+            "start": 32,
+            "word": "刚毅"
+          },
+          {
+            "end": 37,
+            "gloss": "sufficient to... / so much so that / so that",
+            "pinyin": "zú yǐ",
+            "source": "CC-CEDICT",
+            "start": 35,
+            "word": "足以"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "有"
+          },
+          {
+            "end": 39,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 38,
+            "word": "执"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "也"
+          },
+          {
+            "end": 42,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 41,
+            "word": "齐"
+          },
+          {
+            "end": 43,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 42,
+            "word": "庄"
+          },
+          {
+            "end": 45,
+            "gloss": "fair and honest",
+            "pinyin": "zhōng zhèng",
+            "source": "CC-CEDICT",
+            "start": 43,
+            "word": "中正"
+          },
+          {
+            "end": 48,
+            "gloss": "sufficient to... / so much so that / so that",
+            "pinyin": "zú yǐ",
+            "source": "CC-CEDICT",
+            "start": 46,
+            "word": "足以"
+          },
+          {
+            "end": 49,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 48,
+            "word": "有"
+          },
+          {
+            "end": 50,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 49,
+            "word": "敬"
+          },
+          {
+            "end": 51,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 50,
+            "word": "也"
+          },
+          {
+            "end": 54,
+            "gloss": "arts and sciences",
+            "pinyin": "wén lǐ",
+            "source": "CC-CEDICT",
+            "start": 52,
+            "word": "文理"
+          },
+          {
+            "end": 55,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 54,
+            "word": "密"
+          },
+          {
+            "end": 56,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 55,
+            "word": "察"
+          },
+          {
+            "end": 59,
+            "gloss": "sufficient to... / so much so that / so that",
+            "pinyin": "zú yǐ",
+            "source": "CC-CEDICT",
+            "start": 57,
+            "word": "足以"
+          },
+          {
+            "end": 61,
+            "gloss": "different / distinct / unequal / variable",
+            "pinyin": "yǒu bié",
+            "source": "CC-CEDICT",
+            "start": 59,
+            "word": "有别"
+          },
+          {
+            "end": 62,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 61,
+            "word": "也"
+          }
+        ]
       },
       {
         "canonical_translations": [
@@ -35,16 +415,87 @@
         "character_count": 8,
         "id": "chapter-031-line-002",
         "order": 2,
+        "pinyin_per_char": [
+          "pǔ",
+          "bó",
+          "yuān",
+          "quán",
+          "",
+          "ér",
+          "shí",
+          "chū",
+          "zhī",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 2,
-        "text": "溥博淵泉，而時出之。"
+        "text": "溥博渊泉，而时出之。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "溥"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "博"
+          },
+          {
+            "end": 4,
+            "gloss": "deep springs",
+            "pinyin": "yuān quán",
+            "source": "CC-CEDICT",
+            "start": 2,
+            "word": "渊泉"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "而"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "时"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "出"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "之"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "All-embracing and vast, he is like Heaven.",
+            "text": "All-embracing and vast, he is like Heaven. Deep and active as a fountain, he is like the abyss. He is seen, and the people all reverence him; he speaks, and the people all believe him; he acts, and the people all are pleased with him.",
             "translator": "Legge",
             "year": 1885
           }
@@ -52,16 +503,228 @@
         "character_count": 26,
         "id": "chapter-031-line-003",
         "order": 3,
+        "pinyin_per_char": [
+          "pǔ",
+          "bó",
+          "rú",
+          "tiān",
+          "",
+          "yuān",
+          "quán",
+          "rú",
+          "yuān",
+          "",
+          "jiàn",
+          "ér",
+          "mín",
+          "mò",
+          "bú",
+          "jìng",
+          "",
+          "yán",
+          "ér",
+          "mín",
+          "mò",
+          "bú",
+          "xìn",
+          "",
+          "xíng",
+          "ér",
+          "mín",
+          "mò",
+          "bù",
+          "shuō",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 3,
-        "text": "溥博如天，淵泉如淵。見而民莫不敬，言而民莫不信，行而民莫不說。"
+        "text": "溥博如天，渊泉如渊。见而民莫不敬，言而民莫不信，行而民莫不说。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "溥"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "博"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "如"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "天"
+          },
+          {
+            "end": 7,
+            "gloss": "deep springs",
+            "pinyin": "yuān quán",
+            "source": "CC-CEDICT",
+            "start": 5,
+            "word": "渊泉"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "如"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "渊"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "见"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "而"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "民"
+          },
+          {
+            "end": 15,
+            "gloss": "none doesn't / there is none who isn't / everyone",
+            "pinyin": "mò bù",
+            "source": "CC-CEDICT",
+            "start": 13,
+            "word": "莫不"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "敬"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "言"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "而"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "民"
+          },
+          {
+            "end": 22,
+            "gloss": "none doesn't / there is none who isn't / everyone",
+            "pinyin": "mò bù",
+            "source": "CC-CEDICT",
+            "start": 20,
+            "word": "莫不"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "信"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "行"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "而"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "民"
+          },
+          {
+            "end": 29,
+            "gloss": "none doesn't / there is none who isn't / everyone",
+            "pinyin": "mò bù",
+            "source": "CC-CEDICT",
+            "start": 27,
+            "word": "莫不"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "说"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "Deep and active as a fountain, he is like the abyss. He is seen, and the people all reverence him; he speaks, and the people all believe him; he acts, and the people all are pleased with him. Therefore his fame overspreads the Middle Kingdom, and extends to all barbarous tribes. Wherever ships and carriages reach; wherever the strength of man penetrates; wherever the heavens overshadow and the earth sustains; wherever the sun and moon shine; wherever frosts and dews fall:-all who have blood and breath unfeignedly honor and love him. Hence it is said, \"He is the equal of Heaven.\"",
+            "text": "Therefore his fame overspreads the Middle Kingdom, and extends to all barbarous tribes. Wherever ships and carriages reach; wherever the strength of man penetrates; wherever the heavens overshadow and the earth sustains; wherever the sun and moon shine; wherever frosts and dews fall:-all who have blood and breath unfeignedly honor and love him. Hence it is said, \"He is the equal of Heaven.\"",
             "translator": "Legge",
             "year": 1885
           }
@@ -69,16 +732,402 @@
         "character_count": 50,
         "id": "chapter-031-line-004",
         "order": 4,
+        "pinyin_per_char": [
+          "shì",
+          "yǐ",
+          "shēng",
+          "míng",
+          "yáng",
+          "yì",
+          "hū",
+          "zhōng",
+          "guó",
+          "",
+          "shī",
+          "jí",
+          "mán",
+          "mò",
+          "",
+          "zhōu",
+          "chē",
+          "suǒ",
+          "zhì",
+          "",
+          "rén",
+          "lì",
+          "suǒ",
+          "tōng",
+          "",
+          "tiān",
+          "zhī",
+          "suǒ",
+          "fù",
+          "",
+          "dì",
+          "zhī",
+          "suǒ",
+          "zài",
+          "",
+          "rì",
+          "yuè",
+          "suǒ",
+          "zhào",
+          "",
+          "shuāng",
+          "lù",
+          "suǒ",
+          "duì",
+          "",
+          "fán",
+          "yǒu",
+          "xuè",
+          "qì",
+          "zhě",
+          "",
+          "mò",
+          "bù",
+          "zūn",
+          "qīn",
+          "",
+          "gù",
+          "yuē",
+          "pèi",
+          "tiān",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 4,
-        "text": "是以聲名洋溢乎中國，施及蠻貊；舟車所至，人力所通；天之所覆，地之所載，日月所照，霜露所隊；凡有血氣者，莫不尊親，故曰配天。"
+        "text": "是以声名洋溢乎中国，施及蛮貊；舟车所至，人力所通；天之所覆，地之所载，日月所照，霜露所队；凡有血气者，莫不尊亲，故曰配天。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "therefore / thus / so",
+            "pinyin": "shì yǐ",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "是以"
+          },
+          {
+            "end": 4,
+            "gloss": "reputation / declaration",
+            "pinyin": "shēng míng",
+            "source": "CC-CEDICT",
+            "start": 2,
+            "word": "声名"
+          },
+          {
+            "end": 6,
+            "gloss": "brimming with / steeped in",
+            "pinyin": "yáng yì",
+            "source": "CC-CEDICT",
+            "start": 4,
+            "word": "洋溢"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "乎"
+          },
+          {
+            "end": 9,
+            "gloss": "China",
+            "pinyin": "Zhōng guó",
+            "source": "CC-CEDICT",
+            "start": 7,
+            "word": "中国"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "施"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "及"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "蛮"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "貊"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "舟"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "车"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "所"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "至"
+          },
+          {
+            "end": 22,
+            "gloss": "manpower / labor power",
+            "pinyin": "rén lì",
+            "source": "CC-CEDICT",
+            "start": 20,
+            "word": "人力"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "所"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "通"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "天"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "之"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "所"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "覆"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "地"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "之"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "所"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "载"
+          },
+          {
+            "end": 37,
+            "gloss": "the sun and moon / day and month / every day and every month / season / life and livelihood",
+            "pinyin": "rì yuè",
+            "source": "CC-CEDICT",
+            "start": 35,
+            "word": "日月"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "所"
+          },
+          {
+            "end": 39,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 38,
+            "word": "照"
+          },
+          {
+            "end": 42,
+            "gloss": "frost and dew / fig. difficult conditions",
+            "pinyin": "shuāng lù",
+            "source": "CC-CEDICT",
+            "start": 40,
+            "word": "霜露"
+          },
+          {
+            "end": 43,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 42,
+            "word": "所"
+          },
+          {
+            "end": 44,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 43,
+            "word": "队"
+          },
+          {
+            "end": 46,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 45,
+            "word": "凡"
+          },
+          {
+            "end": 47,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 46,
+            "word": "有"
+          },
+          {
+            "end": 49,
+            "gloss": "blood and vital breath / bloodline (i.e. parentage) / valor",
+            "pinyin": "xuè qì",
+            "source": "CC-CEDICT",
+            "start": 47,
+            "word": "血气"
+          },
+          {
+            "end": 50,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 49,
+            "word": "者"
+          },
+          {
+            "end": 53,
+            "gloss": "none doesn't / there is none who isn't / everyone",
+            "pinyin": "mò bù",
+            "source": "CC-CEDICT",
+            "start": 51,
+            "word": "莫不"
+          },
+          {
+            "end": 55,
+            "gloss": "(honorific) your parent",
+            "pinyin": "zūn qīn",
+            "source": "CC-CEDICT",
+            "start": 53,
+            "word": "尊亲"
+          },
+          {
+            "end": 57,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 56,
+            "word": "故"
+          },
+          {
+            "end": 58,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 57,
+            "word": "曰"
+          },
+          {
+            "end": 59,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 58,
+            "word": "配"
+          },
+          {
+            "end": 60,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 59,
+            "word": "天"
+          }
+        ]
       }
     ],
     "summary": "",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "唯天下至聖，為能聰明睿知，足以有臨也；寬裕溫柔，足以有容也；發強剛毅，足以有執也；齊莊中正，足以有敬也；文理密察，足以有別也。\n溥博淵泉，而時出之。\n溥博如天，淵泉如淵。見而民莫不敬，言而民莫不信，行而民莫不說。\n是以聲名洋溢乎中國，施及蠻貊；舟車所至，人力所通；天之所覆，地之所載，日月所照，霜露所隊；凡有血氣者，莫不尊親，故曰配天。",
+    "text": "唯天下至圣，为能聪明睿知，足以有临也；宽裕温柔，足以有容也；发强刚毅，足以有执也；齐庄中正，足以有敬也；文理密察，足以有别也。\n溥博渊泉，而时出之。\n溥博如天，渊泉如渊。见而民莫不敬，言而民莫不信，行而民莫不说。\n是以声名洋溢乎中国，施及蛮貊；舟车所至，人力所通；天之所覆，地之所载，日月所照，霜露所队；凡有血气者，莫不尊亲，故曰配天。",
     "title": ""
   },
   "chapter_path": "books/zhong-yong/chapters/chapter-031.json",

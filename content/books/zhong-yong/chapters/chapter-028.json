@@ -18,9 +18,253 @@
         "character_count": 30,
         "id": "chapter-028-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "zǐ",
+          "yuē",
+          "",
+          "",
+          "yú",
+          "ér",
+          "hǎo",
+          "zì",
+          "yòng",
+          "",
+          "jiàn",
+          "ér",
+          "hǎo",
+          "zì",
+          "zhuān",
+          "",
+          "shēng",
+          "hū",
+          "jīn",
+          "zhī",
+          "shì",
+          "",
+          "fán",
+          "gǔ",
+          "zhī",
+          "dào",
+          "",
+          "rú",
+          "cí",
+          "zhě",
+          "",
+          "zāi",
+          "jí",
+          "qí",
+          "shēn",
+          "zhé",
+          "yě",
+          "",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "子曰：「愚而好自用，賤而好自專，生乎今之世，反古之道。如此者，災及其身者也。」"
+        "text": "子曰：「愚而好自用，贱而好自专，生乎今之世，反古之道。如此者，灾及其身者也。」",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "The Master said (Confucius said)",
+            "pinyin": "zǐ yuē",
+            "source": "classical-override",
+            "start": 0,
+            "word": "子曰"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "愚"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "而"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "好"
+          },
+          {
+            "end": 9,
+            "gloss": "to have (sth) for one's own use / (literary) to be opinionated",
+            "pinyin": "zì yòng",
+            "source": "CC-CEDICT",
+            "start": 7,
+            "word": "自用"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "贱"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "而"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "好"
+          },
+          {
+            "end": 15,
+            "gloss": "to act arbitrarily / to act for oneself",
+            "pinyin": "zì zhuān",
+            "source": "CC-CEDICT",
+            "start": 13,
+            "word": "自专"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "生"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "乎"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "今"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "之"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "世"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "反"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "古"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "之"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "道"
+          },
+          {
+            "end": 29,
+            "gloss": "like this; so; such",
+            "pinyin": "rú cǐ",
+            "source": "CC-CEDICT",
+            "start": 27,
+            "word": "如此"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "者"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "灾"
+          },
+          {
+            "end": 34,
+            "gloss": "(conjunction linking two nouns) and its ...; and their ...; and his ...; and her ...",
+            "pinyin": "jí qí",
+            "source": "CC-CEDICT",
+            "start": 32,
+            "word": "及其"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "身"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "者"
+          },
+          {
+            "end": 37,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 36,
+            "word": "也"
+          }
+        ]
       },
       {
         "canonical_translations": [
@@ -35,9 +279,110 @@
         "character_count": 12,
         "id": "chapter-028-line-002",
         "order": 2,
+        "pinyin_per_char": [
+          "fēi",
+          "tiān",
+          "zi",
+          "",
+          "bú",
+          "yì",
+          "lǐ",
+          "",
+          "bú",
+          "zhì",
+          "dù",
+          "",
+          "bù",
+          "kǎo",
+          "wén",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 2,
-        "text": "非天子，不議禮，不制度，不考文。"
+        "text": "非天子，不议礼，不制度，不考文。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "非"
+          },
+          {
+            "end": 3,
+            "gloss": "the (rightful) emperor / \"Son of Heaven\" (traditional English translation)",
+            "pinyin": "tiān zǐ",
+            "source": "CC-CEDICT",
+            "start": 1,
+            "word": "天子"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "不"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "议"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "礼"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "不"
+          },
+          {
+            "end": 11,
+            "gloss": "system (e.g. political, adminstrative etc) / institution / CL:个|个[ge4]",
+            "pinyin": "zhì dù",
+            "source": "CC-CEDICT",
+            "start": 9,
+            "word": "制度"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "不"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "考"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "文"
+          }
+        ]
       },
       {
         "canonical_translations": [
@@ -52,9 +397,109 @@
         "character_count": 12,
         "id": "chapter-028-line-003",
         "order": 3,
+        "pinyin_per_char": [
+          "jīn",
+          "tiān",
+          "xià",
+          "chē",
+          "tóng",
+          "guǐ",
+          "",
+          "shū",
+          "tóng",
+          "wén",
+          "",
+          "xíng",
+          "tóng",
+          "lún",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 3,
-        "text": "今天下車同軌，書同文，行同倫。"
+        "text": "今天下车同轨，书同文，行同伦。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "today / the present time; now",
+            "pinyin": "jīn tiān",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "今天"
+          },
+          {
+            "end": 4,
+            "gloss": "to get off or out of (a bus, train, car etc)",
+            "pinyin": "xià chē",
+            "source": "CC-CEDICT",
+            "start": 2,
+            "word": "下车"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "同"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "轨"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "书"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "同"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "文"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "行"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "同"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "伦"
+          }
+        ]
       },
       {
         "canonical_translations": [
@@ -69,16 +514,272 @@
         "character_count": 29,
         "id": "chapter-028-line-004",
         "order": 4,
+        "pinyin_per_char": [
+          "suī",
+          "yǒu",
+          "qí",
+          "wèi",
+          "",
+          "gǒu",
+          "wú",
+          "qí",
+          "dé",
+          "",
+          "bù",
+          "gǎn",
+          "zuò",
+          "lǐ",
+          "yuè",
+          "yān",
+          "",
+          "suī",
+          "yǒu",
+          "qí",
+          "dé",
+          "",
+          "gǒu",
+          "wú",
+          "qí",
+          "wèi",
+          "",
+          "yì",
+          "bù",
+          "gǎn",
+          "zuò",
+          "lǐ",
+          "yuè",
+          "yān",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 4,
-        "text": "雖有其位，苟無其德，不敢作禮樂焉；雖有其德，苟無其位，亦不敢作禮樂焉。"
+        "text": "虽有其位，苟无其德，不敢作礼乐焉；虽有其德，苟无其位，亦不敢作礼乐焉。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "虽"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "有"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "其"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "位"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "苟"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "无"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "其"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "德"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "不"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "敢"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "作"
+          },
+          {
+            "end": 15,
+            "gloss": "(Confucianism) rites and music (the means of regulating society)",
+            "pinyin": "lǐ yuè",
+            "source": "CC-CEDICT",
+            "start": 13,
+            "word": "礼乐"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "焉"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "虽"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "有"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "其"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "德"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "苟"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "无"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "其"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "位"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "亦"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "不"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "敢"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "作"
+          },
+          {
+            "end": 33,
+            "gloss": "(Confucianism) rites and music (the means of regulating society)",
+            "pinyin": "lǐ yuè",
+            "source": "CC-CEDICT",
+            "start": 31,
+            "word": "礼乐"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "焉"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "The Master said, \"I may describe the ceremonies of the Xia dynasty, but Qi cannot sufficiently attest my words.",
+            "text": "The Master said, \"I may describe the ceremonies of the Xia dynasty, but Qi cannot sufficiently attest my words. I have learned the ceremonies of the Yin dynasty, and in Song they still continue. I have learned the ceremonies of Zhou, which are now used, and I follow Zhou.\"",
             "translator": "Legge",
             "year": 1885
           }
@@ -86,16 +787,268 @@
         "character_count": 29,
         "id": "chapter-028-line-005",
         "order": 5,
+        "pinyin_per_char": [
+          "zǐ",
+          "yuē",
+          "",
+          "",
+          "wú",
+          "shuō",
+          "xià",
+          "lǐ",
+          "",
+          "qǐ",
+          "bù",
+          "zú",
+          "zhēng",
+          "yě",
+          "",
+          "wú",
+          "xué",
+          "yīn",
+          "lǐ",
+          "",
+          "yǒu",
+          "sòng",
+          "cún",
+          "yān",
+          "",
+          "wú",
+          "xué",
+          "zhōu",
+          "lǐ",
+          "",
+          "jīn",
+          "yòng",
+          "zhī",
+          "",
+          "wú",
+          "cóng",
+          "zhōu",
+          "",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 5,
-        "text": "子曰：「吾說夏禮，杞不足徵也；吾學殷禮，有宋存焉；吾學周禮，今用之，吾從周。」"
+        "text": "子曰：「吾说夏礼，杞不足征也；吾学殷礼，有宋存焉；吾学周礼，今用之，吾从周。」",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "The Master said (Confucius said)",
+            "pinyin": "zǐ yuē",
+            "source": "classical-override",
+            "start": 0,
+            "word": "子曰"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "吾"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "说"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "夏"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "礼"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "杞"
+          },
+          {
+            "end": 12,
+            "gloss": "insufficient / lacking / deficiency / not enough / inadequate / not worth / cannot / should not",
+            "pinyin": "bù zú",
+            "source": "CC-CEDICT",
+            "start": 10,
+            "word": "不足"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "征"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "也"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "吾"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "学"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "殷"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "礼"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "有"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "宋"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "存"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "焉"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "吾"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "学"
+          },
+          {
+            "end": 29,
+            "gloss": "the Rites of Zhou (in Confucianism)",
+            "pinyin": "Zhōu lǐ",
+            "source": "CC-CEDICT",
+            "start": 27,
+            "word": "周礼"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "今"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "用"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "之"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "吾"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "从"
+          },
+          {
+            "end": 37,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 36,
+            "word": "周"
+          }
+        ]
       }
     ],
     "summary": "",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "子曰：「愚而好自用，賤而好自專，生乎今之世，反古之道。如此者，災及其身者也。」\n非天子，不議禮，不制度，不考文。\n今天下車同軌，書同文，行同倫。\n雖有其位，苟無其德，不敢作禮樂焉；雖有其德，苟無其位，亦不敢作禮樂焉。\n子曰：「吾說夏禮，杞不足徵也；吾學殷禮，有宋存焉；吾學周禮，今用之，吾從周。」",
+    "text": "子曰：「愚而好自用，贱而好自专，生乎今之世，反古之道。如此者，灾及其身者也。」\n非天子，不议礼，不制度，不考文。\n今天下车同轨，书同文，行同伦。\n虽有其位，苟无其德，不敢作礼乐焉；虽有其德，苟无其位，亦不敢作礼乐焉。\n子曰：「吾说夏礼，杞不足征也；吾学殷礼，有宋存焉；吾学周礼，今用之，吾从周。」",
     "title": ""
   },
   "chapter_path": "books/zhong-yong/chapters/chapter-028.json",

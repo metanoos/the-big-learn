@@ -1,6 +1,23 @@
 {
   "cache_dir": "books/sunzi-bingfa",
   "catalog_path": "books/sunzi-bingfa/catalog.json",
+  "display_name": "Sunzi Bingfa 孙子兵法",
+  "name_zh": "孙子兵法",
+  "name_pinyin": "Sūn Zǐ Bīng Fǎ",
+  "name_en": "The Art of War",
+  "v1": false,
+  "available": true,
+  "tradition": "secular",
+  "form": "strategy-treatise",
+  "year": -500,
+  "tier": "B",
+  "difficulty": "intermediate",
+  "curriculum_order": 8,
+  "title": "The Art of War",
+  "source_url": "https://ctext.org/art-of-war?if=en",
+  "provider": "ctext-html",
+  "blurb": "The Art of War — thirteen short chapters on strategy, attributed to Sun Wu. The most-read Chinese text in the West, and still quoted by executives.",
+  "background": "The Sunzi Bingfa (Art of War) is a strategy treatise in thirteen short chapters traditionally dated to the late Spring and Autumn period (c. 500 BCE) and attributed to Sun Wu, a general from the state of Wu. It is the foundational text of the Chinese military tradition and probably the most widely-read Chinese work in any language today — quoted by corporate strategists, sports coaches, and insurgent commanders alike. The argument is unsentimental: war is a matter of statecraft to be entered only with deliberation, fought preferably without fighting at all, and won through deception, positioning, and knowledge of both the enemy and oneself. The prose is terse and aphoristic, with many lines that survive as idioms in modern Chinese (知己知彼，百战不殆 — 'know the enemy and yourself, and in a hundred battles you will not be in peril'). Bamboo-slip finds at Yinqueshan (1972) confirmed a Han-era version close to the received text. Translation seeded from ChineseNotes (CC BY 4.0).",
   "chapter_count": 13,
   "chapters": [
     {
@@ -11,7 +28,9 @@
       "reading_unit_count": 7,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "始計"
+      "title": "始计",
+      "title_en": "Laying Plans",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/sunzi-bingfa/chapters/chapter-002.json",
@@ -21,7 +40,9 @@
       "reading_unit_count": 6,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "作戰"
+      "title": "作战",
+      "title_en": "Waging War",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/sunzi-bingfa/chapters/chapter-003.json",
@@ -31,7 +52,9 @@
       "reading_unit_count": 7,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "謀攻"
+      "title": "谋攻",
+      "title_en": "Attack by Stratagem",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/sunzi-bingfa/chapters/chapter-004.json",
@@ -41,7 +64,9 @@
       "reading_unit_count": 5,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "軍形"
+      "title": "军形",
+      "title_en": "Tactical Dispositions",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/sunzi-bingfa/chapters/chapter-005.json",
@@ -51,7 +76,9 @@
       "reading_unit_count": 6,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "兵勢"
+      "title": "兵势",
+      "title_en": "Energy",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/sunzi-bingfa/chapters/chapter-006.json",
@@ -61,7 +88,9 @@
       "reading_unit_count": 8,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "虛實"
+      "title": "虚实",
+      "title_en": "Weak Points and Strong",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/sunzi-bingfa/chapters/chapter-007.json",
@@ -71,7 +100,9 @@
       "reading_unit_count": 7,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "軍爭"
+      "title": "军争",
+      "title_en": "Maneuvering",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/sunzi-bingfa/chapters/chapter-008.json",
@@ -81,7 +112,9 @@
       "reading_unit_count": 5,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "九變"
+      "title": "九变",
+      "title_en": "Variation of Tactics",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/sunzi-bingfa/chapters/chapter-009.json",
@@ -91,7 +124,9 @@
       "reading_unit_count": 9,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "行軍"
+      "title": "行军",
+      "title_en": "The Army on the March",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/sunzi-bingfa/chapters/chapter-010.json",
@@ -101,7 +136,9 @@
       "reading_unit_count": 8,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "地形"
+      "title": "地形",
+      "title_en": "Terrain",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/sunzi-bingfa/chapters/chapter-011.json",
@@ -111,7 +148,9 @@
       "reading_unit_count": 16,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "九地"
+      "title": "九地",
+      "title_en": "The Nine Situations",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/sunzi-bingfa/chapters/chapter-012.json",
@@ -121,7 +160,9 @@
       "reading_unit_count": 5,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "火攻"
+      "title": "火攻",
+      "title_en": "Attack by Fire",
+      "title_en_source": "human"
     },
     {
       "chapter_path": "books/sunzi-bingfa/chapters/chapter-013.json",
@@ -131,12 +172,11 @@
       "reading_unit_count": 7,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "用間"
+      "title": "用间",
+      "title_en": "The Use of Spies",
+      "title_en_source": "human"
     }
   ],
   "commentary_chapter_count": 0,
-  "commentary_chapters": [],
-  "provider": "ctext-html",
-  "source_url": "https://ctext.org/art-of-war?if=en",
-  "title": "The Art of War"
+  "commentary_chapters": []
 }

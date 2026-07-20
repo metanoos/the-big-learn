@@ -18,7 +18,7 @@
         "character_count": 4,
         "id": "chapter-002-line-001",
         "order": 1,
-        "pinyin": "shēn sī shú lu:4",
+        "pinyin": "shēn sī shú lǜ",
         "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
         "text": "深思熟虑"
       },
@@ -121,7 +121,7 @@
           {
             "license": "CC BY-SA 3.0",
             "source_url": "https://cc-cedict.org/",
-            "text": "lit. before it rains, bind around with silk (idiom, from Book of Songs 詩經|诗经); fig. to plan ahead / to prepare for a rainy day",
+            "text": "lit. before it rains, bind around with silk (idiom, from Book of Songs 诗经|诗经); fig. to plan ahead / to prepare for a rainy day",
             "translator": "CC-CEDICT",
             "year": null
           }
@@ -163,7 +163,7 @@
         "character_count": 4,
         "id": "chapter-002-line-010",
         "order": 10,
-        "pinyin": "shēn móu yuǎn lu:4",
+        "pinyin": "shēn móu yuǎn lǜ",
         "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
         "text": "深谋远虑"
       },
@@ -435,7 +435,7 @@
         "character_count": 4,
         "id": "chapter-002-line-026",
         "order": 26,
-        "pinyin": "shēn móu yuǎn lu:e4",
+        "pinyin": "shēn móu yuǎn lǜ",
         "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
         "text": "深谋远略"
       },
@@ -539,7 +539,13 @@
         "order": 32,
         "pinyin": "dāng rén bù ràng",
         "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
-        "text": "当仁不让"
+        "text": "当仁不让",
+        "origin": {
+          "book": "lunyu",
+          "chapter": 15,
+          "line": 53,
+          "snippet": "子曰：「当仁不让于师。」"
+        }
       },
       {
         "canonical_translations": [

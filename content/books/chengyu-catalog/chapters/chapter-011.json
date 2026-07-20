@@ -63,7 +63,13 @@
         "order": 4,
         "pinyin": "tiān xià wú dí",
         "pinyin_source": "derived from per-character index",
-        "text": "天下无敌"
+        "text": "天下无敌",
+        "origin": {
+          "book": "mengzi",
+          "chapter": 7,
+          "line": 32,
+          "snippet": "诗云：『商之孙子，其丽不亿。上帝既命，侯于周服。侯服于周，天命靡常。殷士肤敏，祼将于京。』孔子曰：『仁不可为众也。夫国君好仁，天下无敌。』"
+        }
       },
       {
         "canonical_translations": [
@@ -106,7 +112,13 @@
         "order": 7,
         "pinyin": "wú dé ér chēng",
         "pinyin_source": "derived from per-character index",
-        "text": "无德而称"
+        "text": "无德而称",
+        "origin": {
+          "book": "lunyu",
+          "chapter": 16,
+          "line": 28,
+          "snippet": "齐景公有马千驷，死之日，民无德而称焉。伯夷叔齐饿于首阳之下，民到于今称之。"
+        }
       },
       {
         "canonical_translations": [],
@@ -149,7 +161,13 @@
         "order": 10,
         "pinyin": "yán bù jí yì",
         "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
-        "text": "言不及义"
+        "text": "言不及义",
+        "origin": {
+          "book": "lunyu",
+          "chapter": 15,
+          "line": 29,
+          "snippet": "子曰：「群居终日，言不及义，好行小慧，难矣哉！」"
+        }
       },
       {
         "canonical_translations": [
@@ -191,7 +209,7 @@
           {
             "license": "CC BY-SA 3.0",
             "source_url": "https://cc-cedict.org/",
-            "text": "variant of 無動於衷|无动于衷[wu2 dong4 yu2 zhong1]",
+            "text": "variant of 无动于衷|无动于衷[wu2 dong4 yu2 zhong1]",
             "translator": "CC-CEDICT",
             "year": null
           }
@@ -280,7 +298,13 @@
         "order": 21,
         "pinyin": "chì zǐ zhī xīn",
         "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
-        "text": "赤子之心"
+        "text": "赤子之心",
+        "origin": {
+          "book": "mengzi",
+          "chapter": 8,
+          "line": 22,
+          "snippet": "孟子曰：「大人者，不失其赤子之心者也。」"
+        }
       },
       {
         "canonical_translations": [
@@ -315,7 +339,13 @@
         "order": 24,
         "pinyin": "wú míng zhī pǔ",
         "pinyin_source": "derived from per-character index",
-        "text": "无名之朴"
+        "text": "无名之朴",
+        "origin": {
+          "book": "daodejing",
+          "chapter": 37,
+          "line": 1,
+          "snippet": "道常无为而无不为。侯王若能守之，万物将自化。化而欲作，吾将镇之以无名之朴。无名之朴，夫亦将无欲。不欲以静，天下将自定。"
+        }
       },
       {
         "canonical_translations": [
@@ -332,7 +362,13 @@
         "order": 25,
         "pinyin": "chū qí bù yì",
         "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
-        "text": "出其不意"
+        "text": "出其不意",
+        "origin": {
+          "book": "sunzi-bingfa",
+          "chapter": 1,
+          "line": 6,
+          "snippet": "兵 者 ， 诡 道 也 。故 能 而 示 之 不能 ， 用 而 示 之 不用 ， 近 而 示 之 远 ， 远 而 示 之 近 。利而诱之 ， 乱 而 取 之 …"
+        }
       },
       {
         "canonical_translations": [],
@@ -366,7 +402,7 @@
           {
             "license": "CC BY-SA 3.0",
             "source_url": "https://cc-cedict.org/",
-            "text": "absolutely still / fig. not the slightest change / also written 紋風不動|纹风不动",
+            "text": "absolutely still / fig. not the slightest change / also written 纹风不动|纹风不动",
             "translator": "CC-CEDICT",
             "year": null
           }

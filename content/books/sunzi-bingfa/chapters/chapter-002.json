@@ -14,9 +14,483 @@
         },
         "id": "chapter-002-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "sūn",
+          "zi",
+          "",
+          "yuē",
+          "",
+          "",
+          "",
+          "fán",
+          "",
+          "yòng",
+          "bīng",
+          "",
+          "zhī",
+          "",
+          "fǎ",
+          "",
+          "",
+          "",
+          "chí",
+          "chē",
+          "qiān",
+          "sì",
+          "",
+          "",
+          "",
+          "gé",
+          "",
+          "chē",
+          "",
+          "qiān",
+          "",
+          "chéng",
+          "",
+          "",
+          "dài",
+          "jiǎ",
+          "",
+          "shí",
+          "wàn",
+          "",
+          "",
+          "",
+          "qiān",
+          "lǐ",
+          "kuì",
+          "liáng",
+          "",
+          "",
+          "zé",
+          "",
+          "nèi",
+          "wài",
+          "",
+          "zhī",
+          "",
+          "fèi",
+          "",
+          "",
+          "",
+          "bīn",
+          "kè",
+          "",
+          "zhī",
+          "",
+          "yòng",
+          "",
+          "",
+          "jiāo",
+          "qī",
+          "",
+          "zhī",
+          "",
+          "cái",
+          "",
+          "",
+          "",
+          "chē",
+          "",
+          "jiǎ",
+          "",
+          "zhī",
+          "",
+          "fèng",
+          "",
+          "",
+          "rì",
+          "",
+          "fèi",
+          "",
+          "qiān",
+          "jīn",
+          "",
+          "",
+          "",
+          "rán",
+          "hòu",
+          "",
+          "shí",
+          "wàn",
+          "",
+          "zhī",
+          "",
+          "shī",
+          "",
+          "jǔ",
+          "",
+          "yǐ",
+          "",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "孫子 曰 ： 凡 用兵 之 法 ， 馳車千駟 ， 革 車 千 乘 ，帶甲 十萬 ， 千里饋糧 ，則 內外 之 費 ， 賓客 之 用 ，膠漆 之 材 ， 車 甲 之 奉 ，日 費 千金 ， 然後 十萬 之 師 舉 矣 。"
+        "text": "孙子 曰 ： 凡 用兵 之 法 ， 驰车千驷 ， 革 车 千 乘 ，带甲 十万 ， 千里馈粮 ，则 内外 之 费 ， 宾客 之 用 ，胶漆 之 材 ， 车 甲 之 奉 ，日 费 千金 ， 然后 十万 之 师 举 矣 。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "grandson / son's son",
+            "pinyin": "sūn zi",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "孙子"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "曰"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "凡"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "用"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "兵"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "之"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "法"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "驰"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "车"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "千"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "驷"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "革"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "车"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "千"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "乘"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "带"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "甲"
+          },
+          {
+            "end": 39,
+            "gloss": "hundred thousand",
+            "pinyin": "shí wàn",
+            "source": "CC-CEDICT",
+            "start": 37,
+            "word": "十万"
+          },
+          {
+            "end": 44,
+            "gloss": "a thousand miles / a thousand li (i.e. 500 kilometers) / a long distance",
+            "pinyin": "qiān lǐ",
+            "source": "CC-CEDICT",
+            "start": 42,
+            "word": "千里"
+          },
+          {
+            "end": 45,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 44,
+            "word": "馈"
+          },
+          {
+            "end": 46,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 45,
+            "word": "粮"
+          },
+          {
+            "end": 49,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 48,
+            "word": "则"
+          },
+          {
+            "end": 52,
+            "gloss": "inside and outside / domestic and foreign / approximately / about",
+            "pinyin": "nèi wài",
+            "source": "CC-CEDICT",
+            "start": 50,
+            "word": "内外"
+          },
+          {
+            "end": 54,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 53,
+            "word": "之"
+          },
+          {
+            "end": 56,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 55,
+            "word": "费"
+          },
+          {
+            "end": 61,
+            "gloss": "guests / visitors",
+            "pinyin": "bīn kè",
+            "source": "CC-CEDICT",
+            "start": 59,
+            "word": "宾客"
+          },
+          {
+            "end": 63,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 62,
+            "word": "之"
+          },
+          {
+            "end": 65,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 64,
+            "word": "用"
+          },
+          {
+            "end": 68,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 67,
+            "word": "胶"
+          },
+          {
+            "end": 69,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 68,
+            "word": "漆"
+          },
+          {
+            "end": 71,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 70,
+            "word": "之"
+          },
+          {
+            "end": 73,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 72,
+            "word": "材"
+          },
+          {
+            "end": 77,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 76,
+            "word": "车"
+          },
+          {
+            "end": 79,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 78,
+            "word": "甲"
+          },
+          {
+            "end": 81,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 80,
+            "word": "之"
+          },
+          {
+            "end": 83,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 82,
+            "word": "奉"
+          },
+          {
+            "end": 86,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 85,
+            "word": "日"
+          },
+          {
+            "end": 88,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 87,
+            "word": "费"
+          },
+          {
+            "end": 91,
+            "gloss": "thousand jin 斤 (pounds) of gold / money and riches / (honorific) invaluable (support) / (honorific)…",
+            "pinyin": "qiān jīn",
+            "source": "CC-CEDICT",
+            "start": 89,
+            "word": "千金"
+          },
+          {
+            "end": 96,
+            "gloss": "then; after that; afterwards",
+            "pinyin": "rán hòu",
+            "source": "CC-CEDICT",
+            "start": 94,
+            "word": "然后"
+          },
+          {
+            "end": 99,
+            "gloss": "hundred thousand",
+            "pinyin": "shí wàn",
+            "source": "CC-CEDICT",
+            "start": 97,
+            "word": "十万"
+          },
+          {
+            "end": 101,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 100,
+            "word": "之"
+          },
+          {
+            "end": 103,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 102,
+            "word": "师"
+          },
+          {
+            "end": 105,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 104,
+            "word": "举"
+          },
+          {
+            "end": 107,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 106,
+            "word": "矣"
+          }
+        ]
       },
       {
         "character_count": 73,
@@ -27,9 +501,717 @@
         },
         "id": "chapter-002-line-002",
         "order": 2,
+        "pinyin_per_char": [
+          "qí",
+          "",
+          "yòng",
+          "",
+          "zhàn",
+          "",
+          "yě",
+          "",
+          "guì",
+          "",
+          "shèng",
+          "",
+          "",
+          "",
+          "jiǔ",
+          "",
+          "zé",
+          "",
+          "dùn",
+          "",
+          "bīng",
+          "",
+          "cuò",
+          "",
+          "ruì",
+          "",
+          "",
+          "gōng",
+          "chéng",
+          "zé",
+          "lì",
+          "qū",
+          "",
+          "",
+          "jiǔ",
+          "",
+          "bào",
+          "",
+          "shī",
+          "",
+          "zé",
+          "",
+          "guó",
+          "",
+          "yòng",
+          "",
+          "bù",
+          "zú",
+          "",
+          "",
+          "fū",
+          "",
+          "dùn",
+          "",
+          "bīng",
+          "",
+          "cuò",
+          "",
+          "ruì",
+          "",
+          "",
+          "",
+          "qū",
+          "",
+          "lì",
+          "",
+          "dān",
+          "",
+          "huò",
+          "",
+          "",
+          "",
+          "zé",
+          "",
+          "zhū",
+          "hóu",
+          "",
+          "chéng",
+          "",
+          "qí",
+          "",
+          "bì",
+          "",
+          "ér",
+          "",
+          "qǐ",
+          "",
+          "",
+          "",
+          "suī",
+          "",
+          "yǒu",
+          "",
+          "zhì",
+          "zhě",
+          "",
+          "",
+          "",
+          "bù",
+          "néng",
+          "",
+          "shàn",
+          "",
+          "qí",
+          "hòu",
+          "",
+          "yǐ",
+          "",
+          "",
+          "gù",
+          "",
+          "bīng",
+          "",
+          "wén",
+          "",
+          "zhuō",
+          "",
+          "sù",
+          "",
+          "",
+          "",
+          "wèi",
+          "",
+          "dǔ",
+          "",
+          "qiǎo",
+          "",
+          "zhī",
+          "",
+          "jiǔ",
+          "",
+          "yě",
+          "",
+          "",
+          "fū",
+          "",
+          "bīng",
+          "",
+          "jiǔ",
+          "",
+          "ér",
+          "",
+          "guó",
+          "",
+          "lì",
+          "",
+          "zhě",
+          "",
+          "",
+          "",
+          "wèi",
+          "",
+          "zhī",
+          "",
+          "yǒu",
+          "",
+          "yě",
+          "",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 2,
-        "text": "其 用 戰 也 貴 勝 ， 久 則 鈍 兵 挫 銳 ，攻城則力屈 ，久 暴 師 則 國 用 不足 。夫 鈍 兵 挫 銳 ， 屈 力 殫 貨 ， 則 諸侯 乘 其 弊 而 起 ， 雖 有 智者 ， 不能 善 其後 矣 。故 兵 聞 拙 速 ， 未 睹 巧 之 久 也 。夫 兵 久 而 國 利 者 ， 未 之 有 也 。"
+        "text": "其 用 战 也 贵 胜 ， 久 则 钝 兵 挫 锐 ，攻城则力屈 ，久 暴 师 则 国 用 不足 。夫 钝 兵 挫 锐 ， 屈 力 殚 货 ， 则 诸侯 乘 其 弊 而 起 ， 虽 有 智者 ， 不能 善 其后 矣 。故 兵 闻 拙 速 ， 未 睹 巧 之 久 也 。夫 兵 久 而 国 利 者 ， 未 之 有 也 。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "其"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "用"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "战"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "也"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "贵"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "胜"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "久"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "则"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "钝"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "兵"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "挫"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "锐"
+          },
+          {
+            "end": 29,
+            "gloss": "to besiege (a town)",
+            "pinyin": "gōng chéng",
+            "source": "CC-CEDICT",
+            "start": 27,
+            "word": "攻城"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "则"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "力"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "屈"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "久"
+          },
+          {
+            "end": 37,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 36,
+            "word": "暴"
+          },
+          {
+            "end": 39,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 38,
+            "word": "师"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "则"
+          },
+          {
+            "end": 43,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 42,
+            "word": "国"
+          },
+          {
+            "end": 45,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 44,
+            "word": "用"
+          },
+          {
+            "end": 48,
+            "gloss": "insufficient / lacking / deficiency / not enough / inadequate / not worth / cannot / should not",
+            "pinyin": "bù zú",
+            "source": "CC-CEDICT",
+            "start": 46,
+            "word": "不足"
+          },
+          {
+            "end": 51,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 50,
+            "word": "夫"
+          },
+          {
+            "end": 53,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 52,
+            "word": "钝"
+          },
+          {
+            "end": 55,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 54,
+            "word": "兵"
+          },
+          {
+            "end": 57,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 56,
+            "word": "挫"
+          },
+          {
+            "end": 59,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 58,
+            "word": "锐"
+          },
+          {
+            "end": 63,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 62,
+            "word": "屈"
+          },
+          {
+            "end": 65,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 64,
+            "word": "力"
+          },
+          {
+            "end": 67,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 66,
+            "word": "殚"
+          },
+          {
+            "end": 69,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 68,
+            "word": "货"
+          },
+          {
+            "end": 73,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 72,
+            "word": "则"
+          },
+          {
+            "end": 76,
+            "gloss": "dukes or princes who rule a part of the country under the emperor; local rulers",
+            "pinyin": "zhū hóu",
+            "source": "CC-CEDICT",
+            "start": 74,
+            "word": "诸侯"
+          },
+          {
+            "end": 78,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 77,
+            "word": "乘"
+          },
+          {
+            "end": 80,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 79,
+            "word": "其"
+          },
+          {
+            "end": 82,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 81,
+            "word": "弊"
+          },
+          {
+            "end": 84,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 83,
+            "word": "而"
+          },
+          {
+            "end": 86,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 85,
+            "word": "起"
+          },
+          {
+            "end": 90,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 89,
+            "word": "虽"
+          },
+          {
+            "end": 92,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 91,
+            "word": "有"
+          },
+          {
+            "end": 95,
+            "gloss": "sage / wise man / clever and knowledgeable person",
+            "pinyin": "zhì zhě",
+            "source": "CC-CEDICT",
+            "start": 93,
+            "word": "智者"
+          },
+          {
+            "end": 100,
+            "gloss": "cannot / must not / should not",
+            "pinyin": "bù néng",
+            "source": "CC-CEDICT",
+            "start": 98,
+            "word": "不能"
+          },
+          {
+            "end": 102,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 101,
+            "word": "善"
+          },
+          {
+            "end": 105,
+            "gloss": "next / later / after that",
+            "pinyin": "qí hòu",
+            "source": "CC-CEDICT",
+            "start": 103,
+            "word": "其后"
+          },
+          {
+            "end": 107,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 106,
+            "word": "矣"
+          },
+          {
+            "end": 110,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 109,
+            "word": "故"
+          },
+          {
+            "end": 112,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 111,
+            "word": "兵"
+          },
+          {
+            "end": 114,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 113,
+            "word": "闻"
+          },
+          {
+            "end": 116,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 115,
+            "word": "拙"
+          },
+          {
+            "end": 118,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 117,
+            "word": "速"
+          },
+          {
+            "end": 122,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 121,
+            "word": "未"
+          },
+          {
+            "end": 124,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 123,
+            "word": "睹"
+          },
+          {
+            "end": 126,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 125,
+            "word": "巧"
+          },
+          {
+            "end": 128,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 127,
+            "word": "之"
+          },
+          {
+            "end": 130,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 129,
+            "word": "久"
+          },
+          {
+            "end": 132,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 131,
+            "word": "也"
+          },
+          {
+            "end": 135,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 134,
+            "word": "夫"
+          },
+          {
+            "end": 137,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 136,
+            "word": "兵"
+          },
+          {
+            "end": 139,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 138,
+            "word": "久"
+          },
+          {
+            "end": 141,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 140,
+            "word": "而"
+          },
+          {
+            "end": 143,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 142,
+            "word": "国"
+          },
+          {
+            "end": 145,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 144,
+            "word": "利"
+          },
+          {
+            "end": 147,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 146,
+            "word": "者"
+          },
+          {
+            "end": 151,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 150,
+            "word": "未"
+          },
+          {
+            "end": 153,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 152,
+            "word": "之"
+          },
+          {
+            "end": 155,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 154,
+            "word": "有"
+          },
+          {
+            "end": 157,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 156,
+            "word": "也"
+          }
+        ]
       },
       {
         "character_count": 45,
@@ -40,9 +1222,429 @@
         },
         "id": "chapter-002-line-003",
         "order": 3,
+        "pinyin_per_char": [
+          "gù",
+          "",
+          "bú",
+          "jìn",
+          "",
+          "zhī",
+          "",
+          "yòng",
+          "bīng",
+          "",
+          "zhī",
+          "",
+          "hài",
+          "",
+          "zhě",
+          "",
+          "",
+          "",
+          "zé",
+          "",
+          "bù",
+          "néng",
+          "",
+          "jǐn",
+          "",
+          "zhī",
+          "",
+          "yòng",
+          "bīng",
+          "",
+          "zhī",
+          "",
+          "lì",
+          "",
+          "yě",
+          "",
+          "",
+          "shàn",
+          "yòng",
+          "",
+          "bīng",
+          "",
+          "zhě",
+          "",
+          "",
+          "",
+          "yì",
+          "",
+          "bú",
+          "zài",
+          "",
+          "jí",
+          "",
+          "",
+          "",
+          "liáng",
+          "",
+          "bù",
+          "",
+          "sān",
+          "",
+          "zài",
+          "",
+          "",
+          "qǔ",
+          "yòng",
+          "",
+          "yú",
+          "",
+          "guó",
+          "",
+          "",
+          "",
+          "yīn",
+          "",
+          "liáng",
+          "",
+          "yú",
+          "",
+          "dí",
+          "",
+          "",
+          "",
+          "gù",
+          "",
+          "jūn",
+          "shí",
+          "",
+          "kě",
+          "",
+          "zú",
+          "",
+          "yě",
+          "",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 3,
-        "text": "故 不盡 知 用兵 之 害 者 ， 則 不能 盡 知 用兵 之 利 也 。善用 兵 者 ， 役 不再 籍 ， 糧 不 三 載 ；取用 於 國 ， 因 糧 於 敵 ， 故 軍食 可 足 也 。"
+        "text": "故 不尽 知 用兵 之 害 者 ， 则 不能 尽 知 用兵 之 利 也 。善用 兵 者 ， 役 不再 籍 ， 粮 不 三 载 ；取用 于 国 ， 因 粮 于 敌 ， 故 军食 可 足 也 。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "故"
+          },
+          {
+            "end": 4,
+            "gloss": "not completely / endlessly",
+            "pinyin": "bù jìn",
+            "source": "CC-CEDICT",
+            "start": 2,
+            "word": "不尽"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "知"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "用"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "兵"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "之"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "害"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "者"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "则"
+          },
+          {
+            "end": 22,
+            "gloss": "cannot / must not / should not",
+            "pinyin": "bù néng",
+            "source": "CC-CEDICT",
+            "start": 20,
+            "word": "不能"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "尽"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "知"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "用"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "兵"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "之"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "利"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "也"
+          },
+          {
+            "end": 39,
+            "gloss": "to be good at using (sth) / to put (sth) to good use",
+            "pinyin": "shàn yòng",
+            "source": "CC-CEDICT",
+            "start": 37,
+            "word": "善用"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "兵"
+          },
+          {
+            "end": 43,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 42,
+            "word": "者"
+          },
+          {
+            "end": 47,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 46,
+            "word": "役"
+          },
+          {
+            "end": 50,
+            "gloss": "no more; no longer",
+            "pinyin": "bù zài",
+            "source": "CC-CEDICT",
+            "start": 48,
+            "word": "不再"
+          },
+          {
+            "end": 52,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 51,
+            "word": "籍"
+          },
+          {
+            "end": 56,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 55,
+            "word": "粮"
+          },
+          {
+            "end": 58,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 57,
+            "word": "不"
+          },
+          {
+            "end": 60,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 59,
+            "word": "三"
+          },
+          {
+            "end": 62,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 61,
+            "word": "载"
+          },
+          {
+            "end": 66,
+            "gloss": "to access / to make use of",
+            "pinyin": "qǔ yòng",
+            "source": "CC-CEDICT",
+            "start": 64,
+            "word": "取用"
+          },
+          {
+            "end": 68,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 67,
+            "word": "于"
+          },
+          {
+            "end": 70,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 69,
+            "word": "国"
+          },
+          {
+            "end": 74,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 73,
+            "word": "因"
+          },
+          {
+            "end": 76,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 75,
+            "word": "粮"
+          },
+          {
+            "end": 78,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 77,
+            "word": "于"
+          },
+          {
+            "end": 80,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 79,
+            "word": "敌"
+          },
+          {
+            "end": 84,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 83,
+            "word": "故"
+          },
+          {
+            "end": 86,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 85,
+            "word": "军"
+          },
+          {
+            "end": 87,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 86,
+            "word": "食"
+          },
+          {
+            "end": 89,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 88,
+            "word": "可"
+          },
+          {
+            "end": 91,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 90,
+            "word": "足"
+          },
+          {
+            "end": 93,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 92,
+            "word": "也"
+          }
+        ]
       },
       {
         "character_count": 76,
@@ -53,9 +1655,735 @@
         },
         "id": "chapter-002-line-004",
         "order": 4,
+        "pinyin_per_char": [
+          "guó",
+          "",
+          "zhī",
+          "",
+          "pín",
+          "",
+          "yú",
+          "",
+          "shī",
+          "",
+          "zhě",
+          "",
+          "yuǎn",
+          "",
+          "shū",
+          "",
+          "",
+          "",
+          "yuǎn",
+          "",
+          "shū",
+          "",
+          "zé",
+          "",
+          "bǎi",
+          "xìng",
+          "",
+          "pín",
+          "",
+          "",
+          "jìn",
+          "",
+          "yú",
+          "",
+          "shī",
+          "",
+          "zhě",
+          "",
+          "guì",
+          "",
+          "mài",
+          "",
+          "",
+          "",
+          "guì",
+          "",
+          "mài",
+          "",
+          "zé",
+          "",
+          "bǎi",
+          "xìng",
+          "",
+          "cái",
+          "",
+          "jié",
+          "",
+          "",
+          "cái",
+          "",
+          "jié",
+          "",
+          "zé",
+          "",
+          "jí",
+          "yú",
+          "",
+          "qiū",
+          "",
+          "yì",
+          "",
+          "",
+          "lì",
+          "",
+          "qū",
+          "",
+          "cái",
+          "",
+          "dān",
+          "",
+          "",
+          "",
+          "zhōng",
+          "yuán",
+          "",
+          "nèi",
+          "",
+          "xū",
+          "",
+          "yú",
+          "",
+          "jiā",
+          "",
+          "",
+          "",
+          "bǎi",
+          "xìng",
+          "",
+          "zhī",
+          "",
+          "fèi",
+          "",
+          "",
+          "",
+          "shí",
+          "",
+          "qù",
+          "",
+          "qí",
+          "",
+          "qī",
+          "",
+          "",
+          "gōng",
+          "jiā",
+          "",
+          "zhī",
+          "",
+          "fèi",
+          "",
+          "",
+          "",
+          "pò",
+          "",
+          "chē",
+          "",
+          "bà",
+          "",
+          "mǎ",
+          "",
+          "",
+          "",
+          "jiǎ",
+          "zhòu",
+          "",
+          "shǐ",
+          "",
+          "nǔ",
+          "",
+          "",
+          "",
+          "jǐ",
+          "",
+          "dùn",
+          "",
+          "bì",
+          "",
+          "lǔ",
+          "",
+          "",
+          "",
+          "qiū",
+          "",
+          "niú",
+          "",
+          "dà",
+          "chē",
+          "",
+          "",
+          "",
+          "shí",
+          "",
+          "qù",
+          "",
+          "qí",
+          "",
+          "liù",
+          "",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 2,
         "source_block_order": 3,
-        "text": "國 之 貧 於 師 者 遠 輸 ， 遠 輸 則 百姓 貧 ；近 於 師 者 貴 賣 ， 貴 賣 則 百姓 財 竭 ，財 竭 則 急於 丘 役 。力 屈 財 殫 ， 中原 內 虛 於 家 。 百姓 之 費 ， 十 去 其 七 ；公家 之 費 ， 破 車 罷 馬 ， 甲胄 矢 弩 ， 戟 楯 蔽 櫓 ， 丘 牛 大車 ， 十 去 其 六 。"
+        "text": "国 之 贫 于 师 者 远 输 ， 远 输 则 百姓 贫 ；近 于 师 者 贵 卖 ， 贵 卖 则 百姓 财 竭 ，财 竭 则 急于 丘 役 。力 屈 财 殚 ， 中原 内 虚 于 家 。 百姓 之 费 ， 十 去 其 七 ；公家 之 费 ， 破 车 罢 马 ， 甲胄 矢 弩 ， 戟 楯 蔽 橹 ， 丘 牛 大车 ， 十 去 其 六 。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "国"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "之"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "贫"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "于"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "师"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "者"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "远"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "输"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "远"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "输"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "则"
+          },
+          {
+            "end": 26,
+            "gloss": "common people",
+            "pinyin": "bǎi xìng",
+            "source": "CC-CEDICT",
+            "start": 24,
+            "word": "百姓"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "贫"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "近"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "于"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "师"
+          },
+          {
+            "end": 37,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 36,
+            "word": "者"
+          },
+          {
+            "end": 39,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 38,
+            "word": "贵"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "卖"
+          },
+          {
+            "end": 45,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 44,
+            "word": "贵"
+          },
+          {
+            "end": 47,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 46,
+            "word": "卖"
+          },
+          {
+            "end": 49,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 48,
+            "word": "则"
+          },
+          {
+            "end": 52,
+            "gloss": "common people",
+            "pinyin": "bǎi xìng",
+            "source": "CC-CEDICT",
+            "start": 50,
+            "word": "百姓"
+          },
+          {
+            "end": 54,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 53,
+            "word": "财"
+          },
+          {
+            "end": 56,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 55,
+            "word": "竭"
+          },
+          {
+            "end": 59,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 58,
+            "word": "财"
+          },
+          {
+            "end": 61,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 60,
+            "word": "竭"
+          },
+          {
+            "end": 63,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 62,
+            "word": "则"
+          },
+          {
+            "end": 66,
+            "gloss": "eager to / in a hurry to",
+            "pinyin": "jí yú",
+            "source": "CC-CEDICT",
+            "start": 64,
+            "word": "急于"
+          },
+          {
+            "end": 68,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 67,
+            "word": "丘"
+          },
+          {
+            "end": 70,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 69,
+            "word": "役"
+          },
+          {
+            "end": 73,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 72,
+            "word": "力"
+          },
+          {
+            "end": 75,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 74,
+            "word": "屈"
+          },
+          {
+            "end": 77,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 76,
+            "word": "财"
+          },
+          {
+            "end": 79,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 78,
+            "word": "殚"
+          },
+          {
+            "end": 84,
+            "gloss": "Central Plain, the middle and lower regions of the Yellow river, including Henan, western Shandong,…",
+            "pinyin": "Zhōng yuán",
+            "source": "CC-CEDICT",
+            "start": 82,
+            "word": "中原"
+          },
+          {
+            "end": 86,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 85,
+            "word": "内"
+          },
+          {
+            "end": 88,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 87,
+            "word": "虚"
+          },
+          {
+            "end": 90,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 89,
+            "word": "于"
+          },
+          {
+            "end": 92,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 91,
+            "word": "家"
+          },
+          {
+            "end": 97,
+            "gloss": "common people",
+            "pinyin": "bǎi xìng",
+            "source": "CC-CEDICT",
+            "start": 95,
+            "word": "百姓"
+          },
+          {
+            "end": 99,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 98,
+            "word": "之"
+          },
+          {
+            "end": 101,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 100,
+            "word": "费"
+          },
+          {
+            "end": 105,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 104,
+            "word": "十"
+          },
+          {
+            "end": 107,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 106,
+            "word": "去"
+          },
+          {
+            "end": 109,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 108,
+            "word": "其"
+          },
+          {
+            "end": 111,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 110,
+            "word": "七"
+          },
+          {
+            "end": 115,
+            "gloss": "the public / the state / society / the public purse",
+            "pinyin": "gōng jiā",
+            "source": "CC-CEDICT",
+            "start": 113,
+            "word": "公家"
+          },
+          {
+            "end": 117,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 116,
+            "word": "之"
+          },
+          {
+            "end": 119,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 118,
+            "word": "费"
+          },
+          {
+            "end": 123,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 122,
+            "word": "破"
+          },
+          {
+            "end": 125,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 124,
+            "word": "车"
+          },
+          {
+            "end": 127,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 126,
+            "word": "罢"
+          },
+          {
+            "end": 129,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 128,
+            "word": "马"
+          },
+          {
+            "end": 134,
+            "gloss": "armor",
+            "pinyin": "jiǎ zhòu",
+            "source": "CC-CEDICT",
+            "start": 132,
+            "word": "甲胄"
+          },
+          {
+            "end": 136,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 135,
+            "word": "矢"
+          },
+          {
+            "end": 138,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 137,
+            "word": "弩"
+          },
+          {
+            "end": 142,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 141,
+            "word": "戟"
+          },
+          {
+            "end": 144,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 143,
+            "word": "楯"
+          },
+          {
+            "end": 146,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 145,
+            "word": "蔽"
+          },
+          {
+            "end": 148,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 147,
+            "word": "橹"
+          },
+          {
+            "end": 152,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 151,
+            "word": "丘"
+          },
+          {
+            "end": 154,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 153,
+            "word": "牛"
+          },
+          {
+            "end": 156,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 155,
+            "word": "大"
+          },
+          {
+            "end": 157,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 156,
+            "word": "车"
+          },
+          {
+            "end": 161,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 160,
+            "word": "十"
+          },
+          {
+            "end": 163,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 162,
+            "word": "去"
+          },
+          {
+            "end": 165,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 164,
+            "word": "其"
+          },
+          {
+            "end": 167,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 166,
+            "word": "六"
+          }
+        ]
       },
       {
         "character_count": 74,
@@ -66,9 +2394,717 @@
         },
         "id": "chapter-002-line-005",
         "order": 5,
+        "pinyin_per_char": [
+          "gù",
+          "",
+          "zhì",
+          "jiāng",
+          "",
+          "wù",
+          "",
+          "shí",
+          "",
+          "yú",
+          "",
+          "dí",
+          "",
+          "",
+          "",
+          "shí",
+          "",
+          "dí",
+          "",
+          "yī",
+          "",
+          "zhōng",
+          "",
+          "",
+          "dāng",
+          "",
+          "wú",
+          "",
+          "èr",
+          "shí",
+          "",
+          "zhōng",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "gǎn",
+          "",
+          "yī",
+          "",
+          "shí",
+          "",
+          "",
+          "",
+          "dāng",
+          "",
+          "wú",
+          "",
+          "èr",
+          "shí",
+          "",
+          "shí",
+          "",
+          "",
+          "gù",
+          "shā",
+          "",
+          "dí",
+          "",
+          "zhě",
+          "",
+          "",
+          "",
+          "nù",
+          "",
+          "yě",
+          "",
+          "",
+          "",
+          "qǔ",
+          "",
+          "dí",
+          "",
+          "zhī",
+          "",
+          "lì",
+          "",
+          "zhě",
+          "",
+          "",
+          "",
+          "huò",
+          "",
+          "yě",
+          "",
+          "",
+          "gù",
+          "",
+          "chē",
+          "",
+          "zhàn",
+          "",
+          "",
+          "",
+          "dé",
+          "",
+          "chē",
+          "",
+          "shí",
+          "",
+          "chéng",
+          "yǐ",
+          "",
+          "shàng",
+          "",
+          "",
+          "",
+          "shǎng",
+          "",
+          "qí",
+          "xiān",
+          "",
+          "dé",
+          "",
+          "zhě",
+          "",
+          "",
+          "ér",
+          "",
+          "gèng",
+          "",
+          "qí",
+          "",
+          "jīng",
+          "qí",
+          "",
+          "",
+          "",
+          "chē",
+          "",
+          "zá",
+          "",
+          "ér",
+          "",
+          "chéng",
+          "",
+          "zhī",
+          "",
+          "",
+          "",
+          "zú",
+          "",
+          "shàn",
+          "",
+          "ér",
+          "",
+          "yǎng",
+          "",
+          "zhī",
+          "",
+          "",
+          "shì",
+          "",
+          "wèi",
+          "",
+          "shèng",
+          "",
+          "dí",
+          "",
+          "ér",
+          "",
+          "yì",
+          "",
+          "qiáng",
+          "",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 4,
-        "text": "故 智將 務 食 於 敵 ， 食 敵 一 鍾 ，當 吾 二十 鍾 ； 𦮼 稈 一 石 ， 當 吾 二十 石 。故殺 敵 者 ， 怒 也 ； 取 敵 之 利 者 ， 貨 也 。故 車 戰 ， 得 車 十 乘以 上 ， 賞 其先 得 者 ，而 更 其 旌旗 。 車 雜 而 乘 之 ， 卒 善 而 養 之 ，是 謂 勝 敵 而 益 強 。"
+        "text": "故 智将 务 食 于 敌 ， 食 敌 一 钟 ，当 吾 二十 钟 ； 𦮼 秆 一 石 ， 当 吾 二十 石 。故杀 敌 者 ， 怒 也 ； 取 敌 之 利 者 ， 货 也 。故 车 战 ， 得 车 十 乘以 上 ， 赏 其先 得 者 ，而 更 其 旌旗 。 车 杂 而 乘 之 ， 卒 善 而 养 之 ，是 谓 胜 敌 而 益 强 。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "故"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "智"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "将"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "务"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "食"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "于"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "敌"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "食"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "敌"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "一"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "钟"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "当"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "吾"
+          },
+          {
+            "end": 30,
+            "gloss": "twenty; 20",
+            "pinyin": "èr shí",
+            "source": "CC-CEDICT",
+            "start": 28,
+            "word": "二十"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "钟"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "秆"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "一"
+          },
+          {
+            "end": 42,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 41,
+            "word": "石"
+          },
+          {
+            "end": 46,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 45,
+            "word": "当"
+          },
+          {
+            "end": 48,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 47,
+            "word": "吾"
+          },
+          {
+            "end": 51,
+            "gloss": "twenty; 20",
+            "pinyin": "èr shí",
+            "source": "CC-CEDICT",
+            "start": 49,
+            "word": "二十"
+          },
+          {
+            "end": 53,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 52,
+            "word": "石"
+          },
+          {
+            "end": 57,
+            "gloss": "premeditated murder",
+            "pinyin": "gù shā",
+            "source": "CC-CEDICT",
+            "start": 55,
+            "word": "故杀"
+          },
+          {
+            "end": 59,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 58,
+            "word": "敌"
+          },
+          {
+            "end": 61,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 60,
+            "word": "者"
+          },
+          {
+            "end": 65,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 64,
+            "word": "怒"
+          },
+          {
+            "end": 67,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 66,
+            "word": "也"
+          },
+          {
+            "end": 71,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 70,
+            "word": "取"
+          },
+          {
+            "end": 73,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 72,
+            "word": "敌"
+          },
+          {
+            "end": 75,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 74,
+            "word": "之"
+          },
+          {
+            "end": 77,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 76,
+            "word": "利"
+          },
+          {
+            "end": 79,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 78,
+            "word": "者"
+          },
+          {
+            "end": 83,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 82,
+            "word": "货"
+          },
+          {
+            "end": 85,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 84,
+            "word": "也"
+          },
+          {
+            "end": 88,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 87,
+            "word": "故"
+          },
+          {
+            "end": 90,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 89,
+            "word": "车"
+          },
+          {
+            "end": 92,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 91,
+            "word": "战"
+          },
+          {
+            "end": 96,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 95,
+            "word": "得"
+          },
+          {
+            "end": 98,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 97,
+            "word": "车"
+          },
+          {
+            "end": 100,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 99,
+            "word": "十"
+          },
+          {
+            "end": 103,
+            "gloss": "(math.) multiplied with",
+            "pinyin": "chéng yǐ",
+            "source": "CC-CEDICT",
+            "start": 101,
+            "word": "乘以"
+          },
+          {
+            "end": 105,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 104,
+            "word": "上"
+          },
+          {
+            "end": 109,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 108,
+            "word": "赏"
+          },
+          {
+            "end": 112,
+            "gloss": "previously / before that / up to then",
+            "pinyin": "qí xiān",
+            "source": "CC-CEDICT",
+            "start": 110,
+            "word": "其先"
+          },
+          {
+            "end": 114,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 113,
+            "word": "得"
+          },
+          {
+            "end": 116,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 115,
+            "word": "者"
+          },
+          {
+            "end": 119,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 118,
+            "word": "而"
+          },
+          {
+            "end": 121,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 120,
+            "word": "更"
+          },
+          {
+            "end": 123,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 122,
+            "word": "其"
+          },
+          {
+            "end": 126,
+            "gloss": "gonfanon / banner",
+            "pinyin": "jīng qí",
+            "source": "CC-CEDICT",
+            "start": 124,
+            "word": "旌旗"
+          },
+          {
+            "end": 130,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 129,
+            "word": "车"
+          },
+          {
+            "end": 132,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 131,
+            "word": "杂"
+          },
+          {
+            "end": 134,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 133,
+            "word": "而"
+          },
+          {
+            "end": 136,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 135,
+            "word": "乘"
+          },
+          {
+            "end": 138,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 137,
+            "word": "之"
+          },
+          {
+            "end": 142,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 141,
+            "word": "卒"
+          },
+          {
+            "end": 144,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 143,
+            "word": "善"
+          },
+          {
+            "end": 146,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 145,
+            "word": "而"
+          },
+          {
+            "end": 148,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 147,
+            "word": "养"
+          },
+          {
+            "end": 150,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 149,
+            "word": "之"
+          },
+          {
+            "end": 153,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 152,
+            "word": "是"
+          },
+          {
+            "end": 155,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 154,
+            "word": "谓"
+          },
+          {
+            "end": 157,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 156,
+            "word": "胜"
+          },
+          {
+            "end": 159,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 158,
+            "word": "敌"
+          },
+          {
+            "end": 161,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 160,
+            "word": "而"
+          },
+          {
+            "end": 163,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 162,
+            "word": "益"
+          },
+          {
+            "end": 165,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 164,
+            "word": "强"
+          }
+        ]
       },
       {
         "character_count": 23,
@@ -79,17 +3115,241 @@
         },
         "id": "chapter-002-line-006",
         "order": 6,
+        "pinyin_per_char": [
+          "gù",
+          "",
+          "bīng",
+          "",
+          "guì",
+          "",
+          "shèng",
+          "",
+          "",
+          "",
+          "bú",
+          "",
+          "guì",
+          "",
+          "jiǔ",
+          "",
+          "",
+          "gù",
+          "zhī",
+          "",
+          "bīng",
+          "",
+          "zhī",
+          "",
+          "jiāng",
+          "",
+          "",
+          "",
+          "shēng",
+          "mín",
+          "",
+          "zhī",
+          "",
+          "sī",
+          "mìng",
+          "",
+          "",
+          "",
+          "guó",
+          "jiā",
+          "",
+          "ān",
+          "wēi",
+          "",
+          "zhī",
+          "",
+          "zhǔ",
+          "",
+          "yě",
+          "",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 5,
-        "text": "故 兵 貴 勝 ， 不 貴 久 。故知 兵 之 將 ， 生民 之 司命 ， 國家 安危 之 主 也 。"
+        "text": "故 兵 贵 胜 ， 不 贵 久 。故知 兵 之 将 ， 生民 之 司命 ， 国家 安危 之 主 也 。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "故"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "兵"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "贵"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "胜"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "不"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "贵"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "久"
+          },
+          {
+            "end": 19,
+            "gloss": "a close friend over many years",
+            "pinyin": "gù zhī",
+            "source": "CC-CEDICT",
+            "start": 17,
+            "word": "故知"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "兵"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "之"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "将"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "生"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "民"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "之"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "司"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "命"
+          },
+          {
+            "end": 40,
+            "gloss": "country; nation; state",
+            "pinyin": "guó jiā",
+            "source": "CC-CEDICT",
+            "start": 38,
+            "word": "国家"
+          },
+          {
+            "end": 43,
+            "gloss": "safety and danger / safety",
+            "pinyin": "ān wēi",
+            "source": "CC-CEDICT",
+            "start": 41,
+            "word": "安危"
+          },
+          {
+            "end": 45,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 44,
+            "word": "之"
+          },
+          {
+            "end": 47,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 46,
+            "word": "主"
+          },
+          {
+            "end": 49,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 48,
+            "word": "也"
+          }
+        ]
       }
     ],
     "summary": "",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "孫子曰：凡用兵之法，馳車千駟，革車千乘，帶甲十萬；千里饋糧，則內外之費賓客之用，膠漆之材，車甲之奉，日費千金，然後十萬之師舉矣。\n其用戰也，勝久則鈍兵挫銳，攻城則力屈，久暴師則國用不足。夫鈍兵，挫銳，屈力，殫貨，則諸侯乘其弊而起，雖有智者，不能善其後矣！故兵聞拙速，未睹巧之久也；夫兵久而國利者，未之有也。\n故不盡知用兵之害者，則不能盡知用兵之利也。善用兵者，役不再籍，糧不三載，取用于國，因糧于敵，故軍食可足也。國之貧于師者遠輸，遠輸則百姓貧，近于師者貴賣，貴賣則百姓財竭，財竭則急于丘役，力屈財殫，中原內虛于家，百姓之費，十去其七，公家之費，破車罷馬，甲冑矢弩，戟楯蔽櫓，丘牛大車，十去其六。\n故智將務食於敵，食敵一鍾，當吾二十鍾，𦮼秆一石，當我二十石。故殺敵者怒也，取敵之利者貨也。故車戰，得車十乘以上，賞其先得者，而更其旌旗，車雜而乘之，卒善而養之，是謂勝敵而益強。\n故兵貴勝，不貴久；故知兵之將，民之司命，國家安危之主也。",
-    "title": "作戰"
+    "text": "孙子曰：凡用兵之法，驰车千驷，革车千乘，带甲十万；千里馈粮，则内外之费宾客之用，胶漆之材，车甲之奉，日费千金，然后十万之师举矣。\n其用战也，胜久则钝兵挫锐，攻城则力屈，久暴师则国用不足。夫钝兵，挫锐，屈力，殚货，则诸侯乘其弊而起，虽有智者，不能善其后矣！故兵闻拙速，未睹巧之久也；夫兵久而国利者，未之有也。\n故不尽知用兵之害者，则不能尽知用兵之利也。善用兵者，役不再籍，粮不三载，取用于国，因粮于敌，故军食可足也。国之贫于师者远输，远输则百姓贫，近于师者贵卖，贵卖则百姓财竭，财竭则急于丘役，力屈财殚，中原内虚于家，百姓之费，十去其七，公家之费，破车罢马，甲胄矢弩，戟楯蔽橹，丘牛大车，十去其六。\n故智将务食于敌，食敌一钟，当吾二十钟，𦮼秆一石，当我二十石。故杀敌者怒也，取敌之利者货也。故车战，得车十乘以上，赏其先得者，而更其旌旗，车杂而乘之，卒善而养之，是谓胜敌而益强。\n故兵贵胜，不贵久；故知兵之将，民之司命，国家安危之主也。",
+    "title": "作战"
   },
   "chapter_path": "books/sunzi-bingfa/chapters/chapter-002.json",
   "provider": "ctext-html",

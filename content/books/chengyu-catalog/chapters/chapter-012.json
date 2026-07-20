@@ -244,7 +244,7 @@
           {
             "license": "CC BY-SA 3.0",
             "source_url": "https://cc-cedict.org/",
-            "text": "see 一之為甚|一之为甚[yi1 zhi1 wei2 shen4]",
+            "text": "see 一之为甚|一之为甚[yi1 zhi1 wei2 shen4]",
             "translator": "CC-CEDICT",
             "year": null
           }
@@ -491,7 +491,13 @@
         "order": 40,
         "pinyin": "shù ér bù zuò",
         "pinyin_source": "derived from per-character index",
-        "text": "述而不作"
+        "text": "述而不作",
+        "origin": {
+          "book": "lunyu",
+          "chapter": 7,
+          "line": 1,
+          "snippet": "子曰：「述而不作，信而好古，窃比于我老彭。」"
+        }
       },
       {
         "canonical_translations": [],
@@ -509,7 +515,13 @@
         "order": 42,
         "pinyin": "wú wèi ér chéng",
         "pinyin_source": "derived from per-character index",
-        "text": "无为而成"
+        "text": "无为而成",
+        "origin": {
+          "book": "zhong-yong",
+          "chapter": 26,
+          "line": 6,
+          "snippet": "如此者，不见而章，不动而变，无为而成。"
+        }
       },
       {
         "canonical_translations": [],

@@ -18,16 +18,304 @@
         "character_count": 36,
         "id": "chapter-047-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "bù",
+          "chū",
+          "hù",
+          "zhī",
+          "tiān",
+          "xià",
+          "",
+          "bù",
+          "kuī",
+          "yǒu",
+          "jiàn",
+          "tiān",
+          "dào",
+          "",
+          "qí",
+          "chū",
+          "mí",
+          "yuǎn",
+          "",
+          "qí",
+          "zhī",
+          "mí",
+          "shǎo",
+          "",
+          "shì",
+          "yǐ",
+          "shèng",
+          "rén",
+          "bù",
+          "xíng",
+          "ér",
+          "zhī",
+          "",
+          "bú",
+          "jiàn",
+          "ér",
+          "míng",
+          "",
+          "bù",
+          "wéi",
+          "ér",
+          "chéng",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "不出戶知天下；不闚牖見天道。其出彌遠，其知彌少。是以聖人不行而知，不見而名，不為而成。"
+        "text": "不出户知天下；不闚牖见天道。其出弥远，其知弥少。是以圣人不行而知，不见而名，不为而成。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "不"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "出"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "户"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "知"
+          },
+          {
+            "end": 6,
+            "gloss": "land under heaven / the whole world / the whole of China / realm / rule",
+            "pinyin": "tiān xià",
+            "source": "CC-CEDICT",
+            "start": 4,
+            "word": "天下"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "不"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "闚"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "牖"
+          },
+          {
+            "end": 12,
+            "gloss": "(coll.) every day",
+            "pinyin": "jiàn tiān",
+            "source": "CC-CEDICT",
+            "start": 10,
+            "word": "见天"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "道"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "其"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "出"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "弥"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "远"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "其"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "知"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "弥"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "少"
+          },
+          {
+            "end": 26,
+            "gloss": "therefore / thus / so",
+            "pinyin": "shì yǐ",
+            "source": "CC-CEDICT",
+            "start": 24,
+            "word": "是以"
+          },
+          {
+            "end": 28,
+            "gloss": "the sage; the holy man",
+            "pinyin": "shèng rén",
+            "source": "classical-override",
+            "start": 26,
+            "word": "圣人"
+          },
+          {
+            "end": 30,
+            "gloss": "won't do / be out of the question / be no good / not work / not be capable",
+            "pinyin": "bù xíng",
+            "source": "CC-CEDICT",
+            "start": 28,
+            "word": "不行"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "而"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "知"
+          },
+          {
+            "end": 35,
+            "gloss": "not to see / not to meet / to have disappeared / to be missing",
+            "pinyin": "bù jiàn",
+            "source": "CC-CEDICT",
+            "start": 33,
+            "word": "不见"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "而"
+          },
+          {
+            "end": 37,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 36,
+            "word": "名"
+          },
+          {
+            "end": 39,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 38,
+            "word": "不"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "为"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "而"
+          },
+          {
+            "end": 42,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 41,
+            "word": "成"
+          }
+        ]
       }
     ],
-    "summary": "不出戶知天下；不闚牖見天道",
+    "summary": "不出户知天下；不闚牖见天道",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "不出戶知天下；不闚牖見天道。其出彌遠，其知彌少。是以聖人不行而知，不見而名，不為而成。",
+    "text": "不出户知天下；不闚牖见天道。其出弥远，其知弥少。是以圣人不行而知，不见而名，不为而成。",
     "title": "第47章"
   },
   "chapter_path": "books/daodejing/chapters/chapter-047.json",

@@ -18,9 +18,660 @@
         "character_count": 85,
         "id": "chapter-031-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "fū",
+          "jiā",
+          "bīng",
+          "zhě",
+          "",
+          "bù",
+          "xiáng",
+          "zhī",
+          "qì",
+          "",
+          "wù",
+          "huò",
+          "ě",
+          "zhī",
+          "",
+          "gù",
+          "yǒu",
+          "dào",
+          "zhě",
+          "bú",
+          "chù",
+          "",
+          "jūn",
+          "zǐ",
+          "jū",
+          "zé",
+          "guì",
+          "zuǒ",
+          "",
+          "yòng",
+          "bīng",
+          "zé",
+          "guì",
+          "yòu",
+          "",
+          "bīng",
+          "zhě",
+          "bù",
+          "xiáng",
+          "zhī",
+          "qì",
+          "",
+          "fēi",
+          "jūn",
+          "zǐ",
+          "zhī",
+          "qì",
+          "",
+          "bù",
+          "dé",
+          "yǐ",
+          "ér",
+          "yòng",
+          "zhī",
+          "",
+          "tián",
+          "dàn",
+          "wèi",
+          "shàng",
+          "",
+          "shèng",
+          "ér",
+          "bù",
+          "měi",
+          "",
+          "ér",
+          "měi",
+          "zhī",
+          "zhě",
+          "",
+          "shì",
+          "lè",
+          "shā",
+          "rén",
+          "",
+          "fū",
+          "lè",
+          "shā",
+          "rén",
+          "zhě",
+          "",
+          "zé",
+          "bù",
+          "ké",
+          "yǐ",
+          "dé",
+          "zhì",
+          "yú",
+          "tiān",
+          "xià",
+          "yǐ",
+          "",
+          "jí",
+          "shì",
+          "shàng",
+          "zuǒ",
+          "",
+          "xiōng",
+          "shì",
+          "shàng",
+          "yòu",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "夫佳兵者，不祥之器，物或惡之，故有道者不處。君子居則貴左，用兵則貴右。兵者不祥之器，非君子之器，不得已而用之，恬淡為上。勝而不美，而美之者，是樂殺人。夫樂殺人者，則不可以得志於天下矣。吉事尚左，凶事尚右。"
+        "text": "夫佳兵者，不祥之器，物或恶之，故有道者不处。君子居则贵左，用兵则贵右。兵者不祥之器，非君子之器，不得已而用之，恬淡为上。胜而不美，而美之者，是乐杀人。夫乐杀人者，则不可以得志于天下矣。吉事尚左，凶事尚右。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "夫"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "佳"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "兵"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "者"
+          },
+          {
+            "end": 7,
+            "gloss": "ominous / inauspicious",
+            "pinyin": "bù xiáng",
+            "source": "CC-CEDICT",
+            "start": 5,
+            "word": "不祥"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "之"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "器"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "物"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "或"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "恶"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "之"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "故"
+          },
+          {
+            "end": 18,
+            "gloss": "to have attained the Way / (of a government or a ruler) enlightened / wise and just",
+            "pinyin": "yǒu dào",
+            "source": "CC-CEDICT",
+            "start": 16,
+            "word": "有道"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "者"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "不"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "处"
+          },
+          {
+            "end": 24,
+            "gloss": "the superior man; the exemplary person (junzi)",
+            "pinyin": "jūn zǐ",
+            "source": "classical-override",
+            "start": 22,
+            "word": "君子"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "居"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "则"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "贵"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "左"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "用"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "兵"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "则"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "贵"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "右"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "兵"
+          },
+          {
+            "end": 37,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 36,
+            "word": "者"
+          },
+          {
+            "end": 39,
+            "gloss": "ominous / inauspicious",
+            "pinyin": "bù xiáng",
+            "source": "CC-CEDICT",
+            "start": 37,
+            "word": "不祥"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "之"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "器"
+          },
+          {
+            "end": 43,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 42,
+            "word": "非"
+          },
+          {
+            "end": 45,
+            "gloss": "the superior man; the exemplary person (junzi)",
+            "pinyin": "jūn zǐ",
+            "source": "classical-override",
+            "start": 43,
+            "word": "君子"
+          },
+          {
+            "end": 46,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 45,
+            "word": "之"
+          },
+          {
+            "end": 47,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 46,
+            "word": "器"
+          },
+          {
+            "end": 51,
+            "gloss": "to act against one's will / to have no alternative but to / to have to / to have no choice / must",
+            "pinyin": "bù dé yǐ",
+            "source": "CC-CEDICT",
+            "start": 48,
+            "word": "不得已"
+          },
+          {
+            "end": 52,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 51,
+            "word": "而"
+          },
+          {
+            "end": 53,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 52,
+            "word": "用"
+          },
+          {
+            "end": 54,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 53,
+            "word": "之"
+          },
+          {
+            "end": 57,
+            "gloss": "quiet and contented / indifferent to fame or gain",
+            "pinyin": "tián dàn",
+            "source": "CC-CEDICT",
+            "start": 55,
+            "word": "恬淡"
+          },
+          {
+            "end": 59,
+            "gloss": "to be valued above all else",
+            "pinyin": "wéi shàng",
+            "source": "CC-CEDICT",
+            "start": 57,
+            "word": "为上"
+          },
+          {
+            "end": 61,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 60,
+            "word": "胜"
+          },
+          {
+            "end": 62,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 61,
+            "word": "而"
+          },
+          {
+            "end": 63,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 62,
+            "word": "不"
+          },
+          {
+            "end": 64,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 63,
+            "word": "美"
+          },
+          {
+            "end": 66,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 65,
+            "word": "而"
+          },
+          {
+            "end": 67,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 66,
+            "word": "美"
+          },
+          {
+            "end": 68,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 67,
+            "word": "之"
+          },
+          {
+            "end": 69,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 68,
+            "word": "者"
+          },
+          {
+            "end": 71,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 70,
+            "word": "是"
+          },
+          {
+            "end": 72,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 71,
+            "word": "乐"
+          },
+          {
+            "end": 74,
+            "gloss": "homicide / to murder / to kill (a person)",
+            "pinyin": "shā rén",
+            "source": "CC-CEDICT",
+            "start": 72,
+            "word": "杀人"
+          },
+          {
+            "end": 76,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 75,
+            "word": "夫"
+          },
+          {
+            "end": 77,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 76,
+            "word": "乐"
+          },
+          {
+            "end": 79,
+            "gloss": "homicide / to murder / to kill (a person)",
+            "pinyin": "shā rén",
+            "source": "CC-CEDICT",
+            "start": 77,
+            "word": "杀人"
+          },
+          {
+            "end": 80,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 79,
+            "word": "者"
+          },
+          {
+            "end": 82,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 81,
+            "word": "则"
+          },
+          {
+            "end": 85,
+            "gloss": "may not",
+            "pinyin": "bù kě yǐ",
+            "source": "CC-CEDICT",
+            "start": 82,
+            "word": "不可以"
+          },
+          {
+            "end": 87,
+            "gloss": "to accomplish one's ambition / a dream come true / to enjoy success",
+            "pinyin": "dé zhì",
+            "source": "CC-CEDICT",
+            "start": 85,
+            "word": "得志"
+          },
+          {
+            "end": 88,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 87,
+            "word": "于"
+          },
+          {
+            "end": 90,
+            "gloss": "land under heaven / the whole world / the whole of China / realm / rule",
+            "pinyin": "tiān xià",
+            "source": "CC-CEDICT",
+            "start": 88,
+            "word": "天下"
+          },
+          {
+            "end": 91,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 90,
+            "word": "矣"
+          },
+          {
+            "end": 94,
+            "gloss": "auspicious event",
+            "pinyin": "jí shì",
+            "source": "CC-CEDICT",
+            "start": 92,
+            "word": "吉事"
+          },
+          {
+            "end": 95,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 94,
+            "word": "尚"
+          },
+          {
+            "end": 96,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 95,
+            "word": "左"
+          },
+          {
+            "end": 99,
+            "gloss": "fateful accident / inauspicious matter (involving death or casualties)",
+            "pinyin": "xiōng shì",
+            "source": "CC-CEDICT",
+            "start": 97,
+            "word": "凶事"
+          },
+          {
+            "end": 100,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 99,
+            "word": "尚"
+          },
+          {
+            "end": 101,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 100,
+            "word": "右"
+          }
+        ]
       },
       {
         "canonical_translations": [
@@ -35,16 +686,251 @@
         "character_count": 32,
         "id": "chapter-031-line-002",
         "order": 2,
+        "pinyin_per_char": [
+          "piān",
+          "jiāng",
+          "jūn",
+          "jū",
+          "zuǒ",
+          "",
+          "shàng",
+          "jiàng",
+          "jūn",
+          "jū",
+          "yòu",
+          "",
+          "yán",
+          "yǐ",
+          "sāng",
+          "lǐ",
+          "chù",
+          "zhī",
+          "",
+          "shā",
+          "rén",
+          "zhī",
+          "zhòng",
+          "",
+          "yǐ",
+          "āi",
+          "bēi",
+          "qì",
+          "zhī",
+          "",
+          "zhàn",
+          "shèng",
+          "yǐ",
+          "sāng",
+          "lǐ",
+          "chù",
+          "zhī",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 2,
         "source_block_order": 1,
-        "text": "偏將軍居左，上將軍居右，言以喪禮處之。殺人之衆，以哀悲泣之，戰勝以喪禮處之。"
+        "text": "偏将军居左，上将军居右，言以丧礼处之。杀人之众，以哀悲泣之，战胜以丧礼处之。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "deputy general",
+            "pinyin": "piān jiàng",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "偏将"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "军"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "居"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "左"
+          },
+          {
+            "end": 9,
+            "gloss": "top general / commander-in-chief",
+            "pinyin": "shàng jiàng jūn",
+            "source": "CC-CEDICT",
+            "start": 6,
+            "word": "上将军"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "居"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "右"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "言"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "以"
+          },
+          {
+            "end": 16,
+            "gloss": "funeral",
+            "pinyin": "sāng lǐ",
+            "source": "CC-CEDICT",
+            "start": 14,
+            "word": "丧礼"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "处"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "之"
+          },
+          {
+            "end": 21,
+            "gloss": "homicide / to murder / to kill (a person)",
+            "pinyin": "shā rén",
+            "source": "CC-CEDICT",
+            "start": 19,
+            "word": "杀人"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "之"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "众"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "以"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "哀"
+          },
+          {
+            "end": 28,
+            "gloss": "to weep with grief",
+            "pinyin": "bēi qì",
+            "source": "CC-CEDICT",
+            "start": 26,
+            "word": "悲泣"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "之"
+          },
+          {
+            "end": 32,
+            "gloss": "to prevail over / to defeat / to surmount",
+            "pinyin": "zhàn shèng",
+            "source": "CC-CEDICT",
+            "start": 30,
+            "word": "战胜"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "以"
+          },
+          {
+            "end": 35,
+            "gloss": "funeral",
+            "pinyin": "sāng lǐ",
+            "source": "CC-CEDICT",
+            "start": 33,
+            "word": "丧礼"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "处"
+          },
+          {
+            "end": 37,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 36,
+            "word": "之"
+          }
+        ]
       }
     ],
-    "summary": "夫佳兵者，不祥之器，物或惡之，故有道者不處",
+    "summary": "夫佳兵者，不祥之器，物或恶之，故有道者不处",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "夫佳兵者，不祥之器，物或惡之，故有道者不處。君子居則貴左，用兵則貴右。兵者不祥之器，非君子之器，不得已而用之，恬淡為上。勝而不美，而美之者，是樂殺人。夫樂殺人者，則不可以得志於天下矣。吉事尚左，凶事尚右。偏將軍居左，上將軍居右，言以喪禮處之。殺人之衆，以哀悲泣之，戰勝以喪禮處之。",
+    "text": "夫佳兵者，不祥之器，物或恶之，故有道者不处。君子居则贵左，用兵则贵右。兵者不祥之器，非君子之器，不得已而用之，恬淡为上。胜而不美，而美之者，是乐杀人。夫乐杀人者，则不可以得志于天下矣。吉事尚左，凶事尚右。偏将军居左，上将军居右，言以丧礼处之。杀人之众，以哀悲泣之，战胜以丧礼处之。",
     "title": "第31章"
   },
   "chapter_path": "books/daodejing/chapters/chapter-031.json",

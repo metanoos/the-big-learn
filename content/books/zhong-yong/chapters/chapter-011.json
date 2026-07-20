@@ -1,6 +1,6 @@
 {
   "chapter": {
-    "character_count": 50,
+    "character_count": 51,
     "id": "chapter-011",
     "order": 11,
     "reading_unit_count": 3,
@@ -18,9 +18,147 @@
         "character_count": 16,
         "id": "chapter-011-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "zǐ",
+          "yuē",
+          "",
+          "",
+          "sù",
+          "yǐn",
+          "xíng",
+          "guài",
+          "",
+          "hòu",
+          "shì",
+          "yǒu",
+          "shù",
+          "yān",
+          "",
+          "wú",
+          "fú",
+          "wéi",
+          "zhī",
+          "yǐ",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "子曰：「素隱行怪，後世有述焉，吾弗為之矣。"
+        "text": "子曰：「素隐行怪，后世有述焉，吾弗为之矣。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "The Master said (Confucius said)",
+            "pinyin": "zǐ yuē",
+            "source": "classical-override",
+            "start": 0,
+            "word": "子曰"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "素"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "隐"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "行"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "怪"
+          },
+          {
+            "end": 11,
+            "gloss": "later generations",
+            "pinyin": "hòu shì",
+            "source": "CC-CEDICT",
+            "start": 9,
+            "word": "后世"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "有"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "述"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "焉"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "吾"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "弗"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "为"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "之"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "矣"
+          }
+        ]
       },
       {
         "canonical_translations": [
@@ -35,9 +173,144 @@
         "character_count": 15,
         "id": "chapter-011-line-002",
         "order": 2,
+        "pinyin_per_char": [
+          "jūn",
+          "zǐ",
+          "zūn",
+          "dào",
+          "ér",
+          "xíng",
+          "",
+          "bàn",
+          "tú",
+          "ér",
+          "fèi",
+          "",
+          "wú",
+          "fú",
+          "néng",
+          "yí",
+          "yǐ",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 2,
-        "text": "君子遵道而行，半涂而廢，吾弗能已矣。"
+        "text": "君子遵道而行，半涂而废，吾弗能已矣。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "the superior man; the exemplary person (junzi)",
+            "pinyin": "jūn zǐ",
+            "source": "classical-override",
+            "start": 0,
+            "word": "君子"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "遵"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "道"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "而"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "行"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "半"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "涂"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "而"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "废"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "吾"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "弗"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "能"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "已"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "矣"
+          }
+        ]
       },
       {
         "canonical_translations": [
@@ -49,19 +322,167 @@
             "year": 1885
           }
         ],
-        "character_count": 19,
+        "character_count": 20,
         "id": "chapter-011-line-003",
         "order": 3,
+        "pinyin_per_char": [
+          "jūn",
+          "zǐ",
+          "yī",
+          "hū",
+          "zhōng",
+          "yōng",
+          "",
+          "dùn",
+          "shì",
+          "bú",
+          "jiàn",
+          "zhī",
+          "ér",
+          "bù",
+          "huǐ",
+          "",
+          "wéi",
+          "shèng",
+          "zhě",
+          "néng",
+          "zhī",
+          "",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 3,
-        "text": "君子依乎中庸，遁世不見知而不悔，唯聖者能之。"
+        "text": "君子依乎中庸，遁世不见知而不悔，唯圣者能之。」",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "the superior man; the exemplary person (junzi)",
+            "pinyin": "jūn zǐ",
+            "source": "classical-override",
+            "start": 0,
+            "word": "君子"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "依"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "乎"
+          },
+          {
+            "end": 6,
+            "gloss": "The Doctrine of the Mean; the Golden Mean (the constant middle way)",
+            "pinyin": "zhōng yōng",
+            "source": "classical-override",
+            "start": 4,
+            "word": "中庸"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "遁"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "世"
+          },
+          {
+            "end": 11,
+            "gloss": "not to see / not to meet / to have disappeared / to be missing",
+            "pinyin": "bù jiàn",
+            "source": "CC-CEDICT",
+            "start": 9,
+            "word": "不见"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "知"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "而"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "不"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "悔"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "唯"
+          },
+          {
+            "end": 19,
+            "gloss": "holy one / saint",
+            "pinyin": "shèng zhě",
+            "source": "CC-CEDICT",
+            "start": 17,
+            "word": "圣者"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "能"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "之"
+          }
+        ]
       }
     ],
     "summary": "",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "子曰：「素隱行怪，後世有述焉，吾弗為之矣。\n君子遵道而行，半塗而廢，吾弗能已矣。\n君子依乎中庸，遯世不見知而不悔，唯聖者能之。",
+    "text": "子曰：「素隐行怪，后世有述焉，吾弗为之矣。\n君子遵道而行，半涂而废，吾弗能已矣。\n君子依乎中庸，遯世不见知而不悔，唯圣者能之。",
     "title": ""
   },
   "chapter_path": "books/zhong-yong/chapters/chapter-011.json",

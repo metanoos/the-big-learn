@@ -14,9 +14,709 @@
         },
         "id": "chapter-012-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "sūn",
+          "zi",
+          "",
+          "yuē",
+          "",
+          "",
+          "",
+          "fán",
+          "",
+          "huǒ",
+          "gōng",
+          "",
+          "yǒu",
+          "",
+          "wǔ",
+          "",
+          "",
+          "",
+          "yī",
+          "",
+          "yuē",
+          "",
+          "huǒ",
+          "",
+          "rén",
+          "",
+          "",
+          "",
+          "èr",
+          "",
+          "yuē",
+          "",
+          "huǒ",
+          "jī",
+          "",
+          "",
+          "",
+          "sān",
+          "",
+          "yuē",
+          "",
+          "huǒ",
+          "",
+          "zī",
+          "",
+          "",
+          "",
+          "sì",
+          "",
+          "yuē",
+          "",
+          "huǒ",
+          "",
+          "kù",
+          "",
+          "",
+          "",
+          "wǔ",
+          "",
+          "yuē",
+          "",
+          "huǒ",
+          "",
+          "duì",
+          "",
+          "",
+          "xíng",
+          "",
+          "huǒ",
+          "",
+          "bì",
+          "",
+          "yǒu",
+          "",
+          "yīn",
+          "",
+          "",
+          "",
+          "yān",
+          "huǒ",
+          "",
+          "bì",
+          "",
+          "sù",
+          "jù",
+          "",
+          "",
+          "fā",
+          "huǒ",
+          "",
+          "yǒu",
+          "shí",
+          "",
+          "",
+          "",
+          "qí",
+          "huǒ",
+          "",
+          "yǒu",
+          "",
+          "rì",
+          "",
+          "",
+          "shí",
+          "",
+          "zhě",
+          "",
+          "",
+          "",
+          "tiān",
+          "zhī",
+          "zào",
+          "",
+          "yě",
+          "",
+          "",
+          "",
+          "rì",
+          "",
+          "zhě",
+          "",
+          "",
+          "",
+          "yuè",
+          "",
+          "zài",
+          "",
+          "jī",
+          "",
+          "",
+          "",
+          "bì",
+          "",
+          "",
+          "",
+          "yì",
+          "",
+          "",
+          "",
+          "zhěn",
+          "",
+          "yě",
+          "",
+          "",
+          "",
+          "fán",
+          "",
+          "cǐ",
+          "",
+          "sì",
+          "",
+          "sù",
+          "",
+          "zhě",
+          "",
+          "",
+          "",
+          "fēng",
+          "qǐ",
+          "",
+          "zhī",
+          "",
+          "rì",
+          "",
+          "yě",
+          "",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "孫子 曰 ： 凡 火攻 有 五 ： 一 曰 火 人 ， 二 曰 火積 ， 三 曰 火 輜 ， 四 曰 火 庫 ， 五 曰 火 隊 。行 火 必 有 因 ， 烟火 必 素具 。發火 有時 ， 起火 有 日 。時 者 ， 天之燥 也 。 日 者 ， 月 在 箕 、 壁 、 翼 、 軫 也 。 凡 此 四 宿 者 ， 風起 之 日 也 。"
+        "text": "孙子 曰 ： 凡 火攻 有 五 ： 一 曰 火 人 ， 二 曰 火积 ， 三 曰 火 辎 ， 四 曰 火 库 ， 五 曰 火 队 。行 火 必 有 因 ， 烟火 必 素具 。发火 有时 ， 起火 有 日 。时 者 ， 天之燥 也 。 日 者 ， 月 在 箕 、 壁 、 翼 、 轸 也 。 凡 此 四 宿 者 ， 风起 之 日 也 。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "grandson / son's son",
+            "pinyin": "sūn zi",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "孙子"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "曰"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "凡"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "火"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "攻"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "有"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "五"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "一"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "曰"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "火"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "人"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "二"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "曰"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "火"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "积"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "三"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "曰"
+          },
+          {
+            "end": 42,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 41,
+            "word": "火"
+          },
+          {
+            "end": 44,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 43,
+            "word": "辎"
+          },
+          {
+            "end": 48,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 47,
+            "word": "四"
+          },
+          {
+            "end": 50,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 49,
+            "word": "曰"
+          },
+          {
+            "end": 52,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 51,
+            "word": "火"
+          },
+          {
+            "end": 54,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 53,
+            "word": "库"
+          },
+          {
+            "end": 58,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 57,
+            "word": "五"
+          },
+          {
+            "end": 60,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 59,
+            "word": "曰"
+          },
+          {
+            "end": 62,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 61,
+            "word": "火"
+          },
+          {
+            "end": 64,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 63,
+            "word": "队"
+          },
+          {
+            "end": 67,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 66,
+            "word": "行"
+          },
+          {
+            "end": 69,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 68,
+            "word": "火"
+          },
+          {
+            "end": 71,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 70,
+            "word": "必"
+          },
+          {
+            "end": 73,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 72,
+            "word": "有"
+          },
+          {
+            "end": 75,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 74,
+            "word": "因"
+          },
+          {
+            "end": 80,
+            "gloss": "fireworks",
+            "pinyin": "yān huo",
+            "source": "CC-CEDICT",
+            "start": 78,
+            "word": "烟火"
+          },
+          {
+            "end": 82,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 81,
+            "word": "必"
+          },
+          {
+            "end": 84,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 83,
+            "word": "素"
+          },
+          {
+            "end": 85,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 84,
+            "word": "具"
+          },
+          {
+            "end": 89,
+            "gloss": "to catch fire / to ignite / to detonate / to get angry",
+            "pinyin": "fā huǒ",
+            "source": "CC-CEDICT",
+            "start": 87,
+            "word": "发火"
+          },
+          {
+            "end": 92,
+            "gloss": "sometimes / now and then",
+            "pinyin": "yǒu shí",
+            "source": "CC-CEDICT",
+            "start": 90,
+            "word": "有时"
+          },
+          {
+            "end": 97,
+            "gloss": "to catch fire / to cook / to get angry",
+            "pinyin": "qǐ huǒ",
+            "source": "CC-CEDICT",
+            "start": 95,
+            "word": "起火"
+          },
+          {
+            "end": 99,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 98,
+            "word": "有"
+          },
+          {
+            "end": 101,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 100,
+            "word": "日"
+          },
+          {
+            "end": 104,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 103,
+            "word": "时"
+          },
+          {
+            "end": 106,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 105,
+            "word": "者"
+          },
+          {
+            "end": 110,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 109,
+            "word": "天"
+          },
+          {
+            "end": 111,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 110,
+            "word": "之"
+          },
+          {
+            "end": 112,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 111,
+            "word": "燥"
+          },
+          {
+            "end": 114,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 113,
+            "word": "也"
+          },
+          {
+            "end": 118,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 117,
+            "word": "日"
+          },
+          {
+            "end": 120,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 119,
+            "word": "者"
+          },
+          {
+            "end": 124,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 123,
+            "word": "月"
+          },
+          {
+            "end": 126,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 125,
+            "word": "在"
+          },
+          {
+            "end": 128,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 127,
+            "word": "箕"
+          },
+          {
+            "end": 132,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 131,
+            "word": "壁"
+          },
+          {
+            "end": 136,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 135,
+            "word": "翼"
+          },
+          {
+            "end": 140,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 139,
+            "word": "轸"
+          },
+          {
+            "end": 142,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 141,
+            "word": "也"
+          },
+          {
+            "end": 146,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 145,
+            "word": "凡"
+          },
+          {
+            "end": 148,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 147,
+            "word": "此"
+          },
+          {
+            "end": 150,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 149,
+            "word": "四"
+          },
+          {
+            "end": 152,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 151,
+            "word": "宿"
+          },
+          {
+            "end": 154,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 153,
+            "word": "者"
+          },
+          {
+            "end": 158,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 157,
+            "word": "风"
+          },
+          {
+            "end": 159,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 158,
+            "word": "起"
+          },
+          {
+            "end": 161,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 160,
+            "word": "之"
+          },
+          {
+            "end": 163,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 162,
+            "word": "日"
+          },
+          {
+            "end": 165,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 164,
+            "word": "也"
+          }
+        ]
       },
       {
         "character_count": 86,
@@ -27,9 +727,859 @@
         },
         "id": "chapter-012-line-002",
         "order": 2,
+        "pinyin_per_char": [
+          "fán",
+          "",
+          "huǒ",
+          "gōng",
+          "",
+          "",
+          "",
+          "bì",
+          "",
+          "yīn",
+          "",
+          "wǔ",
+          "",
+          "huǒ",
+          "",
+          "zhī",
+          "",
+          "biàn",
+          "",
+          "ér",
+          "",
+          "yīng",
+          "",
+          "zhī",
+          "",
+          "",
+          "huǒ",
+          "fā",
+          "",
+          "yú",
+          "",
+          "nèi",
+          "",
+          "",
+          "",
+          "zé",
+          "",
+          "zǎo",
+          "",
+          "yīng",
+          "",
+          "zhī",
+          "",
+          "yú",
+          "",
+          "wài",
+          "",
+          "",
+          "huǒ",
+          "fā",
+          "",
+          "ér",
+          "",
+          "qí",
+          "",
+          "bīng",
+          "",
+          "jìng",
+          "",
+          "zhě",
+          "",
+          "",
+          "",
+          "dài",
+          "",
+          "ér",
+          "",
+          "wù",
+          "",
+          "gōng",
+          "",
+          "",
+          "jí",
+          "qí",
+          "",
+          "huǒ",
+          "lì",
+          "",
+          "",
+          "",
+          "kě",
+          "",
+          "cóng",
+          "ér",
+          "",
+          "cóng",
+          "",
+          "zhī",
+          "",
+          "",
+          "",
+          "bù",
+          "kě",
+          "",
+          "cóng",
+          "",
+          "zé",
+          "",
+          "zhǐ",
+          "",
+          "",
+          "huǒ",
+          "",
+          "kě",
+          "",
+          "fā",
+          "",
+          "yú",
+          "",
+          "wài",
+          "",
+          "",
+          "",
+          "wú",
+          "",
+          "dài",
+          "",
+          "yú",
+          "",
+          "nèi",
+          "",
+          "",
+          "",
+          "yǐ",
+          "shí",
+          "",
+          "fā",
+          "",
+          "zhī",
+          "",
+          "",
+          "huǒ",
+          "fā",
+          "",
+          "shàng",
+          "fēng",
+          "",
+          "",
+          "",
+          "wú",
+          "",
+          "gōng",
+          "xià",
+          "",
+          "fēng",
+          "",
+          "",
+          "zhòu",
+          "fēng",
+          "",
+          "jiǔ",
+          "",
+          "",
+          "",
+          "yè",
+          "fēng",
+          "",
+          "zhǐ",
+          "",
+          "",
+          "fán",
+          "",
+          "jūn",
+          "",
+          "bì",
+          "",
+          "zhī",
+          "",
+          "yǒu",
+          "",
+          "wǔ",
+          "",
+          "huǒ",
+          "",
+          "zhī",
+          "",
+          "biàn",
+          "",
+          "",
+          "",
+          "yǐ",
+          "",
+          "shù",
+          "",
+          "shǒu",
+          "",
+          "zhī",
+          "",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 2,
-        "text": "凡 火攻 ， 必 因 五 火 之 變 而 應 之 ：火發 於 內 ， 則 早 應 之 於 外 ；火發 而 其 兵 靜 者 ， 待 而 勿 攻 ，極其 火力 ， 可 從而 從 之 ， 不可 從 則 止 ；火 可 發 於 外 ， 無 待 於 內 ， 以時 發 之 ；火發 上風 ， 無 攻下 風 ；晝風 久 ， 夜風 止 。凡 軍 必 知 有 五 火 之 變 ， 以 數 守 之 。"
+        "text": "凡 火攻 ， 必 因 五 火 之 变 而 应 之 ：火发 于 内 ， 则 早 应 之 于 外 ；火发 而 其 兵 静 者 ， 待 而 勿 攻 ，极其 火力 ， 可 从而 从 之 ， 不可 从 则 止 ；火 可 发 于 外 ， 无 待 于 内 ， 以时 发 之 ；火发 上风 ， 无 攻下 风 ；昼风 久 ， 夜风 止 。凡 军 必 知 有 五 火 之 变 ， 以 数 守 之 。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "凡"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "火"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "攻"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "必"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "因"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "五"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "火"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "之"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "变"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "而"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "应"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "之"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "火"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "发"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "于"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "内"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "则"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "早"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "应"
+          },
+          {
+            "end": 42,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 41,
+            "word": "之"
+          },
+          {
+            "end": 44,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 43,
+            "word": "于"
+          },
+          {
+            "end": 46,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 45,
+            "word": "外"
+          },
+          {
+            "end": 49,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 48,
+            "word": "火"
+          },
+          {
+            "end": 50,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 49,
+            "word": "发"
+          },
+          {
+            "end": 52,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 51,
+            "word": "而"
+          },
+          {
+            "end": 54,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 53,
+            "word": "其"
+          },
+          {
+            "end": 56,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 55,
+            "word": "兵"
+          },
+          {
+            "end": 58,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 57,
+            "word": "静"
+          },
+          {
+            "end": 60,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 59,
+            "word": "者"
+          },
+          {
+            "end": 64,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 63,
+            "word": "待"
+          },
+          {
+            "end": 66,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 65,
+            "word": "而"
+          },
+          {
+            "end": 68,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 67,
+            "word": "勿"
+          },
+          {
+            "end": 70,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 69,
+            "word": "攻"
+          },
+          {
+            "end": 74,
+            "gloss": "extremely",
+            "pinyin": "jí qí",
+            "source": "CC-CEDICT",
+            "start": 72,
+            "word": "极其"
+          },
+          {
+            "end": 77,
+            "gloss": "fire / firepower",
+            "pinyin": "huǒ lì",
+            "source": "CC-CEDICT",
+            "start": 75,
+            "word": "火力"
+          },
+          {
+            "end": 81,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 80,
+            "word": "可"
+          },
+          {
+            "end": 84,
+            "gloss": "thus; thereby",
+            "pinyin": "cóng ér",
+            "source": "CC-CEDICT",
+            "start": 82,
+            "word": "从而"
+          },
+          {
+            "end": 86,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 85,
+            "word": "从"
+          },
+          {
+            "end": 88,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 87,
+            "word": "之"
+          },
+          {
+            "end": 93,
+            "gloss": "cannot; should not; must not",
+            "pinyin": "bù kě",
+            "source": "CC-CEDICT",
+            "start": 91,
+            "word": "不可"
+          },
+          {
+            "end": 95,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 94,
+            "word": "从"
+          },
+          {
+            "end": 97,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 96,
+            "word": "则"
+          },
+          {
+            "end": 99,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 98,
+            "word": "止"
+          },
+          {
+            "end": 102,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 101,
+            "word": "火"
+          },
+          {
+            "end": 104,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 103,
+            "word": "可"
+          },
+          {
+            "end": 106,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 105,
+            "word": "发"
+          },
+          {
+            "end": 108,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 107,
+            "word": "于"
+          },
+          {
+            "end": 110,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 109,
+            "word": "外"
+          },
+          {
+            "end": 114,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 113,
+            "word": "无"
+          },
+          {
+            "end": 116,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 115,
+            "word": "待"
+          },
+          {
+            "end": 118,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 117,
+            "word": "于"
+          },
+          {
+            "end": 120,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 119,
+            "word": "内"
+          },
+          {
+            "end": 124,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 123,
+            "word": "以"
+          },
+          {
+            "end": 125,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 124,
+            "word": "时"
+          },
+          {
+            "end": 127,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 126,
+            "word": "发"
+          },
+          {
+            "end": 129,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 128,
+            "word": "之"
+          },
+          {
+            "end": 132,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 131,
+            "word": "火"
+          },
+          {
+            "end": 133,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 132,
+            "word": "发"
+          },
+          {
+            "end": 136,
+            "gloss": "on the up / currently winning / rising (in popularity etc)",
+            "pinyin": "shàng fēng",
+            "source": "CC-CEDICT",
+            "start": 134,
+            "word": "上风"
+          },
+          {
+            "end": 140,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 139,
+            "word": "无"
+          },
+          {
+            "end": 142,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 141,
+            "word": "攻"
+          },
+          {
+            "end": 143,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 142,
+            "word": "下"
+          },
+          {
+            "end": 145,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 144,
+            "word": "风"
+          },
+          {
+            "end": 148,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 147,
+            "word": "昼"
+          },
+          {
+            "end": 149,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 148,
+            "word": "风"
+          },
+          {
+            "end": 151,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 150,
+            "word": "久"
+          },
+          {
+            "end": 155,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 154,
+            "word": "夜"
+          },
+          {
+            "end": 156,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 155,
+            "word": "风"
+          },
+          {
+            "end": 158,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 157,
+            "word": "止"
+          },
+          {
+            "end": 161,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 160,
+            "word": "凡"
+          },
+          {
+            "end": 163,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 162,
+            "word": "军"
+          },
+          {
+            "end": 165,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 164,
+            "word": "必"
+          },
+          {
+            "end": 167,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 166,
+            "word": "知"
+          },
+          {
+            "end": 169,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 168,
+            "word": "有"
+          },
+          {
+            "end": 171,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 170,
+            "word": "五"
+          },
+          {
+            "end": 173,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 172,
+            "word": "火"
+          },
+          {
+            "end": 175,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 174,
+            "word": "之"
+          },
+          {
+            "end": 177,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 176,
+            "word": "变"
+          },
+          {
+            "end": 181,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 180,
+            "word": "以"
+          },
+          {
+            "end": 183,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 182,
+            "word": "数"
+          },
+          {
+            "end": 185,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 184,
+            "word": "守"
+          },
+          {
+            "end": 187,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 186,
+            "word": "之"
+          }
+        ]
       },
       {
         "character_count": 21,
@@ -40,9 +1590,200 @@
         },
         "id": "chapter-012-line-003",
         "order": 3,
+        "pinyin_per_char": [
+          "gù",
+          "",
+          "yǐ",
+          "",
+          "huǒ",
+          "",
+          "zuǒ",
+          "gōng",
+          "",
+          "zhě",
+          "",
+          "míng",
+          "",
+          "",
+          "yǐ",
+          "",
+          "shuǐ",
+          "",
+          "zuǒ",
+          "gōng",
+          "",
+          "zhě",
+          "",
+          "qiáng",
+          "",
+          "",
+          "shuǐ",
+          "",
+          "ké",
+          "yǐ",
+          "",
+          "jué",
+          "",
+          "",
+          "",
+          "bù",
+          "ké",
+          "yǐ",
+          "",
+          "duó",
+          "",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 2,
         "source_block_order": 2,
-        "text": "故 以 火 佐攻 者 明 ，以 水 佐攻 者 強 。水 可以 絕 ， 不可以 奪 。"
+        "text": "故 以 火 佐攻 者 明 ，以 水 佐攻 者 强 。水 可以 绝 ， 不可以 夺 。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "故"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "以"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "火"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "佐"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "攻"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "者"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "明"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "以"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "水"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "佐"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "攻"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "者"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "强"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "水"
+          },
+          {
+            "end": 30,
+            "gloss": "can / may / possible / able to / not bad / pretty good",
+            "pinyin": "kě yǐ",
+            "source": "CC-CEDICT",
+            "start": 28,
+            "word": "可以"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "绝"
+          },
+          {
+            "end": 38,
+            "gloss": "may not",
+            "pinyin": "bù kě yǐ",
+            "source": "CC-CEDICT",
+            "start": 35,
+            "word": "不可以"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "夺"
+          }
+        ]
       },
       {
         "character_count": 89,
@@ -53,9 +1794,734 @@
         },
         "id": "chapter-012-line-004",
         "order": 4,
+        "pinyin_per_char": [
+          "fū",
+          "",
+          "zhàn",
+          "shèng",
+          "",
+          "gōng",
+          "qǔ",
+          "",
+          "",
+          "",
+          "ér",
+          "",
+          "bù",
+          "",
+          "xiū",
+          "",
+          "qí",
+          "",
+          "gōng",
+          "",
+          "zhě",
+          "",
+          "xiōng",
+          "",
+          "",
+          "",
+          "mìng",
+          "",
+          "yuē",
+          "",
+          "",
+          "",
+          "fèi",
+          "",
+          "liú",
+          "",
+          "",
+          "",
+          "gù",
+          "",
+          "yuē",
+          "",
+          "",
+          "",
+          "míng",
+          "zhǔ",
+          "lǜ",
+          "zhī",
+          "",
+          "",
+          "",
+          "liáng",
+          "",
+          "jiāng",
+          "",
+          "xiū",
+          "",
+          "zhī",
+          "",
+          "",
+          "fēi",
+          "lì",
+          "bú",
+          "dòng",
+          "",
+          "",
+          "",
+          "fēi",
+          "děi",
+          "",
+          "bú",
+          "yòng",
+          "",
+          "",
+          "",
+          "fēi",
+          "wēi",
+          "bú",
+          "zhàn",
+          "",
+          "",
+          "zhǔ",
+          "",
+          "bù",
+          "ké",
+          "yǐ",
+          "",
+          "nù",
+          "",
+          "ér",
+          "",
+          "xīng",
+          "shī",
+          "",
+          "",
+          "",
+          "jiāng",
+          "",
+          "bù",
+          "ké",
+          "yǐ",
+          "",
+          "yùn",
+          "",
+          "ér",
+          "",
+          "zhì",
+          "",
+          "zhàn",
+          "",
+          "",
+          "hé",
+          "yú",
+          "lì",
+          "ér",
+          "dòng",
+          "",
+          "",
+          "",
+          "bù",
+          "hé",
+          "",
+          "yú",
+          "",
+          "lì",
+          "",
+          "ér",
+          "",
+          "zhǐ",
+          "",
+          "",
+          "nù",
+          "",
+          "ké",
+          "yǐ",
+          "",
+          "fù",
+          "",
+          "xǐ",
+          "",
+          "",
+          "",
+          "yùn",
+          "",
+          "ké",
+          "yǐ",
+          "",
+          "fù",
+          "",
+          "yuè",
+          "",
+          "",
+          "wáng",
+          "guó",
+          "",
+          "bù",
+          "ké",
+          "yǐ",
+          "",
+          "fù",
+          "",
+          "cún",
+          "",
+          "",
+          "",
+          "sí",
+          "zhě",
+          "",
+          "bù",
+          "ké",
+          "yǐ",
+          "",
+          "fù",
+          "shēng",
+          "",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 3,
-        "text": "夫 戰勝 攻取 ， 而 不 修 其 功 者 凶 ， 命 曰 「 費 留 」。故 曰 ： 明主慮之 ， 良 將 修 之 ，非利不動 ， 非得 不用 ， 非危不戰 。主 不可以 怒 而 興師 ， 將 不可以 慍 而 致 戰 。合於利而動 ， 不合 於 利 而 止 。怒 可以 復 喜 ， 慍 可以 復 悅 ，亡國 不可以 復 存 ， 死者 不可以 復生 。"
+        "text": "夫 战胜 攻取 ， 而 不 修 其 功 者 凶 ， 命 曰 「 费 留 」。故 曰 ： 明主虑之 ， 良 将 修 之 ，非利不动 ， 非得 不用 ， 非危不战 。主 不可以 怒 而 兴师 ， 将 不可以 愠 而 致 战 。合于利而动 ， 不合 于 利 而 止 。怒 可以 复 喜 ， 愠 可以 复 悦 ，亡国 不可以 复 存 ， 死者 不可以 复生 。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "夫"
+          },
+          {
+            "end": 4,
+            "gloss": "to prevail over / to defeat / to surmount",
+            "pinyin": "zhàn shèng",
+            "source": "CC-CEDICT",
+            "start": 2,
+            "word": "战胜"
+          },
+          {
+            "end": 7,
+            "gloss": "to attack and seize",
+            "pinyin": "gōng qǔ",
+            "source": "CC-CEDICT",
+            "start": 5,
+            "word": "攻取"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "而"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "不"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "修"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "其"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "功"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "者"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "凶"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "命"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "曰"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "费"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "留"
+          },
+          {
+            "end": 39,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 38,
+            "word": "故"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "曰"
+          },
+          {
+            "end": 45,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 44,
+            "word": "明"
+          },
+          {
+            "end": 46,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 45,
+            "word": "主"
+          },
+          {
+            "end": 47,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 46,
+            "word": "虑"
+          },
+          {
+            "end": 48,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 47,
+            "word": "之"
+          },
+          {
+            "end": 52,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 51,
+            "word": "良"
+          },
+          {
+            "end": 54,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 53,
+            "word": "将"
+          },
+          {
+            "end": 56,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 55,
+            "word": "修"
+          },
+          {
+            "end": 58,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 57,
+            "word": "之"
+          },
+          {
+            "end": 61,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 60,
+            "word": "非"
+          },
+          {
+            "end": 62,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 61,
+            "word": "利"
+          },
+          {
+            "end": 64,
+            "gloss": "motionless",
+            "pinyin": "bù dòng",
+            "source": "CC-CEDICT",
+            "start": 62,
+            "word": "不动"
+          },
+          {
+            "end": 69,
+            "gloss": "(followed by a verb phrase, then – optionally – 不可, or 不行 etc) must",
+            "pinyin": "fēi děi",
+            "source": "CC-CEDICT",
+            "start": 67,
+            "word": "非得"
+          },
+          {
+            "end": 72,
+            "gloss": "need not",
+            "pinyin": "bù yòng",
+            "source": "CC-CEDICT",
+            "start": 70,
+            "word": "不用"
+          },
+          {
+            "end": 76,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 75,
+            "word": "非"
+          },
+          {
+            "end": 77,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 76,
+            "word": "危"
+          },
+          {
+            "end": 78,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 77,
+            "word": "不"
+          },
+          {
+            "end": 79,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 78,
+            "word": "战"
+          },
+          {
+            "end": 82,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 81,
+            "word": "主"
+          },
+          {
+            "end": 86,
+            "gloss": "may not",
+            "pinyin": "bù kě yǐ",
+            "source": "CC-CEDICT",
+            "start": 83,
+            "word": "不可以"
+          },
+          {
+            "end": 88,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 87,
+            "word": "怒"
+          },
+          {
+            "end": 90,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 89,
+            "word": "而"
+          },
+          {
+            "end": 93,
+            "gloss": "to dispatch troops / to send an army / to mobilize forces",
+            "pinyin": "xīng shī",
+            "source": "CC-CEDICT",
+            "start": 91,
+            "word": "兴师"
+          },
+          {
+            "end": 97,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 96,
+            "word": "将"
+          },
+          {
+            "end": 101,
+            "gloss": "may not",
+            "pinyin": "bù kě yǐ",
+            "source": "CC-CEDICT",
+            "start": 98,
+            "word": "不可以"
+          },
+          {
+            "end": 103,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 102,
+            "word": "愠"
+          },
+          {
+            "end": 105,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 104,
+            "word": "而"
+          },
+          {
+            "end": 107,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 106,
+            "word": "致"
+          },
+          {
+            "end": 109,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 108,
+            "word": "战"
+          },
+          {
+            "end": 113,
+            "gloss": "to tally / to accord with / to fit",
+            "pinyin": "hé yú",
+            "source": "CC-CEDICT",
+            "start": 111,
+            "word": "合于"
+          },
+          {
+            "end": 114,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 113,
+            "word": "利"
+          },
+          {
+            "end": 115,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 114,
+            "word": "而"
+          },
+          {
+            "end": 116,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 115,
+            "word": "动"
+          },
+          {
+            "end": 121,
+            "gloss": "to not conform to / to be unsuited to / to be out of keeping with / should not / ought out",
+            "pinyin": "bù hé",
+            "source": "CC-CEDICT",
+            "start": 119,
+            "word": "不合"
+          },
+          {
+            "end": 123,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 122,
+            "word": "于"
+          },
+          {
+            "end": 125,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 124,
+            "word": "利"
+          },
+          {
+            "end": 127,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 126,
+            "word": "而"
+          },
+          {
+            "end": 129,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 128,
+            "word": "止"
+          },
+          {
+            "end": 132,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 131,
+            "word": "怒"
+          },
+          {
+            "end": 135,
+            "gloss": "can / may / possible / able to / not bad / pretty good",
+            "pinyin": "kě yǐ",
+            "source": "CC-CEDICT",
+            "start": 133,
+            "word": "可以"
+          },
+          {
+            "end": 137,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 136,
+            "word": "复"
+          },
+          {
+            "end": 139,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 138,
+            "word": "喜"
+          },
+          {
+            "end": 143,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 142,
+            "word": "愠"
+          },
+          {
+            "end": 146,
+            "gloss": "can / may / possible / able to / not bad / pretty good",
+            "pinyin": "kě yǐ",
+            "source": "CC-CEDICT",
+            "start": 144,
+            "word": "可以"
+          },
+          {
+            "end": 148,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 147,
+            "word": "复"
+          },
+          {
+            "end": 150,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 149,
+            "word": "悦"
+          },
+          {
+            "end": 154,
+            "gloss": "(of a nation) to be destroyed; to be subjugated / a fallen nation",
+            "pinyin": "wáng guó",
+            "source": "CC-CEDICT",
+            "start": 152,
+            "word": "亡国"
+          },
+          {
+            "end": 158,
+            "gloss": "may not",
+            "pinyin": "bù kě yǐ",
+            "source": "CC-CEDICT",
+            "start": 155,
+            "word": "不可以"
+          },
+          {
+            "end": 160,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 159,
+            "word": "复"
+          },
+          {
+            "end": 162,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 161,
+            "word": "存"
+          },
+          {
+            "end": 167,
+            "gloss": "the dead / the deceased",
+            "pinyin": "sǐ zhě",
+            "source": "CC-CEDICT",
+            "start": 165,
+            "word": "死者"
+          },
+          {
+            "end": 171,
+            "gloss": "may not",
+            "pinyin": "bù kě yǐ",
+            "source": "CC-CEDICT",
+            "start": 168,
+            "word": "不可以"
+          },
+          {
+            "end": 174,
+            "gloss": "to be reborn / to recover / to come back to life / to regenerate",
+            "pinyin": "fù shēng",
+            "source": "CC-CEDICT",
+            "start": 172,
+            "word": "复生"
+          }
+        ]
       },
       {
         "character_count": 17,
@@ -66,16 +2532,171 @@
         },
         "id": "chapter-012-line-005",
         "order": 5,
+        "pinyin_per_char": [
+          "gù",
+          "",
+          "míng",
+          "zhǔ",
+          "",
+          "shèn",
+          "",
+          "zhī",
+          "",
+          "",
+          "",
+          "liáng",
+          "jiàng",
+          "jǐng",
+          "zhī",
+          "",
+          "",
+          "cǐ",
+          "",
+          "ān",
+          "guó",
+          "",
+          "quán",
+          "jūn",
+          "zhī",
+          "dào",
+          "",
+          "yě",
+          "",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 2,
         "source_block_order": 3,
-        "text": "故 明主 慎 之 ， 良將警之 ，此 安國 全軍之道 也 。"
+        "text": "故 明主 慎 之 ， 良将警之 ，此 安国 全军之道 也 。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "故"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "明"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "主"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "慎"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "之"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "良"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "将"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "警"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "之"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "此"
+          },
+          {
+            "end": 21,
+            "gloss": "see 安国市|安国市[An1 guo2 Shi4]",
+            "pinyin": "Ān guó",
+            "source": "CC-CEDICT",
+            "start": 19,
+            "word": "安国"
+          },
+          {
+            "end": 24,
+            "gloss": "whole army",
+            "pinyin": "quán jūn",
+            "source": "CC-CEDICT",
+            "start": 22,
+            "word": "全军"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "之"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "道"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "也"
+          }
+        ]
       }
     ],
     "summary": "",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "孫子曰：凡火攻有五：一曰火人，二曰火積，三曰火輜，四曰火庫，五曰火隊。行火必有因，煙火必素具。發火有時，起火有日。時者，天之燥也。日者，月在箕壁翼軫也。凡此四宿者，風起之日也。\n凡火攻，必因五火之變而應之，火發于內，則早應之于外。火發而其兵靜者，待而勿攻。極其火力，可從而從之，不可從而止。火可發于外，無待于內，以時發之。火發上風，無攻下風，晝風久，夜風止。凡軍必知五火之變，以數守之。故以火佐攻者明，以水佐攻者強，水可以絕，不可以奪。\n夫戰勝攻取，而不修其攻者凶，命曰費留。故曰：明主慮之，良將修之，非利不動，非得不用，非危不戰。主不可以怒而興師，將不可以慍而致戰；合于利而動，不合于利而止。怒可以復喜，慍可以復悅，亡國不可以復存，死者不可以復生。故明君慎之，良將警之，此安國全軍之道也。",
+    "text": "孙子曰：凡火攻有五：一曰火人，二曰火积，三曰火辎，四曰火库，五曰火队。行火必有因，烟火必素具。发火有时，起火有日。时者，天之燥也。日者，月在箕壁翼轸也。凡此四宿者，风起之日也。\n凡火攻，必因五火之变而应之，火发于内，则早应之于外。火发而其兵静者，待而勿攻。极其火力，可从而从之，不可从而止。火可发于外，无待于内，以时发之。火发上风，无攻下风，昼风久，夜风止。凡军必知五火之变，以数守之。故以火佐攻者明，以水佐攻者强，水可以绝，不可以夺。\n夫战胜攻取，而不修其攻者凶，命曰费留。故曰：明主虑之，良将修之，非利不动，非得不用，非危不战。主不可以怒而兴师，将不可以愠而致战；合于利而动，不合于利而止。怒可以复喜，愠可以复悦，亡国不可以复存，死者不可以复生。故明君慎之，良将警之，此安国全军之道也。",
     "title": "火攻"
   },
   "chapter_path": "books/sunzi-bingfa/chapters/chapter-012.json",

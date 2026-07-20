@@ -1,0 +1,4031 @@
+{
+  "chapter": {
+    "character_count": 568,
+    "id": "chapter-028",
+    "order": 28,
+    "reading_unit_count": 7,
+    "reading_units": [
+      {
+        "canonical_translations": [
+          {
+            "license": "public domain",
+            "source_url": "https://en.wikisource.org/wiki/Sacred_Books_of_the_East/Volume_3",
+            "text": "Alas for me, who am a little child,\nOn whom has devolved the unsettled state!\nSolitary am I and full of distress.\nOh! my great Father,\nAll thy life long, thou wast filial.\n\nThou didst think of my great grandfather,\n(Seeing him, as it were) ascending and descending in the court,\nI, the little child,\nDay and night will be as reverent.\n\nOh! ye great kings,\nAs your successor, I will strive not to forget you.",
+            "translator": "Legge",
+            "year": 1879
+          }
+        ],
+        "character_count": 59,
+        "id": "chapter-028-line-001",
+        "mao_number": 244,
+        "order": 1,
+        "pinyin_per_char": [
+          "mín",
+          "yú",
+          "xiǎo",
+          "zi",
+          "",
+          "zāo",
+          "jiā",
+          "bú",
+          "zào",
+          "",
+          "huán",
+          "huán",
+          "zài",
+          "jiù",
+          "",
+          "",
+          "yú",
+          "hū",
+          "huáng",
+          "kǎo",
+          "",
+          "yǒng",
+          "shì",
+          "kè",
+          "xiào",
+          "",
+          "niàn",
+          "zī",
+          "huáng",
+          "zǔ",
+          "",
+          "zhì",
+          "jiàng",
+          "tíng",
+          "zhǐ",
+          "",
+          "",
+          "wéi",
+          "yú",
+          "xiǎo",
+          "zi",
+          "",
+          "sù",
+          "yè",
+          "jìng",
+          "zhǐ",
+          "",
+          "",
+          "yú",
+          "hū",
+          "huáng",
+          "wáng",
+          "",
+          "jì",
+          "xù",
+          "sī",
+          "bú",
+          "wàng",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "text": "闵予小子，遭家不造，嬛嬛在疚。 于乎皇考，永世克孝，念兹皇祖，陟降庭止。 维予小子，夙夜敬止。 于乎皇王，继序思不忘。",
+        "title_zh": "闵予小子",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "闵"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "予"
+          },
+          {
+            "end": 4,
+            "gloss": "(coll.) boy / (derog.) joker / guy / (despicable) fellow",
+            "pinyin": "xiǎo zi",
+            "source": "CC-CEDICT",
+            "start": 2,
+            "word": "小子"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "遭"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "家"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "不"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "造"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "嬛"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "嬛"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "在"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "疚"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "于"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "乎"
+          },
+          {
+            "end": 20,
+            "gloss": "(archaic) (honorific) deceased father (esp. of an emperor)",
+            "pinyin": "huáng kǎo",
+            "source": "CC-CEDICT",
+            "start": 18,
+            "word": "皇考"
+          },
+          {
+            "end": 23,
+            "gloss": "eternal / forever",
+            "pinyin": "yǒng shì",
+            "source": "CC-CEDICT",
+            "start": 21,
+            "word": "永世"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "克"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "孝"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "念"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "兹"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "皇"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "祖"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "陟"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "降"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "庭"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "止"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "维"
+          },
+          {
+            "end": 39,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 38,
+            "word": "予"
+          },
+          {
+            "end": 41,
+            "gloss": "(coll.) boy / (derog.) joker / guy / (despicable) fellow",
+            "pinyin": "xiǎo zi",
+            "source": "CC-CEDICT",
+            "start": 39,
+            "word": "小子"
+          },
+          {
+            "end": 44,
+            "gloss": "morning and night / always / at all times",
+            "pinyin": "sù yè",
+            "source": "CC-CEDICT",
+            "start": 42,
+            "word": "夙夜"
+          },
+          {
+            "end": 45,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 44,
+            "word": "敬"
+          },
+          {
+            "end": 46,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 45,
+            "word": "止"
+          },
+          {
+            "end": 49,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 48,
+            "word": "于"
+          },
+          {
+            "end": 50,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 49,
+            "word": "乎"
+          },
+          {
+            "end": 51,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 50,
+            "word": "皇"
+          },
+          {
+            "end": 52,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 51,
+            "word": "王"
+          },
+          {
+            "end": 54,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 53,
+            "word": "继"
+          },
+          {
+            "end": 55,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 54,
+            "word": "序"
+          },
+          {
+            "end": 56,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 55,
+            "word": "思"
+          },
+          {
+            "end": 57,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 56,
+            "word": "不"
+          },
+          {
+            "end": 58,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 57,
+            "word": "忘"
+          }
+        ]
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "public domain",
+            "source_url": "https://en.wikisource.org/wiki/Sacred_Books_of_the_East/Volume_3",
+            "text": "I take counsel at the beginning of my (rule),\nHow I can follow (the example of) my shrined father.\nAh! far-reaching (were his plans),\nAnd I am not yet able to carry them out.\nHowever I endeavour to reach to them,\nMy continuation of them will still be all-deflected.\nI am a little child,\nUnequal to the many difficulties of the state.\nHaving taken his place, (I will look for him) to go up and come down in the court,\nTo ascend and descend in the house.\nAdmirable art thou, O great Father,\n(Condescend) to preserve and enlighten me.",
+            "translator": "Legge",
+            "year": 1879
+          }
+        ],
+        "character_count": 65,
+        "id": "chapter-028-line-002",
+        "mao_number": 245,
+        "order": 2,
+        "pinyin_per_char": [
+          "fáng",
+          "yǔ",
+          "luò",
+          "zhǐ",
+          "",
+          "lǜ",
+          "shí",
+          "zhāo",
+          "kǎo",
+          "",
+          "",
+          "yú",
+          "hū",
+          "yōu",
+          "zāi",
+          "",
+          "zhèn",
+          "wèi",
+          "yǒu",
+          "ài",
+          "",
+          "jiāng",
+          "yǔ",
+          "jiù",
+          "zhī",
+          "",
+          "jì",
+          "yóu",
+          "pàn",
+          "huàn",
+          "",
+          "",
+          "wéi",
+          "yú",
+          "xiǎo",
+          "zi",
+          "",
+          "wèi",
+          "kān",
+          "jiā",
+          "duō",
+          "nán",
+          "",
+          "shào",
+          "tíng",
+          "shàng",
+          "xià",
+          "",
+          "zhì",
+          "jiàng",
+          "jué",
+          "jiā",
+          "",
+          "",
+          "xiū",
+          "yǐ",
+          "huáng",
+          "kǎo",
+          "",
+          "yí",
+          "bǎo",
+          "míng",
+          "qí",
+          "shēn",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "text": "访予落止，率时昭考。 于乎悠哉！朕未有艾。将予就之，继犹判涣。 维予小子，未堪家多难。绍庭上下，陟降厥家。 休矣皇考！以保明其身。",
+        "title_zh": "访落",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "访"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "予"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "落"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "止"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "率"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "时"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "昭"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "考"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "于"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "乎"
+          },
+          {
+            "end": 15,
+            "gloss": "see 悠哉悠哉[you1 zai1 you1 zai1]",
+            "pinyin": "yōu zāi",
+            "source": "CC-CEDICT",
+            "start": 13,
+            "word": "悠哉"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "朕"
+          },
+          {
+            "end": 19,
+            "gloss": "is not / has never been / never occurring / unprecedented",
+            "pinyin": "wèi yǒu",
+            "source": "CC-CEDICT",
+            "start": 17,
+            "word": "未有"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "艾"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "将"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "予"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "就"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "之"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "继"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "犹"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "判"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "涣"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "维"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "予"
+          },
+          {
+            "end": 36,
+            "gloss": "(coll.) boy / (derog.) joker / guy / (despicable) fellow",
+            "pinyin": "xiǎo zi",
+            "source": "CC-CEDICT",
+            "start": 34,
+            "word": "小子"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "未"
+          },
+          {
+            "end": 39,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 38,
+            "word": "堪"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "家"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "多"
+          },
+          {
+            "end": 42,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 41,
+            "word": "难"
+          },
+          {
+            "end": 44,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 43,
+            "word": "绍"
+          },
+          {
+            "end": 45,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 44,
+            "word": "庭"
+          },
+          {
+            "end": 47,
+            "gloss": "the top and bottom of sth / the full vertical extent of sth; from top to bottom / to go up and down…",
+            "pinyin": "shàng xià",
+            "source": "CC-CEDICT",
+            "start": 45,
+            "word": "上下"
+          },
+          {
+            "end": 49,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 48,
+            "word": "陟"
+          },
+          {
+            "end": 50,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 49,
+            "word": "降"
+          },
+          {
+            "end": 51,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 50,
+            "word": "厥"
+          },
+          {
+            "end": 52,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 51,
+            "word": "家"
+          },
+          {
+            "end": 55,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 54,
+            "word": "休"
+          },
+          {
+            "end": 56,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 55,
+            "word": "矣"
+          },
+          {
+            "end": 58,
+            "gloss": "(archaic) (honorific) deceased father (esp. of an emperor)",
+            "pinyin": "huáng kǎo",
+            "source": "CC-CEDICT",
+            "start": 56,
+            "word": "皇考"
+          },
+          {
+            "end": 60,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 59,
+            "word": "以"
+          },
+          {
+            "end": 61,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 60,
+            "word": "保"
+          },
+          {
+            "end": 62,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 61,
+            "word": "明"
+          },
+          {
+            "end": 63,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 62,
+            "word": "其"
+          },
+          {
+            "end": 64,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 63,
+            "word": "身"
+          }
+        ]
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "public domain",
+            "source_url": "https://en.wikisource.org/wiki/Sacred_Books_of_the_East/Volume_3",
+            "text": "Let me be reverent! Let me be reverent!\n(The way of) Heaven is evident,\nAnd its appointment is not easily preserved.\nLet me not say that it is high aloft above me.\nIt ascends and descends about our doings;\nIt daily inspects us wherever we are.\n\nI am a little child,\nWithout intelligence to be reverently (attentive to my duties);\nBut by daily progress and monthly advance,\nI will learn to hold fast the gleams (of knowledge), till I arrive at bright intelligence.\nAssist me to bear the burden (of my position),\nAnd show me how to display a virtuous conduct.",
+            "translator": "Legge",
+            "year": 1879
+          }
+        ],
+        "character_count": 71,
+        "id": "chapter-028-line-003",
+        "mao_number": 246,
+        "order": 3,
+        "pinyin_per_char": [
+          "jìng",
+          "zhī",
+          "jìng",
+          "zhī",
+          "",
+          "tiān",
+          "wéi",
+          "xiǎn",
+          "sī",
+          "",
+          "",
+          "mìng",
+          "bú",
+          "yì",
+          "zāi",
+          "",
+          "wú",
+          "yuē",
+          "gāo",
+          "gāo",
+          "zài",
+          "shàng",
+          "",
+          "",
+          "zhì",
+          "jiàng",
+          "jué",
+          "shì",
+          "",
+          "rì",
+          "jiān",
+          "zài",
+          "zī",
+          "",
+          "",
+          "wéi",
+          "yú",
+          "xiǎo",
+          "zi",
+          "",
+          "bù",
+          "cōng",
+          "jìng",
+          "zhǐ",
+          "",
+          "",
+          "rì",
+          "jiù",
+          "yuè",
+          "jiāng",
+          "",
+          "xué",
+          "yǒu",
+          "jī",
+          "xī",
+          "yú",
+          "guāng",
+          "míng",
+          "",
+          "",
+          "fú",
+          "shí",
+          "zī",
+          "jiān",
+          "",
+          "shì",
+          "wó",
+          "xiǎn",
+          "dé",
+          "xíng",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "text": "敬之敬之，天维显思。 命不易哉！无曰高高在上。 陟降厥士，日监在兹。 维予小子，不聦敬止？ 日就月将，学有缉熙于光明。 佛时仔肩，示我显德行。",
+        "title_zh": "敬之",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "敬"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "之"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "敬"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "之"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "天"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "维"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "显"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "思"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "命"
+          },
+          {
+            "end": 14,
+            "gloss": "not easy to do sth / difficult / unchanging",
+            "pinyin": "bù yì",
+            "source": "CC-CEDICT",
+            "start": 12,
+            "word": "不易"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "哉"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "无"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "曰"
+          },
+          {
+            "end": 22,
+            "gloss": "(idiom) situated high; aloft / (idiom) (fig.) aloof and remote; situated above the masses and out o…",
+            "pinyin": "gāo gāo zài shàng",
+            "source": "CC-CEDICT",
+            "start": 18,
+            "word": "高高在上"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "陟"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "降"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "厥"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "士"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "日"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "监"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "在"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "兹"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "维"
+          },
+          {
+            "end": 37,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 36,
+            "word": "予"
+          },
+          {
+            "end": 39,
+            "gloss": "(coll.) boy / (derog.) joker / guy / (despicable) fellow",
+            "pinyin": "xiǎo zi",
+            "source": "CC-CEDICT",
+            "start": 37,
+            "word": "小子"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "不"
+          },
+          {
+            "end": 42,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 41,
+            "word": "聦"
+          },
+          {
+            "end": 43,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 42,
+            "word": "敬"
+          },
+          {
+            "end": 44,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 43,
+            "word": "止"
+          },
+          {
+            "end": 47,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 46,
+            "word": "日"
+          },
+          {
+            "end": 48,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 47,
+            "word": "就"
+          },
+          {
+            "end": 49,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 48,
+            "word": "月"
+          },
+          {
+            "end": 50,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 49,
+            "word": "将"
+          },
+          {
+            "end": 52,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 51,
+            "word": "学"
+          },
+          {
+            "end": 53,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 52,
+            "word": "有"
+          },
+          {
+            "end": 54,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 53,
+            "word": "缉"
+          },
+          {
+            "end": 55,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 54,
+            "word": "熙"
+          },
+          {
+            "end": 56,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 55,
+            "word": "于"
+          },
+          {
+            "end": 58,
+            "gloss": "light / radiance / (fig.) bright (prospects etc) / openhearted",
+            "pinyin": "guāng míng",
+            "source": "CC-CEDICT",
+            "start": 56,
+            "word": "光明"
+          },
+          {
+            "end": 61,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 60,
+            "word": "佛"
+          },
+          {
+            "end": 62,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 61,
+            "word": "时"
+          },
+          {
+            "end": 64,
+            "gloss": "to bear responsibility for sth",
+            "pinyin": "zī jiān",
+            "source": "CC-CEDICT",
+            "start": 62,
+            "word": "仔肩"
+          },
+          {
+            "end": 66,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 65,
+            "word": "示"
+          },
+          {
+            "end": 67,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 66,
+            "word": "我"
+          },
+          {
+            "end": 68,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 67,
+            "word": "显"
+          },
+          {
+            "end": 70,
+            "gloss": "variant of 德性[de2 xing5]",
+            "pinyin": "dé xing",
+            "source": "CC-CEDICT",
+            "start": 68,
+            "word": "德行"
+          }
+        ]
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "public domain",
+            "source_url": "https://en.wikisource.org/wiki/Sacred_Books_of_the_East/Volume_3",
+            "text": "They clear away the grass and the bushes;\nAnd the ground is laid open by their ploughs.\n\nIn thousands of pairs they remove the roots,\nSome in the low wet land, some along the dykes.\n\nThere are the master and his eldest son;\nHis younger sons, and all their children;\nTheir strong helpers, and their hired servants.\nHow the noise of their eating the viands brought to them resounds!\n(The husbands) think lovingly of their wives;\n(The wives) keep close to their husbands.\n(Then) with their sharp ploughshares\nThey set to work on the south-lying acres.\n\nThey sow their various kinds of grain,\nEach seed containing in it a germ of life.\n\nIn unbroken lines rises the blade,\nAnd, well nourished, the stalks grow long.\n\nLuxuriant looks the young grain,\nAnd the weeders go among it in multitudes.\n\nThen come the reapers in crowds,\nAnd the grain is piled up in the fields,\nMyriads, and hundreds of thousands, and millions (of stacks);\nFor spirits and for sweet spirits,\nTo offer to our ancestors, male and female,\nAnd to provide for all ceremonies.\n\nFragrant is their aroma,\nEnhancing the glory of the state.\nLike pepper is their smell,\nTo give comfort to the aged.\n\nIt is not here only that there is this (abundance);\nIt is not now only that there is such a time:—\nFrom of old it has been thus.",
+            "translator": "Legge",
+            "year": 1879
+          }
+        ],
+        "character_count": 162,
+        "id": "chapter-028-line-004",
+        "mao_number": 247,
+        "order": 4,
+        "pinyin_per_char": [
+          "zài",
+          "shān",
+          "zài",
+          "zhà",
+          "",
+          "qí",
+          "gēng",
+          "zé",
+          "zé",
+          "",
+          "qiān",
+          "ǒu",
+          "qí",
+          "yún",
+          "",
+          "cú",
+          "xí",
+          "cú",
+          "zhěn",
+          "",
+          "",
+          "hóu",
+          "zhǔ",
+          "hóu",
+          "bó",
+          "",
+          "hóu",
+          "yà",
+          "hóu",
+          "lǚ",
+          "",
+          "hóu",
+          "jiàng",
+          "hóu",
+          "yǐ",
+          "",
+          "",
+          "yóu",
+          "tǎn",
+          "qí",
+          "yè",
+          "",
+          "sī",
+          "mèi",
+          "qí",
+          "fù",
+          "",
+          "yǒu",
+          "yī",
+          "qí",
+          "shì",
+          "",
+          "",
+          "yǒu",
+          "lüè",
+          "qí",
+          "sì",
+          "",
+          "chù",
+          "zài",
+          "nán",
+          "mǔ",
+          "",
+          "bō",
+          "jué",
+          "bái",
+          "gǔ",
+          "",
+          "shí",
+          "hán",
+          "sī",
+          "huó",
+          "",
+          "",
+          "yì",
+          "yì",
+          "qí",
+          "dá",
+          "",
+          "yǒu",
+          "yàn",
+          "qí",
+          "jié",
+          "",
+          "yàn",
+          "yàn",
+          "qí",
+          "miáo",
+          "",
+          "mián",
+          "mián",
+          "qí",
+          "páo",
+          "",
+          "",
+          "zài",
+          "huò",
+          "jì",
+          "jì",
+          "",
+          "yǒu",
+          "shí",
+          "qí",
+          "jī",
+          "",
+          "wàn",
+          "yì",
+          "jí",
+          "zǐ",
+          "",
+          "",
+          "wèi",
+          "jiǔ",
+          "wèi",
+          "lǐ",
+          "",
+          "zhēng",
+          "bì",
+          "zú",
+          "bǐ",
+          "",
+          "yǐ",
+          "qià",
+          "bái",
+          "lǐ",
+          "",
+          "yǒu",
+          "bì",
+          "qí",
+          "xiāng",
+          "",
+          "bāng",
+          "jiā",
+          "zhī",
+          "guāng",
+          "",
+          "",
+          "yǒu",
+          "jiāo",
+          "qí",
+          "xīn",
+          "",
+          "hú",
+          "kǎo",
+          "zhī",
+          "níng",
+          "",
+          "féi",
+          "qié",
+          "yóu",
+          "qiě",
+          "",
+          "fěi",
+          "jīn",
+          "sī",
+          "jīn",
+          "",
+          "zhèn",
+          "gǔ",
+          "rú",
+          "zī",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "text": "载芟载柞，其耕泽泽。千耦其耘，徂隰徂畛。 侯主侯伯，侯亚侯旅，侯彊侯以。 有嗿其馌，思媚其妇，有依其士。 有略其耜，俶载南亩，播厥百谷，实函斯活。 驿驿其达，有厌其杰。厌厌其苗，緜緜其麃。 载获济济，有实其积，万亿及秭。 为酒为醴，烝畀祖妣，以洽百礼，有𫗣其香，邦家之光。 有椒其馨，胡考之宁。匪且有且，匪今斯今，振古如兹。",
+        "title_zh": "载芟",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "载"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "芟"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "载"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "柞"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "其"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "耕"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "泽"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "泽"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "千"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "耦"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "其"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "耘"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "徂"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "隰"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "徂"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "畛"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "侯"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "主"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "侯"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "伯"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "侯"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "亚"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "侯"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "旅"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "侯"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "彊"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "侯"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "以"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "有"
+          },
+          {
+            "end": 39,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 38,
+            "word": "嗿"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "其"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "馌"
+          },
+          {
+            "end": 43,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 42,
+            "word": "思"
+          },
+          {
+            "end": 44,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 43,
+            "word": "媚"
+          },
+          {
+            "end": 45,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 44,
+            "word": "其"
+          },
+          {
+            "end": 46,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 45,
+            "word": "妇"
+          },
+          {
+            "end": 48,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 47,
+            "word": "有"
+          },
+          {
+            "end": 49,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 48,
+            "word": "依"
+          },
+          {
+            "end": 50,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 49,
+            "word": "其"
+          },
+          {
+            "end": 51,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 50,
+            "word": "士"
+          },
+          {
+            "end": 54,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 53,
+            "word": "有"
+          },
+          {
+            "end": 55,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 54,
+            "word": "略"
+          },
+          {
+            "end": 56,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 55,
+            "word": "其"
+          },
+          {
+            "end": 57,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 56,
+            "word": "耜"
+          },
+          {
+            "end": 59,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 58,
+            "word": "俶"
+          },
+          {
+            "end": 60,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 59,
+            "word": "载"
+          },
+          {
+            "end": 61,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 60,
+            "word": "南"
+          },
+          {
+            "end": 62,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 61,
+            "word": "亩"
+          },
+          {
+            "end": 64,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 63,
+            "word": "播"
+          },
+          {
+            "end": 65,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 64,
+            "word": "厥"
+          },
+          {
+            "end": 66,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 65,
+            "word": "百"
+          },
+          {
+            "end": 67,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 66,
+            "word": "谷"
+          },
+          {
+            "end": 69,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 68,
+            "word": "实"
+          },
+          {
+            "end": 70,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 69,
+            "word": "函"
+          },
+          {
+            "end": 71,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 70,
+            "word": "斯"
+          },
+          {
+            "end": 72,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 71,
+            "word": "活"
+          },
+          {
+            "end": 75,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 74,
+            "word": "驿"
+          },
+          {
+            "end": 76,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 75,
+            "word": "驿"
+          },
+          {
+            "end": 77,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 76,
+            "word": "其"
+          },
+          {
+            "end": 78,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 77,
+            "word": "达"
+          },
+          {
+            "end": 80,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 79,
+            "word": "有"
+          },
+          {
+            "end": 81,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 80,
+            "word": "厌"
+          },
+          {
+            "end": 82,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 81,
+            "word": "其"
+          },
+          {
+            "end": 83,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 82,
+            "word": "杰"
+          },
+          {
+            "end": 85,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 84,
+            "word": "厌"
+          },
+          {
+            "end": 86,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 85,
+            "word": "厌"
+          },
+          {
+            "end": 87,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 86,
+            "word": "其"
+          },
+          {
+            "end": 88,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 87,
+            "word": "苗"
+          },
+          {
+            "end": 90,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 89,
+            "word": "緜"
+          },
+          {
+            "end": 91,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 90,
+            "word": "緜"
+          },
+          {
+            "end": 92,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 91,
+            "word": "其"
+          },
+          {
+            "end": 93,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 92,
+            "word": "麃"
+          },
+          {
+            "end": 96,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 95,
+            "word": "载"
+          },
+          {
+            "end": 97,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 96,
+            "word": "获"
+          },
+          {
+            "end": 98,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 97,
+            "word": "济"
+          },
+          {
+            "end": 99,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 98,
+            "word": "济"
+          },
+          {
+            "end": 101,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 100,
+            "word": "有"
+          },
+          {
+            "end": 102,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 101,
+            "word": "实"
+          },
+          {
+            "end": 103,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 102,
+            "word": "其"
+          },
+          {
+            "end": 104,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 103,
+            "word": "积"
+          },
+          {
+            "end": 106,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 105,
+            "word": "万"
+          },
+          {
+            "end": 107,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 106,
+            "word": "亿"
+          },
+          {
+            "end": 108,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 107,
+            "word": "及"
+          },
+          {
+            "end": 109,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 108,
+            "word": "秭"
+          },
+          {
+            "end": 112,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 111,
+            "word": "为"
+          },
+          {
+            "end": 113,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 112,
+            "word": "酒"
+          },
+          {
+            "end": 114,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 113,
+            "word": "为"
+          },
+          {
+            "end": 115,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 114,
+            "word": "醴"
+          },
+          {
+            "end": 117,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 116,
+            "word": "烝"
+          },
+          {
+            "end": 118,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 117,
+            "word": "畀"
+          },
+          {
+            "end": 119,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 118,
+            "word": "祖"
+          },
+          {
+            "end": 120,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 119,
+            "word": "妣"
+          },
+          {
+            "end": 122,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 121,
+            "word": "以"
+          },
+          {
+            "end": 123,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 122,
+            "word": "洽"
+          },
+          {
+            "end": 124,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 123,
+            "word": "百"
+          },
+          {
+            "end": 125,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 124,
+            "word": "礼"
+          },
+          {
+            "end": 127,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 126,
+            "word": "有"
+          },
+          {
+            "end": 128,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 127,
+            "word": "𫗣"
+          },
+          {
+            "end": 129,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 128,
+            "word": "其"
+          },
+          {
+            "end": 130,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 129,
+            "word": "香"
+          },
+          {
+            "end": 132,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 131,
+            "word": "邦"
+          },
+          {
+            "end": 133,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 132,
+            "word": "家"
+          },
+          {
+            "end": 134,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 133,
+            "word": "之"
+          },
+          {
+            "end": 135,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 134,
+            "word": "光"
+          },
+          {
+            "end": 138,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 137,
+            "word": "有"
+          },
+          {
+            "end": 139,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 138,
+            "word": "椒"
+          },
+          {
+            "end": 140,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 139,
+            "word": "其"
+          },
+          {
+            "end": 141,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 140,
+            "word": "馨"
+          },
+          {
+            "end": 143,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 142,
+            "word": "胡"
+          },
+          {
+            "end": 144,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 143,
+            "word": "考"
+          },
+          {
+            "end": 145,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 144,
+            "word": "之"
+          },
+          {
+            "end": 146,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 145,
+            "word": "宁"
+          },
+          {
+            "end": 148,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 147,
+            "word": "匪"
+          },
+          {
+            "end": 149,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 148,
+            "word": "且"
+          },
+          {
+            "end": 150,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 149,
+            "word": "有"
+          },
+          {
+            "end": 151,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 150,
+            "word": "且"
+          },
+          {
+            "end": 153,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 152,
+            "word": "匪"
+          },
+          {
+            "end": 154,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 153,
+            "word": "今"
+          },
+          {
+            "end": 155,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 154,
+            "word": "斯"
+          },
+          {
+            "end": 156,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 155,
+            "word": "今"
+          },
+          {
+            "end": 158,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 157,
+            "word": "振"
+          },
+          {
+            "end": 159,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 158,
+            "word": "古"
+          },
+          {
+            "end": 160,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 159,
+            "word": "如"
+          },
+          {
+            "end": 161,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 160,
+            "word": "兹"
+          }
+        ]
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "public domain",
+            "source_url": "https://en.wikisource.org/wiki/Sacred_Books_of_the_East/Volume_3",
+            "text": "Very sharp are the excellent shares,\nWith which they set to work on the south-lying acres.\n\nThey sow their various kinds of grain,\nEach seed containing in it a germ of life.\n\nThere are those who come to see them,\nWith their baskets round and square,\nContaining the provisions of millet.\n\nWith their light splint hats on their heads,\nThey ply their hoes on the ground,\nClearing away the smartweed on the dry land and wet.\n\nThe weeds being decayed,\nThe millets grow luxuriantly.\n\nThey fall rustling before the reapers.\nThe gathered crop is piled up solidly,\nHigh as a wall,\nUnited together like the teeth of a comb;\nAnd the hundred houses are opened (to receive the grain).\n\nThose hundred houses being full,\nThe wives and children have a feeling of repose.\n\n(Now) we kill this black-muzzled tawny bull,\nwith his crooked horns,\nTo imitate and hand down,\nTo hand down (the observances of) our ancestors.",
+            "translator": "Legge",
+            "year": 1879
+          }
+        ],
+        "character_count": 120,
+        "id": "chapter-028-line-005",
+        "mao_number": 248,
+        "order": 5,
+        "pinyin_per_char": [
+          "cè",
+          "cè",
+          "liáng",
+          "sì",
+          "",
+          "chù",
+          "zài",
+          "nán",
+          "mǔ",
+          "",
+          "bō",
+          "jué",
+          "bái",
+          "gǔ",
+          "",
+          "shí",
+          "hán",
+          "sī",
+          "huó",
+          "",
+          "",
+          "huò",
+          "lái",
+          "zhān",
+          "nǚ",
+          "",
+          "zài",
+          "kuāng",
+          "jí",
+          "jǔ",
+          "",
+          "qí",
+          "xiǎng",
+          "yī",
+          "shǔ",
+          "",
+          "qí",
+          "lì",
+          "yī",
+          "jiū",
+          "",
+          "",
+          "qí",
+          "bó",
+          "sī",
+          "zhào",
+          "",
+          "yǐ",
+          "hāo",
+          "tú",
+          "liǎo",
+          "",
+          "tú",
+          "liáo",
+          "xiú",
+          "zhǐ",
+          "",
+          "shǔ",
+          "jì",
+          "mào",
+          "zhǐ",
+          "",
+          "",
+          "huò",
+          "zhī",
+          "zhì",
+          "zhì",
+          "",
+          "jī",
+          "zhī",
+          "lì",
+          "lì",
+          "",
+          "qí",
+          "chóng",
+          "rú",
+          "yōng",
+          "",
+          "qí",
+          "bǐ",
+          "rú",
+          "zhì",
+          "",
+          "yǐ",
+          "kāi",
+          "bǎi",
+          "shì",
+          "",
+          "",
+          "bǎi",
+          "shì",
+          "yíng",
+          "zhǐ",
+          "",
+          "fù",
+          "zi",
+          "níng",
+          "zhǐ",
+          "",
+          "shā",
+          "shí",
+          "chún",
+          "mǔ",
+          "",
+          "yǒu",
+          "jiù",
+          "qí",
+          "jiǎo",
+          "",
+          "",
+          "yǐ",
+          "shì",
+          "yǐ",
+          "xù",
+          "",
+          "xù",
+          "gǔ",
+          "zhī",
+          "rén",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "text": "畟畟良耜，俶载南亩，播厥百谷，实函斯活。 或来瞻女，载筐及筥。其𫗵伊黍，其笠伊纠。 其镈斯赵，以薅荼蓼，荼蓼朽止，黍稷茂止。 获之挃挃，积之栗栗，其崇如墉，其比如栉，以开百室。 百室盈止，妇子宁止。杀时犉牡，有捄其角。 以似以续，续古之人。",
+        "title_zh": "良耜",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "畟"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "畟"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "良"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "耜"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "俶"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "载"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "南"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "亩"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "播"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "厥"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "百"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "谷"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "实"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "函"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "斯"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "活"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "或"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "来"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "瞻"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "女"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "载"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "筐"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "及"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "筥"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "其"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "𫗵"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "伊"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "黍"
+          },
+          {
+            "end": 37,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 36,
+            "word": "其"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "笠"
+          },
+          {
+            "end": 39,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 38,
+            "word": "伊"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "纠"
+          },
+          {
+            "end": 43,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 42,
+            "word": "其"
+          },
+          {
+            "end": 44,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 43,
+            "word": "镈"
+          },
+          {
+            "end": 45,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 44,
+            "word": "斯"
+          },
+          {
+            "end": 46,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 45,
+            "word": "赵"
+          },
+          {
+            "end": 48,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 47,
+            "word": "以"
+          },
+          {
+            "end": 49,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 48,
+            "word": "薅"
+          },
+          {
+            "end": 50,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 49,
+            "word": "荼"
+          },
+          {
+            "end": 51,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 50,
+            "word": "蓼"
+          },
+          {
+            "end": 53,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 52,
+            "word": "荼"
+          },
+          {
+            "end": 54,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 53,
+            "word": "蓼"
+          },
+          {
+            "end": 55,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 54,
+            "word": "朽"
+          },
+          {
+            "end": 56,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 55,
+            "word": "止"
+          },
+          {
+            "end": 58,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 57,
+            "word": "黍"
+          },
+          {
+            "end": 59,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 58,
+            "word": "稷"
+          },
+          {
+            "end": 60,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 59,
+            "word": "茂"
+          },
+          {
+            "end": 61,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 60,
+            "word": "止"
+          },
+          {
+            "end": 64,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 63,
+            "word": "获"
+          },
+          {
+            "end": 65,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 64,
+            "word": "之"
+          },
+          {
+            "end": 66,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 65,
+            "word": "挃"
+          },
+          {
+            "end": 67,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 66,
+            "word": "挃"
+          },
+          {
+            "end": 69,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 68,
+            "word": "积"
+          },
+          {
+            "end": 70,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 69,
+            "word": "之"
+          },
+          {
+            "end": 71,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 70,
+            "word": "栗"
+          },
+          {
+            "end": 72,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 71,
+            "word": "栗"
+          },
+          {
+            "end": 74,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 73,
+            "word": "其"
+          },
+          {
+            "end": 75,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 74,
+            "word": "崇"
+          },
+          {
+            "end": 76,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 75,
+            "word": "如"
+          },
+          {
+            "end": 77,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 76,
+            "word": "墉"
+          },
+          {
+            "end": 79,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 78,
+            "word": "其"
+          },
+          {
+            "end": 81,
+            "gloss": "for example; for instance; such as",
+            "pinyin": "bǐ rú",
+            "source": "CC-CEDICT",
+            "start": 79,
+            "word": "比如"
+          },
+          {
+            "end": 82,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 81,
+            "word": "栉"
+          },
+          {
+            "end": 84,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 83,
+            "word": "以"
+          },
+          {
+            "end": 85,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 84,
+            "word": "开"
+          },
+          {
+            "end": 86,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 85,
+            "word": "百"
+          },
+          {
+            "end": 87,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 86,
+            "word": "室"
+          },
+          {
+            "end": 90,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 89,
+            "word": "百"
+          },
+          {
+            "end": 91,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 90,
+            "word": "室"
+          },
+          {
+            "end": 92,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 91,
+            "word": "盈"
+          },
+          {
+            "end": 93,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 92,
+            "word": "止"
+          },
+          {
+            "end": 95,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 94,
+            "word": "妇"
+          },
+          {
+            "end": 96,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 95,
+            "word": "子"
+          },
+          {
+            "end": 97,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 96,
+            "word": "宁"
+          },
+          {
+            "end": 98,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 97,
+            "word": "止"
+          },
+          {
+            "end": 100,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 99,
+            "word": "杀"
+          },
+          {
+            "end": 101,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 100,
+            "word": "时"
+          },
+          {
+            "end": 102,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 101,
+            "word": "犉"
+          },
+          {
+            "end": 103,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 102,
+            "word": "牡"
+          },
+          {
+            "end": 105,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 104,
+            "word": "有"
+          },
+          {
+            "end": 106,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 105,
+            "word": "捄"
+          },
+          {
+            "end": 107,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 106,
+            "word": "其"
+          },
+          {
+            "end": 108,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 107,
+            "word": "角"
+          },
+          {
+            "end": 111,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 110,
+            "word": "以"
+          },
+          {
+            "end": 112,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 111,
+            "word": "似"
+          },
+          {
+            "end": 113,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 112,
+            "word": "以"
+          },
+          {
+            "end": 114,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 113,
+            "word": "续"
+          },
+          {
+            "end": 116,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 115,
+            "word": "续"
+          },
+          {
+            "end": 117,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 116,
+            "word": "古"
+          },
+          {
+            "end": 118,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 117,
+            "word": "之"
+          },
+          {
+            "end": 119,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 118,
+            "word": "人"
+          }
+        ]
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "public domain",
+            "source_url": "https://en.wikisource.org/wiki/Sacred_Books_of_the_East/Volume_3",
+            "text": "Oh! powerful was the king's army,\nBut he nursed it, in obedience to circumstances, while the time was yet dark.\nWhen the time was clearly bright,\nHe thereupon donned his grand armour.\nWe have been favoured to receive\nWhat the martial king accomplished.\nTo deal aright with what we have inherited,\nWe have to be sincere imitators of thy course, (O king).",
+            "translator": "Legge",
+            "year": 1879
+          }
+        ],
+        "character_count": 46,
+        "id": "chapter-028-line-006",
+        "mao_number": 249,
+        "order": 6,
+        "pinyin_per_char": [
+          "yú",
+          "shuò",
+          "wáng",
+          "shī",
+          "",
+          "zūn",
+          "yǎng",
+          "shí",
+          "huì",
+          "",
+          "shí",
+          "chún",
+          "xī",
+          "yǐ",
+          "",
+          "shì",
+          "yòng",
+          "dà",
+          "jiè",
+          "",
+          "",
+          "wǒ",
+          "lóng",
+          "shòu",
+          "zhī",
+          "",
+          "juē",
+          "juē",
+          "wáng",
+          "zhī",
+          "zào",
+          "",
+          "zài",
+          "yòng",
+          "yǒu",
+          "sì",
+          "",
+          "shí",
+          "wéi",
+          "ěr",
+          "gōng",
+          "",
+          "",
+          "yǔn",
+          "shī",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "text": "于铄王师，遵养时晦。时纯熙矣，是用大介。 我龙受之，𫏋𫏋王之造。载用有嗣，实维尔公。 允师。",
+        "title_zh": "酌",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "于"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "铄"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "王"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "师"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "遵"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "养"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "时"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "晦"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "时"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "纯"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "熙"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "矣"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "是"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "用"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "大"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "介"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "我"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "龙"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "受"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "之"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "𫏋"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "𫏋"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "王"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "之"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "造"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "载"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "用"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "有"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "嗣"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "实"
+          },
+          {
+            "end": 39,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 38,
+            "word": "维"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "尔"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "公"
+          },
+          {
+            "end": 44,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 43,
+            "word": "允"
+          },
+          {
+            "end": 45,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 44,
+            "word": "师"
+          }
+        ]
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "public domain",
+            "source_url": "https://en.wikisource.org/wiki/Sacred_Books_of_the_East/Volume_3",
+            "text": "There is peace throughout our myriad regions.\nThere has been a succession of plentiful years:—\nHeaven does not weary in its favour.\nThe martial king Wû\nMaintained (the confidence of) his officers,\nAnd employed them all over the kingdom,\nSo securing the establishment of his family.\nOh! glorious was he in the sight of Heaven,\nWhich kinged him in the room (of Shang).",
+            "translator": "Legge",
+            "year": 1879
+          }
+        ],
+        "character_count": 45,
+        "id": "chapter-028-line-007",
+        "mao_number": 250,
+        "order": 7,
+        "pinyin_per_char": [
+          "suī",
+          "wàn",
+          "bāng",
+          "",
+          "lóu",
+          "fēng",
+          "nián",
+          "",
+          "tiān",
+          "mìng",
+          "féi",
+          "jiě",
+          "",
+          "",
+          "huán",
+          "huán",
+          "wǔ",
+          "wáng",
+          "",
+          "báo",
+          "yǒu",
+          "jué",
+          "shì",
+          "",
+          "yú",
+          "yǐ",
+          "sì",
+          "fāng",
+          "",
+          "kè",
+          "dìng",
+          "jué",
+          "jiā",
+          "",
+          "",
+          "yú",
+          "zhāo",
+          "yú",
+          "tiān",
+          "",
+          "huáng",
+          "yǐ",
+          "jiān",
+          "zhī",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "text": "绥万邦，娄丰年，天命匪解。 桓桓武王，保有厥士，于以四方。克定厥家。 于昭于天，皇以间之。",
+        "title_zh": "桓",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "绥"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "万"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "邦"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "娄"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "丰"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "年"
+          },
+          {
+            "end": 10,
+            "gloss": "the Mandate of Heaven; what Heaven has decreed",
+            "pinyin": "tiān mìng",
+            "source": "classical-override",
+            "start": 8,
+            "word": "天命"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "匪"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "解"
+          },
+          {
+            "end": 16,
+            "gloss": "mighty / powerful",
+            "pinyin": "huán huán",
+            "source": "CC-CEDICT",
+            "start": 14,
+            "word": "桓桓"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "武"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "王"
+          },
+          {
+            "end": 21,
+            "gloss": "to keep / to retain",
+            "pinyin": "bǎo yǒu",
+            "source": "CC-CEDICT",
+            "start": 19,
+            "word": "保有"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "厥"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "士"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "于"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "以"
+          },
+          {
+            "end": 28,
+            "gloss": "four-way / four-sided / in all directions / everywhere",
+            "pinyin": "sì fāng",
+            "source": "CC-CEDICT",
+            "start": 26,
+            "word": "四方"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "克"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "定"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "厥"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "家"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "于"
+          },
+          {
+            "end": 37,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 36,
+            "word": "昭"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "于"
+          },
+          {
+            "end": 39,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 38,
+            "word": "天"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "皇"
+          },
+          {
+            "end": 42,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 41,
+            "word": "以"
+          },
+          {
+            "end": 43,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 42,
+            "word": "间"
+          },
+          {
+            "end": 44,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 43,
+            "word": "之"
+          }
+        ]
+      }
+    ],
+    "summary": "闵予小子",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "闵予小子，遭家不造，嬛嬛在疚。 于乎皇考，永世克孝，念兹皇祖，陟降庭止。 维予小子，夙夜敬止。 于乎皇王，继序思不忘。 访予落止，率时昭考。 于乎悠哉！朕未有艾。将予就之，继犹判涣。 维予小子，未堪家多难。绍庭上下，陟降厥家。 休矣皇考！以保明其身。 敬之敬之，天维显思。 命不易哉！无曰高高在上。 陟降厥士，日监在兹。 维予小子，不聦敬止？ 日就月将，学有缉熙于光明。 佛时仔肩，示我显德行。 载芟载柞，其耕泽泽。千耦其耘，徂隰徂畛。 侯主侯伯，侯亚侯旅，侯彊侯以。 有嗿其馌，思媚其妇，有依其士。 有略其耜，俶载南亩，播厥百谷，实函斯活。 驿驿其达，有厌其杰。厌厌其苗，緜緜其麃。 载获济济，有实其积，万亿及秭。 为酒为醴，烝畀祖妣，以洽百礼，有𫗣其香，邦家之光。 有椒其馨，胡考之宁。匪且有且，匪今斯今，振古如兹。 畟畟良耜，俶载南亩，播厥百谷，实函斯活。 或来瞻女，载筐及筥。其𫗵伊黍，其笠伊纠。 其镈斯赵，以薅荼蓼，荼蓼朽止，黍稷茂止。 获之挃挃，积之栗栗，其崇如墉，其比如栉，以开百室。 百室盈止，妇子宁止。杀时犉牡，有捄其角。 以似以续，续古之人。 于铄王师，遵养时晦。时纯熙矣，是用大介。 我龙受之，𫏋𫏋王之造。载用有嗣，实维尔公。 允师。 绥万邦，娄丰年，天命匪解。 桓桓武王，保有厥士，于以四方。克定厥家。 于昭于天，皇以间之。",
+    "title": "周颂·闵予小子之什"
+  },
+  "chapter_path": "books/shi-jing/chapters/chapter-028.json",
+  "provider": "wikisource",
+  "schema_version": 2,
+  "source_title": "诗经 (Chinese: zh.wikisource); Legge English: Sacred Books of the East, Vol. III (en.wikisource)",
+  "source_url": "https://zh.wikisource.org/wiki/诗经"
+}

@@ -18,16 +18,240 @@
         "character_count": 28,
         "id": "chapter-071-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "zhī",
+          "bù",
+          "zhī",
+          "shàng",
+          "",
+          "bù",
+          "zhī",
+          "zhī",
+          "bìng",
+          "",
+          "fū",
+          "wéi",
+          "bìng",
+          "bìng",
+          "",
+          "shì",
+          "yǐ",
+          "bú",
+          "bìng",
+          "",
+          "shèng",
+          "rén",
+          "bú",
+          "bìng",
+          "",
+          "yǐ",
+          "qí",
+          "bìng",
+          "bìng",
+          "",
+          "shì",
+          "yǐ",
+          "bú",
+          "bìng",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "知不知上；不知知病。夫唯病病，是以不病。聖人不病，以其病病，是以不病。"
+        "text": "知不知上；不知知病。夫唯病病，是以不病。圣人不病，以其病病，是以不病。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "知"
+          },
+          {
+            "end": 3,
+            "gloss": "not to know / unaware / unknowingly / fig. not to admit (defeat, hardships, tiredness etc)",
+            "pinyin": "bù zhī",
+            "source": "CC-CEDICT",
+            "start": 1,
+            "word": "不知"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "上"
+          },
+          {
+            "end": 7,
+            "gloss": "not to know / unaware / unknowingly / fig. not to admit (defeat, hardships, tiredness etc)",
+            "pinyin": "bù zhī",
+            "source": "CC-CEDICT",
+            "start": 5,
+            "word": "不知"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "知"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "病"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "夫"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "唯"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "病"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "病"
+          },
+          {
+            "end": 17,
+            "gloss": "therefore / thus / so",
+            "pinyin": "shì yǐ",
+            "source": "CC-CEDICT",
+            "start": 15,
+            "word": "是以"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "不"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "病"
+          },
+          {
+            "end": 22,
+            "gloss": "the sage; the holy man",
+            "pinyin": "shèng rén",
+            "source": "classical-override",
+            "start": 20,
+            "word": "圣人"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "不"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "病"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "以"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "其"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "病"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "病"
+          },
+          {
+            "end": 32,
+            "gloss": "therefore / thus / so",
+            "pinyin": "shì yǐ",
+            "source": "CC-CEDICT",
+            "start": 30,
+            "word": "是以"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "不"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "病"
+          }
+        ]
       }
     ],
     "summary": "知不知上；不知知病",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "知不知上；不知知病。夫唯病病，是以不病。聖人不病，以其病病，是以不病。",
+    "text": "知不知上；不知知病。夫唯病病，是以不病。圣人不病，以其病病，是以不病。",
     "title": "第71章"
   },
   "chapter_path": "books/daodejing/chapters/chapter-071.json",

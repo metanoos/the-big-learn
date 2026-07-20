@@ -97,7 +97,13 @@
         "order": 6,
         "pinyin": "jiàn xián sī qí",
         "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
-        "text": "见贤思齐"
+        "text": "见贤思齐",
+        "origin": {
+          "book": "lunyu",
+          "chapter": 4,
+          "line": 22,
+          "snippet": "子曰：「见贤思齐焉，见不贤而内自省也。」"
+        }
       },
       {
         "canonical_translations": [
@@ -529,7 +535,7 @@
           {
             "license": "CC BY-SA 3.0",
             "source_url": "https://cc-cedict.org/",
-            "text": "(idiom) see 後來者居上|后来者居上[hou4 lai2 zhe3 ju1 shang4]",
+            "text": "(idiom) see 后来者居上|后来者居上[hou4 lai2 zhe3 ju1 shang4]",
             "translator": "CC-CEDICT",
             "year": null
           }
@@ -658,7 +664,13 @@
         "order": 39,
         "pinyin": "wén zhì bīn bīn",
         "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
-        "text": "文质彬彬"
+        "text": "文质彬彬",
+        "origin": {
+          "book": "lunyu",
+          "chapter": 6,
+          "line": 22,
+          "snippet": "子曰：「质胜文则野，文胜质则史。文质彬彬，然后君子。」"
+        }
       },
       {
         "canonical_translations": [

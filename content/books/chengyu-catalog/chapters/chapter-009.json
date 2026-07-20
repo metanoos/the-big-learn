@@ -64,7 +64,13 @@
         "order": 5,
         "pinyin": "yǐn ér bù fā",
         "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
-        "text": "引而不发"
+        "text": "引而不发",
+        "origin": {
+          "book": "mengzi",
+          "chapter": 13,
+          "line": 110,
+          "snippet": "君子引而不发，跃如也。中道而立，能者从之。」"
+        }
       },
       {
         "canonical_translations": [],
@@ -326,7 +332,13 @@
         "order": 27,
         "pinyin": "bù xiāng wèi móu",
         "pinyin_source": "derived from per-character index",
-        "text": "不相为谋"
+        "text": "不相为谋",
+        "origin": {
+          "book": "lunyu",
+          "chapter": 15,
+          "line": 57,
+          "snippet": "子曰：「道不同，不相为谋。」"
+        }
       },
       {
         "canonical_translations": [
@@ -360,7 +372,13 @@
         "order": 29,
         "pinyin": "hào wéi rén shī",
         "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
-        "text": "好为人师"
+        "text": "好为人师",
+        "origin": {
+          "book": "mengzi",
+          "chapter": 7,
+          "line": 75,
+          "snippet": "孟子曰：「人之患在好为人师。」"
+        }
       },
       {
         "canonical_translations": [],

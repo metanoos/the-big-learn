@@ -10,7 +10,7 @@
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "The possessor of sincerity does not merely accomplish the self-completion of himself.",
+            "text": "Hence to entire sincerity there belongs ceaselessness.",
             "translator": "Legge",
             "year": 1885
           }
@@ -18,16 +18,51 @@
         "character_count": 5,
         "id": "chapter-026-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "gù",
+          "zhì",
+          "chéng",
+          "wú",
+          "xī",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "故至誠無息。"
+        "text": "故至诚无息。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "故"
+          },
+          {
+            "end": 3,
+            "gloss": "sincere",
+            "pinyin": "zhì chéng",
+            "source": "CC-CEDICT",
+            "start": 1,
+            "word": "至诚"
+          },
+          {
+            "end": 5,
+            "gloss": "interest-free",
+            "pinyin": "wú xī",
+            "source": "CC-CEDICT",
+            "start": 3,
+            "word": "无息"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "With this quality he completes other men and things also.",
+            "text": "Not ceasing, it continues long. Continuing long, it evidences itself.",
             "translator": "Legge",
             "year": 1885
           }
@@ -35,16 +70,78 @@
         "character_count": 7,
         "id": "chapter-026-line-002",
         "order": 2,
+        "pinyin_per_char": [
+          "bù",
+          "xī",
+          "zé",
+          "jiǔ",
+          "",
+          "jiǔ",
+          "zé",
+          "zhēng",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 2,
-        "text": "不息則久，久則徵，"
+        "text": "不息则久，久则征，",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "continually / without a break / ceaselessly",
+            "pinyin": "bù xī",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "不息"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "则"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "久"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "久"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "则"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "征"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "The completing himself shows his perfect virtue.",
+            "text": "Evidencing itself, it reaches far. Reaching far, it becomes large and substantial. Large and substantial, it becomes high and brilliant.",
             "translator": "Legge",
             "year": 1885
           }
@@ -52,16 +149,126 @@
         "character_count": 14,
         "id": "chapter-026-line-003",
         "order": 3,
+        "pinyin_per_char": [
+          "zhēng",
+          "zé",
+          "yōu",
+          "yuǎn",
+          "",
+          "yōu",
+          "yuǎn",
+          "zé",
+          "bó",
+          "hòu",
+          "",
+          "bó",
+          "hòu",
+          "zé",
+          "gāo",
+          "míng",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 3,
-        "text": "徵則悠遠，悠遠則博厚，博厚則高明。"
+        "text": "征则悠远，悠远则博厚，博厚则高明。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "征"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "则"
+          },
+          {
+            "end": 4,
+            "gloss": "long time ago / distant / far away",
+            "pinyin": "yōu yuǎn",
+            "source": "CC-CEDICT",
+            "start": 2,
+            "word": "悠远"
+          },
+          {
+            "end": 7,
+            "gloss": "long time ago / distant / far away",
+            "pinyin": "yōu yuǎn",
+            "source": "CC-CEDICT",
+            "start": 5,
+            "word": "悠远"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "则"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "博"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "厚"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "博"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "厚"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "则"
+          },
+          {
+            "end": 16,
+            "gloss": "brilliant; superior; wise",
+            "pinyin": "gāo míng",
+            "source": "CC-CEDICT",
+            "start": 14,
+            "word": "高明"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "The completing other men and things shows his knowledge.",
+            "text": "Large and substantial;-this is how it contains all things. High and brilliant;-this is how it overspreads all things. Reaching far and continuing long;-this is how it perfects all things.",
             "translator": "Legge",
             "year": 1885
           }
@@ -69,16 +276,176 @@
         "character_count": 21,
         "id": "chapter-026-line-004",
         "order": 4,
+        "pinyin_per_char": [
+          "bó",
+          "hòu",
+          "",
+          "suó",
+          "yǐ",
+          "zài",
+          "wù",
+          "yě",
+          "",
+          "gāo",
+          "míng",
+          "",
+          "suó",
+          "yǐ",
+          "fù",
+          "wù",
+          "yě",
+          "",
+          "yōu",
+          "jiǔ",
+          "",
+          "suó",
+          "yǐ",
+          "chéng",
+          "wù",
+          "yě",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 4,
-        "text": "博厚，所以載物也；高明，所以覆物也；悠久，所以成物也。"
+        "text": "博厚，所以载物也；高明，所以覆物也；悠久，所以成物也。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "博"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "厚"
+          },
+          {
+            "end": 5,
+            "gloss": "therefore / as a result / so / the reason why",
+            "pinyin": "suǒ yǐ",
+            "source": "CC-CEDICT",
+            "start": 3,
+            "word": "所以"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "载"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "物"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "也"
+          },
+          {
+            "end": 11,
+            "gloss": "brilliant; superior; wise",
+            "pinyin": "gāo míng",
+            "source": "CC-CEDICT",
+            "start": 9,
+            "word": "高明"
+          },
+          {
+            "end": 14,
+            "gloss": "therefore / as a result / so / the reason why",
+            "pinyin": "suǒ yǐ",
+            "source": "CC-CEDICT",
+            "start": 12,
+            "word": "所以"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "覆"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "物"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "也"
+          },
+          {
+            "end": 20,
+            "gloss": "long (tradition, history etc)",
+            "pinyin": "yōu jiǔ",
+            "source": "CC-CEDICT",
+            "start": 18,
+            "word": "悠久"
+          },
+          {
+            "end": 23,
+            "gloss": "therefore / as a result / so / the reason why",
+            "pinyin": "suǒ yǐ",
+            "source": "CC-CEDICT",
+            "start": 21,
+            "word": "所以"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "成"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "物"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "也"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "But these are virtues belonging to the nature, and this is the way by which a union is effected of the external and internal.",
+            "text": "So large and substantial, the individual possessing it is the co-equal of Earth. So high and brilliant, it makes him the co-equal of Heaven. So far-reaching and long-continuing, it makes him infinite.",
             "translator": "Legge",
             "year": 1885
           }
@@ -86,16 +453,116 @@
         "character_count": 12,
         "id": "chapter-026-line-005",
         "order": 5,
+        "pinyin_per_char": [
+          "bó",
+          "hòu",
+          "pèi",
+          "dì",
+          "",
+          "gāo",
+          "míng",
+          "pèi",
+          "tiān",
+          "",
+          "yōu",
+          "jiǔ",
+          "wú",
+          "jiāng",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 5,
-        "text": "博厚配地，高明配天，悠久無疆。"
+        "text": "博厚配地，高明配天，悠久无疆。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "博"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "厚"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "配"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "地"
+          },
+          {
+            "end": 7,
+            "gloss": "brilliant; superior; wise",
+            "pinyin": "gāo míng",
+            "source": "CC-CEDICT",
+            "start": 5,
+            "word": "高明"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "配"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "天"
+          },
+          {
+            "end": 12,
+            "gloss": "long (tradition, history etc)",
+            "pinyin": "yōu jiǔ",
+            "source": "CC-CEDICT",
+            "start": 10,
+            "word": "悠久"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "无"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "疆"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "Therefore, whenever he-the entirely sincere man-employs them,-that is, these virtues, their action will be right. Hence to entire sincerity there belongs ceaselessness. Not ceasing, it continues long. Continuing long, it evidences itself. Evidencing itself, it reaches far. Reaching far, it becomes large and substantial. Large and substantial, it becomes high and brilliant. Large and substantial;-this is how it contains all things. High and brilliant;-this is how it overspreads all things. Reaching far and continuing long;-this is how it perfects all things. So large and substantial, the individual possessing it is the co-equal of Earth. So high and brilliant, it makes him the co-equal of Heaven. So far-reaching and long-continuing, it makes him infinite. Such being its nature, without any display, it becomes manifested; without any movement, it produces changes; and without any effort, it accomplishes its ends.",
+            "text": "Such being its nature, without any display, it becomes manifested; without any movement, it produces changes; and without any effort, it accomplishes its ends.",
             "translator": "Legge",
             "year": 1885
           }
@@ -103,16 +570,128 @@
         "character_count": 15,
         "id": "chapter-026-line-006",
         "order": 6,
+        "pinyin_per_char": [
+          "rú",
+          "cí",
+          "zhě",
+          "",
+          "bú",
+          "jiàn",
+          "ér",
+          "zhāng",
+          "",
+          "bú",
+          "dòng",
+          "ér",
+          "biàn",
+          "",
+          "wú",
+          "wéi",
+          "ér",
+          "chéng",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 6,
-        "text": "如此者，不見而章，不動而變，無為而成。"
+        "text": "如此者，不见而章，不动而变，无为而成。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "like this; so; such",
+            "pinyin": "rú cǐ",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "如此"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "者"
+          },
+          {
+            "end": 6,
+            "gloss": "not to see / not to meet / to have disappeared / to be missing",
+            "pinyin": "bù jiàn",
+            "source": "CC-CEDICT",
+            "start": 4,
+            "word": "不见"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "而"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "章"
+          },
+          {
+            "end": 11,
+            "gloss": "motionless",
+            "pinyin": "bù dòng",
+            "source": "CC-CEDICT",
+            "start": 9,
+            "word": "不动"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "而"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "变"
+          },
+          {
+            "end": 16,
+            "gloss": "the Daoist doctrine of inaction / let things take their own course / laissez-faire",
+            "pinyin": "wú wéi",
+            "source": "CC-CEDICT",
+            "start": 14,
+            "word": "无为"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "而"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "成"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "The way of Heaven and Earth may be completely declared in one sentence.",
+            "text": "The way of Heaven and Earth may be completely declared in one sentence. They are without any doubleness, and so they produce things in a manner that is unfathomable.",
             "translator": "Legge",
             "year": 1885
           }
@@ -120,26 +699,175 @@
         "character_count": 21,
         "id": "chapter-026-line-007",
         "order": 7,
+        "pinyin_per_char": [
+          "tiān",
+          "dì",
+          "zhī",
+          "dào",
+          "",
+          "kě",
+          "yī",
+          "yán",
+          "ér",
+          "jín",
+          "yě",
+          "",
+          "qí",
+          "wèi",
+          "wù",
+          "bú",
+          "èr",
+          "",
+          "zé",
+          "qí",
+          "shēng",
+          "wù",
+          "bú",
+          "cè",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 7,
-        "text": "天地之道，可一言而盡也：其為物不貳，則其生物不測。"
-      },
-      {
-        "canonical_translations": [
+        "text": "天地之道，可一言而尽也：其为物不贰，则其生物不测。",
+        "word_spans": [
           {
-            "license": "public domain",
-            "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "They are without any doubleness, and so they produce things in a manner that is unfathomable.",
-            "translator": "Legge",
-            "year": 1885
+            "end": 2,
+            "gloss": "heaven and earth / world / scope / field of activity",
+            "pinyin": "tiān dì",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "天地"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "之"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "道"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "可"
+          },
+          {
+            "end": 8,
+            "gloss": "one sentence / brief remark",
+            "pinyin": "yī yán",
+            "source": "CC-CEDICT",
+            "start": 6,
+            "word": "一言"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "而"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "尽"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "也"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "其"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "为"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "物"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "不"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "贰"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "则"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "其"
+          },
+          {
+            "end": 22,
+            "gloss": "organism / living creature / life form / biological / CL:个|个[ge4]",
+            "pinyin": "shēng wù",
+            "source": "CC-CEDICT",
+            "start": 20,
+            "word": "生物"
+          },
+          {
+            "end": 24,
+            "gloss": "unexpected / measureless / unexpected circumstance / contingency / mishap",
+            "pinyin": "bù cè",
+            "source": "CC-CEDICT",
+            "start": 22,
+            "word": "不测"
           }
-        ],
-        "character_count": 16,
-        "id": "chapter-026-line-008",
-        "order": 8,
-        "source_block_chunk": 1,
-        "source_block_order": 8,
-        "text": "天地之道：博也，厚也，高也，明也，悠也，久也。"
+        ]
       },
       {
         "canonical_translations": [
@@ -151,19 +879,785 @@
             "year": 1885
           }
         ],
-        "character_count": 75,
-        "id": "chapter-026-line-009",
-        "order": 9,
+        "character_count": 16,
+        "id": "chapter-026-line-008",
+        "order": 8,
+        "pinyin_per_char": [
+          "tiān",
+          "dì",
+          "zhī",
+          "dào",
+          "",
+          "bó",
+          "yě",
+          "",
+          "hòu",
+          "yě",
+          "",
+          "gāo",
+          "yě",
+          "",
+          "míng",
+          "yě",
+          "",
+          "yōu",
+          "yě",
+          "",
+          "jiú",
+          "yě",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
-        "source_block_order": 9,
-        "text": "今夫天，斯昭昭之多，及其無窮也，日月星辰繫焉，萬物覆焉。今夫地，一撮土之多，及其廣厚，載華嶽而不重，振河海而不洩，萬物載焉。今夫山，一卷石之多，及其廣大，草木生之，禽獸居之，寶藏興焉。"
+        "source_block_order": 8,
+        "text": "天地之道：博也，厚也，高也，明也，悠也，久也。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "heaven and earth / world / scope / field of activity",
+            "pinyin": "tiān dì",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "天地"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "之"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "道"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "博"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "也"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "厚"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "也"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "高"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "也"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "明"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "也"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "悠"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "也"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "久"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "也"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "The Heaven now before us is only this bright shining spot; but when viewed in its inexhaustible extent, the sun, moon, stars, and constellations of the zodiac, are suspended in it, and all things are overspread by it.",
+            "text": "The Heaven now before us is only this bright shining spot; but when viewed in its inexhaustible extent, the sun, moon, stars, and constellations of the zodiac, are suspended in it, and all things are overspread by it. The earth before us is but a handful of soil; but when regarded in its breadth and thickness, it sustains mountains like the Hwa and the Yo, without feeling their weight, and contains the rivers and seas, without their leaking away. The mountain now before us appears only a stone; but when contemplated in all the vastness of its size, we see how the grass and trees are produced on it, and birds and beasts dwell on it, and precious things which men treasure up are found on it.",
+            "translator": "Legge",
+            "year": 1885
+          }
+        ],
+        "character_count": 75,
+        "id": "chapter-026-line-009",
+        "order": 9,
+        "pinyin_per_char": [
+          "jīn",
+          "fū",
+          "tiān",
+          "",
+          "sī",
+          "zhāo",
+          "zhāo",
+          "zhī",
+          "duō",
+          "",
+          "jí",
+          "qí",
+          "wú",
+          "qióng",
+          "yě",
+          "",
+          "rì",
+          "yuè",
+          "xīng",
+          "chén",
+          "xì",
+          "yān",
+          "",
+          "wàn",
+          "wù",
+          "fù",
+          "yān",
+          "",
+          "jīn",
+          "fū",
+          "dì",
+          "",
+          "yī",
+          "zuó",
+          "tǔ",
+          "zhī",
+          "duō",
+          "",
+          "jí",
+          "qí",
+          "guǎng",
+          "hòu",
+          "",
+          "zài",
+          "huá",
+          "yuè",
+          "ér",
+          "bú",
+          "zhòng",
+          "",
+          "zhèn",
+          "hé",
+          "hǎi",
+          "ér",
+          "bú",
+          "xiè",
+          "",
+          "wàn",
+          "wù",
+          "zài",
+          "yān",
+          "",
+          "jīn",
+          "fū",
+          "shān",
+          "",
+          "yī",
+          "juàn",
+          "shí",
+          "zhī",
+          "duō",
+          "",
+          "jí",
+          "qí",
+          "guǎng",
+          "dà",
+          "",
+          "cǎo",
+          "mù",
+          "shēng",
+          "zhī",
+          "",
+          "qín",
+          "shòu",
+          "jū",
+          "zhī",
+          "",
+          "bǎo",
+          "zàng",
+          "xīng",
+          "yān",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "今夫天，斯昭昭之多，及其无穷也，日月星辰系焉，万物覆焉。今夫地，一撮土之多，及其广厚，载华岳而不重，振河海而不泄，万物载焉。今夫山，一卷石之多，及其广大，草木生之，禽兽居之，宝藏兴焉。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "今"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "夫"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "天"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "斯"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "昭"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "昭"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "之"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "多"
+          },
+          {
+            "end": 12,
+            "gloss": "(conjunction linking two nouns) and its ...; and their ...; and his ...; and her ...",
+            "pinyin": "jí qí",
+            "source": "CC-CEDICT",
+            "start": 10,
+            "word": "及其"
+          },
+          {
+            "end": 14,
+            "gloss": "endless / boundless / inexhaustible",
+            "pinyin": "wú qióng",
+            "source": "CC-CEDICT",
+            "start": 12,
+            "word": "无穷"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "也"
+          },
+          {
+            "end": 18,
+            "gloss": "the sun and moon / day and month / every day and every month / season / life and livelihood",
+            "pinyin": "rì yuè",
+            "source": "CC-CEDICT",
+            "start": 16,
+            "word": "日月"
+          },
+          {
+            "end": 20,
+            "gloss": "stars",
+            "pinyin": "xīng chén",
+            "source": "CC-CEDICT",
+            "start": 18,
+            "word": "星辰"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "系"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "焉"
+          },
+          {
+            "end": 25,
+            "gloss": "all things / all that exists",
+            "pinyin": "wàn wù",
+            "source": "CC-CEDICT",
+            "start": 23,
+            "word": "万物"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "覆"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "焉"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "今"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "夫"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "地"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "一"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "撮"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "土"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "之"
+          },
+          {
+            "end": 37,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 36,
+            "word": "多"
+          },
+          {
+            "end": 40,
+            "gloss": "(conjunction linking two nouns) and its ...; and their ...; and his ...; and her ...",
+            "pinyin": "jí qí",
+            "source": "CC-CEDICT",
+            "start": 38,
+            "word": "及其"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "广"
+          },
+          {
+            "end": 42,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 41,
+            "word": "厚"
+          },
+          {
+            "end": 44,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 43,
+            "word": "载"
+          },
+          {
+            "end": 45,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 44,
+            "word": "华"
+          },
+          {
+            "end": 46,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 45,
+            "word": "岳"
+          },
+          {
+            "end": 47,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 46,
+            "word": "而"
+          },
+          {
+            "end": 48,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 47,
+            "word": "不"
+          },
+          {
+            "end": 49,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 48,
+            "word": "重"
+          },
+          {
+            "end": 51,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 50,
+            "word": "振"
+          },
+          {
+            "end": 52,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 51,
+            "word": "河"
+          },
+          {
+            "end": 53,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 52,
+            "word": "海"
+          },
+          {
+            "end": 54,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 53,
+            "word": "而"
+          },
+          {
+            "end": 55,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 54,
+            "word": "不"
+          },
+          {
+            "end": 56,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 55,
+            "word": "泄"
+          },
+          {
+            "end": 59,
+            "gloss": "all things / all that exists",
+            "pinyin": "wàn wù",
+            "source": "CC-CEDICT",
+            "start": 57,
+            "word": "万物"
+          },
+          {
+            "end": 60,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 59,
+            "word": "载"
+          },
+          {
+            "end": 61,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 60,
+            "word": "焉"
+          },
+          {
+            "end": 63,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 62,
+            "word": "今"
+          },
+          {
+            "end": 64,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 63,
+            "word": "夫"
+          },
+          {
+            "end": 65,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 64,
+            "word": "山"
+          },
+          {
+            "end": 67,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 66,
+            "word": "一"
+          },
+          {
+            "end": 68,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 67,
+            "word": "卷"
+          },
+          {
+            "end": 69,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 68,
+            "word": "石"
+          },
+          {
+            "end": 70,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 69,
+            "word": "之"
+          },
+          {
+            "end": 71,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 70,
+            "word": "多"
+          },
+          {
+            "end": 74,
+            "gloss": "(conjunction linking two nouns) and its ...; and their ...; and his ...; and her ...",
+            "pinyin": "jí qí",
+            "source": "CC-CEDICT",
+            "start": 72,
+            "word": "及其"
+          },
+          {
+            "end": 76,
+            "gloss": "(of an area) vast or extensive / large-scale / widespread / (of people) numerous",
+            "pinyin": "guǎng dà",
+            "source": "CC-CEDICT",
+            "start": 74,
+            "word": "广大"
+          },
+          {
+            "end": 79,
+            "gloss": "vegetation / plants",
+            "pinyin": "cǎo mù",
+            "source": "CC-CEDICT",
+            "start": 77,
+            "word": "草木"
+          },
+          {
+            "end": 80,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 79,
+            "word": "生"
+          },
+          {
+            "end": 81,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 80,
+            "word": "之"
+          },
+          {
+            "end": 84,
+            "gloss": "birds and animals / creature / beast (brutal person)",
+            "pinyin": "qín shòu",
+            "source": "CC-CEDICT",
+            "start": 82,
+            "word": "禽兽"
+          },
+          {
+            "end": 85,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 84,
+            "word": "居"
+          },
+          {
+            "end": 86,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 85,
+            "word": "之"
+          },
+          {
+            "end": 89,
+            "gloss": "precious mineral deposits / hidden treasure / (fig.) treasure / (Buddhism) the treasure of Buddha's…",
+            "pinyin": "bǎo zàng",
+            "source": "CC-CEDICT",
+            "start": 87,
+            "word": "宝藏"
+          },
+          {
+            "end": 90,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 89,
+            "word": "兴"
+          },
+          {
+            "end": 91,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 90,
+            "word": "焉"
+          }
+        ]
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "public domain",
+            "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
+            "text": "The water now before us appears but a ladleful; yet extending our view to its unfathomable depths, the largest tortoises, iguanas, iguanodons, dragons, fishes, and turtles, are produced in it, articles of value and sources of wealth abound in it.",
             "translator": "Legge",
             "year": 1885
           }
@@ -171,16 +1665,211 @@
         "character_count": 23,
         "id": "chapter-026-line-010",
         "order": 10,
+        "pinyin_per_char": [
+          "jīn",
+          "fū",
+          "shuǐ",
+          "",
+          "yī",
+          "sháo",
+          "zhī",
+          "duō",
+          "",
+          "jí",
+          "qí",
+          "bú",
+          "cè",
+          "",
+          "yuán",
+          "tuó",
+          "",
+          "jiāo",
+          "lóng",
+          "",
+          "yú",
+          "biē",
+          "shēng",
+          "yān",
+          "",
+          "huò",
+          "cái",
+          "zhí",
+          "yān",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 2,
         "source_block_order": 9,
-        "text": "今夫水，一勺之多，及其不測，黿鼉、蛟龍、魚鱉生焉，貨財殖焉。"
+        "text": "今夫水，一勺之多，及其不测，鼋鼍、蛟龙、鱼鳖生焉，货财殖焉。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "今"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "夫"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "水"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "一"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "勺"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "之"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "多"
+          },
+          {
+            "end": 11,
+            "gloss": "(conjunction linking two nouns) and its ...; and their ...; and his ...; and her ...",
+            "pinyin": "jí qí",
+            "source": "CC-CEDICT",
+            "start": 9,
+            "word": "及其"
+          },
+          {
+            "end": 13,
+            "gloss": "unexpected / measureless / unexpected circumstance / contingency / mishap",
+            "pinyin": "bù cè",
+            "source": "CC-CEDICT",
+            "start": 11,
+            "word": "不测"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "鼋"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "鼍"
+          },
+          {
+            "end": 19,
+            "gloss": "legendary dragon with the ability to control rain and floods",
+            "pinyin": "jiāo lóng",
+            "source": "CC-CEDICT",
+            "start": 17,
+            "word": "蛟龙"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "鱼"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "鳖"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "生"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "焉"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "货"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "财"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "殖"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "焉"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "The earth before us is but a handful of soil; but when regarded in its breadth and thickness, it sustains mountains like the Hwa and the Yo, without feeling their weight, and contains the rivers and seas, without their leaking away. The mountain now before us appears only a stone; but when contemplated in all the vastness of its size, we see how the grass and trees are produced on it, and birds and beasts dwell on it, and precious things which men treasure up are found on it. The water now before us appears but a ladleful; yet extending our view to its unfathomable depths, the largest tortoises, iguanas, iguanodons, dragons, fishes, and turtles, are produced in it, articles of value and sources of wealth abound in it. It is said in the Book of Poetry, \"The ordinances of Heaven, how profound are they and unceasing!\" The meaning is, that it is thus that Heaven is Heaven. And again, \"How illustrious was it, the singleness of the virtue of King Wen!\" indicating that it was thus that King Wen was what he was. Singleness likewise is unceasing.",
+            "text": "It is said in the Book of Poetry, \"The ordinances of Heaven, how profound are they and unceasing!\" The meaning is, that it is thus that Heaven is Heaven. And again, \"How illustrious was it, the singleness of the virtue of King Wen!\" indicating that it was thus that King Wen was what he was. Singleness likewise is unceasing.",
             "translator": "Legge",
             "year": 1885
           }
@@ -188,16 +1877,372 @@
         "character_count": 43,
         "id": "chapter-026-line-011",
         "order": 11,
+        "pinyin_per_char": [
+          "shī",
+          "yún",
+          "",
+          "",
+          "wéi",
+          "tiān",
+          "zhī",
+          "mìng",
+          "",
+          "yú",
+          "mù",
+          "bù",
+          "yǐ",
+          "",
+          "",
+          "gài",
+          "yuē",
+          "tiān",
+          "zhī",
+          "suó",
+          "yǐ",
+          "wéi",
+          "tiān",
+          "yě",
+          "",
+          "",
+          "yú",
+          "hū",
+          "bù",
+          "xiǎn",
+          "",
+          "wén",
+          "wáng",
+          "zhī",
+          "dé",
+          "zhī",
+          "chún",
+          "",
+          "",
+          "gài",
+          "yuē",
+          "wén",
+          "wáng",
+          "zhī",
+          "suó",
+          "yǐ",
+          "wéi",
+          "wén",
+          "yě",
+          "",
+          "chún",
+          "yì",
+          "bù",
+          "yǐ",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 10,
-        "text": "詩云：「維天之命，於穆不已！」蓋曰天之所以為天也。「於乎不顯！文王之德之純！」蓋曰文王之所以為文也，純亦不已。"
+        "text": "诗云：「维天之命，于穆不已！」盖曰天之所以为天也。「于乎不显！文王之德之纯！」盖曰文王之所以为文也，纯亦不已。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "诗"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "云"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "维"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "天"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "之"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "命"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "于"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "穆"
+          },
+          {
+            "end": 13,
+            "gloss": "(used after a verb) endlessly; incessantly",
+            "pinyin": "bù yǐ",
+            "source": "CC-CEDICT",
+            "start": 11,
+            "word": "不已"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "盖"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "曰"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "天"
+          },
+          {
+            "end": 21,
+            "gloss": "(after a noun N and before a predicate P) the reason why N P / Example: 我之所以讨厌他|我之所以讨厌他[wo3 zhi1 su…",
+            "pinyin": "zhī suǒ yǐ",
+            "source": "CC-CEDICT",
+            "start": 18,
+            "word": "之所以"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "为"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "天"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "也"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "于"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "乎"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "不"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "显"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "文"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "王"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "之"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "德"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "之"
+          },
+          {
+            "end": 37,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 36,
+            "word": "纯"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "盖"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "曰"
+          },
+          {
+            "end": 42,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 41,
+            "word": "文"
+          },
+          {
+            "end": 43,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 42,
+            "word": "王"
+          },
+          {
+            "end": 46,
+            "gloss": "(after a noun N and before a predicate P) the reason why N P / Example: 我之所以讨厌他|我之所以讨厌他[wo3 zhi1 su…",
+            "pinyin": "zhī suǒ yǐ",
+            "source": "CC-CEDICT",
+            "start": 43,
+            "word": "之所以"
+          },
+          {
+            "end": 47,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 46,
+            "word": "为"
+          },
+          {
+            "end": 48,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 47,
+            "word": "文"
+          },
+          {
+            "end": 49,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 48,
+            "word": "也"
+          },
+          {
+            "end": 51,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 50,
+            "word": "纯"
+          },
+          {
+            "end": 52,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 51,
+            "word": "亦"
+          },
+          {
+            "end": 54,
+            "gloss": "(used after a verb) endlessly; incessantly",
+            "pinyin": "bù yǐ",
+            "source": "CC-CEDICT",
+            "start": 52,
+            "word": "不已"
+          }
+        ]
       }
     ],
     "summary": "",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "故至誠無息。\n不息則久，久則徵，\n徵則悠遠，悠遠則博厚，博厚則高明。\n博厚，所以載物也；高明，所以覆物也；悠久，所以成物也。\n博厚配地，高明配天，悠久無疆。\n如此者，不見而章，不動而變，無為而成。\n天地之道，可一言而盡也：其為物不貳，則其生物不測。\n天地之道：博也，厚也，高也，明也，悠也，久也。\n今夫天，斯昭昭之多，及其無窮也，日月星辰繫焉，萬物覆焉。今夫地，一撮土之多，及其廣厚，載華嶽而不重，振河海而不洩，萬物載焉。今夫山，一卷石之多，及其廣大，草木生之，禽獸居之，寶藏興焉。\n今夫水，一勺之多，及其不測，黿鼉、蛟龍、魚鱉生焉，貨財殖焉。\n詩云：「維天之命，於穆不已！」蓋曰天之所以為天也。「於乎不顯！文王之德之純！」蓋曰文王之所以為文也，純亦不已。",
+    "text": "故至诚无息。\n不息则久，久则征，\n征则悠远，悠远则博厚，博厚则高明。\n博厚，所以载物也；高明，所以覆物也；悠久，所以成物也。\n博厚配地，高明配天，悠久无疆。\n如此者，不见而章，不动而变，无为而成。\n天地之道，可一言而尽也：其为物不贰，则其生物不测。\n天地之道：博也，厚也，高也，明也，悠也，久也。\n今夫天，斯昭昭之多，及其无穷也，日月星辰系焉，万物覆焉。今夫地，一撮土之多，及其广厚，载华岳而不重，振河海而不泄，万物载焉。今夫山，一卷石之多，及其广大，草木生之，禽兽居之，宝藏兴焉。\n今夫水，一勺之多，及其不测，鼋鼍、蛟龙、鱼鳖生焉，货财殖焉。\n诗云：「维天之命，于穆不已！」盖曰天之所以为天也。「于乎不显！文王之德之纯！」盖曰文王之所以为文也，纯亦不已。",
     "title": ""
   },
   "chapter_path": "books/zhong-yong/chapters/chapter-026.json",

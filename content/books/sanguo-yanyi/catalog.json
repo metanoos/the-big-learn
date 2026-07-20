@@ -1,6 +1,28 @@
 {
   "cache_dir": "books/sanguo-yanyi",
   "catalog_path": "books/sanguo-yanyi/catalog.json",
+  "display_name": "Sanguo Yanyi 三国演义",
+  "name_zh": "三国演义",
+  "name_pinyin": "Sān Guó Yǎn Yì",
+  "name_en": "Romance of the Three Kingdoms",
+  "v1": true,
+  "available": true,
+  "tradition": "secular",
+  "form": "prose-fiction",
+  "year": 1400,
+  "tier": "B",
+  "difficulty": "advanced",
+  "curriculum_order": 202,
+  "title": "三国演义 - 维基文库，自由的图书馆",
+  "source_url": "https://zh.wikisource.org/wiki/%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9",
+  "provider": "wikisource-html",
+  "seed_translator": {
+    "translator": "C. H. Brewitt-Taylor",
+    "year": 1925,
+    "license": "public domain"
+  },
+  "blurb": "Romance of the Three Kingdoms — the great historical novel of the collapse of the Han, and the single richest source of Chinese idioms still in everyday use.",
+  "background": "Sanguo Yanyi (Romance of the Three Kingdoms) is a 120-chapter historical novel traditionally attributed to Luo Guanzhong (c. 1400 CE) that dramatizes the wars between the states of Wei, Shu, and Wu after the fall of the Han dynasty in 220 CE. It is one of the Four Great Classical Novels, and its characters — Liu Bei, Cao Cao, Zhuge Liang, Guan Yu — are still reference points in modern Chinese political and business talk; dozens of everyday chengyu are coined or popularized here (说曹操曹操到, 万事俱备只欠东风, 三个臭皮匠顶个诸葛亮). The novel blends history with romance: it is loosely based on Chen Shou's third-century Sanguo Zhi, but it tilted the record toward Shu as the legitimate succession and fixed Cao Cao as the villain for the next six hundred years of popular memory. Translation seeded from C.H. Brewitt-Taylor (1925, public domain); the verse inserts Brewitt-Taylor omitted are filled with GLM-translated renderings, each labeled `source: \"llm\"`, and the line's byline names the generator and license (e.g. \"GLM · 2026 · machine-generated\"). See content/SOURCES.md for the named exception to the no-machine-translation rule.",
   "chapter_count": 120,
   "chapters": [
     {
@@ -11,7 +33,7 @@
       "reading_unit_count": 56,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第一回 宴桃園豪傑三結義　　斬黃巾英雄首立功"
+      "title": "第一回 宴桃园豪杰三结义　　斩黄巾英雄首立功"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-002.json",
@@ -21,7 +43,7 @@
       "reading_unit_count": 61,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第二回 張翼德怒鞭督郵　　　何國舅謀誅宦豎"
+      "title": "第二回 张翼德怒鞭督邮　　　何国舅谋诛宦竖"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-003.json",
@@ -31,7 +53,7 @@
       "reading_unit_count": 55,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第三回 議溫明董卓叱丁原　　餽金珠李肅說呂布"
+      "title": "第三回 议温明董卓叱丁原　　餽金珠李肃说吕布"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-004.json",
@@ -41,7 +63,7 @@
       "reading_unit_count": 59,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第四回 廢漢帝陳留踐位　　　謀董賊孟德獻刀"
+      "title": "第四回 废汉帝陈留践位　　　谋董贼孟德献刀"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-005.json",
@@ -51,7 +73,7 @@
       "reading_unit_count": 97,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第五回 發矯詔諸鎮應曹公　　破關兵三英戰呂布"
+      "title": "第五回 发矫诏诸镇应曹公　　破关兵三英战吕布"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-006.json",
@@ -61,7 +83,7 @@
       "reading_unit_count": 45,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第六回 焚金闕董卓行兇　　　匿玉璽孫堅背約"
+      "title": "第六回 焚金阙董卓行凶　　　匿玉玺孙坚背约"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-007.json",
@@ -71,7 +93,7 @@
       "reading_unit_count": 50,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第七回 袁紹磐河戰公孫　　　孫堅跨江擊劉表"
+      "title": "第七回 袁绍磐河战公孙　　　孙坚跨江击刘表"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-008.json",
@@ -81,7 +103,7 @@
       "reading_unit_count": 54,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第八回 王司徒巧使連環計　　董太師大鬧鳳儀亭"
+      "title": "第八回 王司徒巧使连环计　　董太师大闹凤仪亭"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-009.json",
@@ -91,7 +113,7 @@
       "reading_unit_count": 67,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第九回 除暴徒呂布助司徒　　犯長安李傕聽賈詡"
+      "title": "第九回 除暴徒吕布助司徒　　犯长安李傕听贾诩"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-010.json",
@@ -101,7 +123,7 @@
       "reading_unit_count": 48,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第十回 勤王室馬騰舉義　　　報父讎曹操興師"
+      "title": "第十回 勤王室马腾举义　　　报父雠曹操兴师"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-011.json",
@@ -111,7 +133,7 @@
       "reading_unit_count": 63,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第十一回 劉皇叔北海救孔融　　呂溫侯濮陽破曹操"
+      "title": "第十一回 刘皇叔北海救孔融　　吕温侯濮阳破曹操"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-012.json",
@@ -121,7 +143,7 @@
       "reading_unit_count": 53,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第十二回 陶恭祖三讓徐州　　　曹孟德大戰呂布"
+      "title": "第十二回 陶恭祖三让徐州　　　曹孟德大战吕布"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-013.json",
@@ -131,7 +153,7 @@
       "reading_unit_count": 79,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第十三回 李傕郭汜大交兵　　　楊奉董承雙救駕"
+      "title": "第十三回 李傕郭汜大交兵　　　杨奉董承双救驾"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-014.json",
@@ -141,7 +163,7 @@
       "reading_unit_count": 79,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第十四回 曹孟德移駕幸許都　　呂奉先乘夜襲徐郡"
+      "title": "第十四回 曹孟德移驾幸许都　　吕奉先乘夜袭徐郡"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-015.json",
@@ -151,7 +173,7 @@
       "reading_unit_count": 85,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第十五回 太史慈酣鬥小霸王　　孫伯符大戰嚴白虎"
+      "title": "第十五回 太史慈酣斗小霸王　　孙伯符大战严白虎"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-016.json",
@@ -161,7 +183,7 @@
       "reading_unit_count": 88,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第十六回 呂奉先射戟轅門　　　曹孟德敗師淯水"
+      "title": "第十六回 吕奉先射戟辕门　　　曹孟德败师淯水"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-017.json",
@@ -171,17 +193,17 @@
       "reading_unit_count": 55,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第十七回 袁公路大起七軍　　　曹孟德會合三將"
+      "title": "第十七回 袁公路大起七军　　　曹孟德会合三将"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-018.json",
       "character_count": 3077,
       "id": "chapter-018",
       "order": 18,
-      "reading_unit_count": 47,
+      "reading_unit_count": 46,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第十八回 賈文和料敵決勝　　　夏侯惇拔矢啖睛"
+      "title": "第十八回 贾文和料敌决胜　　　夏侯惇拔矢啖睛"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-019.json",
@@ -191,7 +213,7 @@
       "reading_unit_count": 87,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第十九回 下邳城曹操鏖兵　　　白門樓呂布殞命"
+      "title": "第十九回 下邳城曹操鏖兵　　　白门楼吕布殒命"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-020.json",
@@ -201,7 +223,7 @@
       "reading_unit_count": 52,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第二十回 曹阿瞞許田打圍　　　董國舅內閣受詔"
+      "title": "第二十回 曹阿瞒许田打围　　　董国舅内阁受诏"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-021.json",
@@ -211,7 +233,7 @@
       "reading_unit_count": 63,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第二十一回 曹操煮酒論英雄　　　關公賺城斬車胄"
+      "title": "第二十一回 曹操煮酒论英雄　　　关公赚城斩车胄"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-022.json",
@@ -221,7 +243,7 @@
       "reading_unit_count": 64,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第二十二回 袁曹各起馬步三軍　　關張共擒王劉二將"
+      "title": "第二十二回 袁曹各起马步三军　　关张共擒王刘二将"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-023.json",
@@ -231,7 +253,7 @@
       "reading_unit_count": 69,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第二十三回 禰正平裸衣罵賊　　　吉太醫下毒遭刑"
+      "title": "第二十三回 祢正平裸衣骂贼　　　吉太医下毒遭刑"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-024.json",
@@ -241,7 +263,7 @@
       "reading_unit_count": 42,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第二十四回 國賊行兇殺貴妃　　　皇叔敗走投袁紹"
+      "title": "第二十四回 国贼行凶杀贵妃　　　皇叔败走投袁绍"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-025.json",
@@ -251,7 +273,7 @@
       "reading_unit_count": 59,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第二十五回 屯土山關公約三事　　救白馬曹操解重圍"
+      "title": "第二十五回 屯土山关公约三事　　救白马曹操解重围"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-026.json",
@@ -261,7 +283,7 @@
       "reading_unit_count": 47,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第二十六回 袁本初敗兵折將　　　關雲長掛印封金"
+      "title": "第二十六回 袁本初败兵折将　　　关云长挂印封金"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-027.json",
@@ -271,7 +293,7 @@
       "reading_unit_count": 56,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第二十七回 美髯公千里走單騎　　漢壽侯五關斬六將"
+      "title": "第二十七回 美髯公千里走单骑　　汉寿侯五关斩六将"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-028.json",
@@ -281,17 +303,17 @@
       "reading_unit_count": 71,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第二十八回 斬蔡陽兄弟釋疑　　　會古城主臣聚義"
+      "title": "第二十八回 斩蔡阳兄弟释疑　　　会古城主臣聚义"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-029.json",
       "character_count": 4067,
       "id": "chapter-029",
       "order": 29,
-      "reading_unit_count": 65,
+      "reading_unit_count": 64,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第二十九回 小霸王怒斬于吉　　　碧眼兒坐領江東"
+      "title": "第二十九回 小霸王怒斩于吉　　　碧眼儿坐领江东"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-030.json",
@@ -301,7 +323,7 @@
       "reading_unit_count": 76,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第三十回 戰官渡本初敗績　　　劫烏巢孟德燒糧"
+      "title": "第三十回 战官渡本初败绩　　　劫乌巢孟德烧粮"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-031.json",
@@ -311,7 +333,7 @@
       "reading_unit_count": 55,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第三十一回 曹操倉亭破本初　　　玄德荊州依劉表"
+      "title": "第三十一回 曹操仓亭破本初　　　玄德荆州依刘表"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-032.json",
@@ -321,7 +343,7 @@
       "reading_unit_count": 70,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第三十二回 奪冀州袁尚爭鋒　　　決漳河許攸獻計"
+      "title": "第三十二回 夺冀州袁尚争锋　　　决漳河许攸献计"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-033.json",
@@ -331,7 +353,7 @@
       "reading_unit_count": 66,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第三十三回 曹丕乘亂納甄氏　　　郭嘉遺計定遼東"
+      "title": "第三十三回 曹丕乘乱纳甄氏　　　郭嘉遗计定辽东"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-034.json",
@@ -341,7 +363,7 @@
       "reading_unit_count": 67,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第三十四回 蔡夫人隔屏聽密語　　劉皇叔躍馬過檀溪"
+      "title": "第三十四回 蔡夫人隔屏听密语　　刘皇叔跃马过檀溪"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-035.json",
@@ -351,17 +373,17 @@
       "reading_unit_count": 47,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第三十五回 玄德南漳逢隱淪　　　單福新野遇英主"
+      "title": "第三十五回 玄德南漳逢隐沦　　　单福新野遇英主"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-036.json",
       "character_count": 3390,
       "id": "chapter-036",
       "order": 36,
-      "reading_unit_count": 51,
+      "reading_unit_count": 50,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第三十六回 玄德用計襲樊城　　　元直走馬薦諸葛"
+      "title": "第三十六回 玄德用计袭樊城　　　元直走马荐诸葛"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-037.json",
@@ -371,17 +393,17 @@
       "reading_unit_count": 100,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第三十七回 司馬徽再薦名士　　　劉玄德三顧草廬"
+      "title": "第三十七回 司马徽再荐名士　　　刘玄德三顾草庐"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-038.json",
       "character_count": 4097,
       "id": "chapter-038",
       "order": 38,
-      "reading_unit_count": 76,
+      "reading_unit_count": 75,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第三十八回 定三分隆中決策　　　戰長江孫氏報讎"
+      "title": "第三十八回 定三分隆中决策　　　战长江孙氏报雠"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-039.json",
@@ -391,7 +413,7 @@
       "reading_unit_count": 61,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第三十九回 荊州城公子三求計　　博望坡軍師初用兵"
+      "title": "第三十九回 荆州城公子三求计　　博望坡军师初用兵"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-040.json",
@@ -401,7 +423,7 @@
       "reading_unit_count": 61,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第四十回 蔡夫人議獻荊州　　　諸葛亮火燒新野"
+      "title": "第四十回 蔡夫人议献荆州　　　诸葛亮火烧新野"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-041.json",
@@ -411,17 +433,17 @@
       "reading_unit_count": 83,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第四十一回 劉玄德攜民渡江　　　趙子龍單騎救主"
+      "title": "第四十一回 刘玄德携民渡江　　　赵子龙单骑救主"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-042.json",
       "character_count": 3026,
       "id": "chapter-042",
       "order": 42,
-      "reading_unit_count": 52,
+      "reading_unit_count": 51,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第四十二回 張翼德大鬧長阪橋　　劉豫州敗走漢津口"
+      "title": "第四十二回 张翼德大闹长阪桥　　刘豫州败走汉津口"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-043.json",
@@ -431,27 +453,27 @@
       "reading_unit_count": 64,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第四十三回 諸葛亮舌戰群儒　　　魯子敬力排眾議"
+      "title": "第四十三回 诸葛亮舌战群儒　　　鲁子敬力排众议"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-044.json",
       "character_count": 3719,
       "id": "chapter-044",
       "order": 44,
-      "reading_unit_count": 72,
+      "reading_unit_count": 71,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第四十四回 孔明用智激周瑜　　　孫權決計破曹操"
+      "title": "第四十四回 孔明用智激周瑜　　　孙权决计破曹操"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-045.json",
       "character_count": 4404,
       "id": "chapter-045",
       "order": 45,
-      "reading_unit_count": 64,
+      "reading_unit_count": 63,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第四十五回 三江口曹操折兵　　　群英會蔣幹中計"
+      "title": "第四十五回 三江口曹操折兵　　　群英会蒋干中计"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-046.json",
@@ -461,7 +483,7 @@
       "reading_unit_count": 83,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第四十六回 用奇謀孔明借箭　　　獻密計黃蓋受刑"
+      "title": "第四十六回 用奇谋孔明借箭　　　献密计黄盖受刑"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-047.json",
@@ -471,7 +493,7 @@
       "reading_unit_count": 51,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第四十七回 闞澤密獻詐降書　　　龐統巧授連環計"
+      "title": "第四十七回 阚泽密献诈降书　　　庞统巧授连环计"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-048.json",
@@ -481,7 +503,7 @@
       "reading_unit_count": 59,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第四十八回 宴長江曹操賦詩　　　鎖戰船北軍用武"
+      "title": "第四十八回 宴长江曹操赋诗　　　锁战船北军用武"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-049.json",
@@ -491,7 +513,7 @@
       "reading_unit_count": 65,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第四十九回 七星壇諸葛祭風　　　三江口周瑜縱火"
+      "title": "第四十九回 七星坛诸葛祭风　　　三江口周瑜纵火"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-050.json",
@@ -501,7 +523,7 @@
       "reading_unit_count": 52,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第五十回 諸葛亮智算華容　　　關雲長義釋曹操"
+      "title": "第五十回 诸葛亮智算华容　　　关云长义释曹操"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-051.json",
@@ -511,7 +533,7 @@
       "reading_unit_count": 50,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第五十一回 曹仁大戰東吳兵　　　孔明一氣周公瑾"
+      "title": "第五十一回 曹仁大战东吴兵　　　孔明一气周公瑾"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-052.json",
@@ -521,7 +543,7 @@
       "reading_unit_count": 52,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第五十二回 諸葛亮智辭魯肅　　　趙子龍計取桂陽"
+      "title": "第五十二回 诸葛亮智辞鲁肃　　　赵子龙计取桂阳"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-053.json",
@@ -531,7 +553,7 @@
       "reading_unit_count": 63,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第五十三回 關雲長義釋黃漢升　　孫仲謀大戰張文遠"
+      "title": "第五十三回 关云长义释黄汉升　　孙仲谋大战张文远"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-054.json",
@@ -541,7 +563,7 @@
       "reading_unit_count": 65,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第五十四回 吳國太佛寺看新郎　　劉皇叔洞房續佳偶"
+      "title": "第五十四回 吴国太佛寺看新郎　　刘皇叔洞房续佳偶"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-055.json",
@@ -551,7 +573,7 @@
       "reading_unit_count": 48,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第五十五回 玄德智激孫夫人　　　孔明二氣周公瑾"
+      "title": "第五十五回 玄德智激孙夫人　　　孔明二气周公瑾"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-056.json",
@@ -561,7 +583,7 @@
       "reading_unit_count": 57,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第五十六回 曹操大宴銅雀臺　　　孔明三氣周公瑾"
+      "title": "第五十六回 曹操大宴铜雀台　　　孔明三气周公瑾"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-057.json",
@@ -571,17 +593,17 @@
       "reading_unit_count": 90,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第五十七回 柴桑口臥龍弔喪　　　耒陽縣鳳雛理事"
+      "title": "第五十七回 柴桑口卧龙吊丧　　　耒阳县凤雏理事"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-058.json",
       "character_count": 4270,
       "id": "chapter-058",
       "order": 58,
-      "reading_unit_count": 61,
+      "reading_unit_count": 60,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第五十八回 馬孟起興兵雪恨　　　曹阿瞞割鬚棄袍"
+      "title": "第五十八回 马孟起兴兵雪恨　　　曹阿瞒割须弃袍"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-059.json",
@@ -591,7 +613,7 @@
       "reading_unit_count": 57,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第五十九回 許褚裸衣鬥馬超　　　曹操抹書間韓遂"
+      "title": "第五十九回 许褚裸衣斗马超　　　曹操抹书间韩遂"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-060.json",
@@ -601,7 +623,7 @@
       "reading_unit_count": 89,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第六十回 張永年反難楊修　　　龐士元議取西蜀"
+      "title": "第六十回 张永年反难杨修　　　庞士元议取西蜀"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-061.json",
@@ -611,7 +633,7 @@
       "reading_unit_count": 73,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第六十一回 趙雲截江奪阿斗　　　孫權遺書退老瞞"
+      "title": "第六十一回 赵云截江夺阿斗　　　孙权遗书退老瞒"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-062.json",
@@ -621,7 +643,7 @@
       "reading_unit_count": 64,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第六十二回 取涪關楊高授首　　　攻雒城黃魏爭功"
+      "title": "第六十二回 取涪关杨高授首　　　攻雒城黄魏争功"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-063.json",
@@ -631,7 +653,7 @@
       "reading_unit_count": 76,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第六十三回 諸葛亮痛哭龐統　　　張翼德義釋嚴顏"
+      "title": "第六十三回 诸葛亮痛哭庞统　　　张翼德义释严颜"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-064.json",
@@ -641,7 +663,7 @@
       "reading_unit_count": 63,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第六十四回 孔明定計捉張任　　　楊阜借兵破馬超"
+      "title": "第六十四回 孔明定计捉张任　　　杨阜借兵破马超"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-065.json",
@@ -651,7 +673,7 @@
       "reading_unit_count": 69,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第六十五回 馬超大戰葭萌關　　　劉備自領益州牧"
+      "title": "第六十五回 马超大战葭萌关　　　刘备自领益州牧"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-066.json",
@@ -661,7 +683,7 @@
       "reading_unit_count": 65,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第六十六回 關雲長單刀赴會　　　伏皇后為國捐生"
+      "title": "第六十六回 关云长单刀赴会　　　伏皇后为国捐生"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-067.json",
@@ -671,7 +693,7 @@
       "reading_unit_count": 66,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第六十七回 曹操平定漢中地　　　張遼威震逍遙津"
+      "title": "第六十七回 曹操平定汉中地　　　张辽威震逍遥津"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-068.json",
@@ -681,7 +703,7 @@
       "reading_unit_count": 65,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第六十八回 甘寧百騎劫魏營　　　左慈擲盃戲曹操"
+      "title": "第六十八回 甘宁百骑劫魏营　　　左慈掷杯戏曹操"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-069.json",
@@ -691,7 +713,7 @@
       "reading_unit_count": 63,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第六十九回 卜周易管輅知機　　　討漢賊五臣死節"
+      "title": "第六十九回 卜周易管辂知机　　　讨汉贼五臣死节"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-070.json",
@@ -701,7 +723,7 @@
       "reading_unit_count": 57,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第七十回 猛張飛智取瓦口隘　　老黃忠計奪天蕩山"
+      "title": "第七十回 猛张飞智取瓦口隘　　老黄忠计夺天荡山"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-071.json",
@@ -711,7 +733,7 @@
       "reading_unit_count": 69,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第七十一回 占對山黃忠逸待勞　　據漢水趙雲寡勝眾"
+      "title": "第七十一回 占对山黄忠逸待劳　　据汉水赵云寡胜众"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-072.json",
@@ -721,7 +743,7 @@
       "reading_unit_count": 50,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第七十二回 諸葛亮智取漢中　　　曹阿瞞兵退斜谷"
+      "title": "第七十二回 诸葛亮智取汉中　　　曹阿瞒兵退斜谷"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-073.json",
@@ -731,7 +753,7 @@
       "reading_unit_count": 57,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第七十三回 玄德進位漢中王　　　雲長攻拔襄陽郡"
+      "title": "第七十三回 玄德进位汉中王　　　云长攻拔襄阳郡"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-074.json",
@@ -741,7 +763,7 @@
       "reading_unit_count": 51,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第七十四回 龐令明擡櫬決死戰　　關雲長放水渰七軍"
+      "title": "第七十四回 庞令明擡榇决死战　　关云长放水渰七军"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-075.json",
@@ -751,7 +773,7 @@
       "reading_unit_count": 45,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第七十五回 關雲長刮骨療毒　　　呂子明白衣渡江"
+      "title": "第七十五回 关云长刮骨疗毒　　　吕子明白衣渡江"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-076.json",
@@ -761,17 +783,17 @@
       "reading_unit_count": 52,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第七十六回 徐公明大戰沔水　　　關雲長敗走麥城"
+      "title": "第七十六回 徐公明大战沔水　　　关云长败走麦城"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-077.json",
       "character_count": 3615,
       "id": "chapter-077",
       "order": 77,
-      "reading_unit_count": 62,
+      "reading_unit_count": 61,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第七十七回 玉泉山關公顯聖　　　洛陽城曹操感神"
+      "title": "第七十七回 玉泉山关公显圣　　　洛阳城曹操感神"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-078.json",
@@ -781,7 +803,7 @@
       "reading_unit_count": 58,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第七十八回 治風疾神醫身死　　　傳遺命奸雄數終"
+      "title": "第七十八回 治风疾神医身死　　　传遗命奸雄数终"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-079.json",
@@ -791,7 +813,7 @@
       "reading_unit_count": 50,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第七十九回 兄逼弟曹植賦詩　　　姪陷叔劉封伏法"
+      "title": "第七十九回 兄逼弟曹植赋诗　　　姪陷叔刘封伏法"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-080.json",
@@ -801,7 +823,7 @@
       "reading_unit_count": 54,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第八十回 曹丕廢帝篡炎劉　　　漢王正位繼大統"
+      "title": "第八十回 曹丕废帝篡炎刘　　　汉王正位继大统"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-081.json",
@@ -811,17 +833,17 @@
       "reading_unit_count": 45,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第八十一回 急兄讎張飛遇害　　　雪弟恨先主興兵"
+      "title": "第八十一回 急兄雠张飞遇害　　　雪弟恨先主兴兵"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-082.json",
       "character_count": 3541,
       "id": "chapter-082",
       "order": 82,
-      "reading_unit_count": 48,
+      "reading_unit_count": 47,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第八十二回 孫權降魏受九錫　　　先主征吳賞六軍"
+      "title": "第八十二回 孙权降魏受九锡　　　先主征吴赏六军"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-083.json",
@@ -831,7 +853,7 @@
       "reading_unit_count": 69,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第八十三回 戰猇亭先主得讎人　　守江口書生拜大將"
+      "title": "第八十三回 战猇亭先主得雠人　　守江口书生拜大将"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-084.json",
@@ -841,7 +863,7 @@
       "reading_unit_count": 67,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第八十四回 陸遜營燒七百里　　　孔明巧布八陣圖"
+      "title": "第八十四回 陆逊营烧七百里　　　孔明巧布八阵图"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-085.json",
@@ -851,17 +873,17 @@
       "reading_unit_count": 61,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第八十五回 劉先主遺詔託孤兒　　諸葛亮安居平五路"
+      "title": "第八十五回 刘先主遗诏托孤儿　　诸葛亮安居平五路"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-086.json",
       "character_count": 4176,
       "id": "chapter-086",
       "order": 86,
-      "reading_unit_count": 56,
+      "reading_unit_count": 55,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第八十六回 難張溫秦宓逞天辯　　破曹丕徐盛用火攻"
+      "title": "第八十六回 难张温秦宓逞天辩　　破曹丕徐盛用火攻"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-087.json",
@@ -871,7 +893,7 @@
       "reading_unit_count": 61,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第八十七回 征南寇丞相大興師　　抗天兵蠻王初受執"
+      "title": "第八十七回 征南寇丞相大兴师　　抗天兵蛮王初受执"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-088.json",
@@ -881,7 +903,7 @@
       "reading_unit_count": 56,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第八十八回 渡瀘水再縛番王　　　識詐降三擒孟獲"
+      "title": "第八十八回 渡泸水再缚番王　　　识诈降三擒孟获"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-089.json",
@@ -891,7 +913,7 @@
       "reading_unit_count": 71,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第八十九回 武鄉侯四番用計　　　南蠻王五次遭擒"
+      "title": "第八十九回 武乡侯四番用计　　　南蛮王五次遭擒"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-090.json",
@@ -901,7 +923,7 @@
       "reading_unit_count": 74,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第九十回 驅巨獸六破蠻兵　　　燒藤甲七擒孟獲"
+      "title": "第九十回 驱巨兽六破蛮兵　　　烧藤甲七擒孟获"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-091.json",
@@ -911,7 +933,7 @@
       "reading_unit_count": 62,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第九十一回 祭瀘水漢相班師　　　伐中原武侯上表"
+      "title": "第九十一回 祭泸水汉相班师　　　伐中原武侯上表"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-092.json",
@@ -921,7 +943,7 @@
       "reading_unit_count": 56,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第九十二回 趙子龍力斬五將　　　諸葛亮智取三城"
+      "title": "第九十二回 赵子龙力斩五将　　　诸葛亮智取三城"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-093.json",
@@ -931,7 +953,7 @@
       "reading_unit_count": 58,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第九十三回 姜伯約歸降孔明　　　武鄉侯罵死王朗"
+      "title": "第九十三回 姜伯约归降孔明　　　武乡侯骂死王朗"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-094.json",
@@ -941,7 +963,7 @@
       "reading_unit_count": 59,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第九十四回 諸葛亮乘雪破羌兵　　司馬懿剋日擒孟達"
+      "title": "第九十四回 诸葛亮乘雪破羌兵　　司马懿克日擒孟达"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-095.json",
@@ -951,17 +973,17 @@
       "reading_unit_count": 64,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第九十五回 馬謖拒諫失街亭　　　武侯彈琴退仲達"
+      "title": "第九十五回 马谡拒谏失街亭　　　武侯弹琴退仲达"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-096.json",
       "character_count": 3757,
       "id": "chapter-096",
       "order": 96,
-      "reading_unit_count": 52,
+      "reading_unit_count": 51,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第九十六回 孔明揮淚斬馬謖　　　周魴斷髮賺曹休"
+      "title": "第九十六回 孔明挥泪斩马谡　　　周鲂断发赚曹休"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-097.json",
@@ -971,7 +993,7 @@
       "reading_unit_count": 59,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第九十七回 討魏國武侯再上表　　破曹兵姜維詐獻書"
+      "title": "第九十七回 讨魏国武侯再上表　　破曹兵姜维诈献书"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-098.json",
@@ -981,7 +1003,7 @@
       "reading_unit_count": 56,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第九十八回 追漢軍王雙受誅　　　襲陳倉武侯取勝"
+      "title": "第九十八回 追汉军王双受诛　　　袭陈仓武侯取胜"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-099.json",
@@ -991,7 +1013,7 @@
       "reading_unit_count": 65,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第九十九回 諸葛亮大破魏兵　　　司馬懿入寇西蜀"
+      "title": "第九十九回 诸葛亮大破魏兵　　　司马懿入寇西蜀"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-100.json",
@@ -1001,7 +1023,7 @@
       "reading_unit_count": 58,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第一百回 漢兵劫寨破曹真　　　武侯鬥陣辱仲達"
+      "title": "第一百回 汉兵劫寨破曹真　　　武侯斗阵辱仲达"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-101.json",
@@ -1011,7 +1033,7 @@
       "reading_unit_count": 67,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第一百一回 出隴上諸葛妝神　　　奔劍閣張郃中計"
+      "title": "第一百一回 出陇上诸葛妆神　　　奔剑阁张郃中计"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-102.json",
@@ -1021,7 +1043,7 @@
       "reading_unit_count": 78,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第一百二回 司馬懿占北原渭橋　　諸葛亮造木牛流馬"
+      "title": "第一百二回 司马懿占北原渭桥　　诸葛亮造木牛流马"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-103.json",
@@ -1031,7 +1053,7 @@
       "reading_unit_count": 64,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第一百三回 上方谷司馬受困　　　五丈原諸葛禳星"
+      "title": "第一百三回 上方谷司马受困　　　五丈原诸葛禳星"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-104.json",
@@ -1041,7 +1063,7 @@
       "reading_unit_count": 58,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第一百四回 隕大星漢丞相歸天　　見木像魏都督喪膽"
+      "title": "第一百四回 陨大星汉丞相归天　　见木像魏都督丧胆"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-105.json",
@@ -1051,7 +1073,7 @@
       "reading_unit_count": 68,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第一百五回 武侯預伏錦囊計　　　魏主拆取承露盤"
+      "title": "第一百五回 武侯预伏锦囊计　　　魏主拆取承露盘"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-106.json",
@@ -1061,17 +1083,17 @@
       "reading_unit_count": 55,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第一百六回 公孫淵兵敗死襄平　　司馬懿詐病賺曹爽"
+      "title": "第一百六回 公孙渊兵败死襄平　　司马懿诈病赚曹爽"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-107.json",
       "character_count": 4438,
       "id": "chapter-107",
       "order": 107,
-      "reading_unit_count": 68,
+      "reading_unit_count": 67,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第一百七回 魏主政歸司馬氏　　　姜維兵敗牛頭山"
+      "title": "第一百七回 魏主政归司马氏　　　姜维兵败牛头山"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-108.json",
@@ -1081,7 +1103,7 @@
       "reading_unit_count": 51,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第一百八回 丁奉雪中奮短兵　　　孫峻席間施密計"
+      "title": "第一百八回 丁奉雪中奋短兵　　　孙峻席间施密计"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-109.json",
@@ -1091,7 +1113,7 @@
       "reading_unit_count": 52,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第一百九回 困司馬漢將奇謀　　　廢曹芳魏家果報"
+      "title": "第一百九回 困司马汉将奇谋　　　废曹芳魏家果报"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-110.json",
@@ -1101,7 +1123,7 @@
       "reading_unit_count": 50,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第一百十回 文鴦單騎退雄兵　　　姜維背水破大敵"
+      "title": "第一百十回 文鸯单骑退雄兵　　　姜维背水破大敌"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-111.json",
@@ -1111,7 +1133,7 @@
       "reading_unit_count": 42,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第一百十一回 鄧士載智取姜伯約　　諸葛誕義討司馬昭"
+      "title": "第一百十一回 邓士载智取姜伯约　　诸葛诞义讨司马昭"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-112.json",
@@ -1121,7 +1143,7 @@
       "reading_unit_count": 48,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第一百十二回 救壽春于詮死節　　　取長城伯約鏖兵"
+      "title": "第一百十二回 救寿春于诠死节　　　取长城伯约鏖兵"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-113.json",
@@ -1131,7 +1153,7 @@
       "reading_unit_count": 51,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第一百十三回 丁奉定計斬孫綝　　　姜維鬥陣破鄧艾"
+      "title": "第一百十三回 丁奉定计斩孙𬘭　　　姜维斗阵破邓艾"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-114.json",
@@ -1141,7 +1163,7 @@
       "reading_unit_count": 53,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第一百十四回 曹髦驅車死南闕　　　姜維棄糧勝魏兵"
+      "title": "第一百十四回 曹髦驱车死南阙　　　姜维弃粮胜魏兵"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-115.json",
@@ -1151,7 +1173,7 @@
       "reading_unit_count": 46,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第一百十五回 詔班師後主信讒　　　託屯田姜維避禍"
+      "title": "第一百十五回 诏班师后主信谗　　　托屯田姜维避祸"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-116.json",
@@ -1161,7 +1183,7 @@
       "reading_unit_count": 51,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第一百十六回 鍾會分兵漢中道　　　武侯顯聖定軍山"
+      "title": "第一百十六回 钟会分兵汉中道　　　武侯显圣定军山"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-117.json",
@@ -1171,7 +1193,7 @@
       "reading_unit_count": 55,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第一百十七回 鄧士載偷渡陰平　　　諸葛瞻戰死綿竹"
+      "title": "第一百十七回 邓士载偷渡阴平　　　诸葛瞻战死绵竹"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-118.json",
@@ -1181,7 +1203,7 @@
       "reading_unit_count": 53,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第一百十八回 哭祖廟一王死孝　　　入西川二士爭功"
+      "title": "第一百十八回 哭祖庙一王死孝　　　入西川二士争功"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-119.json",
@@ -1191,7 +1213,7 @@
       "reading_unit_count": 70,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第一百十九回 假投降巧計成虛話　　再受禪依樣畫葫蘆"
+      "title": "第一百十九回 假投降巧计成虚话　　再受禅依样画葫芦"
     },
     {
       "chapter_path": "books/sanguo-yanyi/chapters/chapter-120.json",
@@ -1201,12 +1223,9 @@
       "reading_unit_count": 98,
       "summary": "",
       "supplemental_unit_count": 0,
-      "title": "第一百二十回 薦杜預老將獻新謀　　降孫皓三分歸一統"
+      "title": "第一百二十回 荐杜预老将献新谋　　降孙皓三分归一统"
     }
   ],
   "commentary_chapter_count": 0,
-  "commentary_chapters": [],
-  "provider": "wikisource-html",
-  "source_url": "https://zh.wikisource.org/wiki/%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9",
-  "title": "三國演義 - 维基文库，自由的图书馆"
+  "commentary_chapters": []
 }

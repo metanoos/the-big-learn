@@ -20,6 +20,7 @@ This script is READ-ONLY on da-xue; it only writes to the-big-learn/content/.
 from __future__ import annotations
 
 import json
+import os
 import re
 import shutil
 import sys
@@ -27,8 +28,38 @@ from pathlib import Path
 
 # --- paths ------------------------------------------------------------------
 REPO = Path(__file__).resolve().parents[1]
-SRC_BOOKS = REPO.parent / "da-xue" / "content" / "books"
 DST_BOOKS = REPO / "content" / "books"
+
+
+def _resolve_src_books() -> Path:
+    """Locate the upstream da-xue content tree.
+
+    Historical note: da-xue originally lived at the sibling path
+    `../da-xue` relative to this repo. It has since moved; the live checkout
+    is at `~/Desktop/wokspace/da-xue`. We try, in order: an explicit override
+    via the `DA_XUE_ROOT` env var, the original sibling location, then the
+    known Desktop fallback. Add a new candidate here if da-xue moves again.
+    """
+    env_override = os.environ.get("DA_XUE_ROOT")
+    if env_override:
+        # Explicit override: respect it unconditionally so a misconfigured
+        # override surfaces in the error message rather than silently falling
+        # back to a different checkout.
+        return Path(env_override).expanduser() / "content" / "books"
+
+    candidates = [
+        REPO.parent / "da-xue" / "content" / "books",                            # sibling ../da-xue
+        Path.home() / "Desktop" / "wokspace" / "da-xue" / "content" / "books",  # known fallback
+    ]
+    for candidate in candidates:
+        if candidate.exists():
+            return candidate
+    # Return the first candidate so the existing not-found error message still
+    # points somewhere sensible; main() will report it.
+    return candidates[0]
+
+
+SRC_BOOKS = _resolve_src_books()
 
 V1_BOOKS = ["da-xue", "zhong-yong", "lunyu", "mengzi", "daodejing"]
 DEFERRED_BOOKS = ["sunzi-bingfa", "san-zi-jing", "qian-zi-wen", "sanguo-yanyi"]
@@ -68,7 +99,7 @@ _FOOTNOTE_NEIGHBOR = re.compile(
 )
 
 # Segmentation spaces da-xue inserted between CJK chars / CJK punctuation
-# (sunzi: 孫子 曰 ：). Strip ASCII space between two CJK-range chars or between
+# (sunzi: 孙子 曰 ：). Strip ASCII space between two CJK-range chars or between
 # a CJK char and CJK punctuation.
 _CJK = r"\u3000-\u9fff\uff00-\uffef"
 _SEG_SPACE = re.compile(rf"(?<=[{_CJK}]) +(?=[{_CJK}])")

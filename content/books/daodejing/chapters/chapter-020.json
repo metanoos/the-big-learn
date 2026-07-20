@@ -18,9 +18,784 @@
         "character_count": 94,
         "id": "chapter-020-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "jué",
+          "xué",
+          "wú",
+          "yōu",
+          "",
+          "wéi",
+          "zhī",
+          "yǔ",
+          "ā",
+          "",
+          "xiāng",
+          "qù",
+          "jǐ",
+          "hé",
+          "",
+          "shàn",
+          "zhī",
+          "yú",
+          "ě",
+          "",
+          "xiāng",
+          "qù",
+          "ruò",
+          "hé",
+          "",
+          "rén",
+          "zhī",
+          "suǒ",
+          "wèi",
+          "",
+          "bù",
+          "kě",
+          "bú",
+          "wèi",
+          "",
+          "huāng",
+          "xī",
+          "qí",
+          "wèi",
+          "yāng",
+          "zāi",
+          "",
+          "zhòng",
+          "rén",
+          "xī",
+          "xī",
+          "",
+          "rú",
+          "xiǎng",
+          "tài",
+          "láo",
+          "",
+          "rú",
+          "chūn",
+          "dēng",
+          "tái",
+          "",
+          "wǒ",
+          "dú",
+          "pà",
+          "xī",
+          "qí",
+          "wèi",
+          "zhào",
+          "",
+          "rú",
+          "yīng",
+          "ér",
+          "zhī",
+          "wèi",
+          "hái",
+          "",
+          "léi",
+          "léi",
+          "xī",
+          "ruò",
+          "wú",
+          "suǒ",
+          "guī",
+          "",
+          "zhòng",
+          "rén",
+          "jiē",
+          "yǒu",
+          "yú",
+          "",
+          "ér",
+          "wǒ",
+          "dú",
+          "ruò",
+          "yí",
+          "",
+          "wǒ",
+          "yú",
+          "rén",
+          "zhī",
+          "xīn",
+          "yě",
+          "zāi",
+          "",
+          "dùn",
+          "dùn",
+          "xī",
+          "",
+          "sú",
+          "rén",
+          "zhāo",
+          "zhāo",
+          "",
+          "wǒ",
+          "dú",
+          "ruò",
+          "hūn",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "絕學無憂，唯之與阿，相去幾何？善之與惡，相去若何？人之所畏，不可不畏。荒兮其未央哉！衆人熙熙，如享太牢，如春登臺。我獨怕兮其未兆；如嬰兒之未孩；儽儽兮若無所歸。衆人皆有餘，而我獨若遺。我愚人之心也哉！沌沌兮，俗人昭昭，我獨若昏。"
+        "text": "绝学无忧，唯之与阿，相去几何？善之与恶，相去若何？人之所畏，不可不畏。荒兮其未央哉！众人熙熙，如享太牢，如春登台。我独怕兮其未兆；如婴儿之未孩；儽儽兮若无所归。众人皆有余，而我独若遗。我愚人之心也哉！沌沌兮，俗人昭昭，我独若昏。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "(literary) lost or nearly lost body of knowledge / (literary) consummate mastery (in a field) / (wu…",
+            "pinyin": "jué xué",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "绝学"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "无"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "忧"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "唯"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "之"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "与"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "阿"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "相"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "去"
+          },
+          {
+            "end": 14,
+            "gloss": "geometry / (literary) how much",
+            "pinyin": "jǐ hé",
+            "source": "CC-CEDICT",
+            "start": 12,
+            "word": "几何"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "善"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "之"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "与"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "恶"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "相"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "去"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "若"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "何"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "人"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "之"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "所"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "畏"
+          },
+          {
+            "end": 32,
+            "gloss": "cannot; should not; must not",
+            "pinyin": "bù kě",
+            "source": "CC-CEDICT",
+            "start": 30,
+            "word": "不可"
+          },
+          {
+            "end": 34,
+            "gloss": "unafraid / to defy",
+            "pinyin": "bù wèi",
+            "source": "CC-CEDICT",
+            "start": 32,
+            "word": "不畏"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "荒"
+          },
+          {
+            "end": 37,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 36,
+            "word": "兮"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "其"
+          },
+          {
+            "end": 40,
+            "gloss": "(literary) not ended / not yet over / close to the end",
+            "pinyin": "wèi yāng",
+            "source": "CC-CEDICT",
+            "start": 38,
+            "word": "未央"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "哉"
+          },
+          {
+            "end": 44,
+            "gloss": "everyone",
+            "pinyin": "zhòng rén",
+            "source": "CC-CEDICT",
+            "start": 42,
+            "word": "众人"
+          },
+          {
+            "end": 45,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 44,
+            "word": "熙"
+          },
+          {
+            "end": 46,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 45,
+            "word": "熙"
+          },
+          {
+            "end": 48,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 47,
+            "word": "如"
+          },
+          {
+            "end": 49,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 48,
+            "word": "享"
+          },
+          {
+            "end": 51,
+            "gloss": "(in ancient times) sacrificial animal (cow, sheep or pig)",
+            "pinyin": "tài láo",
+            "source": "CC-CEDICT",
+            "start": 49,
+            "word": "太牢"
+          },
+          {
+            "end": 53,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 52,
+            "word": "如"
+          },
+          {
+            "end": 54,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 53,
+            "word": "春"
+          },
+          {
+            "end": 55,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 54,
+            "word": "登"
+          },
+          {
+            "end": 56,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 55,
+            "word": "台"
+          },
+          {
+            "end": 58,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 57,
+            "word": "我"
+          },
+          {
+            "end": 59,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 58,
+            "word": "独"
+          },
+          {
+            "end": 60,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 59,
+            "word": "怕"
+          },
+          {
+            "end": 61,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 60,
+            "word": "兮"
+          },
+          {
+            "end": 62,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 61,
+            "word": "其"
+          },
+          {
+            "end": 63,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 62,
+            "word": "未"
+          },
+          {
+            "end": 64,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 63,
+            "word": "兆"
+          },
+          {
+            "end": 66,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 65,
+            "word": "如"
+          },
+          {
+            "end": 68,
+            "gloss": "infant / baby / CL:个|个[ge4] / lead (Pb)",
+            "pinyin": "yīng ér",
+            "source": "CC-CEDICT",
+            "start": 66,
+            "word": "婴儿"
+          },
+          {
+            "end": 69,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 68,
+            "word": "之"
+          },
+          {
+            "end": 70,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 69,
+            "word": "未"
+          },
+          {
+            "end": 71,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 70,
+            "word": "孩"
+          },
+          {
+            "end": 73,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 72,
+            "word": "儽"
+          },
+          {
+            "end": 74,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 73,
+            "word": "儽"
+          },
+          {
+            "end": 75,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 74,
+            "word": "兮"
+          },
+          {
+            "end": 76,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 75,
+            "word": "若"
+          },
+          {
+            "end": 77,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 76,
+            "word": "无"
+          },
+          {
+            "end": 78,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 77,
+            "word": "所"
+          },
+          {
+            "end": 79,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 78,
+            "word": "归"
+          },
+          {
+            "end": 82,
+            "gloss": "everyone",
+            "pinyin": "zhòng rén",
+            "source": "CC-CEDICT",
+            "start": 80,
+            "word": "众人"
+          },
+          {
+            "end": 83,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 82,
+            "word": "皆"
+          },
+          {
+            "end": 85,
+            "gloss": "to have an abundance",
+            "pinyin": "yǒu yú",
+            "source": "CC-CEDICT",
+            "start": 83,
+            "word": "有余"
+          },
+          {
+            "end": 87,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 86,
+            "word": "而"
+          },
+          {
+            "end": 88,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 87,
+            "word": "我"
+          },
+          {
+            "end": 89,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 88,
+            "word": "独"
+          },
+          {
+            "end": 90,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 89,
+            "word": "若"
+          },
+          {
+            "end": 91,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 90,
+            "word": "遗"
+          },
+          {
+            "end": 93,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 92,
+            "word": "我"
+          },
+          {
+            "end": 95,
+            "gloss": "stupid person / ignoramus",
+            "pinyin": "yú rén",
+            "source": "CC-CEDICT",
+            "start": 93,
+            "word": "愚人"
+          },
+          {
+            "end": 96,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 95,
+            "word": "之"
+          },
+          {
+            "end": 97,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 96,
+            "word": "心"
+          },
+          {
+            "end": 98,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 97,
+            "word": "也"
+          },
+          {
+            "end": 99,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 98,
+            "word": "哉"
+          },
+          {
+            "end": 101,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 100,
+            "word": "沌"
+          },
+          {
+            "end": 102,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 101,
+            "word": "沌"
+          },
+          {
+            "end": 103,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 102,
+            "word": "兮"
+          },
+          {
+            "end": 106,
+            "gloss": "common people / laity (i.e. not priests)",
+            "pinyin": "sú rén",
+            "source": "CC-CEDICT",
+            "start": 104,
+            "word": "俗人"
+          },
+          {
+            "end": 107,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 106,
+            "word": "昭"
+          },
+          {
+            "end": 108,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 107,
+            "word": "昭"
+          },
+          {
+            "end": 110,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 109,
+            "word": "我"
+          },
+          {
+            "end": 111,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 110,
+            "word": "独"
+          },
+          {
+            "end": 112,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 111,
+            "word": "若"
+          },
+          {
+            "end": 113,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 112,
+            "word": "昏"
+          }
+        ]
       },
       {
         "canonical_translations": [
@@ -35,16 +810,347 @@
         "character_count": 38,
         "id": "chapter-020-line-002",
         "order": 2,
+        "pinyin_per_char": [
+          "sú",
+          "rén",
+          "chá",
+          "chá",
+          "",
+          "wǒ",
+          "dú",
+          "mèn",
+          "mèn",
+          "",
+          "dàn",
+          "xī",
+          "qí",
+          "ruò",
+          "hǎi",
+          "",
+          "liù",
+          "xī",
+          "ruò",
+          "wú",
+          "zhǐ",
+          "",
+          "zhòng",
+          "rén",
+          "jiē",
+          "yóu",
+          "yǐ",
+          "",
+          "ér",
+          "wǒ",
+          "dú",
+          "wán",
+          "shì",
+          "bǐ",
+          "",
+          "wǒ",
+          "dú",
+          "yì",
+          "yú",
+          "rén",
+          "",
+          "ér",
+          "guì",
+          "sì",
+          "mǔ",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 2,
         "source_block_order": 1,
-        "text": "俗人察察，我獨悶悶。澹兮其若海，飂兮若無止，衆人皆有以，而我獨頑似鄙。我獨異於人，而貴食母。"
+        "text": "俗人察察，我独闷闷。澹兮其若海，飂兮若无止，众人皆有以，而我独顽似鄙。我独异于人，而贵食母。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "common people / laity (i.e. not priests)",
+            "pinyin": "sú rén",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "俗人"
+          },
+          {
+            "end": 4,
+            "gloss": "clean / spotless",
+            "pinyin": "chá chá",
+            "source": "CC-CEDICT",
+            "start": 2,
+            "word": "察察"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "我"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "独"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "闷"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "闷"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "澹"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "兮"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "其"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "若"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "海"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "飂"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "兮"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "若"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "无"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "止"
+          },
+          {
+            "end": 24,
+            "gloss": "everyone",
+            "pinyin": "zhòng rén",
+            "source": "CC-CEDICT",
+            "start": 22,
+            "word": "众人"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "皆"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "有"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "以"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "而"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "我"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "独"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "顽"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "似"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "鄙"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "我"
+          },
+          {
+            "end": 37,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 36,
+            "word": "独"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "异"
+          },
+          {
+            "end": 39,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 38,
+            "word": "于"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "人"
+          },
+          {
+            "end": 42,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 41,
+            "word": "而"
+          },
+          {
+            "end": 43,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 42,
+            "word": "贵"
+          },
+          {
+            "end": 44,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 43,
+            "word": "食"
+          },
+          {
+            "end": 45,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 44,
+            "word": "母"
+          }
+        ]
       }
     ],
-    "summary": "絕學無憂，唯之與阿，相去幾何？善之與惡，相去若何？人之所畏，不可不畏",
+    "summary": "绝学无忧，唯之与阿，相去几何？善之与恶，相去若何？人之所畏，不可不畏",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "絕學無憂，唯之與阿，相去幾何？善之與惡，相去若何？人之所畏，不可不畏。荒兮其未央哉！衆人熙熙，如享太牢，如春登臺。我獨怕兮其未兆；如嬰兒之未孩；儽儽兮若無所歸。衆人皆有餘，而我獨若遺。我愚人之心也哉！沌沌兮，俗人昭昭，我獨若昏。俗人察察，我獨悶悶。澹兮其若海，飂兮若無止，衆人皆有以，而我獨頑似鄙。我獨異於人，而貴食母。",
+    "text": "绝学无忧，唯之与阿，相去几何？善之与恶，相去若何？人之所畏，不可不畏。荒兮其未央哉！众人熙熙，如享太牢，如春登台。我独怕兮其未兆；如婴儿之未孩；儽儽兮若无所归。众人皆有余，而我独若遗。我愚人之心也哉！沌沌兮，俗人昭昭，我独若昏。俗人察察，我独闷闷。澹兮其若海，飂兮若无止，众人皆有以，而我独顽似鄙。我独异于人，而贵食母。",
     "title": "第20章"
   },
   "chapter_path": "books/daodejing/chapters/chapter-020.json",

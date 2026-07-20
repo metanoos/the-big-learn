@@ -18,16 +18,189 @@
         "character_count": 25,
         "id": "chapter-009-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "zǐ",
+          "yuē",
+          "",
+          "",
+          "tiān",
+          "xià",
+          "guó",
+          "jiā",
+          "kě",
+          "jūn",
+          "yě",
+          "",
+          "jué",
+          "lù",
+          "kě",
+          "cí",
+          "yě",
+          "",
+          "bái",
+          "rèn",
+          "ké",
+          "dáo",
+          "yě",
+          "",
+          "zhōng",
+          "yōng",
+          "bù",
+          "kě",
+          "néng",
+          "yě",
+          "",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "子曰：「天下國家可均也，爵祿可辭也，白刃可蹈也，中庸不可能也。」"
+        "text": "子曰：「天下国家可均也，爵禄可辞也，白刃可蹈也，中庸不可能也。」",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "The Master said (Confucius said)",
+            "pinyin": "zǐ yuē",
+            "source": "classical-override",
+            "start": 0,
+            "word": "子曰"
+          },
+          {
+            "end": 6,
+            "gloss": "land under heaven / the whole world / the whole of China / realm / rule",
+            "pinyin": "tiān xià",
+            "source": "CC-CEDICT",
+            "start": 4,
+            "word": "天下"
+          },
+          {
+            "end": 8,
+            "gloss": "country; nation; state",
+            "pinyin": "guó jiā",
+            "source": "CC-CEDICT",
+            "start": 6,
+            "word": "国家"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "可"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "均"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "也"
+          },
+          {
+            "end": 14,
+            "gloss": "rank and emolument of nobility",
+            "pinyin": "jué lù",
+            "source": "CC-CEDICT",
+            "start": 12,
+            "word": "爵禄"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "可"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "辞"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "也"
+          },
+          {
+            "end": 20,
+            "gloss": "naked sword",
+            "pinyin": "bái rèn",
+            "source": "CC-CEDICT",
+            "start": 18,
+            "word": "白刃"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "可"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "蹈"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "也"
+          },
+          {
+            "end": 26,
+            "gloss": "The Doctrine of the Mean; the Golden Mean (the constant middle way)",
+            "pinyin": "zhōng yōng",
+            "source": "classical-override",
+            "start": 24,
+            "word": "中庸"
+          },
+          {
+            "end": 29,
+            "gloss": "impossible; cannot",
+            "pinyin": "bù kě néng",
+            "source": "CC-CEDICT",
+            "start": 26,
+            "word": "不可能"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "也"
+          }
+        ]
       }
     ],
     "summary": "",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "子曰：「天下國家可均也，爵祿可辭也，白刃可蹈也，中庸不可能也。」",
+    "text": "子曰：「天下国家可均也，爵禄可辞也，白刃可蹈也，中庸不可能也。」",
     "title": ""
   },
   "chapter_path": "books/zhong-yong/chapters/chapter-009.json",

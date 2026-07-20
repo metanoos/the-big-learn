@@ -10,7 +10,7 @@
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "I have learned the ceremonies of the Yin dynasty, and in Song they still continue.",
+            "text": "He who attains to the sovereignty of the kingdom, having those three important things, shall be able to effect that there shall be few errors under his government.",
             "translator": "Legge",
             "year": 1885
           }
@@ -18,16 +18,115 @@
         "character_count": 12,
         "id": "chapter-029-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "wàng",
+          "tiān",
+          "xià",
+          "yǒu",
+          "sān",
+          "chóng",
+          "yān",
+          "",
+          "qí",
+          "guǎ",
+          "guò",
+          "yǐ",
+          "hū",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "王天下有三重焉，其寡過矣乎！"
+        "text": "王天下有三重焉，其寡过矣乎！",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "王"
+          },
+          {
+            "end": 3,
+            "gloss": "land under heaven / the whole world / the whole of China / realm / rule",
+            "pinyin": "tiān xià",
+            "source": "CC-CEDICT",
+            "start": 1,
+            "word": "天下"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "有"
+          },
+          {
+            "end": 6,
+            "gloss": "treble",
+            "pinyin": "sān chóng",
+            "source": "CC-CEDICT",
+            "start": 4,
+            "word": "三重"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "焉"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "其"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "寡"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "过"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "矣"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "乎"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "I have learned the ceremonies of Zhou, which are now used, and I follow Zhou.\" He who attains to the sovereignty of the kingdom, having those three important things, shall be able to effect that there shall be few errors under his government.",
+            "text": "However excellent may have been the regulations of those of former times, they cannot be attested. Not being attested, they cannot command credence, and not being credited, the people would not follow them. However excellent might be the regulations made by one in an inferior situation, he is not in a position to be honored. Unhonored, he cannot command credence, and not being credited, the people would not follow",
             "translator": "Legge",
             "year": 1885
           }
@@ -35,16 +134,291 @@
         "character_count": 32,
         "id": "chapter-029-line-002",
         "order": 2,
+        "pinyin_per_char": [
+          "shàng",
+          "yān",
+          "zhě",
+          "suī",
+          "shàn",
+          "wú",
+          "zhēng",
+          "",
+          "wú",
+          "zhēng",
+          "bú",
+          "xìn",
+          "",
+          "bú",
+          "xìn",
+          "mín",
+          "fú",
+          "cóng",
+          "",
+          "xià",
+          "yān",
+          "zhě",
+          "suī",
+          "shàn",
+          "bù",
+          "zūn",
+          "",
+          "bù",
+          "zūn",
+          "bú",
+          "xìn",
+          "",
+          "bú",
+          "xìn",
+          "mín",
+          "fú",
+          "cóng",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 2,
-        "text": "上焉者雖善無徵，無徵不信，不信民弗從；下焉者雖善不尊，不尊不信，不信民弗從。"
+        "text": "上焉者虽善无征，无征不信，不信民弗从；下焉者虽善不尊，不尊不信，不信民弗从。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "上"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "焉"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "者"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "虽"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "善"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "无"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "征"
+          },
+          {
+            "end": 12,
+            "gloss": "without proof one can't believe it (idiom)",
+            "pinyin": "wú zhēng bù xìn",
+            "source": "CC-CEDICT",
+            "start": 8,
+            "word": "无征不信"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "不"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "信"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "民"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "弗"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "从"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "下"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "焉"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "者"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "虽"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "善"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "不"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "尊"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "不"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "尊"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "不"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "信"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "不"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "信"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "民"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "弗"
+          },
+          {
+            "end": 37,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 36,
+            "word": "从"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "However excellent may have been the regulations of those of former times, they cannot be attested.",
+            "text": "Therefore the institutions of the Ruler are rooted in his own character and conduct, and sufficient attestation of them is given by the masses of the people. He examines them by comparison with those of the three kings, and finds them without mistake. He sets them up before Heaven and Earth, and finds nothing in them contrary to their mode of operation. He presents himself with them before spiritual beings, and no doubts about them arise. He is prepared to wait for the rise of a sage a hundred ages after, and has no misgivings.",
             "translator": "Legge",
             "year": 1885
           }
@@ -52,16 +426,350 @@
         "character_count": 42,
         "id": "chapter-029-line-003",
         "order": 3,
+        "pinyin_per_char": [
+          "gù",
+          "jūn",
+          "zǐ",
+          "zhī",
+          "dào",
+          "",
+          "běn",
+          "zhū",
+          "shēn",
+          "",
+          "zhēng",
+          "zhū",
+          "shù",
+          "mín",
+          "",
+          "kǎo",
+          "zhū",
+          "sān",
+          "wáng",
+          "ér",
+          "bù",
+          "móu",
+          "",
+          "jiàn",
+          "zhū",
+          "tiān",
+          "dì",
+          "ér",
+          "bú",
+          "bèi",
+          "",
+          "zhì",
+          "zhū",
+          "guǐ",
+          "shén",
+          "ér",
+          "wú",
+          "yí",
+          "",
+          "bǎi",
+          "shì",
+          "yǐ",
+          "qí",
+          "shèng",
+          "rén",
+          "ér",
+          "bú",
+          "huò",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 3,
-        "text": "故君子之道：本諸身，徵諸庶民，考諸三王而不繆，建諸天地而不悖，質諸鬼神而無疑，百世以俟聖人而不惑。"
+        "text": "故君子之道：本诸身，征诸庶民，考诸三王而不缪，建诸天地而不悖，质诸鬼神而无疑，百世以俟圣人而不惑。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "故"
+          },
+          {
+            "end": 3,
+            "gloss": "the superior man; the exemplary person (junzi)",
+            "pinyin": "jūn zǐ",
+            "source": "classical-override",
+            "start": 1,
+            "word": "君子"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "之"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "道"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "本"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "诸"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "身"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "征"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "诸"
+          },
+          {
+            "end": 14,
+            "gloss": "the multitude of common people (in highbrow literature) / plebeian",
+            "pinyin": "shù mín",
+            "source": "CC-CEDICT",
+            "start": 12,
+            "word": "庶民"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "考"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "诸"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "三"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "王"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "而"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "不"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "缪"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "建"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "诸"
+          },
+          {
+            "end": 27,
+            "gloss": "heaven and earth / world / scope / field of activity",
+            "pinyin": "tiān dì",
+            "source": "CC-CEDICT",
+            "start": 25,
+            "word": "天地"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "而"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "不"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "悖"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "质"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "诸"
+          },
+          {
+            "end": 35,
+            "gloss": "supernatural beings",
+            "pinyin": "guǐ shén",
+            "source": "CC-CEDICT",
+            "start": 33,
+            "word": "鬼神"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "而"
+          },
+          {
+            "end": 38,
+            "gloss": "undoubtedly; without doubt; for sure",
+            "pinyin": "wú yí",
+            "source": "CC-CEDICT",
+            "start": 36,
+            "word": "无疑"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "百"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "世"
+          },
+          {
+            "end": 42,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 41,
+            "word": "以"
+          },
+          {
+            "end": 43,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 42,
+            "word": "俟"
+          },
+          {
+            "end": 45,
+            "gloss": "the sage; the holy man",
+            "pinyin": "shèng rén",
+            "source": "classical-override",
+            "start": 43,
+            "word": "圣人"
+          },
+          {
+            "end": 46,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 45,
+            "word": "而"
+          },
+          {
+            "end": 48,
+            "gloss": "without doubt / with full self-confidence / forty years of age",
+            "pinyin": "bù huò",
+            "source": "CC-CEDICT",
+            "start": 46,
+            "word": "不惑"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "Not being attested, they cannot command credence, and not being credited, the people would not follow them.",
+            "text": "His presenting himself with his institutions before spiritual beings, without any doubts arising about them, shows that he knows Heaven. His being prepared, without any misgivings, to wait for the rise of a sage a hundred ages after, shows that he knows men.",
             "translator": "Legge",
             "year": 1885
           }
@@ -69,16 +777,191 @@
         "character_count": 22,
         "id": "chapter-029-line-004",
         "order": 4,
+        "pinyin_per_char": [
+          "zhì",
+          "zhū",
+          "guǐ",
+          "shén",
+          "ér",
+          "wú",
+          "yí",
+          "",
+          "zhī",
+          "tiān",
+          "yě",
+          "",
+          "bǎi",
+          "shì",
+          "yǐ",
+          "qí",
+          "shèng",
+          "rén",
+          "ér",
+          "bú",
+          "huò",
+          "",
+          "zhī",
+          "rén",
+          "yě",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 4,
-        "text": "質諸鬼神而無疑，知天也；百世以俟聖人而不惑，知人也。"
+        "text": "质诸鬼神而无疑，知天也；百世以俟圣人而不惑，知人也。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "质"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "诸"
+          },
+          {
+            "end": 4,
+            "gloss": "supernatural beings",
+            "pinyin": "guǐ shén",
+            "source": "CC-CEDICT",
+            "start": 2,
+            "word": "鬼神"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "而"
+          },
+          {
+            "end": 7,
+            "gloss": "undoubtedly; without doubt; for sure",
+            "pinyin": "wú yí",
+            "source": "CC-CEDICT",
+            "start": 5,
+            "word": "无疑"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "知"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "天"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "也"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "百"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "世"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "以"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "俟"
+          },
+          {
+            "end": 18,
+            "gloss": "the sage; the holy man",
+            "pinyin": "shèng rén",
+            "source": "classical-override",
+            "start": 16,
+            "word": "圣人"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "而"
+          },
+          {
+            "end": 21,
+            "gloss": "without doubt / with full self-confidence / forty years of age",
+            "pinyin": "bù huò",
+            "source": "CC-CEDICT",
+            "start": 19,
+            "word": "不惑"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "知"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "人"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "也"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "However excellent might be the regulations made by one in an inferior situation, he is not in a position to be honored.",
+            "text": "Such being the case, the movements of such a ruler, illustrating his institutions, constitute an example to the world for ages. His acts are for ages a law to the kingdom. His words are for ages a lesson to the kingdom. Those who are far from him look longingly for him; and those who are near him are never wearied with him.",
             "translator": "Legge",
             "year": 1885
           }
@@ -86,16 +969,285 @@
         "character_count": 35,
         "id": "chapter-029-line-005",
         "order": 5,
+        "pinyin_per_char": [
+          "shì",
+          "gù",
+          "jūn",
+          "zǐ",
+          "dòng",
+          "ér",
+          "shì",
+          "wèi",
+          "tiān",
+          "xià",
+          "dào",
+          "",
+          "xíng",
+          "ér",
+          "shì",
+          "wèi",
+          "tiān",
+          "xià",
+          "fǎ",
+          "",
+          "yán",
+          "ér",
+          "shì",
+          "wèi",
+          "tiān",
+          "xià",
+          "zé",
+          "",
+          "yuǎn",
+          "zhī",
+          "zé",
+          "yǒu",
+          "wàng",
+          "",
+          "jìn",
+          "zhī",
+          "zé",
+          "bú",
+          "yàn",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 5,
-        "text": "是故君子動而世為天下道，行而世為天下法，言而世為天下則。遠之則有望，近之則不厭。"
+        "text": "是故君子动而世为天下道，行而世为天下法，言而世为天下则。远之则有望，近之则不厌。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "therefore / so / consequently",
+            "pinyin": "shì gù",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "是故"
+          },
+          {
+            "end": 4,
+            "gloss": "the superior man; the exemplary person (junzi)",
+            "pinyin": "jūn zǐ",
+            "source": "classical-override",
+            "start": 2,
+            "word": "君子"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "动"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "而"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "世"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "为"
+          },
+          {
+            "end": 10,
+            "gloss": "land under heaven / the whole world / the whole of China / realm / rule",
+            "pinyin": "tiān xià",
+            "source": "CC-CEDICT",
+            "start": 8,
+            "word": "天下"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "道"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "行"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "而"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "世"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "为"
+          },
+          {
+            "end": 18,
+            "gloss": "land under heaven / the whole world / the whole of China / realm / rule",
+            "pinyin": "tiān xià",
+            "source": "CC-CEDICT",
+            "start": 16,
+            "word": "天下"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "法"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "言"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "而"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "世"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "为"
+          },
+          {
+            "end": 26,
+            "gloss": "land under heaven / the whole world / the whole of China / realm / rule",
+            "pinyin": "tiān xià",
+            "source": "CC-CEDICT",
+            "start": 24,
+            "word": "天下"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "则"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "远"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "之"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "则"
+          },
+          {
+            "end": 33,
+            "gloss": "hopeful / promising",
+            "pinyin": "yǒu wàng",
+            "source": "CC-CEDICT",
+            "start": 31,
+            "word": "有望"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "近"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "之"
+          },
+          {
+            "end": 37,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 36,
+            "word": "则"
+          },
+          {
+            "end": 39,
+            "gloss": "not to tire of / not to object to",
+            "pinyin": "bù yàn",
+            "source": "CC-CEDICT",
+            "start": 37,
+            "word": "不厌"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "Unhonored, he cannot command credence, and not being credited, the people would not follow his rules. Therefore the institutions of the Ruler are rooted in his own character and conduct, and sufficient attestation of them is given by the masses of the people. He examines them by comparison with those of the three kings, and finds them without mistake. He sets them up before Heaven and Earth, and finds nothing in them contrary to their mode of operation. He presents himself with them before spiritual beings, and no doubts about them arise. He is prepared to wait for the rise of a sage a hundred ages after, and has no misgivings. His presenting himself with his institutions before spiritual beings, without any doubts arising about them, shows that he knows Heaven. His being prepared, without any misgivings, to wait for the rise of a sage a hundred ages after, shows that he knows men. Such being the case, the movements of such a ruler, illustrating his institutions, constitute an example to the world for ages. His acts are for ages a law to the kingdom. His words are for ages a lesson to the kingdom. Those who are far from him look longingly for him; and those who are near him are never wearied with him. It is said in the Book of Poetry,-\"Not disliked there, not tired of here, from day to day and night tonight, will they perpetuate their praise.\" Never has there been a ruler, who did not realize this description, that obtained an early renown throughout the kingdom.",
+            "text": "It is said in the Book of Poetry,-\"Not disliked there, not tired of here, from day to day and night tonight, will they perpetuate their praise.\" Never has there been a ruler, who did not realize this description, that obtained an early renown throughout the kingdom.",
             "translator": "Legge",
             "year": 1885
           }
@@ -103,16 +1255,271 @@
         "character_count": 34,
         "id": "chapter-029-line-006",
         "order": 6,
+        "pinyin_per_char": [
+          "shī",
+          "yuē",
+          "",
+          "",
+          "zài",
+          "bǐ",
+          "wú",
+          "ě",
+          "",
+          "zài",
+          "cǐ",
+          "wú",
+          "shè",
+          "",
+          "shù",
+          "jǐ",
+          "sù",
+          "yè",
+          "",
+          "yí",
+          "yǒng",
+          "zhōng",
+          "yù",
+          "",
+          "",
+          "jūn",
+          "zǐ",
+          "wèi",
+          "yǒu",
+          "bù",
+          "rú",
+          "cǐ",
+          "ér",
+          "záo",
+          "yǒu",
+          "yù",
+          "yú",
+          "tiān",
+          "xià",
+          "zhé",
+          "yě",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 6,
-        "text": "詩曰：「在彼無惡，在此無射；庶幾夙夜，以永終譽！」君子未有不如此而蚤有譽於天下者也。"
+        "text": "诗曰：「在彼无恶，在此无射；庶几夙夜，以永终誉！」君子未有不如此而蚤有誉于天下者也。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "a poem goes:",
+            "pinyin": "shī yuē",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "诗曰"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "在"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "彼"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "无"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "恶"
+          },
+          {
+            "end": 11,
+            "gloss": "hereto / here",
+            "pinyin": "zài cǐ",
+            "source": "CC-CEDICT",
+            "start": 9,
+            "word": "在此"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "无"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "射"
+          },
+          {
+            "end": 16,
+            "gloss": "(literary) similar; almost / (literary) if only; it is to be hoped that / (literary) maybe; perhaps",
+            "pinyin": "shù jī",
+            "source": "CC-CEDICT",
+            "start": 14,
+            "word": "庶几"
+          },
+          {
+            "end": 18,
+            "gloss": "morning and night / always / at all times",
+            "pinyin": "sù yè",
+            "source": "CC-CEDICT",
+            "start": 16,
+            "word": "夙夜"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "以"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "永"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "终"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "誉"
+          },
+          {
+            "end": 27,
+            "gloss": "the superior man; the exemplary person (junzi)",
+            "pinyin": "jūn zǐ",
+            "source": "classical-override",
+            "start": 25,
+            "word": "君子"
+          },
+          {
+            "end": 29,
+            "gloss": "is not / has never been / never occurring / unprecedented",
+            "pinyin": "wèi yǒu",
+            "source": "CC-CEDICT",
+            "start": 27,
+            "word": "未有"
+          },
+          {
+            "end": 31,
+            "gloss": "not equal to; not as good as; inferior to / it would be better to",
+            "pinyin": "bù rú",
+            "source": "CC-CEDICT",
+            "start": 29,
+            "word": "不如"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "此"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "而"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "蚤"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "有"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "誉"
+          },
+          {
+            "end": 37,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 36,
+            "word": "于"
+          },
+          {
+            "end": 39,
+            "gloss": "land under heaven / the whole world / the whole of China / realm / rule",
+            "pinyin": "tiān xià",
+            "source": "CC-CEDICT",
+            "start": 37,
+            "word": "天下"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "者"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "也"
+          }
+        ]
       }
     ],
     "summary": "",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "王天下有三重焉，其寡過矣乎！\n上焉者雖善無徵，無徵不信，不信民弗從；下焉者雖善不尊，不尊不信，不信民弗從。\n故君子之道：本諸身，徵諸庶民，考諸三王而不繆，建諸天地而不悖，質諸鬼神而無疑，百世以俟聖人而不惑。\n質諸鬼神而無疑，知天也；百世以俟聖人而不惑，知人也。\n是故君子動而世為天下道，行而世為天下法，言而世為天下則。遠之則有望，近之則不厭。\n詩曰：「在彼無惡，在此無射；庶幾夙夜，以永終譽！」君子未有不如此而蚤有譽於天下者也。",
+    "text": "王天下有三重焉，其寡过矣乎！\n上焉者虽善无征，无征不信，不信民弗从；下焉者虽善不尊，不尊不信，不信民弗从。\n故君子之道：本诸身，征诸庶民，考诸三王而不缪，建诸天地而不悖，质诸鬼神而无疑，百世以俟圣人而不惑。\n质诸鬼神而无疑，知天也；百世以俟圣人而不惑，知人也。\n是故君子动而世为天下道，行而世为天下法，言而世为天下则。远之则有望，近之则不厌。\n诗曰：「在彼无恶，在此无射；庶几夙夜，以永终誉！」君子未有不如此而蚤有誉于天下者也。",
     "title": ""
   },
   "chapter_path": "books/zhong-yong/chapters/chapter-029.json",

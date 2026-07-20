@@ -18,16 +18,578 @@
         "character_count": 72,
         "id": "chapter-032-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "dào",
+          "cháng",
+          "wú",
+          "míng",
+          "",
+          "pǔ",
+          "suī",
+          "xiǎo",
+          "",
+          "tiān",
+          "xià",
+          "mò",
+          "néng",
+          "chén",
+          "yě",
+          "",
+          "hóu",
+          "wáng",
+          "ruò",
+          "néng",
+          "shǒu",
+          "zhī",
+          "",
+          "wàn",
+          "wù",
+          "jiāng",
+          "zì",
+          "bīn",
+          "",
+          "tiān",
+          "dì",
+          "xiāng",
+          "hé",
+          "",
+          "yǐ",
+          "jiàng",
+          "gān",
+          "lù",
+          "",
+          "mín",
+          "mò",
+          "zhī",
+          "lìng",
+          "ér",
+          "zì",
+          "jūn",
+          "",
+          "shǐ",
+          "zhì",
+          "yǒu",
+          "míng",
+          "",
+          "míng",
+          "yì",
+          "jì",
+          "yǒu",
+          "",
+          "fū",
+          "yì",
+          "jiāng",
+          "zhī",
+          "zhǐ",
+          "",
+          "zhī",
+          "zhí",
+          "suó",
+          "yǐ",
+          "bú",
+          "dài",
+          "",
+          "pì",
+          "dào",
+          "zhī",
+          "zài",
+          "tiān",
+          "xià",
+          "",
+          "yóu",
+          "chuān",
+          "gǔ",
+          "zhī",
+          "yǔ",
+          "jiāng",
+          "hǎi",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "道常無名。樸雖小，天下莫能臣也。侯王若能守之，萬物將自賓。天地相合，以降甘露，民莫之令而自均。始制有名，名亦既有，夫亦將知止，知止所以不殆。譬道之在天下，猶川谷之與江海。"
+        "text": "道常无名。朴虽小，天下莫能臣也。侯王若能守之，万物将自宾。天地相合，以降甘露，民莫之令而自均。始制有名，名亦既有，夫亦将知止，知止所以不殆。譬道之在天下，犹川谷之与江海。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "道"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "常"
+          },
+          {
+            "end": 4,
+            "gloss": "nameless / obscure",
+            "pinyin": "wú míng",
+            "source": "CC-CEDICT",
+            "start": 2,
+            "word": "无名"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "朴"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "虽"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "小"
+          },
+          {
+            "end": 11,
+            "gloss": "land under heaven / the whole world / the whole of China / realm / rule",
+            "pinyin": "tiān xià",
+            "source": "CC-CEDICT",
+            "start": 9,
+            "word": "天下"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "莫"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "能"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "臣"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "也"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "侯"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "王"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "若"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "能"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "守"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "之"
+          },
+          {
+            "end": 25,
+            "gloss": "all things / all that exists",
+            "pinyin": "wàn wù",
+            "source": "CC-CEDICT",
+            "start": 23,
+            "word": "万物"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "将"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "自"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "宾"
+          },
+          {
+            "end": 31,
+            "gloss": "heaven and earth / world / scope / field of activity",
+            "pinyin": "tiān dì",
+            "source": "CC-CEDICT",
+            "start": 29,
+            "word": "天地"
+          },
+          {
+            "end": 33,
+            "gloss": "to conform to / to fit with / to be compatible with",
+            "pinyin": "xiāng hé",
+            "source": "CC-CEDICT",
+            "start": 31,
+            "word": "相合"
+          },
+          {
+            "end": 36,
+            "gloss": "since (some point in the past)",
+            "pinyin": "yǐ jiàng",
+            "source": "CC-CEDICT",
+            "start": 34,
+            "word": "以降"
+          },
+          {
+            "end": 37,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 36,
+            "word": "甘"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "露"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "民"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "莫"
+          },
+          {
+            "end": 42,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 41,
+            "word": "之"
+          },
+          {
+            "end": 43,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 42,
+            "word": "令"
+          },
+          {
+            "end": 44,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 43,
+            "word": "而"
+          },
+          {
+            "end": 45,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 44,
+            "word": "自"
+          },
+          {
+            "end": 46,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 45,
+            "word": "均"
+          },
+          {
+            "end": 48,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 47,
+            "word": "始"
+          },
+          {
+            "end": 49,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 48,
+            "word": "制"
+          },
+          {
+            "end": 51,
+            "gloss": "famous / well-known",
+            "pinyin": "yǒu míng",
+            "source": "CC-CEDICT",
+            "start": 49,
+            "word": "有名"
+          },
+          {
+            "end": 53,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 52,
+            "word": "名"
+          },
+          {
+            "end": 54,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 53,
+            "word": "亦"
+          },
+          {
+            "end": 56,
+            "gloss": "existing",
+            "pinyin": "jì yǒu",
+            "source": "CC-CEDICT",
+            "start": 54,
+            "word": "既有"
+          },
+          {
+            "end": 58,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 57,
+            "word": "夫"
+          },
+          {
+            "end": 59,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 58,
+            "word": "亦"
+          },
+          {
+            "end": 60,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 59,
+            "word": "将"
+          },
+          {
+            "end": 61,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 60,
+            "word": "知"
+          },
+          {
+            "end": 62,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 61,
+            "word": "止"
+          },
+          {
+            "end": 64,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 63,
+            "word": "知"
+          },
+          {
+            "end": 65,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 64,
+            "word": "止"
+          },
+          {
+            "end": 67,
+            "gloss": "therefore / as a result / so / the reason why",
+            "pinyin": "suǒ yǐ",
+            "source": "CC-CEDICT",
+            "start": 65,
+            "word": "所以"
+          },
+          {
+            "end": 68,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 67,
+            "word": "不"
+          },
+          {
+            "end": 69,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 68,
+            "word": "殆"
+          },
+          {
+            "end": 71,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 70,
+            "word": "譬"
+          },
+          {
+            "end": 72,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 71,
+            "word": "道"
+          },
+          {
+            "end": 73,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 72,
+            "word": "之"
+          },
+          {
+            "end": 74,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 73,
+            "word": "在"
+          },
+          {
+            "end": 76,
+            "gloss": "land under heaven / the whole world / the whole of China / realm / rule",
+            "pinyin": "tiān xià",
+            "source": "CC-CEDICT",
+            "start": 74,
+            "word": "天下"
+          },
+          {
+            "end": 78,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 77,
+            "word": "犹"
+          },
+          {
+            "end": 80,
+            "gloss": "same as 薏苡[yi4 yi3]",
+            "pinyin": "chuān gǔ",
+            "source": "CC-CEDICT",
+            "start": 78,
+            "word": "川谷"
+          },
+          {
+            "end": 81,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 80,
+            "word": "之"
+          },
+          {
+            "end": 82,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 81,
+            "word": "与"
+          },
+          {
+            "end": 84,
+            "gloss": "see 江海区|江海区[Jiang1 hai3 Qu1]",
+            "pinyin": "Jiāng hǎi",
+            "source": "CC-CEDICT",
+            "start": 82,
+            "word": "江海"
+          }
+        ]
       }
     ],
-    "summary": "道常無名",
+    "summary": "道常无名",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "道常無名。樸雖小，天下莫能臣也。侯王若能守之，萬物將自賓。天地相合，以降甘露，民莫之令而自均。始制有名，名亦既有，夫亦將知止，知止所以不殆。譬道之在天下，猶川谷之與江海。",
+    "text": "道常无名。朴虽小，天下莫能臣也。侯王若能守之，万物将自宾。天地相合，以降甘露，民莫之令而自均。始制有名，名亦既有，夫亦将知止，知止所以不殆。譬道之在天下，犹川谷之与江海。",
     "title": "第32章"
   },
   "chapter_path": "books/daodejing/chapters/chapter-032.json",

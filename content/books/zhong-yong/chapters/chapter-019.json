@@ -18,9 +18,102 @@
         "character_count": 11,
         "id": "chapter-019-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "zǐ",
+          "yuē",
+          "",
+          "",
+          "wǔ",
+          "wáng",
+          "",
+          "zhōu",
+          "gōng",
+          "",
+          "qí",
+          "dá",
+          "xiào",
+          "yǐ",
+          "hū",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "子曰：「武王、周公，其達孝矣乎！"
+        "text": "子曰：「武王、周公，其达孝矣乎！",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "The Master said (Confucius said)",
+            "pinyin": "zǐ yuē",
+            "source": "classical-override",
+            "start": 0,
+            "word": "子曰"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "武"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "王"
+          },
+          {
+            "end": 9,
+            "gloss": "Duke of Zhou (11th c. BC), son of King Wen of Zhou 周文王[Zhou1 Wen2 wang2], played an important role …",
+            "pinyin": "Zhōu gōng",
+            "source": "CC-CEDICT",
+            "start": 7,
+            "word": "周公"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "其"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "达"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "孝"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "矣"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "乎"
+          }
+        ]
       },
       {
         "canonical_translations": [
@@ -35,9 +128,152 @@
         "character_count": 15,
         "id": "chapter-019-line-002",
         "order": 2,
+        "pinyin_per_char": [
+          "fū",
+          "xiào",
+          "zhě",
+          "",
+          "shàn",
+          "jì",
+          "rén",
+          "zhī",
+          "zhì",
+          "",
+          "shàn",
+          "shù",
+          "rén",
+          "zhī",
+          "shì",
+          "zhé",
+          "yě",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 2,
-        "text": "夫孝者：善繼人之志，善述人之事者也。"
+        "text": "夫孝者：善继人之志，善述人之事者也。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "夫"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "孝"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "者"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "善"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "继"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "人"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "之"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "志"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "善"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "述"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "人"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "之"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "事"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "者"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "也"
+          }
+        ]
       },
       {
         "canonical_translations": [
@@ -52,16 +288,179 @@
         "character_count": 18,
         "id": "chapter-019-line-003",
         "order": 3,
+        "pinyin_per_char": [
+          "chūn",
+          "qiū",
+          "xiū",
+          "qí",
+          "zǔ",
+          "miào",
+          "",
+          "chén",
+          "qí",
+          "zōng",
+          "qì",
+          "",
+          "shè",
+          "qí",
+          "shang",
+          "yī",
+          "",
+          "jiàn",
+          "qí",
+          "shí",
+          "shí",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 3,
-        "text": "春秋脩其祖廟，陳其宗器，設其裳衣，薦其時食。"
+        "text": "春秋修其祖庙，陈其宗器，设其裳衣，荐其时食。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "spring and autumn / four seasons / year / a person's age / annals (used in book titles)",
+            "pinyin": "chūn qiū",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "春秋"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "修"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "其"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "祖"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "庙"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "陈"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "其"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "宗"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "器"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "设"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "其"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "裳"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "衣"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "荐"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "其"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "时"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "食"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "By means of the ceremonies of the ancestral temple, they distinguished the royal kindred according to their order of descent.",
+            "text": "By means of the ceremonies of the ancestral temple, they distinguished the royal kindred according to their order of descent. By ordering the parties present according to their rank, they distinguished the more noble and the less. By the arrangement of the services, they made a distinction of talents and worth. In the ceremony of general pledging, the inferiors presented the cup to their superiors, and thus something was given the lowest to do. At the concluding feast, places were given according to the hair, and thus was made the distinction of years.",
             "translator": "Legge",
             "year": 1885
           }
@@ -69,16 +468,345 @@
         "character_count": 42,
         "id": "chapter-019-line-004",
         "order": 4,
+        "pinyin_per_char": [
+          "zōng",
+          "miào",
+          "zhī",
+          "lǐ",
+          "",
+          "suó",
+          "yǐ",
+          "xù",
+          "zhāo",
+          "mù",
+          "yě",
+          "",
+          "xù",
+          "jué",
+          "",
+          "suó",
+          "yǐ",
+          "biàn",
+          "guì",
+          "jiàn",
+          "yě",
+          "",
+          "xù",
+          "shì",
+          "",
+          "suó",
+          "yǐ",
+          "biàn",
+          "xián",
+          "yě",
+          "",
+          "lǚ",
+          "chóu",
+          "xià",
+          "wèi",
+          "shàng",
+          "",
+          "suó",
+          "yí",
+          "dǎi",
+          "jiàn",
+          "yě",
+          "",
+          "yàn",
+          "máo",
+          "",
+          "suó",
+          "yǐ",
+          "xù",
+          "chí",
+          "yě",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 4,
-        "text": "宗廟之禮，所以序昭穆也；序爵，所以辨貴賤也；序事，所以辨賢也；旅酬下為上，所以逮賤也；燕毛，所以序齒也。"
+        "text": "宗庙之礼，所以序昭穆也；序爵，所以辨贵贱也；序事，所以辨贤也；旅酬下为上，所以逮贱也；燕毛，所以序齿也。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "temple / ancestral shrine",
+            "pinyin": "zōng miào",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "宗庙"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "之"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "礼"
+          },
+          {
+            "end": 7,
+            "gloss": "therefore / as a result / so / the reason why",
+            "pinyin": "suǒ yǐ",
+            "source": "CC-CEDICT",
+            "start": 5,
+            "word": "所以"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "序"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "昭"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "穆"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "也"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "序"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "爵"
+          },
+          {
+            "end": 17,
+            "gloss": "therefore / as a result / so / the reason why",
+            "pinyin": "suǒ yǐ",
+            "source": "CC-CEDICT",
+            "start": 15,
+            "word": "所以"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "辨"
+          },
+          {
+            "end": 20,
+            "gloss": "noble and lowly / high versus low social hierarchy of ruler to people, father to son, husband to wi…",
+            "pinyin": "guì jiàn",
+            "source": "CC-CEDICT",
+            "start": 18,
+            "word": "贵贱"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "也"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "序"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "事"
+          },
+          {
+            "end": 27,
+            "gloss": "therefore / as a result / so / the reason why",
+            "pinyin": "suǒ yǐ",
+            "source": "CC-CEDICT",
+            "start": 25,
+            "word": "所以"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "辨"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "贤"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "也"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "旅"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "酬"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "下"
+          },
+          {
+            "end": 36,
+            "gloss": "to be valued above all else",
+            "pinyin": "wéi shàng",
+            "source": "CC-CEDICT",
+            "start": 34,
+            "word": "为上"
+          },
+          {
+            "end": 39,
+            "gloss": "therefore / as a result / so / the reason why",
+            "pinyin": "suǒ yǐ",
+            "source": "CC-CEDICT",
+            "start": 37,
+            "word": "所以"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "逮"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "贱"
+          },
+          {
+            "end": 42,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 41,
+            "word": "也"
+          },
+          {
+            "end": 44,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 43,
+            "word": "燕"
+          },
+          {
+            "end": 45,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 44,
+            "word": "毛"
+          },
+          {
+            "end": 48,
+            "gloss": "therefore / as a result / so / the reason why",
+            "pinyin": "suǒ yǐ",
+            "source": "CC-CEDICT",
+            "start": 46,
+            "word": "所以"
+          },
+          {
+            "end": 49,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 48,
+            "word": "序"
+          },
+          {
+            "end": 50,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 49,
+            "word": "齿"
+          },
+          {
+            "end": 51,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 50,
+            "word": "也"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "By ordering the parties present according to their rank, they distinguished the more noble and the less.",
+            "text": "They occupied the places of their forefathers, practiced their ceremonies, and performed their music. They reverenced those whom they honored, and loved those whom they regarded with affection. Thus they served the dead as they would have served them alive; they served the departed as they would have served them had they been continued among them - the height of filial piety.",
             "translator": "Legge",
             "year": 1885
           }
@@ -86,16 +814,284 @@
         "character_count": 31,
         "id": "chapter-019-line-005",
         "order": 5,
+        "pinyin_per_char": [
+          "jiàn",
+          "qí",
+          "wèi",
+          "",
+          "xíng",
+          "qí",
+          "lǐ",
+          "",
+          "zòu",
+          "qí",
+          "lè",
+          "",
+          "jìng",
+          "qí",
+          "suǒ",
+          "zūn",
+          "",
+          "ài",
+          "qí",
+          "suǒ",
+          "qīn",
+          "",
+          "shì",
+          "sǐ",
+          "rú",
+          "shì",
+          "shēng",
+          "",
+          "shì",
+          "wáng",
+          "rú",
+          "shì",
+          "cún",
+          "",
+          "xiào",
+          "zhī",
+          "zhì",
+          "yě",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 5,
-        "text": "踐其位，行其禮，奏其樂，敬其所尊，愛其所親，事死如事生，事亡如事存，孝之至也。"
+        "text": "践其位，行其礼，奏其乐，敬其所尊，爱其所亲，事死如事生，事亡如事存，孝之至也。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "践"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "其"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "位"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "行"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "其"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "礼"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "奏"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "其"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "乐"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "敬"
+          },
+          {
+            "end": 15,
+            "gloss": "its place / one's appointed place / the place for that",
+            "pinyin": "qí suǒ",
+            "source": "CC-CEDICT",
+            "start": 13,
+            "word": "其所"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "尊"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "爱"
+          },
+          {
+            "end": 20,
+            "gloss": "its place / one's appointed place / the place for that",
+            "pinyin": "qí suǒ",
+            "source": "CC-CEDICT",
+            "start": 18,
+            "word": "其所"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "亲"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "事"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "死"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "如"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "事"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "生"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "事"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "亡"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "如"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "事"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "存"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "孝"
+          },
+          {
+            "end": 37,
+            "gloss": "extremely",
+            "pinyin": "zhī zhì",
+            "source": "CC-CEDICT",
+            "start": 35,
+            "word": "之至"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "也"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "By the arrangement of the services, they made a distinction of talents and worth. In the ceremony of general pledging, the inferiors presented the cup to their superiors, and thus something was given the lowest to do. At the concluding feast, places were given according to the hair, and thus was made the distinction of years. They occupied the places of their forefathers, practiced their ceremonies, and performed their music. They reverenced those whom they honored, and loved those whom they regarded with affection. Thus they served the dead as they would have served them alive; they served the departed as they would have served them had they been continued among them - the height of filial piety. By the ceremonies of the sacrifices to Heaven and Earth they served God, and by the ceremonies of the ancestral temple they sacrificed to their ancestors. He who understands the ceremonies of the sacrifices to Heaven and Earth, and the meaning of the several sacrifices to ancestors, would find the government of a kingdom as easy as to look into his palm!\"",
+            "text": "By the ceremonies of the sacrifices to Heaven and Earth they served God, and by the ceremonies of the ancestral temple they sacrificed to their ancestors. He who understands the ceremonies of the sacrifices to Heaven and Earth, and the meaning of the several sacrifices to ancestors, would find the government of a kingdom as easy as to look into his palm!\"",
             "translator": "Legge",
             "year": 1885
           }
@@ -103,16 +1099,332 @@
         "character_count": 39,
         "id": "chapter-019-line-006",
         "order": 6,
+        "pinyin_per_char": [
+          "jiāo",
+          "shè",
+          "zhī",
+          "lǐ",
+          "",
+          "suó",
+          "yǐ",
+          "shì",
+          "shàng",
+          "dì",
+          "yě",
+          "",
+          "zōng",
+          "miào",
+          "zhī",
+          "lǐ",
+          "",
+          "suó",
+          "yǐ",
+          "sì",
+          "hū",
+          "qí",
+          "xiān",
+          "yě",
+          "",
+          "míng",
+          "hū",
+          "jiāo",
+          "shè",
+          "zhī",
+          "lǐ",
+          "",
+          "dì",
+          "cháng",
+          "zhī",
+          "yì",
+          "",
+          "zhì",
+          "guó",
+          "qí",
+          "rú",
+          "shì",
+          "zhū",
+          "zhǎng",
+          "hū",
+          "",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 6,
-        "text": "郊社之禮，所以事上帝也，宗廟之禮，所以祀乎其先也。明乎郊社之禮、禘嘗之義，治國其如示諸掌乎。」"
+        "text": "郊社之礼，所以事上帝也，宗庙之礼，所以祀乎其先也。明乎郊社之礼、禘尝之义，治国其如示诸掌乎。」",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "郊"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "社"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "之"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "礼"
+          },
+          {
+            "end": 7,
+            "gloss": "therefore / as a result / so / the reason why",
+            "pinyin": "suǒ yǐ",
+            "source": "CC-CEDICT",
+            "start": 5,
+            "word": "所以"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "事"
+          },
+          {
+            "end": 10,
+            "gloss": "God",
+            "pinyin": "Shàng dì",
+            "source": "CC-CEDICT",
+            "start": 8,
+            "word": "上帝"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "也"
+          },
+          {
+            "end": 14,
+            "gloss": "temple / ancestral shrine",
+            "pinyin": "zōng miào",
+            "source": "CC-CEDICT",
+            "start": 12,
+            "word": "宗庙"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "之"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "礼"
+          },
+          {
+            "end": 19,
+            "gloss": "therefore / as a result / so / the reason why",
+            "pinyin": "suǒ yǐ",
+            "source": "CC-CEDICT",
+            "start": 17,
+            "word": "所以"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "祀"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "乎"
+          },
+          {
+            "end": 23,
+            "gloss": "previously / before that / up to then",
+            "pinyin": "qí xiān",
+            "source": "CC-CEDICT",
+            "start": 21,
+            "word": "其先"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "也"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "明"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "乎"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "郊"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "社"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "之"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "礼"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "禘"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "尝"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "之"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "义"
+          },
+          {
+            "end": 39,
+            "gloss": "to order well one's state",
+            "pinyin": "zhì guó",
+            "source": "classical-override",
+            "start": 37,
+            "word": "治国"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "其"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "如"
+          },
+          {
+            "end": 42,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 41,
+            "word": "示"
+          },
+          {
+            "end": 43,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 42,
+            "word": "诸"
+          },
+          {
+            "end": 44,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 43,
+            "word": "掌"
+          },
+          {
+            "end": 45,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 44,
+            "word": "乎"
+          }
+        ]
       }
     ],
     "summary": "",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "子曰：「武王、周公，其達孝矣乎！\n夫孝者：善繼人之志，善述人之事者也。\n春秋脩其祖廟，陳其宗器，設其裳衣，薦其時食。\n宗廟之禮，所以序昭穆也；序爵，所以辨貴賤也；序事，所以辨賢也；旅酬下為上，所以逮賤也；燕毛，所以序齒也。\n踐其位，行其禮，奏其樂，敬其所尊，愛其所親，事死如事生，事亡如事存，孝之至也。\n郊社之禮，所以事上帝也，宗廟之禮，所以祀乎其先也。明乎郊社之禮、禘嘗之義，治國其如示諸掌乎。」",
+    "text": "子曰：「武王、周公，其达孝矣乎！\n夫孝者：善继人之志，善述人之事者也。\n春秋修其祖庙，陈其宗器，设其裳衣，荐其时食。\n宗庙之礼，所以序昭穆也；序爵，所以辨贵贱也；序事，所以辨贤也；旅酬下为上，所以逮贱也；燕毛，所以序齿也。\n践其位，行其礼，奏其乐，敬其所尊，爱其所亲，事死如事生，事亡如事存，孝之至也。\n郊社之礼，所以事上帝也，宗庙之礼，所以祀乎其先也。明乎郊社之礼、禘尝之义，治国其如示诸掌乎。」",
     "title": ""
   },
   "chapter_path": "books/zhong-yong/chapters/chapter-019.json",

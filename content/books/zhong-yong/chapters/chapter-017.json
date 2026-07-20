@@ -10,7 +10,7 @@
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "The Master said, \"How greatly filial was Shun!",
+            "text": "The Master said, \"How greatly filial was Shun! His virtue was that of a sage; his dignity was the throne; his riches were all within the four seas. He offered his sacrifices in his ancestral temple, and his descendants preserved the sacrifices to himself.",
             "translator": "Legge",
             "year": 1885
           }
@@ -18,43 +18,228 @@
         "character_count": 30,
         "id": "chapter-017-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "zǐ",
+          "yuē",
+          "",
+          "",
+          "shùn",
+          "qí",
+          "dà",
+          "xiào",
+          "yé",
+          "yǔ",
+          "",
+          "dé",
+          "wèi",
+          "shèng",
+          "rén",
+          "",
+          "zūn",
+          "wèi",
+          "tiān",
+          "zi",
+          "",
+          "fù",
+          "yǒu",
+          "sì",
+          "hǎi",
+          "zhī",
+          "nèi",
+          "",
+          "zōng",
+          "miào",
+          "xiǎng",
+          "zhī",
+          "",
+          "zǐ",
+          "sūn",
+          "bǎo",
+          "zhī",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "子曰：「舜其大孝也與！德為聖人，尊為天子，富有四海之內。宗廟饗之，子孫保之。"
-      },
-      {
-        "canonical_translations": [
+        "text": "子曰：「舜其大孝也与！德为圣人，尊为天子，富有四海之内。宗庙飨之，子孙保之。",
+        "word_spans": [
           {
-            "license": "public domain",
-            "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "His virtue was that of a sage; his dignity was the throne; his riches were all within the four seas.",
-            "translator": "Legge",
-            "year": 1885
-          }
-        ],
-        "character_count": 19,
-        "id": "chapter-017-line-002",
-        "order": 2,
-        "source_block_chunk": 1,
-        "source_block_order": 2,
-        "text": "故大德必得其位，必得其祿，必得其名，必得其壽。"
-      },
-      {
-        "canonical_translations": [
+            "end": 2,
+            "gloss": "The Master said (Confucius said)",
+            "pinyin": "zǐ yuē",
+            "source": "classical-override",
+            "start": 0,
+            "word": "子曰"
+          },
           {
-            "license": "public domain",
-            "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "He offered his sacrifices in his ancestral temple, and his descendants preserved the sacrifices to himself.",
-            "translator": "Legge",
-            "year": 1885
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "舜"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "其"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "大"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "孝"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "也"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "与"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "德"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "为"
+          },
+          {
+            "end": 15,
+            "gloss": "the sage; the holy man",
+            "pinyin": "shèng rén",
+            "source": "classical-override",
+            "start": 13,
+            "word": "圣人"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "尊"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "为"
+          },
+          {
+            "end": 20,
+            "gloss": "the (rightful) emperor / \"Son of Heaven\" (traditional English translation)",
+            "pinyin": "tiān zǐ",
+            "source": "CC-CEDICT",
+            "start": 18,
+            "word": "天子"
+          },
+          {
+            "end": 23,
+            "gloss": "rich; wealthy; affluent / to be rich in; to be replete with",
+            "pinyin": "fù yǒu",
+            "source": "CC-CEDICT",
+            "start": 21,
+            "word": "富有"
+          },
+          {
+            "end": 25,
+            "gloss": "(fig.) the whole world",
+            "pinyin": "sì hǎi",
+            "source": "CC-CEDICT",
+            "start": 23,
+            "word": "四海"
+          },
+          {
+            "end": 27,
+            "gloss": "inside; within",
+            "pinyin": "zhī nèi",
+            "source": "CC-CEDICT",
+            "start": 25,
+            "word": "之内"
+          },
+          {
+            "end": 30,
+            "gloss": "temple / ancestral shrine",
+            "pinyin": "zōng miào",
+            "source": "CC-CEDICT",
+            "start": 28,
+            "word": "宗庙"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "飨"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "之"
+          },
+          {
+            "end": 35,
+            "gloss": "offspring / posterity",
+            "pinyin": "zǐ sūn",
+            "source": "CC-CEDICT",
+            "start": 33,
+            "word": "子孙"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "保"
+          },
+          {
+            "end": 37,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 36,
+            "word": "之"
           }
-        ],
-        "character_count": 21,
-        "id": "chapter-017-line-003",
-        "order": 3,
-        "source_block_chunk": 1,
-        "source_block_order": 3,
-        "text": "故天之生物，必因其材而篤焉。故栽者培之，傾者覆之，"
+        ]
       },
       {
         "canonical_translations": [
@@ -66,19 +251,607 @@
             "year": 1885
           }
         ],
-        "character_count": 26,
-        "id": "chapter-017-line-004",
-        "order": 4,
+        "character_count": 19,
+        "id": "chapter-017-line-002",
+        "order": 2,
+        "pinyin_per_char": [
+          "gù",
+          "dà",
+          "dé",
+          "bì",
+          "děi",
+          "qí",
+          "wèi",
+          "",
+          "bì",
+          "děi",
+          "qí",
+          "lù",
+          "",
+          "bì",
+          "děi",
+          "qí",
+          "míng",
+          "",
+          "bì",
+          "děi",
+          "qí",
+          "shòu",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
-        "source_block_order": 4,
-        "text": "詩曰：『嘉樂君子，憲憲令德！宜民宜人；受祿于天；保佑命之，自天申之！』"
+        "source_block_order": 2,
+        "text": "故大德必得其位，必得其禄，必得其名，必得其寿。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "故"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "大"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "德"
+          },
+          {
+            "end": 5,
+            "gloss": "must / have to",
+            "pinyin": "bì děi",
+            "source": "CC-CEDICT",
+            "start": 3,
+            "word": "必得"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "其"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "位"
+          },
+          {
+            "end": 10,
+            "gloss": "must / have to",
+            "pinyin": "bì děi",
+            "source": "CC-CEDICT",
+            "start": 8,
+            "word": "必得"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "其"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "禄"
+          },
+          {
+            "end": 15,
+            "gloss": "must / have to",
+            "pinyin": "bì děi",
+            "source": "CC-CEDICT",
+            "start": 13,
+            "word": "必得"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "其"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "名"
+          },
+          {
+            "end": 20,
+            "gloss": "must / have to",
+            "pinyin": "bì děi",
+            "source": "CC-CEDICT",
+            "start": 18,
+            "word": "必得"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "其"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "寿"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "Thus it is that Heaven, in the production of things, is sure to be bountiful to them, according to their qualities. Hence the tree that is flourishing, it nourishes, while that which is ready to fall, it overthrows. In the Book of Poetry, it is said, 'The admirable amiable prince displayed conspicuously his excelling virtue, adjusting his people, and adjusting his officers. Therefore, he received from Heaven his emoluments of dignity. It protected him, assisted him, decreed him the throne; sending from Heaven these favors, as it were repeatedly.' We may say therefore that he who is greatly virtuous will be sure to receive the appointment of Heaven.\"",
+            "text": "Thus it is that Heaven, in the production of things, is sure to be bountiful to them, according to their qualities. Hence the tree that is flourishing, it nourishes, while that which is ready to fall, it overthrows.",
+            "translator": "Legge",
+            "year": 1885
+          }
+        ],
+        "character_count": 21,
+        "id": "chapter-017-line-003",
+        "order": 3,
+        "pinyin_per_char": [
+          "gù",
+          "tiān",
+          "zhī",
+          "shēng",
+          "wù",
+          "",
+          "bì",
+          "yīn",
+          "qí",
+          "cái",
+          "ér",
+          "dǔ",
+          "yān",
+          "",
+          "gù",
+          "zāi",
+          "zhě",
+          "péi",
+          "zhī",
+          "",
+          "qīng",
+          "zhě",
+          "fù",
+          "zhī",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "故天之生物，必因其材而笃焉。故栽者培之，倾者覆之，",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "故"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "天"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "之"
+          },
+          {
+            "end": 5,
+            "gloss": "organism / living creature / life form / biological / CL:个|个[ge4]",
+            "pinyin": "shēng wù",
+            "source": "CC-CEDICT",
+            "start": 3,
+            "word": "生物"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "必"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "因"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "其"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "材"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "而"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "笃"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "焉"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "故"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "栽"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "者"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "培"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "之"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "倾"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "者"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "覆"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "之"
+          }
+        ]
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "public domain",
+            "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
+            "text": "In the Book of Poetry, it is said, 'The admirable amiable prince displayed conspicuously his excelling virtue, adjusting his people, and adjusting his officers. Therefore, he received from Heaven his emoluments of dignity. It protected him, assisted him, decreed him the throne; sending from Heaven these favors, as it were repeatedly.'",
+            "translator": "Legge",
+            "year": 1885
+          }
+        ],
+        "character_count": 26,
+        "id": "chapter-017-line-004",
+        "order": 4,
+        "pinyin_per_char": [
+          "shī",
+          "yuē",
+          "",
+          "",
+          "jiā",
+          "lè",
+          "jūn",
+          "zǐ",
+          "",
+          "xiàn",
+          "xiàn",
+          "lìng",
+          "dé",
+          "",
+          "yí",
+          "mín",
+          "yí",
+          "rén",
+          "",
+          "shòu",
+          "lù",
+          "yú",
+          "tiān",
+          "",
+          "bǎo",
+          "yòu",
+          "mìng",
+          "zhī",
+          "",
+          "zì",
+          "tiān",
+          "shēn",
+          "zhī",
+          "",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "诗曰：『嘉乐君子，宪宪令德！宜民宜人；受禄于天；保佑命之，自天申之！』",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "a poem goes:",
+            "pinyin": "shī yuē",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "诗曰"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "嘉"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "乐"
+          },
+          {
+            "end": 8,
+            "gloss": "the superior man; the exemplary person (junzi)",
+            "pinyin": "jūn zǐ",
+            "source": "classical-override",
+            "start": 6,
+            "word": "君子"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "宪"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "宪"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "令"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "德"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "宜"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "民"
+          },
+          {
+            "end": 18,
+            "gloss": "nice; pleasant; charming; hospitable to people",
+            "pinyin": "yí rén",
+            "source": "CC-CEDICT",
+            "start": 16,
+            "word": "宜人"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "受"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "禄"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "于"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "天"
+          },
+          {
+            "end": 26,
+            "gloss": "to bless and protect / blessing",
+            "pinyin": "bǎo yòu",
+            "source": "CC-CEDICT",
+            "start": 24,
+            "word": "保佑"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "命"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "之"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "自"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "天"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "申"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "之"
+          }
+        ]
+      },
+      {
+        "canonical_translations": [
+          {
+            "license": "public domain",
+            "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
+            "text": "We may say therefore that he who is greatly virtuous will be sure to receive the appointment of Heaven.\"",
             "translator": "Legge",
             "year": 1885
           }
@@ -86,16 +859,78 @@
         "character_count": 7,
         "id": "chapter-017-line-005",
         "order": 5,
+        "pinyin_per_char": [
+          "gù",
+          "dà",
+          "dé",
+          "zhě",
+          "bì",
+          "shòu",
+          "mìng",
+          "",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 5,
-        "text": "故大德者必受命。」"
+        "text": "故大德者必受命。」",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "故"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "大"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "德"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "者"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "必"
+          },
+          {
+            "end": 7,
+            "gloss": "ordained or appointed to a post / to benefit from counsel",
+            "pinyin": "shòu mìng",
+            "source": "CC-CEDICT",
+            "start": 5,
+            "word": "受命"
+          }
+        ]
       }
     ],
     "summary": "",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "子曰：「舜其大孝也與！德為聖人，尊為天子，富有四海之內。宗廟饗之，子孫保之。\n故大德必得其位，必得其祿，必得其名，必得其壽。\n故天之生物，必因其材而篤焉。故栽者培之，傾者覆之，\n詩曰：『嘉樂君子，憲憲令德！宜民宜人；受祿于天；保佑命之，自天申之！』\n故大德者必受命。」",
+    "text": "子曰：「舜其大孝也与！德为圣人，尊为天子，富有四海之内。宗庙飨之，子孙保之。\n故大德必得其位，必得其禄，必得其名，必得其寿。\n故天之生物，必因其材而笃焉。故栽者培之，倾者覆之，\n诗曰：『嘉乐君子，宪宪令德！宜民宜人；受禄于天；保佑命之，自天申之！』\n故大德者必受命。」",
     "title": ""
   },
   "chapter_path": "books/zhong-yong/chapters/chapter-017.json",

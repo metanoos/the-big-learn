@@ -18,16 +18,747 @@
         "character_count": 95,
         "id": "chapter-041-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "shàng",
+          "shì",
+          "wén",
+          "dào",
+          "",
+          "qín",
+          "ér",
+          "xíng",
+          "zhī",
+          "",
+          "zhōng",
+          "shì",
+          "wén",
+          "dào",
+          "",
+          "ruò",
+          "cún",
+          "ruò",
+          "wáng",
+          "",
+          "xià",
+          "shì",
+          "wén",
+          "dào",
+          "",
+          "dà",
+          "xiào",
+          "zhī",
+          "",
+          "bú",
+          "xiào",
+          "bù",
+          "zú",
+          "yǐ",
+          "wéi",
+          "dào",
+          "",
+          "gù",
+          "jiàn",
+          "yán",
+          "yǒu",
+          "zhī",
+          "",
+          "míng",
+          "dào",
+          "ruò",
+          "mèi",
+          "",
+          "jìn",
+          "dào",
+          "ruò",
+          "tuì",
+          "",
+          "yí",
+          "dào",
+          "ruò",
+          "lèi",
+          "",
+          "shàng",
+          "dé",
+          "ruò",
+          "gǔ",
+          "",
+          "tài",
+          "bái",
+          "ruò",
+          "rǔ",
+          "",
+          "guǎng",
+          "dé",
+          "ruò",
+          "bù",
+          "zú",
+          "",
+          "jiàn",
+          "dé",
+          "ruò",
+          "tōu",
+          "",
+          "zhì",
+          "zhēn",
+          "ruò",
+          "yú",
+          "",
+          "dà",
+          "fāng",
+          "wú",
+          "yú",
+          "",
+          "dà",
+          "qì",
+          "wǎn",
+          "chéng",
+          "",
+          "dà",
+          "yīn",
+          "xī",
+          "shēng",
+          "",
+          "dà",
+          "xiàng",
+          "wú",
+          "xíng",
+          "",
+          "dào",
+          "yǐn",
+          "wú",
+          "míng",
+          "",
+          "fū",
+          "wéi",
+          "dào",
+          "",
+          "shàn",
+          "dài",
+          "qiě",
+          "chéng",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "上士聞道，勤而行之；中士聞道，若存若亡；下士聞道，大笑之。不笑不足以為道。故建言有之：明道若昧；進道若退；夷道若纇；上德若谷；太白若辱；廣德若不足；建德若偷；質真若渝；大方無隅；大器晚成；大音希聲；大象無形；道隱無名。夫唯道，善貸且成。"
+        "text": "上士闻道，勤而行之；中士闻道，若存若亡；下士闻道，大笑之。不笑不足以为道。故建言有之：明道若昧；进道若退；夷道若颣；上德若谷；太白若辱；广德若不足；建德若偷；质真若渝；大方无隅；大器晚成；大音希声；大象无形；道隐无名。夫唯道，善贷且成。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "上"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "士"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "闻"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "道"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "勤"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "而"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "行"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "之"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "中"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "士"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "闻"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "道"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "若"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "存"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "若"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "亡"
+          },
+          {
+            "end": 22,
+            "gloss": "lowest-ranked noncommissioned officer (e.g. corporal in the army or petty officer, third class in t…",
+            "pinyin": "xià shì",
+            "source": "CC-CEDICT",
+            "start": 20,
+            "word": "下士"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "闻"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "道"
+          },
+          {
+            "end": 27,
+            "gloss": "to laugh heartily / a belly laugh",
+            "pinyin": "dà xiào",
+            "source": "CC-CEDICT",
+            "start": 25,
+            "word": "大笑"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "之"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "不"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "笑"
+          },
+          {
+            "end": 33,
+            "gloss": "insufficient / lacking / deficiency / not enough / inadequate / not worth / cannot / should not",
+            "pinyin": "bù zú",
+            "source": "CC-CEDICT",
+            "start": 31,
+            "word": "不足"
+          },
+          {
+            "end": 35,
+            "gloss": "to think; to believe (often with the implication that the belief is mistaken – unless referring to …",
+            "pinyin": "yǐ wéi",
+            "source": "CC-CEDICT",
+            "start": 33,
+            "word": "以为"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "道"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "故"
+          },
+          {
+            "end": 40,
+            "gloss": "to make a suggestion / to state (one's views, ideas etc) / suggestion / advice / idea",
+            "pinyin": "jiàn yán",
+            "source": "CC-CEDICT",
+            "start": 38,
+            "word": "建言"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "有"
+          },
+          {
+            "end": 42,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 41,
+            "word": "之"
+          },
+          {
+            "end": 44,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 43,
+            "word": "明"
+          },
+          {
+            "end": 45,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 44,
+            "word": "道"
+          },
+          {
+            "end": 46,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 45,
+            "word": "若"
+          },
+          {
+            "end": 47,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 46,
+            "word": "昧"
+          },
+          {
+            "end": 52,
+            "gloss": "progress seems like regress (the Book of Dao 道德经|道德经[Dao4 de2 jing1], Chpt. 41)",
+            "pinyin": "jìn dào ruò tuì",
+            "source": "CC-CEDICT",
+            "start": 48,
+            "word": "进道若退"
+          },
+          {
+            "end": 54,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 53,
+            "word": "夷"
+          },
+          {
+            "end": 55,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 54,
+            "word": "道"
+          },
+          {
+            "end": 56,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 55,
+            "word": "若"
+          },
+          {
+            "end": 57,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 56,
+            "word": "颣"
+          },
+          {
+            "end": 59,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 58,
+            "word": "上"
+          },
+          {
+            "end": 60,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 59,
+            "word": "德"
+          },
+          {
+            "end": 61,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 60,
+            "word": "若"
+          },
+          {
+            "end": 62,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 61,
+            "word": "谷"
+          },
+          {
+            "end": 65,
+            "gloss": "Taibai County in Baoji 宝鸡|宝鸡[Bao3 ji1], Shaanxi / Venus",
+            "pinyin": "Tài bái",
+            "source": "CC-CEDICT",
+            "start": 63,
+            "word": "太白"
+          },
+          {
+            "end": 66,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 65,
+            "word": "若"
+          },
+          {
+            "end": 67,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 66,
+            "word": "辱"
+          },
+          {
+            "end": 70,
+            "gloss": "see 广德市|广德市[Guang3 de2 Shi4]",
+            "pinyin": "Guǎng dé",
+            "source": "CC-CEDICT",
+            "start": 68,
+            "word": "广德"
+          },
+          {
+            "end": 71,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 70,
+            "word": "若"
+          },
+          {
+            "end": 73,
+            "gloss": "insufficient / lacking / deficiency / not enough / inadequate / not worth / cannot / should not",
+            "pinyin": "bù zú",
+            "source": "CC-CEDICT",
+            "start": 71,
+            "word": "不足"
+          },
+          {
+            "end": 76,
+            "gloss": "see 建德市[Jian4 de2 Shi4]",
+            "pinyin": "Jiàn dé",
+            "source": "CC-CEDICT",
+            "start": 74,
+            "word": "建德"
+          },
+          {
+            "end": 77,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 76,
+            "word": "若"
+          },
+          {
+            "end": 78,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 77,
+            "word": "偷"
+          },
+          {
+            "end": 80,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 79,
+            "word": "质"
+          },
+          {
+            "end": 81,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 80,
+            "word": "真"
+          },
+          {
+            "end": 82,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 81,
+            "word": "若"
+          },
+          {
+            "end": 83,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 82,
+            "word": "渝"
+          },
+          {
+            "end": 86,
+            "gloss": "generous / magnanimous / stylish / in good taste / easy-mannered / natural and relaxed",
+            "pinyin": "dà fang",
+            "source": "CC-CEDICT",
+            "start": 84,
+            "word": "大方"
+          },
+          {
+            "end": 87,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 86,
+            "word": "无"
+          },
+          {
+            "end": 88,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 87,
+            "word": "隅"
+          },
+          {
+            "end": 93,
+            "gloss": "lit. it takes a long time to make a big pot (idiom); fig. a great talent matures slowly / in the fu…",
+            "pinyin": "dà qì wǎn chéng",
+            "source": "CC-CEDICT",
+            "start": 89,
+            "word": "大器晚成"
+          },
+          {
+            "end": 95,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 94,
+            "word": "大"
+          },
+          {
+            "end": 96,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 95,
+            "word": "音"
+          },
+          {
+            "end": 97,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 96,
+            "word": "希"
+          },
+          {
+            "end": 98,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 97,
+            "word": "声"
+          },
+          {
+            "end": 101,
+            "gloss": "elephant / CL:头|头[tou2]",
+            "pinyin": "dà xiàng",
+            "source": "CC-CEDICT",
+            "start": 99,
+            "word": "大象"
+          },
+          {
+            "end": 103,
+            "gloss": "incorporeal / virtual / formless / invisible (assets) / intangible",
+            "pinyin": "wú xíng",
+            "source": "CC-CEDICT",
+            "start": 101,
+            "word": "无形"
+          },
+          {
+            "end": 105,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 104,
+            "word": "道"
+          },
+          {
+            "end": 106,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 105,
+            "word": "隐"
+          },
+          {
+            "end": 108,
+            "gloss": "nameless / obscure",
+            "pinyin": "wú míng",
+            "source": "CC-CEDICT",
+            "start": 106,
+            "word": "无名"
+          },
+          {
+            "end": 110,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 109,
+            "word": "夫"
+          },
+          {
+            "end": 111,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 110,
+            "word": "唯"
+          },
+          {
+            "end": 112,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 111,
+            "word": "道"
+          },
+          {
+            "end": 114,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 113,
+            "word": "善"
+          },
+          {
+            "end": 115,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 114,
+            "word": "贷"
+          },
+          {
+            "end": 116,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 115,
+            "word": "且"
+          },
+          {
+            "end": 117,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 116,
+            "word": "成"
+          }
+        ]
       }
     ],
-    "summary": "上士聞道，勤而行之；中士聞道，若存若亡；下士聞道，大笑之",
+    "summary": "上士闻道，勤而行之；中士闻道，若存若亡；下士闻道，大笑之",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "上士聞道，勤而行之；中士聞道，若存若亡；下士聞道，大笑之。不笑不足以為道。故建言有之：明道若昧；進道若退；夷道若纇；上德若谷；太白若辱；廣德若不足；建德若偷；質真若渝；大方無隅；大器晚成；大音希聲；大象無形；道隱無名。夫唯道，善貸且成。",
+    "text": "上士闻道，勤而行之；中士闻道，若存若亡；下士闻道，大笑之。不笑不足以为道。故建言有之：明道若昧；进道若退；夷道若颣；上德若谷；太白若辱；广德若不足；建德若偷；质真若渝；大方无隅；大器晚成；大音希声；大象无形；道隐无名。夫唯道，善贷且成。",
     "title": "第41章"
   },
   "chapter_path": "books/daodejing/chapters/chapter-041.json",

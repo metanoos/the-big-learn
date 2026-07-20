@@ -1,0 +1,152 @@
+{
+  "_doc": "Curated classical-Chinese compound glosses, consulted by tools/build_word_gloss.py via longest-match prefix BEFORE falling back to CC-CEDICT. CC-CEDICT is modern-Mandarin: it systematically mis-glosses compounds whose classical sense has shifted (大学 = 'university' not 'The Great Learning'; 修身 picks up 'slim-fit'; 率性 = 'authentically' not 'following one's inborn nature'). This file supplies verified classical senses for the cases where CC-CEDICT is *wrong* or *absent* — not where it's merely modern. SEED SCOPE: title/opening compounds of each canonical book + high-frequency terms where the divergence is pedagogically damaging. Each entry must be defensible from James Legge's translations or a published zhuyin edition; when in doubt, leave it out and let the CC-CEDICT gloss (or honest null) render. Extend as more are verified. This is the word-level analog of pinyin-overrides.json (which fixes pinyin); this fixes gloss.",
+  "_format_NOTE": "Keys are in SIMPLIFIED form, matching the chapter text (which is simplified — verified by inspecting content/books/*/chapters/chapter-001.json). This differs from pinyin-overrides.json which uses traditional keys; that file's trad-keyed stance is inherited from a now-stale assumption that the canon is traditional. If the canon is ever migrated to traditional, regenerate this file with traditional keys.",
+  "_references": [
+    "James Legge, The Chinese Classics (1861-1872): Da Xue, Zhong Yong, Lunyu, Mengzi",
+    "James Legge, The Texts of Taoism (1891): Daodejing",
+    "注音版大学/中庸/论语/孟子 (zhuyin editions of the Four Books)",
+    "CC-CEDICT (for cross-checking modern sense, not for the classical gloss)"
+  ],
+  "entries": {
+    "大学之道": {
+      "pinyin": "dà xué zhī dào",
+      "gloss": "The way of the Great Learning",
+      "source": "Legge, Da Xue"
+    },
+    "大学": {
+      "pinyin": "dà xué",
+      "gloss": "The Great Learning (first of the Four Books); the learning of the great",
+      "source": "Legge, Da Xue"
+    },
+    "明明德": {
+      "pinyin": "míng míng dé",
+      "gloss": "to illustrate illustrious virtue; to make one's bright virtue shine",
+      "source": "Legge, Da Xue"
+    },
+    "亲民": {
+      "pinyin": "qīn mín",
+      "gloss": "to renovate (or love) the people",
+      "source": "Legge, Da Xue (reading per Zhu Xi's gloss 亲=新)"
+    },
+    "止于至善": {
+      "pinyin": "zhǐ yú zhì shàn",
+      "gloss": "to rest in the highest excellence",
+      "source": "Legge, Da Xue"
+    },
+    "修身": {
+      "pinyin": "xiū shēn",
+      "gloss": "to cultivate one's character (self-cultivation)",
+      "source": "Legge, Da Xue"
+    },
+    "齐家": {
+      "pinyin": "qí jiā",
+      "gloss": "to regulate one's family",
+      "source": "Legge, Da Xue"
+    },
+    "治国": {
+      "pinyin": "zhì guó",
+      "gloss": "to order well one's state",
+      "source": "Legge, Da Xue"
+    },
+    "平天下": {
+      "pinyin": "píng tiān xià",
+      "gloss": "to pacify the whole world (all under heaven)",
+      "source": "Legge, Da Xue"
+    },
+    "格物": {
+      "pinyin": "gé wù",
+      "gloss": "to investigate things (the extension of knowledge)",
+      "source": "Legge, Da Xue"
+    },
+    "致知": {
+      "pinyin": "zhì zhī",
+      "gloss": "to carry knowledge to the utmost",
+      "source": "Legge, Da Xue"
+    },
+    "诚意": {
+      "pinyin": "chéng yì",
+      "gloss": "to make one's thoughts sincere",
+      "source": "Legge, Da Xue"
+    },
+    "正心": {
+      "pinyin": "zhèng xīn",
+      "gloss": "to rectify one's heart/mind",
+      "source": "Legge, Da Xue"
+    },
+    "中庸": {
+      "pinyin": "zhōng yōng",
+      "gloss": "The Doctrine of the Mean; the Golden Mean (the constant middle way)",
+      "source": "Legge, Zhong Yong"
+    },
+    "天命": {
+      "pinyin": "tiān mìng",
+      "gloss": "the Mandate of Heaven; what Heaven has decreed",
+      "source": "Legge, Zhong Yong"
+    },
+    "率性": {
+      "pinyin": "shuài xìng",
+      "gloss": "to follow one's inborn nature (the way that is in accord with nature)",
+      "source": "Legge, Zhong Yong"
+    },
+    "修道": {
+      "pinyin": "xiū dào",
+      "gloss": "to cultivate the Way (to cultivate one's moral path)",
+      "source": "Legge, Zhong Yong"
+    },
+    "君子": {
+      "pinyin": "jūn zǐ",
+      "gloss": "the superior man; the exemplary person (junzi)",
+      "source": "Legge, Lunyu"
+    },
+    "圣人": {
+      "pinyin": "shèng rén",
+      "gloss": "the sage; the holy man",
+      "source": "Legge, Lunyu"
+    },
+    "为政": {
+      "pinyin": "wéi zhèng",
+      "gloss": "to govern; the practice of government",
+      "source": "Legge, Lunyu"
+    },
+    "为政以德": {
+      "pinyin": "wéi zhèng yǐ dé",
+      "gloss": "to govern by virtue",
+      "source": "Legge, Lunyu"
+    },
+    "子曰": {
+      "pinyin": "zǐ yuē",
+      "gloss": "The Master said (Confucius said)",
+      "source": "Legge, Lunyu"
+    },
+    "三省": {
+      "pinyin": "sān xǐng",
+      "gloss": "to examine oneself thrice daily",
+      "source": "Legge, Lunyu"
+    },
+    "仁者": {
+      "pinyin": "rén zhě",
+      "gloss": "the benevolent person; the man of perfect virtue",
+      "source": "Legge, Lunyu"
+    },
+    "论语": {
+      "pinyin": "lún yǔ",
+      "gloss": "The Analects (of Confucius); the Conversations",
+      "source": "Legge, Lunyu"
+    },
+    "孟子": {
+      "pinyin": "mèng zǐ",
+      "gloss": "Mencius (the book or the philosopher, c. 372–289 BCE)",
+      "source": "Legge, Mengzi"
+    },
+    "道德经": {
+      "pinyin": "dào dé jīng",
+      "gloss": "The Daodejing; The Classic of the Way and its Virtue (Laozi)",
+      "source": "Legge, The Texts of Taoism"
+    },
+    "大道": {
+      "pinyin": "dà dào",
+      "gloss": "the great Way (the Dao)",
+      "source": "Legge, Daodejing"
+    }
+  }
+}

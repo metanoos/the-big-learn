@@ -10,7 +10,7 @@
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "The Master said, \"It is only King Wen of whom it can be said that he had no cause for grief!",
+            "text": "The Master said, \"It is only King Wen of whom it can be said that he had no cause for grief! His father was King Ji, and his son was King Wu. His father laid the foundations of his dignity, and his son transmitted it.",
             "translator": "Legge",
             "year": 1885
           }
@@ -18,16 +18,246 @@
         "character_count": 26,
         "id": "chapter-018-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "zǐ",
+          "yuē",
+          "",
+          "",
+          "wú",
+          "yōu",
+          "zhě",
+          "qí",
+          "wéi",
+          "wén",
+          "wáng",
+          "hū",
+          "",
+          "yǐ",
+          "wáng",
+          "jì",
+          "wéi",
+          "fù",
+          "",
+          "yí",
+          "wǔ",
+          "wáng",
+          "wéi",
+          "zǐ",
+          "",
+          "fù",
+          "zuò",
+          "zhī",
+          "",
+          "zi",
+          "shù",
+          "zhī",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "子曰：「無憂者其惟文王乎！以王季為父，以武王為子，父作之，子述之。"
+        "text": "子曰：「无忧者其惟文王乎！以王季为父，以武王为子，父作之，子述之。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "The Master said (Confucius said)",
+            "pinyin": "zǐ yuē",
+            "source": "classical-override",
+            "start": 0,
+            "word": "子曰"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "无"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "忧"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "者"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "其"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "惟"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "文"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "王"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "乎"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "以"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "王"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "季"
+          },
+          {
+            "end": 18,
+            "gloss": "term used by a father to refer to himself when speaking to his child",
+            "pinyin": "wéi fù",
+            "source": "CC-CEDICT",
+            "start": 16,
+            "word": "为父"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "以"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "武"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "王"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "为"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "子"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "父"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "作"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "之"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "子"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "述"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "之"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "His father was King Ji, and his son was King Wu.",
+            "text": "King Wu continued the enterprise of King Tai, King Ji, and King Wen. He once buckled on his armor, and got possession of the kingdom. He did not lose the distinguished personal reputation which he had throughout the kingdom. His dignity was the royal throne. His riches were the possession of all within the four seas. He offered his sacrifices in his ancestral temple, and his descendants maintained the sacrifices to himself.",
             "translator": "Legge",
             "year": 1885
           }
@@ -35,16 +265,338 @@
         "character_count": 44,
         "id": "chapter-018-line-002",
         "order": 2,
+        "pinyin_per_char": [
+          "wǔ",
+          "wáng",
+          "zuǎn",
+          "dà",
+          "wáng",
+          "",
+          "wáng",
+          "jì",
+          "",
+          "wén",
+          "wáng",
+          "zhī",
+          "xù",
+          "",
+          "yī",
+          "róng",
+          "yī",
+          "ér",
+          "yǒu",
+          "tiān",
+          "xià",
+          "",
+          "shēn",
+          "bù",
+          "shī",
+          "tiān",
+          "xià",
+          "zhī",
+          "xiǎn",
+          "míng",
+          "",
+          "zūn",
+          "wèi",
+          "tiān",
+          "zi",
+          "",
+          "fù",
+          "yǒu",
+          "sì",
+          "hǎi",
+          "zhī",
+          "nèi",
+          "",
+          "zōng",
+          "miào",
+          "xiǎng",
+          "zhī",
+          "",
+          "zǐ",
+          "sūn",
+          "bǎo",
+          "zhī",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 2,
-        "text": "武王纘大王、王季、文王之緒。壹戎衣而有天下，身不失天下之顯名。尊為天子，富有四海之內。宗廟饗之，子孫保之。"
+        "text": "武王缵大王、王季、文王之绪。壹戎衣而有天下，身不失天下之显名。尊为天子，富有四海之内。宗庙飨之，子孙保之。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "武"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "王"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "缵"
+          },
+          {
+            "end": 5,
+            "gloss": "robber baron (in opera, old stories) / magnate",
+            "pinyin": "dài wang",
+            "source": "CC-CEDICT",
+            "start": 3,
+            "word": "大王"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "王"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "季"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "文"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "王"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "之"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "绪"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "壹"
+          },
+          {
+            "end": 17,
+            "gloss": "military uniform",
+            "pinyin": "róng yī",
+            "source": "CC-CEDICT",
+            "start": 15,
+            "word": "戎衣"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "而"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "有"
+          },
+          {
+            "end": 21,
+            "gloss": "land under heaven / the whole world / the whole of China / realm / rule",
+            "pinyin": "tiān xià",
+            "source": "CC-CEDICT",
+            "start": 19,
+            "word": "天下"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "身"
+          },
+          {
+            "end": 25,
+            "gloss": "still possesses; yet retains (some positive attribute that contrasts with another of its attributes)",
+            "pinyin": "bù shī",
+            "source": "CC-CEDICT",
+            "start": 23,
+            "word": "不失"
+          },
+          {
+            "end": 27,
+            "gloss": "land under heaven / the whole world / the whole of China / realm / rule",
+            "pinyin": "tiān xià",
+            "source": "CC-CEDICT",
+            "start": 25,
+            "word": "天下"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "之"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "显"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "名"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "尊"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "为"
+          },
+          {
+            "end": 35,
+            "gloss": "the (rightful) emperor / \"Son of Heaven\" (traditional English translation)",
+            "pinyin": "tiān zǐ",
+            "source": "CC-CEDICT",
+            "start": 33,
+            "word": "天子"
+          },
+          {
+            "end": 38,
+            "gloss": "rich; wealthy; affluent / to be rich in; to be replete with",
+            "pinyin": "fù yǒu",
+            "source": "CC-CEDICT",
+            "start": 36,
+            "word": "富有"
+          },
+          {
+            "end": 40,
+            "gloss": "(fig.) the whole world",
+            "pinyin": "sì hǎi",
+            "source": "CC-CEDICT",
+            "start": 38,
+            "word": "四海"
+          },
+          {
+            "end": 42,
+            "gloss": "inside; within",
+            "pinyin": "zhī nèi",
+            "source": "CC-CEDICT",
+            "start": 40,
+            "word": "之内"
+          },
+          {
+            "end": 45,
+            "gloss": "temple / ancestral shrine",
+            "pinyin": "zōng miào",
+            "source": "CC-CEDICT",
+            "start": 43,
+            "word": "宗庙"
+          },
+          {
+            "end": 46,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 45,
+            "word": "飨"
+          },
+          {
+            "end": 47,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 46,
+            "word": "之"
+          },
+          {
+            "end": 50,
+            "gloss": "offspring / posterity",
+            "pinyin": "zǐ sūn",
+            "source": "CC-CEDICT",
+            "start": 48,
+            "word": "子孙"
+          },
+          {
+            "end": 51,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 50,
+            "word": "保"
+          },
+          {
+            "end": 52,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 51,
+            "word": "之"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "His father laid the foundations of his dignity, and his son transmitted it. King Wu continued the enterprise of King Tai, King Ji, and King Wen. He once buckled on his armor, and got possession of the kingdom. He did not lose the distinguished personal reputation which he had throughout the kingdom. His dignity was the royal throne. His riches were the possession of all within the four seas. He offered his sacrifices in his ancestral temple, and his descendants maintained the sacrifices to himself. It was in his old age that King Wu received the appointment to the throne, and the duke of Zhou completed the virtuous course of Wen and Wu. He carried up the title of king to Tai and Ji, and sacrificed to all the former dukes above them with the royal ceremonies. And this rule he extended to the princes of the kingdom, the great officers, the scholars, and the common people. If the father were a great officer and the son a scholar, then the burial was that due to a great officer, and the sacrifice that due to a scholar. If the father were a scholar and the son a great officer, then the burial was that due to a scholar, and the sacrifice that due to a great officer. The one year's mourning was made to extend only to the great officers, but the three years' mourning extended to the Son of Heaven. In the mourning for a father or mother, he allowed no difference between the noble and the mean.",
+            "text": "It was in his old age that King Wu received the appointment to the throne, and the duke of Zhou completed the virtuous course of Wen and Wu. He carried up the title of king to Tai and Ji, and sacrificed to all the former dukes above them with the royal ceremonies. And this rule he extended to the princes of the kingdom, the great officers, the scholars, and the common people. If the father were a great officer and the son a scholar, then the burial was that due to a great officer, and the sacrifice that due to a scholar. If the father were a scholar and the son a great officer, then the burial was that due to a scholar, and the sacrifice that due to a great officer. The one year's mourning was made to extend only to the great officers, but the three years' mourning extended to the Son of Heaven. In the mourning for a father or mother, he allowed no difference between the noble and the mean.",
             "translator": "Legge",
             "year": 1885
           }
@@ -52,16 +604,741 @@
         "character_count": 92,
         "id": "chapter-018-line-003",
         "order": 3,
+        "pinyin_per_char": [
+          "wǔ",
+          "wáng",
+          "mò",
+          "shòu",
+          "mìng",
+          "",
+          "zhōu",
+          "gōng",
+          "chéng",
+          "wén",
+          "wǔ",
+          "zhī",
+          "dé",
+          "",
+          "zhuī",
+          "wáng",
+          "dà",
+          "wáng",
+          "",
+          "wáng",
+          "jì",
+          "",
+          "shàng",
+          "sì",
+          "xiān",
+          "gōng",
+          "yǐ",
+          "tiān",
+          "zi",
+          "zhī",
+          "lǐ",
+          "",
+          "sī",
+          "lí",
+          "yě",
+          "",
+          "dá",
+          "hū",
+          "zhū",
+          "hóu",
+          "dà",
+          "fū",
+          "",
+          "jí",
+          "shì",
+          "shù",
+          "rén",
+          "",
+          "fù",
+          "wéi",
+          "dà",
+          "fū",
+          "",
+          "zi",
+          "wèi",
+          "shì",
+          "",
+          "zàng",
+          "yǐ",
+          "dà",
+          "fū",
+          "",
+          "jì",
+          "yǐ",
+          "shì",
+          "",
+          "fù",
+          "wèi",
+          "shì",
+          "",
+          "zi",
+          "wéi",
+          "dà",
+          "fū",
+          "",
+          "zàng",
+          "yǐ",
+          "shì",
+          "",
+          "jì",
+          "yǐ",
+          "dà",
+          "fū",
+          "",
+          "qī",
+          "zhī",
+          "sàng",
+          "dá",
+          "hū",
+          "dà",
+          "fū",
+          "",
+          "sān",
+          "nián",
+          "zhī",
+          "sàng",
+          "dá",
+          "hū",
+          "tiān",
+          "zi",
+          "",
+          "fù",
+          "mǔ",
+          "zhī",
+          "sàng",
+          "wú",
+          "guì",
+          "jiàn",
+          "yī",
+          "yě",
+          "",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 3,
-        "text": "武王末受命，周公成文武之德，追王大王、王季，上祀先公以天子之禮。斯禮也，達乎諸侯大夫，及士庶人。父為大夫，子為士；葬以大夫，祭以士。父為士，子為大夫；葬以士，祭以大夫。期之喪達乎大夫，三年之喪達乎天子，父母之喪無貴賤一也。」"
+        "text": "武王末受命，周公成文武之德，追王大王、王季，上祀先公以天子之礼。斯礼也，达乎诸侯大夫，及士庶人。父为大夫，子为士；葬以大夫，祭以士。父为士，子为大夫；葬以士，祭以大夫。期之丧达乎大夫，三年之丧达乎天子，父母之丧无贵贱一也。」",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "武"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "王"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "末"
+          },
+          {
+            "end": 5,
+            "gloss": "ordained or appointed to a post / to benefit from counsel",
+            "pinyin": "shòu mìng",
+            "source": "CC-CEDICT",
+            "start": 3,
+            "word": "受命"
+          },
+          {
+            "end": 8,
+            "gloss": "Duke of Zhou (11th c. BC), son of King Wen of Zhou 周文王[Zhou1 Wen2 wang2], played an important role …",
+            "pinyin": "Zhōu gōng",
+            "source": "CC-CEDICT",
+            "start": 6,
+            "word": "周公"
+          },
+          {
+            "end": 10,
+            "gloss": "written / statutory",
+            "pinyin": "chéng wén",
+            "source": "CC-CEDICT",
+            "start": 8,
+            "word": "成文"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "武"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "之"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "德"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "追"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "王"
+          },
+          {
+            "end": 18,
+            "gloss": "robber baron (in opera, old stories) / magnate",
+            "pinyin": "dài wang",
+            "source": "CC-CEDICT",
+            "start": 16,
+            "word": "大王"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "王"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "季"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "上"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "祀"
+          },
+          {
+            "end": 26,
+            "gloss": "(literary) my late father",
+            "pinyin": "xiān gōng",
+            "source": "CC-CEDICT",
+            "start": 24,
+            "word": "先公"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "以"
+          },
+          {
+            "end": 29,
+            "gloss": "the (rightful) emperor / \"Son of Heaven\" (traditional English translation)",
+            "pinyin": "tiān zǐ",
+            "source": "CC-CEDICT",
+            "start": 27,
+            "word": "天子"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "之"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "礼"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "斯"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "礼"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "也"
+          },
+          {
+            "end": 37,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 36,
+            "word": "达"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "乎"
+          },
+          {
+            "end": 40,
+            "gloss": "dukes or princes who rule a part of the country under the emperor; local rulers",
+            "pinyin": "zhū hóu",
+            "source": "CC-CEDICT",
+            "start": 38,
+            "word": "诸侯"
+          },
+          {
+            "end": 42,
+            "gloss": "doctor; physician",
+            "pinyin": "dài fu",
+            "source": "CC-CEDICT",
+            "start": 40,
+            "word": "大夫"
+          },
+          {
+            "end": 44,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 43,
+            "word": "及"
+          },
+          {
+            "end": 45,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 44,
+            "word": "士"
+          },
+          {
+            "end": 46,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 45,
+            "word": "庶"
+          },
+          {
+            "end": 47,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 46,
+            "word": "人"
+          },
+          {
+            "end": 49,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 48,
+            "word": "父"
+          },
+          {
+            "end": 50,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 49,
+            "word": "为"
+          },
+          {
+            "end": 52,
+            "gloss": "doctor; physician",
+            "pinyin": "dài fu",
+            "source": "CC-CEDICT",
+            "start": 50,
+            "word": "大夫"
+          },
+          {
+            "end": 54,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 53,
+            "word": "子"
+          },
+          {
+            "end": 55,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 54,
+            "word": "为"
+          },
+          {
+            "end": 56,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 55,
+            "word": "士"
+          },
+          {
+            "end": 58,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 57,
+            "word": "葬"
+          },
+          {
+            "end": 59,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 58,
+            "word": "以"
+          },
+          {
+            "end": 61,
+            "gloss": "doctor; physician",
+            "pinyin": "dài fu",
+            "source": "CC-CEDICT",
+            "start": 59,
+            "word": "大夫"
+          },
+          {
+            "end": 63,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 62,
+            "word": "祭"
+          },
+          {
+            "end": 64,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 63,
+            "word": "以"
+          },
+          {
+            "end": 65,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 64,
+            "word": "士"
+          },
+          {
+            "end": 67,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 66,
+            "word": "父"
+          },
+          {
+            "end": 68,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 67,
+            "word": "为"
+          },
+          {
+            "end": 69,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 68,
+            "word": "士"
+          },
+          {
+            "end": 71,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 70,
+            "word": "子"
+          },
+          {
+            "end": 72,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 71,
+            "word": "为"
+          },
+          {
+            "end": 74,
+            "gloss": "doctor; physician",
+            "pinyin": "dài fu",
+            "source": "CC-CEDICT",
+            "start": 72,
+            "word": "大夫"
+          },
+          {
+            "end": 76,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 75,
+            "word": "葬"
+          },
+          {
+            "end": 77,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 76,
+            "word": "以"
+          },
+          {
+            "end": 78,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 77,
+            "word": "士"
+          },
+          {
+            "end": 80,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 79,
+            "word": "祭"
+          },
+          {
+            "end": 81,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 80,
+            "word": "以"
+          },
+          {
+            "end": 83,
+            "gloss": "doctor; physician",
+            "pinyin": "dài fu",
+            "source": "CC-CEDICT",
+            "start": 81,
+            "word": "大夫"
+          },
+          {
+            "end": 85,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 84,
+            "word": "期"
+          },
+          {
+            "end": 86,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 85,
+            "word": "之"
+          },
+          {
+            "end": 87,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 86,
+            "word": "丧"
+          },
+          {
+            "end": 88,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 87,
+            "word": "达"
+          },
+          {
+            "end": 89,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 88,
+            "word": "乎"
+          },
+          {
+            "end": 91,
+            "gloss": "doctor; physician",
+            "pinyin": "dài fu",
+            "source": "CC-CEDICT",
+            "start": 89,
+            "word": "大夫"
+          },
+          {
+            "end": 93,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 92,
+            "word": "三"
+          },
+          {
+            "end": 94,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 93,
+            "word": "年"
+          },
+          {
+            "end": 95,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 94,
+            "word": "之"
+          },
+          {
+            "end": 96,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 95,
+            "word": "丧"
+          },
+          {
+            "end": 97,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 96,
+            "word": "达"
+          },
+          {
+            "end": 98,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 97,
+            "word": "乎"
+          },
+          {
+            "end": 100,
+            "gloss": "the (rightful) emperor / \"Son of Heaven\" (traditional English translation)",
+            "pinyin": "tiān zǐ",
+            "source": "CC-CEDICT",
+            "start": 98,
+            "word": "天子"
+          },
+          {
+            "end": 103,
+            "gloss": "father and mother; parents",
+            "pinyin": "fù mǔ",
+            "source": "CC-CEDICT",
+            "start": 101,
+            "word": "父母"
+          },
+          {
+            "end": 104,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 103,
+            "word": "之"
+          },
+          {
+            "end": 105,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 104,
+            "word": "丧"
+          },
+          {
+            "end": 106,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 105,
+            "word": "无"
+          },
+          {
+            "end": 108,
+            "gloss": "noble and lowly / high versus low social hierarchy of ruler to people, father to son, husband to wi…",
+            "pinyin": "guì jiàn",
+            "source": "CC-CEDICT",
+            "start": 106,
+            "word": "贵贱"
+          },
+          {
+            "end": 109,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 108,
+            "word": "一"
+          },
+          {
+            "end": 110,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 109,
+            "word": "也"
+          }
+        ]
       }
     ],
     "summary": "",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "子曰：「無憂者其惟文王乎！以王季為父，以武王為子，父作之，子述之。\n武王纘大王、王季、文王之緒。壹戎衣而有天下，身不失天下之顯名。尊為天子，富有四海之內。宗廟饗之，子孫保之。\n武王末受命，周公成文武之德，追王大王、王季，上祀先公以天子之禮。斯禮也，達乎諸侯大夫，及士庶人。父為大夫，子為士；葬以大夫，祭以士。父為士，子為大夫；葬以士，祭以大夫。期之喪達乎大夫，三年之喪達乎天子，父母之喪無貴賤一也。」",
+    "text": "子曰：「无忧者其惟文王乎！以王季为父，以武王为子，父作之，子述之。\n武王缵大王、王季、文王之绪。壹戎衣而有天下，身不失天下之显名。尊为天子，富有四海之内。宗庙飨之，子孙保之。\n武王末受命，周公成文武之德，追王大王、王季，上祀先公以天子之礼。斯礼也，达乎诸侯大夫，及士庶人。父为大夫，子为士；葬以大夫，祭以士。父为士，子为大夫；葬以士，祭以大夫。期之丧达乎大夫，三年之丧达乎天子，父母之丧无贵贱一也。」",
     "title": ""
   },
   "chapter_path": "books/zhong-yong/chapters/chapter-018.json",

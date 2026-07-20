@@ -205,7 +205,13 @@
         "order": 18,
         "pinyin": "dú yì yú rén",
         "pinyin_source": "derived from per-character index",
-        "text": "独异于人"
+        "text": "独异于人",
+        "origin": {
+          "book": "daodejing",
+          "chapter": 20,
+          "line": 2,
+          "snippet": "俗人察察，我独闷闷。澹兮其若海，飂兮若无止，众人皆有以，而我独顽似鄙。我独异于人，而贵食母。"
+        }
       },
       {
         "canonical_translations": [
@@ -361,7 +367,13 @@
         "order": 30,
         "pinyin": "wǔ gǔ bù fēn",
         "pinyin_source": "derived from per-character index",
-        "text": "五谷不分"
+        "text": "五谷不分",
+        "origin": {
+          "book": "lunyu",
+          "chapter": 18,
+          "line": 12,
+          "snippet": "子路从而后，遇丈人，以杖荷𦰏。子路问曰：「子见夫子乎？」丈人曰：「四体不勤，五谷不分。孰为夫子？」植其杖而芸。"
+        }
       },
       {
         "canonical_translations": [
@@ -440,7 +452,13 @@
         "order": 37,
         "pinyin": "yī yǐ guàn zhī",
         "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
-        "text": "一以贯之"
+        "text": "一以贯之",
+        "origin": {
+          "book": "lunyu",
+          "chapter": 4,
+          "line": 19,
+          "snippet": "子曰：「参乎！吾道一以贯之。」曾子曰：「唯。」"
+        }
       },
       {
         "canonical_translations": [
@@ -579,7 +597,13 @@
         "order": 48,
         "pinyin": "āi ér bù shāng",
         "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
-        "text": "哀而不伤"
+        "text": "哀而不伤",
+        "origin": {
+          "book": "lunyu",
+          "chapter": 3,
+          "line": 27,
+          "snippet": "子曰：「关雎，乐而不淫，哀而不伤。」"
+        }
       },
       {
         "canonical_translations": [],

@@ -18,16 +18,613 @@
         "character_count": 80,
         "id": "chapter-062-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "dào",
+          "zhě",
+          "wàn",
+          "wù",
+          "zhī",
+          "ào",
+          "",
+          "shàn",
+          "rén",
+          "zhī",
+          "bǎo",
+          "",
+          "bú",
+          "shàn",
+          "rén",
+          "zhī",
+          "suó",
+          "bǎo",
+          "",
+          "měi",
+          "yán",
+          "ké",
+          "yǐ",
+          "shì",
+          "",
+          "zūn",
+          "xíng",
+          "ké",
+          "yǐ",
+          "jiā",
+          "rén",
+          "",
+          "rén",
+          "zhī",
+          "bú",
+          "shàn",
+          "",
+          "hé",
+          "qì",
+          "zhī",
+          "yǒu",
+          "",
+          "gù",
+          "lì",
+          "tiān",
+          "zi",
+          "",
+          "zhì",
+          "sān",
+          "gōng",
+          "",
+          "suī",
+          "yóu",
+          "gǒng",
+          "bì",
+          "yǐ",
+          "xiān",
+          "sì",
+          "mǎ",
+          "",
+          "bù",
+          "rú",
+          "zuò",
+          "jìn",
+          "cǐ",
+          "dào",
+          "",
+          "gǔ",
+          "zhī",
+          "suó",
+          "yǐ",
+          "guì",
+          "cǐ",
+          "dào",
+          "zhě",
+          "hé",
+          "",
+          "bù",
+          "yuē",
+          "",
+          "yǐ",
+          "qiú",
+          "dé",
+          "",
+          "yǒu",
+          "zuì",
+          "yí",
+          "miǎn",
+          "yé",
+          "",
+          "gù",
+          "wèi",
+          "tiān",
+          "xià",
+          "guì",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "道者萬物之奧。善人之寶，不善人之所保。美言可以市，尊行可以加人。人之不善，何棄之有？故立天子，置三公，雖有拱璧以先駟馬，不如坐進此道。古之所以貴此道者何？不曰：以求得，有罪以免耶？故為天下貴。"
+        "text": "道者万物之奥。善人之宝，不善人之所保。美言可以市，尊行可以加人。人之不善，何弃之有？故立天子，置三公，虽有拱璧以先驷马，不如坐进此道。古之所以贵此道者何？不曰：以求得，有罪以免耶？故为天下贵。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "道"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "者"
+          },
+          {
+            "end": 4,
+            "gloss": "all things / all that exists",
+            "pinyin": "wàn wù",
+            "source": "CC-CEDICT",
+            "start": 2,
+            "word": "万物"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "之"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "奥"
+          },
+          {
+            "end": 9,
+            "gloss": "philanthropist / charitable person / well-doer",
+            "pinyin": "shàn rén",
+            "source": "CC-CEDICT",
+            "start": 7,
+            "word": "善人"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "之"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "宝"
+          },
+          {
+            "end": 14,
+            "gloss": "bad / ill / not good at / not to be pooh-poohed / quite impressive",
+            "pinyin": "bù shàn",
+            "source": "CC-CEDICT",
+            "start": 12,
+            "word": "不善"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "人"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "之"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "所"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "保"
+          },
+          {
+            "end": 21,
+            "gloss": "to put in a good word (for sb) / (literary) beautiful words; elegant expression",
+            "pinyin": "měi yán",
+            "source": "CC-CEDICT",
+            "start": 19,
+            "word": "美言"
+          },
+          {
+            "end": 23,
+            "gloss": "can / may / possible / able to / not bad / pretty good",
+            "pinyin": "kě yǐ",
+            "source": "CC-CEDICT",
+            "start": 21,
+            "word": "可以"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "市"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "尊"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "行"
+          },
+          {
+            "end": 29,
+            "gloss": "can / may / possible / able to / not bad / pretty good",
+            "pinyin": "kě yǐ",
+            "source": "CC-CEDICT",
+            "start": 27,
+            "word": "可以"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "加"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "人"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "人"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "之"
+          },
+          {
+            "end": 36,
+            "gloss": "bad / ill / not good at / not to be pooh-poohed / quite impressive",
+            "pinyin": "bù shàn",
+            "source": "CC-CEDICT",
+            "start": 34,
+            "word": "不善"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "何"
+          },
+          {
+            "end": 39,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 38,
+            "word": "弃"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "之"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "有"
+          },
+          {
+            "end": 43,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 42,
+            "word": "故"
+          },
+          {
+            "end": 44,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 43,
+            "word": "立"
+          },
+          {
+            "end": 46,
+            "gloss": "the (rightful) emperor / \"Son of Heaven\" (traditional English translation)",
+            "pinyin": "tiān zǐ",
+            "source": "CC-CEDICT",
+            "start": 44,
+            "word": "天子"
+          },
+          {
+            "end": 48,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 47,
+            "word": "置"
+          },
+          {
+            "end": 49,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 48,
+            "word": "三"
+          },
+          {
+            "end": 50,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 49,
+            "word": "公"
+          },
+          {
+            "end": 52,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 51,
+            "word": "虽"
+          },
+          {
+            "end": 53,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 52,
+            "word": "有"
+          },
+          {
+            "end": 55,
+            "gloss": "a flat round jade ornament with a hole at the center / fig. a treasure",
+            "pinyin": "gǒng bì",
+            "source": "CC-CEDICT",
+            "start": 53,
+            "word": "拱璧"
+          },
+          {
+            "end": 56,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 55,
+            "word": "以"
+          },
+          {
+            "end": 57,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 56,
+            "word": "先"
+          },
+          {
+            "end": 58,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 57,
+            "word": "驷"
+          },
+          {
+            "end": 59,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 58,
+            "word": "马"
+          },
+          {
+            "end": 62,
+            "gloss": "not equal to; not as good as; inferior to / it would be better to",
+            "pinyin": "bù rú",
+            "source": "CC-CEDICT",
+            "start": 60,
+            "word": "不如"
+          },
+          {
+            "end": 63,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 62,
+            "word": "坐"
+          },
+          {
+            "end": 64,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 63,
+            "word": "进"
+          },
+          {
+            "end": 66,
+            "gloss": "such matters / things like this / this line of work / this pursuit / this hobby / this endeavor",
+            "pinyin": "cǐ dào",
+            "source": "CC-CEDICT",
+            "start": 64,
+            "word": "此道"
+          },
+          {
+            "end": 68,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 67,
+            "word": "古"
+          },
+          {
+            "end": 71,
+            "gloss": "(after a noun N and before a predicate P) the reason why N P / Example: 我之所以讨厌他|我之所以讨厌他[wo3 zhi1 su…",
+            "pinyin": "zhī suǒ yǐ",
+            "source": "CC-CEDICT",
+            "start": 68,
+            "word": "之所以"
+          },
+          {
+            "end": 72,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 71,
+            "word": "贵"
+          },
+          {
+            "end": 74,
+            "gloss": "such matters / things like this / this line of work / this pursuit / this hobby / this endeavor",
+            "pinyin": "cǐ dào",
+            "source": "CC-CEDICT",
+            "start": 72,
+            "word": "此道"
+          },
+          {
+            "end": 75,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 74,
+            "word": "者"
+          },
+          {
+            "end": 76,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 75,
+            "word": "何"
+          },
+          {
+            "end": 78,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 77,
+            "word": "不"
+          },
+          {
+            "end": 79,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 78,
+            "word": "曰"
+          },
+          {
+            "end": 82,
+            "gloss": "in order to",
+            "pinyin": "yǐ qiú",
+            "source": "CC-CEDICT",
+            "start": 80,
+            "word": "以求"
+          },
+          {
+            "end": 83,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 82,
+            "word": "得"
+          },
+          {
+            "end": 86,
+            "gloss": "guilty",
+            "pinyin": "yǒu zuì",
+            "source": "CC-CEDICT",
+            "start": 84,
+            "word": "有罪"
+          },
+          {
+            "end": 88,
+            "gloss": "in order to avoid / so as not to",
+            "pinyin": "yǐ miǎn",
+            "source": "CC-CEDICT",
+            "start": 86,
+            "word": "以免"
+          },
+          {
+            "end": 89,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 88,
+            "word": "耶"
+          },
+          {
+            "end": 91,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 90,
+            "word": "故"
+          },
+          {
+            "end": 92,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 91,
+            "word": "为"
+          },
+          {
+            "end": 94,
+            "gloss": "land under heaven / the whole world / the whole of China / realm / rule",
+            "pinyin": "tiān xià",
+            "source": "CC-CEDICT",
+            "start": 92,
+            "word": "天下"
+          },
+          {
+            "end": 95,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 94,
+            "word": "贵"
+          }
+        ]
       }
     ],
-    "summary": "道者萬物之奧",
+    "summary": "道者万物之奥",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "道者萬物之奧。善人之寶，不善人之所保。美言可以市，尊行可以加人。人之不善，何棄之有？故立天子，置三公，雖有拱璧以先駟馬，不如坐進此道。古之所以貴此道者何？不曰：以求得，有罪以免耶？故為天下貴。",
+    "text": "道者万物之奥。善人之宝，不善人之所保。美言可以市，尊行可以加人。人之不善，何弃之有？故立天子，置三公，虽有拱璧以先驷马，不如坐进此道。古之所以贵此道者何？不曰：以求得，有罪以免耶？故为天下贵。",
     "title": "第62章"
   },
   "chapter_path": "books/daodejing/chapters/chapter-062.json",

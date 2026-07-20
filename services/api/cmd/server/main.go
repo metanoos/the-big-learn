@@ -5,8 +5,7 @@
 //	cd services/api
 //	go run ./cmd/server
 //
-// Requires Postgres (see ../../docker-compose.yml) and the content/ tree.
-// Set GLM_API_KEY to enable the posit-feedback loop.
+// Requires the content/ tree; all reader state stays in the browser.
 package main
 
 import (
@@ -21,43 +20,23 @@ import (
 
 	"thebiglearn/api/internal/config"
 	"thebiglearn/api/internal/content"
-	"thebiglearn/api/internal/feedback"
 	"thebiglearn/api/internal/httpapi"
-	"thebiglearn/api/internal/mailer"
-	"thebiglearn/api/internal/storage"
-	"thebiglearn/api/internal/zai"
 )
 
 func main() {
 	cfg := config.Load()
 	log.Printf("starting the-big-learn api: %s", cfg)
 
-	ctx, cancel := context.WithCancel(context.Background())
-	defer cancel()
-
-	db, err := storage.Open(ctx, cfg.DatabaseURL)
-	if err != nil {
-		log.Fatalf("storage: %v", err)
-	}
-	defer db.Close()
-
 	cs := content.New(cfg.ContentRoot)
-	zaic := zai.NewClient(cfg.GLMAPIKey, cfg.GLMBaseURL, nil)
-	fs := feedback.New(zaic, cfg.GLMModel)
-	ml := mailer.New(mailer.Config{
-		Host: cfg.SMTPHost, Port: cfg.SMTPPort,
-		Username: cfg.SMTPUser, Password: cfg.SMTPPass,
-		From: cfg.SMTPFrom,
-	}, cfg.AppURL)
 
-	srv := httpapi.New(cfg, db, cs, fs, ml)
+	srv := httpapi.New(cs, cfg.AllowedOrigin)
 	httpSrv := &http.Server{
 		Addr:              cfg.HTTPAddr,
 		Handler:           srv,
 		ReadHeaderTimeout: 10 * time.Second,
-		// No WriteTimeout: the feedback endpoint can hold a connection open
-		// while GLM thinks (~10–30s). On a VPS there's no serverless ceiling.
-		IdleTimeout: 120 * time.Second,
+		ReadTimeout:       15 * time.Second,
+		WriteTimeout:      30 * time.Second,
+		IdleTimeout:       120 * time.Second,
 	}
 
 	// Graceful shutdown on SIGINT/SIGTERM.

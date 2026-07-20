@@ -18,16 +18,551 @@
         "character_count": 67,
         "id": "chapter-003-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "bú",
+          "shàng",
+          "xián",
+          "",
+          "shǐ",
+          "mín",
+          "bù",
+          "zhēng",
+          "",
+          "bú",
+          "guì",
+          "nán",
+          "dé",
+          "zhī",
+          "huò",
+          "",
+          "shǐ",
+          "mín",
+          "bù",
+          "wéi",
+          "dào",
+          "",
+          "bú",
+          "jiàn",
+          "kě",
+          "yù",
+          "",
+          "shǐ",
+          "mín",
+          "xīn",
+          "bú",
+          "luàn",
+          "",
+          "shì",
+          "yǐ",
+          "shèng",
+          "rén",
+          "zhī",
+          "zhì",
+          "",
+          "xū",
+          "qí",
+          "xīn",
+          "",
+          "shí",
+          "qí",
+          "fù",
+          "",
+          "ruò",
+          "qí",
+          "zhì",
+          "",
+          "qiáng",
+          "qí",
+          "gǔ",
+          "",
+          "cháng",
+          "shǐ",
+          "mín",
+          "wú",
+          "zhī",
+          "wú",
+          "yù",
+          "",
+          "shǐ",
+          "fū",
+          "zhì",
+          "zhě",
+          "bù",
+          "gǎn",
+          "wéi",
+          "yě",
+          "",
+          "wèi",
+          "wú",
+          "wéi",
+          "",
+          "zé",
+          "wú",
+          "bú",
+          "zhì",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "不尚賢，使民不爭；不貴難得之貨，使民不為盜；不見可欲，使民心不亂。是以聖人之治，虛其心，實其腹，弱其志，強其骨。常使民無知無欲。使夫智者不敢為也。為無為，則無不治。"
+        "text": "不尚贤，使民不争；不贵难得之货，使民不为盗；不见可欲，使民心不乱。是以圣人之治，虚其心，实其腹，弱其志，强其骨。常使民无知无欲。使夫智者不敢为也。为无为，则无不治。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "不"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "尚"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "贤"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "使"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "民"
+          },
+          {
+            "end": 8,
+            "gloss": "widely known / incontestable / undeniable / to not strive for / to not contend for",
+            "pinyin": "bù zhēng",
+            "source": "CC-CEDICT",
+            "start": 6,
+            "word": "不争"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "不"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "贵"
+          },
+          {
+            "end": 13,
+            "gloss": "seldom / rare / hard to come by",
+            "pinyin": "nán dé",
+            "source": "CC-CEDICT",
+            "start": 11,
+            "word": "难得"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "之"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "货"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "使"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "民"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "不"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "为"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "盗"
+          },
+          {
+            "end": 24,
+            "gloss": "not to see / not to meet / to have disappeared / to be missing",
+            "pinyin": "bù jiàn",
+            "source": "CC-CEDICT",
+            "start": 22,
+            "word": "不见"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "可"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "欲"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "使"
+          },
+          {
+            "end": 30,
+            "gloss": "popular sentiment",
+            "pinyin": "mín xīn",
+            "source": "CC-CEDICT",
+            "start": 28,
+            "word": "民心"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "不"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "乱"
+          },
+          {
+            "end": 35,
+            "gloss": "therefore / thus / so",
+            "pinyin": "shì yǐ",
+            "source": "CC-CEDICT",
+            "start": 33,
+            "word": "是以"
+          },
+          {
+            "end": 37,
+            "gloss": "the sage; the holy man",
+            "pinyin": "shèng rén",
+            "source": "classical-override",
+            "start": 35,
+            "word": "圣人"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "之"
+          },
+          {
+            "end": 39,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 38,
+            "word": "治"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "虚"
+          },
+          {
+            "end": 42,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 41,
+            "word": "其"
+          },
+          {
+            "end": 43,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 42,
+            "word": "心"
+          },
+          {
+            "end": 45,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 44,
+            "word": "实"
+          },
+          {
+            "end": 46,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 45,
+            "word": "其"
+          },
+          {
+            "end": 47,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 46,
+            "word": "腹"
+          },
+          {
+            "end": 49,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 48,
+            "word": "弱"
+          },
+          {
+            "end": 50,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 49,
+            "word": "其"
+          },
+          {
+            "end": 51,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 50,
+            "word": "志"
+          },
+          {
+            "end": 53,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 52,
+            "word": "强"
+          },
+          {
+            "end": 54,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 53,
+            "word": "其"
+          },
+          {
+            "end": 55,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 54,
+            "word": "骨"
+          },
+          {
+            "end": 57,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 56,
+            "word": "常"
+          },
+          {
+            "end": 58,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 57,
+            "word": "使"
+          },
+          {
+            "end": 59,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 58,
+            "word": "民"
+          },
+          {
+            "end": 61,
+            "gloss": "ignorant / ignorance",
+            "pinyin": "wú zhī",
+            "source": "CC-CEDICT",
+            "start": 59,
+            "word": "无知"
+          },
+          {
+            "end": 62,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 61,
+            "word": "无"
+          },
+          {
+            "end": 63,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 62,
+            "word": "欲"
+          },
+          {
+            "end": 65,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 64,
+            "word": "使"
+          },
+          {
+            "end": 66,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 65,
+            "word": "夫"
+          },
+          {
+            "end": 68,
+            "gloss": "sage / wise man / clever and knowledgeable person",
+            "pinyin": "zhì zhě",
+            "source": "CC-CEDICT",
+            "start": 66,
+            "word": "智者"
+          },
+          {
+            "end": 69,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 68,
+            "word": "不"
+          },
+          {
+            "end": 71,
+            "gloss": "to dare to do",
+            "pinyin": "gǎn wéi",
+            "source": "CC-CEDICT",
+            "start": 69,
+            "word": "敢为"
+          },
+          {
+            "end": 72,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 71,
+            "word": "也"
+          },
+          {
+            "end": 74,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 73,
+            "word": "为"
+          },
+          {
+            "end": 76,
+            "gloss": "the Daoist doctrine of inaction / let things take their own course / laissez-faire",
+            "pinyin": "wú wéi",
+            "source": "CC-CEDICT",
+            "start": 74,
+            "word": "无为"
+          },
+          {
+            "end": 78,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 77,
+            "word": "则"
+          },
+          {
+            "end": 80,
+            "gloss": "none lacking / none missing / everything is there / everyone without exception",
+            "pinyin": "wú bù",
+            "source": "CC-CEDICT",
+            "start": 78,
+            "word": "无不"
+          },
+          {
+            "end": 81,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 80,
+            "word": "治"
+          }
+        ]
       }
     ],
-    "summary": "不尚賢，使民不爭；不貴難得之貨，使民不為盜；不見可欲，使心不亂",
+    "summary": "不尚贤，使民不争；不贵难得之货，使民不为盗；不见可欲，使心不乱",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "不尚賢，使民不爭；不貴難得之貨，使民不為盜；不見可欲，使心不亂。是以聖人之治，虛其心，實其腹，弱其志，強其骨。常使民無知無欲。使夫知者不敢為也。為無為，則無不治。",
+    "text": "不尚贤，使民不争；不贵难得之货，使民不为盗；不见可欲，使心不乱。是以圣人之治，虚其心，实其腹，弱其志，强其骨。常使民无知无欲。使夫知者不敢为也。为无为，则无不治。",
     "title": "第3章"
   },
   "chapter_path": "books/daodejing/chapters/chapter-003.json",

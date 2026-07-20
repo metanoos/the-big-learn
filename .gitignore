@@ -18,6 +18,9 @@ bin/
 dist/
 build/
 *.tsbuildinfo
+apps/web/test-results/
+apps/web/playwright-report/
+apps/web/blob-report/
 
 # editor / OS
 .DS_Store
@@ -30,3 +33,7 @@ build/
 
 # the big cedict cache (re-downloadable)
 /tmp/tbl_cedict.tsv
+
+# snapshotted source HTML for the sanguo aligner (re-fetchable via --refresh)
+tools/raw/
+.gstack/

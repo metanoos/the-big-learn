@@ -18,16 +18,607 @@
         "character_count": 78,
         "id": "chapter-066-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "jiāng",
+          "hái",
+          "suó",
+          "yǐ",
+          "néng",
+          "wéi",
+          "bái",
+          "gǔ",
+          "wáng",
+          "zhě",
+          "",
+          "yǐ",
+          "qí",
+          "shàn",
+          "xià",
+          "zhī",
+          "",
+          "gù",
+          "néng",
+          "wéi",
+          "bái",
+          "gǔ",
+          "wáng",
+          "",
+          "shì",
+          "yǐ",
+          "shèng",
+          "rén",
+          "yù",
+          "shàng",
+          "mín",
+          "",
+          "bì",
+          "yǐ",
+          "yán",
+          "xià",
+          "zhī",
+          "",
+          "yù",
+          "xiān",
+          "mín",
+          "",
+          "bì",
+          "yǐ",
+          "shēn",
+          "hòu",
+          "zhī",
+          "",
+          "shì",
+          "yǐ",
+          "shèng",
+          "rén",
+          "chù",
+          "shàng",
+          "ér",
+          "mín",
+          "bú",
+          "zhòng",
+          "",
+          "chù",
+          "qián",
+          "ér",
+          "mín",
+          "bú",
+          "hài",
+          "",
+          "shì",
+          "yǐ",
+          "tiān",
+          "xià",
+          "lè",
+          "tuī",
+          "ér",
+          "bú",
+          "yàn",
+          "",
+          "yǐ",
+          "qí",
+          "bù",
+          "zhēng",
+          "",
+          "gù",
+          "tiān",
+          "xià",
+          "mò",
+          "néng",
+          "yǔ",
+          "zhī",
+          "zhēng",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "江海所以能為百谷王者，以其善下之，故能為百谷王。是以聖人欲上民，必以言下之；欲先民，必以身後之。是以聖人處上而民不重，處前而民不害。是以天下樂推而不厭。以其不爭，故天下莫能與之爭。"
+        "text": "江海所以能为百谷王者，以其善下之，故能为百谷王。是以圣人欲上民，必以言下之；欲先民，必以身后之。是以圣人处上而民不重，处前而民不害。是以天下乐推而不厌。以其不争，故天下莫能与之争。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "see 江海区|江海区[Jiang1 hai3 Qu1]",
+            "pinyin": "Jiāng hǎi",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "江海"
+          },
+          {
+            "end": 4,
+            "gloss": "therefore / as a result / so / the reason why",
+            "pinyin": "suǒ yǐ",
+            "source": "CC-CEDICT",
+            "start": 2,
+            "word": "所以"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "能"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "为"
+          },
+          {
+            "end": 8,
+            "gloss": "all the grains / every kind of cereal crop",
+            "pinyin": "bǎi gǔ",
+            "source": "CC-CEDICT",
+            "start": 6,
+            "word": "百谷"
+          },
+          {
+            "end": 10,
+            "gloss": "king; emperor / (fig.) the best; champion",
+            "pinyin": "wáng zhě",
+            "source": "CC-CEDICT",
+            "start": 8,
+            "word": "王者"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "以"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "其"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "善"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "下"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "之"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "故"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "能"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "为"
+          },
+          {
+            "end": 22,
+            "gloss": "all the grains / every kind of cereal crop",
+            "pinyin": "bǎi gǔ",
+            "source": "CC-CEDICT",
+            "start": 20,
+            "word": "百谷"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "王"
+          },
+          {
+            "end": 26,
+            "gloss": "therefore / thus / so",
+            "pinyin": "shì yǐ",
+            "source": "CC-CEDICT",
+            "start": 24,
+            "word": "是以"
+          },
+          {
+            "end": 28,
+            "gloss": "the sage; the holy man",
+            "pinyin": "shèng rén",
+            "source": "classical-override",
+            "start": 26,
+            "word": "圣人"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "欲"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "上"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "民"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "必"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "以"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "言"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "下"
+          },
+          {
+            "end": 37,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 36,
+            "word": "之"
+          },
+          {
+            "end": 39,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 38,
+            "word": "欲"
+          },
+          {
+            "end": 41,
+            "gloss": "forebears",
+            "pinyin": "xiān mín",
+            "source": "CC-CEDICT",
+            "start": 39,
+            "word": "先民"
+          },
+          {
+            "end": 43,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 42,
+            "word": "必"
+          },
+          {
+            "end": 44,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 43,
+            "word": "以"
+          },
+          {
+            "end": 46,
+            "gloss": "the time after one's death / a place behind sb / (fig.) one's social background",
+            "pinyin": "shēn hòu",
+            "source": "CC-CEDICT",
+            "start": 44,
+            "word": "身后"
+          },
+          {
+            "end": 47,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 46,
+            "word": "之"
+          },
+          {
+            "end": 50,
+            "gloss": "therefore / thus / so",
+            "pinyin": "shì yǐ",
+            "source": "CC-CEDICT",
+            "start": 48,
+            "word": "是以"
+          },
+          {
+            "end": 52,
+            "gloss": "the sage; the holy man",
+            "pinyin": "shèng rén",
+            "source": "classical-override",
+            "start": 50,
+            "word": "圣人"
+          },
+          {
+            "end": 53,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 52,
+            "word": "处"
+          },
+          {
+            "end": 54,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 53,
+            "word": "上"
+          },
+          {
+            "end": 55,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 54,
+            "word": "而"
+          },
+          {
+            "end": 56,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 55,
+            "word": "民"
+          },
+          {
+            "end": 57,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 56,
+            "word": "不"
+          },
+          {
+            "end": 58,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 57,
+            "word": "重"
+          },
+          {
+            "end": 60,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 59,
+            "word": "处"
+          },
+          {
+            "end": 61,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 60,
+            "word": "前"
+          },
+          {
+            "end": 62,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 61,
+            "word": "而"
+          },
+          {
+            "end": 63,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 62,
+            "word": "民"
+          },
+          {
+            "end": 64,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 63,
+            "word": "不"
+          },
+          {
+            "end": 65,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 64,
+            "word": "害"
+          },
+          {
+            "end": 68,
+            "gloss": "therefore / thus / so",
+            "pinyin": "shì yǐ",
+            "source": "CC-CEDICT",
+            "start": 66,
+            "word": "是以"
+          },
+          {
+            "end": 70,
+            "gloss": "land under heaven / the whole world / the whole of China / realm / rule",
+            "pinyin": "tiān xià",
+            "source": "CC-CEDICT",
+            "start": 68,
+            "word": "天下"
+          },
+          {
+            "end": 71,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 70,
+            "word": "乐"
+          },
+          {
+            "end": 72,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 71,
+            "word": "推"
+          },
+          {
+            "end": 73,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 72,
+            "word": "而"
+          },
+          {
+            "end": 75,
+            "gloss": "not to tire of / not to object to",
+            "pinyin": "bù yàn",
+            "source": "CC-CEDICT",
+            "start": 73,
+            "word": "不厌"
+          },
+          {
+            "end": 77,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 76,
+            "word": "以"
+          },
+          {
+            "end": 78,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 77,
+            "word": "其"
+          },
+          {
+            "end": 80,
+            "gloss": "widely known / incontestable / undeniable / to not strive for / to not contend for",
+            "pinyin": "bù zhēng",
+            "source": "CC-CEDICT",
+            "start": 78,
+            "word": "不争"
+          },
+          {
+            "end": 82,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 81,
+            "word": "故"
+          },
+          {
+            "end": 84,
+            "gloss": "land under heaven / the whole world / the whole of China / realm / rule",
+            "pinyin": "tiān xià",
+            "source": "CC-CEDICT",
+            "start": 82,
+            "word": "天下"
+          },
+          {
+            "end": 85,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 84,
+            "word": "莫"
+          },
+          {
+            "end": 86,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 85,
+            "word": "能"
+          },
+          {
+            "end": 87,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 86,
+            "word": "与"
+          },
+          {
+            "end": 88,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 87,
+            "word": "之"
+          },
+          {
+            "end": 89,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 88,
+            "word": "争"
+          }
+        ]
       }
     ],
-    "summary": "江海所以能為百谷王者，以其善下之，故能為百谷王",
+    "summary": "江海所以能为百谷王者，以其善下之，故能为百谷王",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "江海所以能為百谷王者，以其善下之，故能為百谷王。是以聖人欲上民，必以言下之；欲先民，必以身後之。是以聖人處上而民不重，處前而民不害。是以天下樂推而不厭。以其不爭，故天下莫能與之爭。",
+    "text": "江海所以能为百谷王者，以其善下之，故能为百谷王。是以圣人欲上民，必以言下之；欲先民，必以身后之。是以圣人处上而民不重，处前而民不害。是以天下乐推而不厌。以其不争，故天下莫能与之争。",
     "title": "第66章"
   },
   "chapter_path": "books/daodejing/chapters/chapter-066.json",

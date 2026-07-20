@@ -387,7 +387,13 @@
         "order": 32,
         "pinyin": "Fū zǐ zì dào",
         "pinyin_source": "CC-CEDICT (CC BY-SA 3.0)",
-        "text": "夫子自道"
+        "text": "夫子自道",
+        "origin": {
+          "book": "lunyu",
+          "chapter": 14,
+          "line": 46,
+          "snippet": "子贡曰：「夫子自道也。」"
+        }
       },
       {
         "canonical_translations": [

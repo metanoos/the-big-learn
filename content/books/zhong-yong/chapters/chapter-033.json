@@ -18,9 +18,535 @@
         "character_count": 62,
         "id": "chapter-033-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "",
+          "shī",
+          "",
+          "yuē",
+          "",
+          "",
+          "yī",
+          "jǐn",
+          "shàng",
+          "",
+          "",
+          "",
+          "ě",
+          "qí",
+          "wén",
+          "zhī",
+          "zhù",
+          "yě",
+          "",
+          "gù",
+          "jūn",
+          "zǐ",
+          "zhī",
+          "dào",
+          "",
+          "àn",
+          "rán",
+          "ér",
+          "rì",
+          "zhāng",
+          "",
+          "xiǎo",
+          "rén",
+          "zhī",
+          "dào",
+          "",
+          "de",
+          "rán",
+          "ér",
+          "rì",
+          "wáng",
+          "",
+          "jūn",
+          "zǐ",
+          "zhī",
+          "dào",
+          "",
+          "dàn",
+          "ér",
+          "bú",
+          "yàn",
+          "",
+          "jiǎn",
+          "ér",
+          "wén",
+          "",
+          "wēn",
+          "ér",
+          "lǐ",
+          "",
+          "zhī",
+          "yuǎn",
+          "zhī",
+          "jìn",
+          "",
+          "zhī",
+          "fēng",
+          "zhī",
+          "zì",
+          "",
+          "zhī",
+          "wēi",
+          "zhī",
+          "xiǎn",
+          "",
+          "ké",
+          "yǔ",
+          "rù",
+          "dé",
+          "yǐ",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "《詩》曰：「衣錦尚絅」，惡其文之著也。故君子之道，闇然而日章；小人之道，的然而日亡。君子之道：淡而不厭，簡而文，溫而理，知遠之近，知風之自，知微之顯，可與入德矣。"
+        "text": "《诗》曰：「衣锦尚䌹」，恶其文之著也。故君子之道，暗然而日章；小人之道，的然而日亡。君子之道：淡而不厌，简而文，温而理，知远之近，知风之自，知微之显，可与入德矣。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "诗"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "曰"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "衣"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "锦"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "尚"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "恶"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "其"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "文"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "之"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "著"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "也"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "故"
+          },
+          {
+            "end": 22,
+            "gloss": "the superior man; the exemplary person (junzi)",
+            "pinyin": "jūn zǐ",
+            "source": "classical-override",
+            "start": 20,
+            "word": "君子"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "之"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "道"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "暗"
+          },
+          {
+            "end": 28,
+            "gloss": "however; but; yet",
+            "pinyin": "rán ér",
+            "source": "CC-CEDICT",
+            "start": 26,
+            "word": "然而"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "日"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "章"
+          },
+          {
+            "end": 33,
+            "gloss": "person of low social status (old) / I, me (used to refer humbly to oneself) / nasty person / vile c…",
+            "pinyin": "xiǎo rén",
+            "source": "CC-CEDICT",
+            "start": 31,
+            "word": "小人"
+          },
+          {
+            "end": 34,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 33,
+            "word": "之"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "道"
+          },
+          {
+            "end": 37,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 36,
+            "word": "的"
+          },
+          {
+            "end": 39,
+            "gloss": "however; but; yet",
+            "pinyin": "rán ér",
+            "source": "CC-CEDICT",
+            "start": 37,
+            "word": "然而"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "日"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "亡"
+          },
+          {
+            "end": 44,
+            "gloss": "the superior man; the exemplary person (junzi)",
+            "pinyin": "jūn zǐ",
+            "source": "classical-override",
+            "start": 42,
+            "word": "君子"
+          },
+          {
+            "end": 45,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 44,
+            "word": "之"
+          },
+          {
+            "end": 46,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 45,
+            "word": "道"
+          },
+          {
+            "end": 48,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 47,
+            "word": "淡"
+          },
+          {
+            "end": 49,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 48,
+            "word": "而"
+          },
+          {
+            "end": 51,
+            "gloss": "not to tire of / not to object to",
+            "pinyin": "bù yàn",
+            "source": "CC-CEDICT",
+            "start": 49,
+            "word": "不厌"
+          },
+          {
+            "end": 53,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 52,
+            "word": "简"
+          },
+          {
+            "end": 54,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 53,
+            "word": "而"
+          },
+          {
+            "end": 55,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 54,
+            "word": "文"
+          },
+          {
+            "end": 57,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 56,
+            "word": "温"
+          },
+          {
+            "end": 58,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 57,
+            "word": "而"
+          },
+          {
+            "end": 59,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 58,
+            "word": "理"
+          },
+          {
+            "end": 61,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 60,
+            "word": "知"
+          },
+          {
+            "end": 62,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 61,
+            "word": "远"
+          },
+          {
+            "end": 63,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 62,
+            "word": "之"
+          },
+          {
+            "end": 64,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 63,
+            "word": "近"
+          },
+          {
+            "end": 66,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 65,
+            "word": "知"
+          },
+          {
+            "end": 67,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 66,
+            "word": "风"
+          },
+          {
+            "end": 68,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 67,
+            "word": "之"
+          },
+          {
+            "end": 69,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 68,
+            "word": "自"
+          },
+          {
+            "end": 71,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 70,
+            "word": "知"
+          },
+          {
+            "end": 72,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 71,
+            "word": "微"
+          },
+          {
+            "end": 73,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 72,
+            "word": "之"
+          },
+          {
+            "end": 74,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 73,
+            "word": "显"
+          },
+          {
+            "end": 76,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 75,
+            "word": "可"
+          },
+          {
+            "end": 77,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 76,
+            "word": "与"
+          },
+          {
+            "end": 78,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 77,
+            "word": "入"
+          },
+          {
+            "end": 79,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 78,
+            "word": "德"
+          },
+          {
+            "end": 80,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 79,
+            "word": "矣"
+          }
+        ]
       },
       {
         "canonical_translations": [
@@ -35,9 +561,309 @@
         "character_count": 37,
         "id": "chapter-033-line-002",
         "order": 2,
+        "pinyin_per_char": [
+          "",
+          "shī",
+          "",
+          "yún",
+          "",
+          "",
+          "qián",
+          "suī",
+          "fú",
+          "yǐ",
+          "",
+          "yì",
+          "kǒng",
+          "zhī",
+          "zhāo",
+          "",
+          "",
+          "gù",
+          "jūn",
+          "zǐ",
+          "nèi",
+          "xǐng",
+          "bú",
+          "jiù",
+          "",
+          "wú",
+          "ě",
+          "yú",
+          "zhì",
+          "",
+          "jūn",
+          "zí",
+          "suǒ",
+          "bù",
+          "kě",
+          "jí",
+          "zhě",
+          "",
+          "qí",
+          "wéi",
+          "rén",
+          "zhī",
+          "suǒ",
+          "bú",
+          "jiàn",
+          "hū",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 2,
-        "text": "《詩》云：「潛雖伏矣，亦孔之昭！」故君子內省不疚，無惡於志。君子所不可及者，其唯人之所不見乎！"
+        "text": "《诗》云：「潜虽伏矣，亦孔之昭！」故君子内省不疚，无恶于志。君子所不可及者，其唯人之所不见乎！",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "诗"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "云"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "潜"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "虽"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "伏"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "矣"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "亦"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "孔"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "之"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "昭"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "故"
+          },
+          {
+            "end": 20,
+            "gloss": "the superior man; the exemplary person (junzi)",
+            "pinyin": "jūn zǐ",
+            "source": "classical-override",
+            "start": 18,
+            "word": "君子"
+          },
+          {
+            "end": 22,
+            "gloss": "to reflect upon oneself / introspection",
+            "pinyin": "nèi xǐng",
+            "source": "CC-CEDICT",
+            "start": 20,
+            "word": "内省"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "不"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "疚"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "无"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "恶"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "于"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "志"
+          },
+          {
+            "end": 32,
+            "gloss": "the superior man; the exemplary person (junzi)",
+            "pinyin": "jūn zǐ",
+            "source": "classical-override",
+            "start": 30,
+            "word": "君子"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "所"
+          },
+          {
+            "end": 35,
+            "gloss": "cannot; should not; must not",
+            "pinyin": "bù kě",
+            "source": "CC-CEDICT",
+            "start": 33,
+            "word": "不可"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "及"
+          },
+          {
+            "end": 37,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 36,
+            "word": "者"
+          },
+          {
+            "end": 39,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 38,
+            "word": "其"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "唯"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "人"
+          },
+          {
+            "end": 42,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 41,
+            "word": "之"
+          },
+          {
+            "end": 43,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 42,
+            "word": "所"
+          },
+          {
+            "end": 45,
+            "gloss": "not to see / not to meet / to have disappeared / to be missing",
+            "pinyin": "bù jiàn",
+            "source": "CC-CEDICT",
+            "start": 43,
+            "word": "不见"
+          },
+          {
+            "end": 46,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 45,
+            "word": "乎"
+          }
+        ]
       },
       {
         "canonical_translations": [
@@ -52,9 +878,206 @@
         "character_count": 23,
         "id": "chapter-033-line-003",
         "order": 3,
+        "pinyin_per_char": [
+          "",
+          "shī",
+          "",
+          "yún",
+          "",
+          "",
+          "xiāng",
+          "zài",
+          "ěr",
+          "shì",
+          "",
+          "shàng",
+          "bú",
+          "kuì",
+          "yú",
+          "wū",
+          "lòu",
+          "",
+          "",
+          "gù",
+          "jūn",
+          "zǐ",
+          "bú",
+          "dòng",
+          "ér",
+          "jìng",
+          "",
+          "bù",
+          "yán",
+          "ér",
+          "xìn",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 3,
-        "text": "《詩》云：「相在爾室，尚不愧于屋漏。」故君子不動而敬，不言而信。"
+        "text": "《诗》云：「相在尔室，尚不愧于屋漏。」故君子不动而敬，不言而信。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "诗"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "云"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "相"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "在"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "尔"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "室"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "尚"
+          },
+          {
+            "end": 14,
+            "gloss": "to be worthy of / to deserve to be called / to prove oneself to be",
+            "pinyin": "bù kuì",
+            "source": "CC-CEDICT",
+            "start": 12,
+            "word": "不愧"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "于"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "屋"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "漏"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "故"
+          },
+          {
+            "end": 22,
+            "gloss": "the superior man; the exemplary person (junzi)",
+            "pinyin": "jūn zǐ",
+            "source": "classical-override",
+            "start": 20,
+            "word": "君子"
+          },
+          {
+            "end": 24,
+            "gloss": "motionless",
+            "pinyin": "bù dòng",
+            "source": "CC-CEDICT",
+            "start": 22,
+            "word": "不动"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "而"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "敬"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "不"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "言"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "而"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "信"
+          }
+        ]
       },
       {
         "canonical_translations": [
@@ -69,9 +1092,234 @@
         "character_count": 27,
         "id": "chapter-033-line-004",
         "order": 4,
+        "pinyin_per_char": [
+          "",
+          "shī",
+          "",
+          "yuē",
+          "",
+          "",
+          "zòu",
+          "jiǎ",
+          "wú",
+          "yán",
+          "",
+          "shí",
+          "mí",
+          "yǒu",
+          "zhēng",
+          "",
+          "",
+          "shì",
+          "gù",
+          "jūn",
+          "zǐ",
+          "bù",
+          "shǎng",
+          "ér",
+          "mín",
+          "quàn",
+          "",
+          "bú",
+          "nù",
+          "ér",
+          "mín",
+          "wēi",
+          "yú",
+          "",
+          "yuè",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 4,
-        "text": "《詩》曰：「奏假無言，時靡有爭。」是故君子不賞而民勸，不怒而民威於鈇鉞。"
+        "text": "《诗》曰：「奏假无言，时靡有争。」是故君子不赏而民劝，不怒而民威于𫓧钺。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "诗"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "曰"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "奏"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "假"
+          },
+          {
+            "end": 10,
+            "gloss": "to remain silent / to have nothing to say",
+            "pinyin": "wú yán",
+            "source": "CC-CEDICT",
+            "start": 8,
+            "word": "无言"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "时"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "靡"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "有"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "争"
+          },
+          {
+            "end": 19,
+            "gloss": "therefore / so / consequently",
+            "pinyin": "shì gù",
+            "source": "CC-CEDICT",
+            "start": 17,
+            "word": "是故"
+          },
+          {
+            "end": 21,
+            "gloss": "the superior man; the exemplary person (junzi)",
+            "pinyin": "jūn zǐ",
+            "source": "classical-override",
+            "start": 19,
+            "word": "君子"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "不"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "赏"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "而"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "民"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "劝"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "不"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "怒"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "而"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "民"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "威"
+          },
+          {
+            "end": 33,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 32,
+            "word": "于"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "钺"
+          }
+        ]
       },
       {
         "canonical_translations": [
@@ -86,9 +1334,187 @@
         "character_count": 21,
         "id": "chapter-033-line-005",
         "order": 5,
+        "pinyin_per_char": [
+          "",
+          "shī",
+          "",
+          "yuē",
+          "",
+          "",
+          "bù",
+          "xiǎn",
+          "wéi",
+          "dé",
+          "",
+          "bǎi",
+          "pì",
+          "qí",
+          "xíng",
+          "zhī",
+          "",
+          "",
+          "shì",
+          "gù",
+          "jūn",
+          "zí",
+          "dǔ",
+          "gōng",
+          "ér",
+          "tiān",
+          "xià",
+          "píng",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 5,
-        "text": "《詩》曰：「不顯惟德！百辟其刑之。」是故君子篤恭而天下平。"
+        "text": "《诗》曰：「不显惟德！百辟其刑之。」是故君子笃恭而天下平。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "诗"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "曰"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "不"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "显"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "惟"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "德"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "百"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "辟"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "其"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "刑"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "之"
+          },
+          {
+            "end": 20,
+            "gloss": "therefore / so / consequently",
+            "pinyin": "shì gù",
+            "source": "CC-CEDICT",
+            "start": 18,
+            "word": "是故"
+          },
+          {
+            "end": 22,
+            "gloss": "the superior man; the exemplary person (junzi)",
+            "pinyin": "jūn zǐ",
+            "source": "classical-override",
+            "start": 20,
+            "word": "君子"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "笃"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "恭"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "而"
+          },
+          {
+            "end": 27,
+            "gloss": "land under heaven / the whole world / the whole of China / realm / rule",
+            "pinyin": "tiān xià",
+            "source": "CC-CEDICT",
+            "start": 25,
+            "word": "天下"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "平"
+          }
+        ]
       },
       {
         "canonical_translations": [
@@ -103,16 +1529,375 @@
         "character_count": 42,
         "id": "chapter-033-line-006",
         "order": 6,
+        "pinyin_per_char": [
+          "",
+          "shī",
+          "",
+          "yuē",
+          "",
+          "",
+          "yǔ",
+          "huái",
+          "míng",
+          "dé",
+          "",
+          "bú",
+          "dà",
+          "shēng",
+          "yǐ",
+          "sè",
+          "",
+          "",
+          "zǐ",
+          "yuē",
+          "",
+          "",
+          "shēng",
+          "sè",
+          "zhī",
+          "yú",
+          "yǐ",
+          "huà",
+          "mín",
+          "",
+          "mò",
+          "yě",
+          "",
+          "",
+          "",
+          "shī",
+          "",
+          "yuē",
+          "",
+          "",
+          "dé",
+          "",
+          "rú",
+          "máo",
+          "",
+          "",
+          "máo",
+          "yóu",
+          "yǒu",
+          "lún",
+          "",
+          "",
+          "shàng",
+          "tiān",
+          "zhī",
+          "zài",
+          "",
+          "wú",
+          "shēng",
+          "wú",
+          "xiù",
+          "",
+          "",
+          "zhì",
+          "yǐ",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 6,
-        "text": "《詩》曰：「予懷明德，不大聲以色。」子曰：「聲色之於以化民，末也。」《詩》曰：「德輶如毛」，毛猶有倫；「上天之載，無聲無臭」，至矣！"
+        "text": "《诗》曰：「予怀明德，不大声以色。」子曰：「声色之于以化民，末也。」《诗》曰：「德𬨎如毛」，毛犹有伦；「上天之载，无声无臭」，至矣！",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "诗"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "曰"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "予"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "怀"
+          },
+          {
+            "end": 10,
+            "gloss": "highest virtue / illustrious virtue",
+            "pinyin": "míng dé",
+            "source": "CC-CEDICT",
+            "start": 8,
+            "word": "明德"
+          },
+          {
+            "end": 13,
+            "gloss": "not very (clear, far away etc); not too / not often; infrequently",
+            "pinyin": "bù dà",
+            "source": "CC-CEDICT",
+            "start": 11,
+            "word": "不大"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "声"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "以"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "色"
+          },
+          {
+            "end": 20,
+            "gloss": "The Master said (Confucius said)",
+            "pinyin": "zǐ yuē",
+            "source": "classical-override",
+            "start": 18,
+            "word": "子曰"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "声"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "色"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "之"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "于"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "以"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "化"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "民"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "末"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "也"
+          },
+          {
+            "end": 36,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 35,
+            "word": "诗"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "曰"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "德"
+          },
+          {
+            "end": 43,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 42,
+            "word": "如"
+          },
+          {
+            "end": 44,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 43,
+            "word": "毛"
+          },
+          {
+            "end": 47,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 46,
+            "word": "毛"
+          },
+          {
+            "end": 48,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 47,
+            "word": "犹"
+          },
+          {
+            "end": 49,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 48,
+            "word": "有"
+          },
+          {
+            "end": 50,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 49,
+            "word": "伦"
+          },
+          {
+            "end": 54,
+            "gloss": "Heaven; Providence; God / the sky above / to fly skywards / (euphemism) to die; to pass away / the …",
+            "pinyin": "shàng tiān",
+            "source": "CC-CEDICT",
+            "start": 52,
+            "word": "上天"
+          },
+          {
+            "end": 55,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 54,
+            "word": "之"
+          },
+          {
+            "end": 56,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 55,
+            "word": "载"
+          },
+          {
+            "end": 59,
+            "gloss": "soundless; silent",
+            "pinyin": "wú shēng",
+            "source": "CC-CEDICT",
+            "start": 57,
+            "word": "无声"
+          },
+          {
+            "end": 60,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 59,
+            "word": "无"
+          },
+          {
+            "end": 61,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 60,
+            "word": "臭"
+          },
+          {
+            "end": 64,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 63,
+            "word": "至"
+          },
+          {
+            "end": 65,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 64,
+            "word": "矣"
+          }
+        ]
       }
     ],
     "summary": "",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "詩曰「衣錦尚絅」，惡其文之著也。故君子之道，闇然而日章；小人之道，的然而日亡。君子之道：淡而不厭，簡而文，溫而理，知遠之近，知風之自，知微之顯，可與入德矣。\n詩云：「潛雖伏矣，亦孔之昭！」故君子內省不疚，無惡於志。君子之所不可及者，其唯人之所不見乎。\n詩云：「相在爾室，尚不愧于屋漏。」故君子不動而敬，不言而信。\n詩曰：「奏假無言，時靡有爭。」是故君子不賞而民勸，不怒而民威於鈇鉞。\n詩曰：「不顯惟德！百辟其刑之。」是故君子篤恭而天下平。\n詩云：「予懷明德，不大聲以色。」子曰：「聲色之於以化民，末也。」詩曰：「德輶如毛」，毛猶有倫。「上天之載，無聲無臭」，至矣！",
+    "text": "诗曰「衣锦尚䌹」，恶其文之著也。故君子之道，暗然而日章；小人之道，的然而日亡。君子之道：淡而不厌，简而文，温而理，知远之近，知风之自，知微之显，可与入德矣。\n诗云：「潜虽伏矣，亦孔之昭！」故君子内省不疚，无恶于志。君子之所不可及者，其唯人之所不见乎。\n诗云：「相在尔室，尚不愧于屋漏。」故君子不动而敬，不言而信。\n诗曰：「奏假无言，时靡有争。」是故君子不赏而民劝，不怒而民威于𫓧钺。\n诗曰：「不显惟德！百辟其刑之。」是故君子笃恭而天下平。\n诗云：「予怀明德，不大声以色。」子曰：「声色之于以化民，末也。」诗曰：「德𬨎如毛」，毛犹有伦。「上天之载，无声无臭」，至矣！",
     "title": ""
   },
   "chapter_path": "books/zhong-yong/chapters/chapter-033.json",

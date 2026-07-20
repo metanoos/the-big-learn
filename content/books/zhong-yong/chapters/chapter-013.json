@@ -10,7 +10,7 @@
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "The Master said \"The path is not far from man.",
+            "text": "The Master said \"The path is not far from man. When men try to pursue a course, which is far from the common indications of consciousness, this course cannot be considered The Path.",
             "translator": "Legge",
             "year": 1885
           }
@@ -18,16 +18,148 @@
         "character_count": 18,
         "id": "chapter-013-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "zǐ",
+          "yuē",
+          "",
+          "",
+          "dào",
+          "bù",
+          "yuǎn",
+          "rén",
+          "",
+          "rén",
+          "zhī",
+          "wéi",
+          "dào",
+          "ér",
+          "yuǎn",
+          "rén",
+          "",
+          "bù",
+          "ké",
+          "yǐ",
+          "wéi",
+          "dào",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "子曰：「道不遠人。人之為道而遠人，不可以為道。"
+        "text": "子曰：「道不远人。人之为道而远人，不可以为道。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "The Master said (Confucius said)",
+            "pinyin": "zǐ yuē",
+            "source": "classical-override",
+            "start": 0,
+            "word": "子曰"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "道"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "不"
+          },
+          {
+            "end": 8,
+            "gloss": "an estranged person / sb who is alienated / people far from home",
+            "pinyin": "yuǎn rén",
+            "source": "CC-CEDICT",
+            "start": 6,
+            "word": "远人"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "人"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "之"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "为"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "道"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "而"
+          },
+          {
+            "end": 16,
+            "gloss": "an estranged person / sb who is alienated / people far from home",
+            "pinyin": "yuǎn rén",
+            "source": "CC-CEDICT",
+            "start": 14,
+            "word": "远人"
+          },
+          {
+            "end": 20,
+            "gloss": "may not",
+            "pinyin": "bù kě yǐ",
+            "source": "CC-CEDICT",
+            "start": 17,
+            "word": "不可以"
+          },
+          {
+            "end": 21,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 20,
+            "word": "为"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "道"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "When men try to pursue a course, which is far from the common indications of consciousness, this course cannot be considered The Path.",
+            "text": "In the Book of Poetry, it is said, 'In hewing an ax handle, in hewing an ax handle, the pattern is not far off.' We grasp one ax handle to hew the other; and yet, if we look askance from the one to the other, we may consider them as apart. Therefore, the superior man governs men, according to their nature, with what is proper to them, and as soon as they change what is wrong, he stops.",
             "translator": "Legge",
             "year": 1885
           }
@@ -35,16 +167,280 @@
         "character_count": 33,
         "id": "chapter-013-line-002",
         "order": 2,
+        "pinyin_per_char": [
+          "shī",
+          "yún",
+          "",
+          "",
+          "fá",
+          "kē",
+          "fá",
+          "kē",
+          "",
+          "qí",
+          "zé",
+          "bù",
+          "yuǎn",
+          "",
+          "",
+          "zhí",
+          "kē",
+          "yǐ",
+          "fá",
+          "kē",
+          "",
+          "nì",
+          "ér",
+          "shì",
+          "zhī",
+          "",
+          "yóu",
+          "yǐ",
+          "wéi",
+          "yuǎn",
+          "",
+          "gù",
+          "jūn",
+          "zí",
+          "yǐ",
+          "rén",
+          "zhì",
+          "rén",
+          "",
+          "gǎi",
+          "ér",
+          "zhǐ",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 2,
-        "text": "詩云：『伐柯伐柯，其則不遠。』執柯以伐柯，睨而視之，猶以為遠。故君子以人治人，改而止。"
+        "text": "诗云：『伐柯伐柯，其则不远。』执柯以伐柯，睨而视之，犹以为远。故君子以人治人，改而止。",
+        "word_spans": [
+          {
+            "end": 1,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 0,
+            "word": "诗"
+          },
+          {
+            "end": 2,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 1,
+            "word": "云"
+          },
+          {
+            "end": 6,
+            "gloss": "(cf Book of Songs) How to fashion an ax handle? You need an ax / fig. to follow a principle / fig. …",
+            "pinyin": "fá kē",
+            "source": "CC-CEDICT",
+            "start": 4,
+            "word": "伐柯"
+          },
+          {
+            "end": 8,
+            "gloss": "(cf Book of Songs) How to fashion an ax handle? You need an ax / fig. to follow a principle / fig. …",
+            "pinyin": "fá kē",
+            "source": "CC-CEDICT",
+            "start": 6,
+            "word": "伐柯"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "其"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "则"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "不"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "远"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "执"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "柯"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "以"
+          },
+          {
+            "end": 20,
+            "gloss": "(cf Book of Songs) How to fashion an ax handle? You need an ax / fig. to follow a principle / fig. …",
+            "pinyin": "fá kē",
+            "source": "CC-CEDICT",
+            "start": 18,
+            "word": "伐柯"
+          },
+          {
+            "end": 22,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 21,
+            "word": "睨"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "而"
+          },
+          {
+            "end": 24,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 23,
+            "word": "视"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "之"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "犹"
+          },
+          {
+            "end": 29,
+            "gloss": "to think; to believe (often with the implication that the belief is mistaken – unless referring to …",
+            "pinyin": "yǐ wéi",
+            "source": "CC-CEDICT",
+            "start": 27,
+            "word": "以为"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "远"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "故"
+          },
+          {
+            "end": 34,
+            "gloss": "the superior man; the exemplary person (junzi)",
+            "pinyin": "jūn zǐ",
+            "source": "classical-override",
+            "start": 32,
+            "word": "君子"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "以"
+          },
+          {
+            "end": 37,
+            "gloss": "rule of man",
+            "pinyin": "rén zhì",
+            "source": "CC-CEDICT",
+            "start": 35,
+            "word": "人治"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "人"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "改"
+          },
+          {
+            "end": 41,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 40,
+            "word": "而"
+          },
+          {
+            "end": 42,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 41,
+            "word": "止"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "In the Book of Poetry, it is said, 'In hewing an ax handle, in hewing an ax handle, the pattern is not far off.",
+            "text": "When one cultivates to the utmost the principles of his nature, and exercises them on the principle of reciprocity, he is not far from the path. What you do not like when done to yourself, do not do to others.",
             "translator": "Legge",
             "year": 1885
           }
@@ -52,16 +448,161 @@
         "character_count": 17,
         "id": "chapter-013-line-003",
         "order": 3,
+        "pinyin_per_char": [
+          "zhōng",
+          "shù",
+          "wéi",
+          "dào",
+          "bù",
+          "yuǎn",
+          "",
+          "shī",
+          "zhū",
+          "jǐ",
+          "ér",
+          "bú",
+          "yuàn",
+          "",
+          "yì",
+          "wù",
+          "shī",
+          "yú",
+          "rén",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides",
         "source_block_chunk": 1,
         "source_block_order": 3,
-        "text": "忠恕違道不遠，施諸己而不願，亦勿施於人。"
+        "text": "忠恕违道不远，施诸己而不愿，亦勿施于人。",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "loyalty and consideration for others; magnanimity (ideal virtues in Confucianism)",
+            "pinyin": "zhōng shù",
+            "source": "CC-CEDICT",
+            "start": 0,
+            "word": "忠恕"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "违"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "道"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "不"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "远"
+          },
+          {
+            "end": 8,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 7,
+            "word": "施"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "诸"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "己"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "而"
+          },
+          {
+            "end": 13,
+            "gloss": "unwilling",
+            "pinyin": "bù yuàn",
+            "source": "CC-CEDICT",
+            "start": 11,
+            "word": "不愿"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "亦"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "勿"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "施"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "于"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "人"
+          }
+        ]
       },
       {
         "canonical_translations": [
           {
             "license": "public domain",
             "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean",
-            "text": "We grasp one ax handle to hew the other; and yet, if we look askance from the one to the other, we may consider them as apart. Therefore, the superior man governs men, according to their nature, with what is proper to them, and as soon as they change what is wrong, he stops. When one cultivates to the utmost the principles of his nature, and exercises them on the principle of reciprocity, he is not far from the path. What you do not like when done to yourself, do not do to others. In the way of the superior man there are four things, to not one of which have I as yet attained.-To serve my father, as I would require my son to serve me: to this I have not attained; to serve my prince as I would require my minister to serve me: to this I have not attained; to serve my elder brother as I would require my younger brother to serve me: to this I have not attained; to set the example in behaving to a friend, as I would require him to behave to me: to this I have not attained. Earnest in practicing the ordinary virtues, and careful in speaking about them, if, in his practice, he has anything defective, the superior man dares not but exert himself; and if, in his words, he has any excess, he dares not allow himself such license. Thus his words have respect to his actions, and his actions have respect to his words; is it not just an entire sincerity which marks the superior man?",
+            "text": "In the way of the superior man there are four things, to not one of which have I as yet attained.-To serve my father, as I would require my son to serve me: to this I have not attained; to serve my prince as I would require my minister to serve me: to this I have not attained; to serve my elder brother as I would require my younger brother to serve me: to this I have not attained; to set the example in behaving to a friend, as I would require him to behave to me: to this I have not attained. Earnest in practicing the ordinary virtues, and careful in speaking about them, if, in his practice, he has anything defective, the superior man dares not but exert himself; and if, in his words, he has any excess, he dares not allow himself such license. Thus his words have respect to his actions, and his actions have respect to his words; is it not just an entire sincerity which marks the superior man?",
             "translator": "Legge",
             "year": 1885
           }
@@ -69,16 +610,717 @@
         "character_count": 85,
         "id": "chapter-013-line-004",
         "order": 4,
+        "pinyin_per_char": [
+          "jūn",
+          "zǐ",
+          "zhī",
+          "dào",
+          "sì",
+          "",
+          "qiū",
+          "wèi",
+          "néng",
+          "yī",
+          "yān",
+          "",
+          "suǒ",
+          "qiú",
+          "hū",
+          "zi",
+          "",
+          "yǐ",
+          "shì",
+          "fù",
+          "wèi",
+          "néng",
+          "yě",
+          "",
+          "suǒ",
+          "qiú",
+          "hū",
+          "chén",
+          "",
+          "yǐ",
+          "shì",
+          "jūn",
+          "wèi",
+          "néng",
+          "yě",
+          "",
+          "suǒ",
+          "qiú",
+          "hū",
+          "dì",
+          "",
+          "yǐ",
+          "shì",
+          "xiōng",
+          "wèi",
+          "néng",
+          "yě",
+          "",
+          "suǒ",
+          "qiú",
+          "hū",
+          "péng",
+          "yǒu",
+          "",
+          "xiān",
+          "shī",
+          "zhī",
+          "wèi",
+          "néng",
+          "yě",
+          "",
+          "yōng",
+          "dé",
+          "zhī",
+          "xíng",
+          "",
+          "yōng",
+          "yán",
+          "zhī",
+          "jǐn",
+          "",
+          "yóu",
+          "suǒ",
+          "bù",
+          "zú",
+          "",
+          "bù",
+          "gǎn",
+          "bù",
+          "miǎn",
+          "",
+          "yǒu",
+          "yú",
+          "bù",
+          "gán",
+          "jǐn",
+          "",
+          "yán",
+          "gù",
+          "xíng",
+          "",
+          "xíng",
+          "gù",
+          "yán",
+          "",
+          "jūn",
+          "zǐ",
+          "hú",
+          "bú",
+          "zào",
+          "zào",
+          "ěr",
+          "",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 4,
-        "text": "君子之道四，丘未能一焉：所求乎子，以事父未能也；所求乎臣，以事君未能也；所求乎弟，以事兄未能也；所求乎朋友，先施之未能也。庸德之行，庸言之謹，有所不足，不敢不勉，有餘不敢盡；言顧行，行顧言，君子胡不慥慥爾！」"
+        "text": "君子之道四，丘未能一焉：所求乎子，以事父未能也；所求乎臣，以事君未能也；所求乎弟，以事兄未能也；所求乎朋友，先施之未能也。庸德之行，庸言之谨，有所不足，不敢不勉，有余不敢尽；言顾行，行顾言，君子胡不慥慥尔！」",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "the superior man; the exemplary person (junzi)",
+            "pinyin": "jūn zǐ",
+            "source": "classical-override",
+            "start": 0,
+            "word": "君子"
+          },
+          {
+            "end": 3,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 2,
+            "word": "之"
+          },
+          {
+            "end": 4,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 3,
+            "word": "道"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "四"
+          },
+          {
+            "end": 7,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 6,
+            "word": "丘"
+          },
+          {
+            "end": 9,
+            "gloss": "cannot / to fail to / unable to",
+            "pinyin": "wèi néng",
+            "source": "CC-CEDICT",
+            "start": 7,
+            "word": "未能"
+          },
+          {
+            "end": 10,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 9,
+            "word": "一"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "焉"
+          },
+          {
+            "end": 13,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 12,
+            "word": "所"
+          },
+          {
+            "end": 14,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 13,
+            "word": "求"
+          },
+          {
+            "end": 15,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 14,
+            "word": "乎"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "子"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "以"
+          },
+          {
+            "end": 19,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 18,
+            "word": "事"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "父"
+          },
+          {
+            "end": 22,
+            "gloss": "cannot / to fail to / unable to",
+            "pinyin": "wèi néng",
+            "source": "CC-CEDICT",
+            "start": 20,
+            "word": "未能"
+          },
+          {
+            "end": 23,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 22,
+            "word": "也"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "所"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "求"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "乎"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "臣"
+          },
+          {
+            "end": 30,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 29,
+            "word": "以"
+          },
+          {
+            "end": 31,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 30,
+            "word": "事"
+          },
+          {
+            "end": 32,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 31,
+            "word": "君"
+          },
+          {
+            "end": 34,
+            "gloss": "cannot / to fail to / unable to",
+            "pinyin": "wèi néng",
+            "source": "CC-CEDICT",
+            "start": 32,
+            "word": "未能"
+          },
+          {
+            "end": 35,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 34,
+            "word": "也"
+          },
+          {
+            "end": 37,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 36,
+            "word": "所"
+          },
+          {
+            "end": 38,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 37,
+            "word": "求"
+          },
+          {
+            "end": 39,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 38,
+            "word": "乎"
+          },
+          {
+            "end": 40,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 39,
+            "word": "弟"
+          },
+          {
+            "end": 42,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 41,
+            "word": "以"
+          },
+          {
+            "end": 43,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 42,
+            "word": "事"
+          },
+          {
+            "end": 44,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 43,
+            "word": "兄"
+          },
+          {
+            "end": 46,
+            "gloss": "cannot / to fail to / unable to",
+            "pinyin": "wèi néng",
+            "source": "CC-CEDICT",
+            "start": 44,
+            "word": "未能"
+          },
+          {
+            "end": 47,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 46,
+            "word": "也"
+          },
+          {
+            "end": 49,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 48,
+            "word": "所"
+          },
+          {
+            "end": 50,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 49,
+            "word": "求"
+          },
+          {
+            "end": 51,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 50,
+            "word": "乎"
+          },
+          {
+            "end": 53,
+            "gloss": "friend / CL:个|个[ge4],位[wei4]",
+            "pinyin": "péng you",
+            "source": "CC-CEDICT",
+            "start": 51,
+            "word": "朋友"
+          },
+          {
+            "end": 55,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 54,
+            "word": "先"
+          },
+          {
+            "end": 56,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 55,
+            "word": "施"
+          },
+          {
+            "end": 57,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 56,
+            "word": "之"
+          },
+          {
+            "end": 59,
+            "gloss": "cannot / to fail to / unable to",
+            "pinyin": "wèi néng",
+            "source": "CC-CEDICT",
+            "start": 57,
+            "word": "未能"
+          },
+          {
+            "end": 60,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 59,
+            "word": "也"
+          },
+          {
+            "end": 62,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 61,
+            "word": "庸"
+          },
+          {
+            "end": 63,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 62,
+            "word": "德"
+          },
+          {
+            "end": 64,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 63,
+            "word": "之"
+          },
+          {
+            "end": 65,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 64,
+            "word": "行"
+          },
+          {
+            "end": 67,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 66,
+            "word": "庸"
+          },
+          {
+            "end": 68,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 67,
+            "word": "言"
+          },
+          {
+            "end": 69,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 68,
+            "word": "之"
+          },
+          {
+            "end": 70,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 69,
+            "word": "谨"
+          },
+          {
+            "end": 73,
+            "gloss": "somewhat / to some extent",
+            "pinyin": "yǒu suǒ",
+            "source": "CC-CEDICT",
+            "start": 71,
+            "word": "有所"
+          },
+          {
+            "end": 75,
+            "gloss": "insufficient / lacking / deficiency / not enough / inadequate / not worth / cannot / should not",
+            "pinyin": "bù zú",
+            "source": "CC-CEDICT",
+            "start": 73,
+            "word": "不足"
+          },
+          {
+            "end": 77,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 76,
+            "word": "不"
+          },
+          {
+            "end": 78,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 77,
+            "word": "敢"
+          },
+          {
+            "end": 79,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 78,
+            "word": "不"
+          },
+          {
+            "end": 80,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 79,
+            "word": "勉"
+          },
+          {
+            "end": 83,
+            "gloss": "to have an abundance",
+            "pinyin": "yǒu yú",
+            "source": "CC-CEDICT",
+            "start": 81,
+            "word": "有余"
+          },
+          {
+            "end": 84,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 83,
+            "word": "不"
+          },
+          {
+            "end": 85,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 84,
+            "word": "敢"
+          },
+          {
+            "end": 86,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 85,
+            "word": "尽"
+          },
+          {
+            "end": 88,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 87,
+            "word": "言"
+          },
+          {
+            "end": 89,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 88,
+            "word": "顾"
+          },
+          {
+            "end": 90,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 89,
+            "word": "行"
+          },
+          {
+            "end": 92,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 91,
+            "word": "行"
+          },
+          {
+            "end": 93,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 92,
+            "word": "顾"
+          },
+          {
+            "end": 94,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 93,
+            "word": "言"
+          },
+          {
+            "end": 97,
+            "gloss": "the superior man; the exemplary person (junzi)",
+            "pinyin": "jūn zǐ",
+            "source": "classical-override",
+            "start": 95,
+            "word": "君子"
+          },
+          {
+            "end": 98,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 97,
+            "word": "胡"
+          },
+          {
+            "end": 99,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 98,
+            "word": "不"
+          },
+          {
+            "end": 100,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 99,
+            "word": "慥"
+          },
+          {
+            "end": 101,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 100,
+            "word": "慥"
+          },
+          {
+            "end": 102,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 101,
+            "word": "尔"
+          }
+        ]
       }
     ],
     "summary": "",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "子曰：「道不遠人。人之為道而遠人，不可以為道。\n詩云：『伐柯伐柯，其則不遠。』執柯以伐柯，睨而視之，猶以為遠。故君子以人治人，改而止。\n忠恕違道不遠，施諸己而不願，亦勿施於人。\n君子之道四，丘未能一焉：所求乎子，以事父未能也；所求乎臣，以事君未能也；所求乎弟，以事兄未能也；所求乎朋友，先施之未能也。庸德之行，庸言之謹，有所不足，不敢不勉，有餘不敢盡；言顧行，行顧言，君子胡不慥慥爾！」",
+    "text": "子曰：「道不远人。人之为道而远人，不可以为道。\n诗云：『伐柯伐柯，其则不远。』执柯以伐柯，睨而视之，犹以为远。故君子以人治人，改而止。\n忠恕违道不远，施诸己而不愿，亦勿施于人。\n君子之道四，丘未能一焉：所求乎子，以事父未能也；所求乎臣，以事君未能也；所求乎弟，以事兄未能也；所求乎朋友，先施之未能也。庸德之行，庸言之谨，有所不足，不敢不勉，有余不敢尽；言顾行，行顾言，君子胡不慥慥尔！」",
     "title": ""
   },
   "chapter_path": "books/zhong-yong/chapters/chapter-013.json",

@@ -18,16 +18,204 @@
         "character_count": 24,
         "id": "chapter-008-line-001",
         "order": 1,
+        "pinyin_per_char": [
+          "zǐ",
+          "yuē",
+          "",
+          "",
+          "huí",
+          "zhī",
+          "wéi",
+          "rén",
+          "yě",
+          "",
+          "zé",
+          "hū",
+          "zhōng",
+          "yōng",
+          "",
+          "dé",
+          "yī",
+          "shàn",
+          "",
+          "zé",
+          "quán",
+          "quán",
+          "fú",
+          "yīng",
+          "ér",
+          "fú",
+          "shī",
+          "zhī",
+          "yǐ",
+          "",
+          ""
+        ],
+        "pinyin_source": "pypinyin + tone-sandhi + classical-overrides (with classical override)",
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "子曰：「回之為人也，擇乎中庸，得一善，則拳拳服膺而弗失之矣。」"
+        "text": "子曰：「回之为人也，择乎中庸，得一善，则拳拳服膺而弗失之矣。」",
+        "word_spans": [
+          {
+            "end": 2,
+            "gloss": "The Master said (Confucius said)",
+            "pinyin": "zǐ yuē",
+            "source": "classical-override",
+            "start": 0,
+            "word": "子曰"
+          },
+          {
+            "end": 5,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 4,
+            "word": "回"
+          },
+          {
+            "end": 6,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 5,
+            "word": "之"
+          },
+          {
+            "end": 8,
+            "gloss": "for sb / for others' interest",
+            "pinyin": "wèi rén",
+            "source": "CC-CEDICT",
+            "start": 6,
+            "word": "为人"
+          },
+          {
+            "end": 9,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 8,
+            "word": "也"
+          },
+          {
+            "end": 11,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 10,
+            "word": "择"
+          },
+          {
+            "end": 12,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 11,
+            "word": "乎"
+          },
+          {
+            "end": 14,
+            "gloss": "The Doctrine of the Mean; the Golden Mean (the constant middle way)",
+            "pinyin": "zhōng yōng",
+            "source": "classical-override",
+            "start": 12,
+            "word": "中庸"
+          },
+          {
+            "end": 16,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 15,
+            "word": "得"
+          },
+          {
+            "end": 17,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 16,
+            "word": "一"
+          },
+          {
+            "end": 18,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 17,
+            "word": "善"
+          },
+          {
+            "end": 20,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 19,
+            "word": "则"
+          },
+          {
+            "end": 22,
+            "gloss": "(literary) earnest; sincere",
+            "pinyin": "quán quán",
+            "source": "CC-CEDICT",
+            "start": 20,
+            "word": "拳拳"
+          },
+          {
+            "end": 24,
+            "gloss": "to bear in mind",
+            "pinyin": "fú yīng",
+            "source": "CC-CEDICT",
+            "start": 22,
+            "word": "服膺"
+          },
+          {
+            "end": 25,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 24,
+            "word": "而"
+          },
+          {
+            "end": 26,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 25,
+            "word": "弗"
+          },
+          {
+            "end": 27,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 26,
+            "word": "失"
+          },
+          {
+            "end": 28,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 27,
+            "word": "之"
+          },
+          {
+            "end": 29,
+            "gloss": null,
+            "pinyin": null,
+            "source": "char",
+            "start": 28,
+            "word": "矣"
+          }
+        ]
       }
     ],
     "summary": "",
     "supplemental_text": "",
     "supplemental_unit_count": 0,
     "supplemental_units": [],
-    "text": "子曰：「回之為人也，擇乎中庸，得一善，則拳拳服膺而弗失之矣。」",
+    "text": "子曰：「回之为人也，择乎中庸，得一善，则拳拳服膺而弗失之矣。」",
     "title": ""
   },
   "chapter_path": "books/zhong-yong/chapters/chapter-008.json",

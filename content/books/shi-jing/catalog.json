@@ -1,0 +1,331 @@
+{
+  "available": true,
+  "blurb": "The oldest poetry anthology in the Chinese tradition; the source of much of the language's literary allusion. Confucius said reading it was essential.",
+  "cache_dir": "books/shi-jing",
+  "catalog_path": "books/shi-jing/catalog.json",
+  "chapter_count": 30,
+  "chapters": [
+    {
+      "chapter_path": "books/shi-jing/chapters/chapter-001.json",
+      "character_count": 780,
+      "id": "chapter-001",
+      "order": 1,
+      "reading_unit_count": 11,
+      "summary": "关雎",
+      "supplemental_unit_count": 0,
+      "title": "国风·周南"
+    },
+    {
+      "chapter_path": "books/shi-jing/chapters/chapter-002.json",
+      "character_count": 854,
+      "id": "chapter-002",
+      "order": 2,
+      "reading_unit_count": 13,
+      "summary": "鹊巢",
+      "supplemental_unit_count": 0,
+      "title": "国风·召南"
+    },
+    {
+      "chapter_path": "books/shi-jing/chapters/chapter-003.json",
+      "character_count": 1868,
+      "id": "chapter-003",
+      "order": 3,
+      "reading_unit_count": 17,
+      "summary": "柏舟",
+      "supplemental_unit_count": 0,
+      "title": "国风·邶风"
+    },
+    {
+      "chapter_path": "books/shi-jing/chapters/chapter-004.json",
+      "character_count": 809,
+      "id": "chapter-004",
+      "order": 4,
+      "reading_unit_count": 8,
+      "summary": "柏舟",
+      "supplemental_unit_count": 0,
+      "title": "国风·鄘风"
+    },
+    {
+      "chapter_path": "books/shi-jing/chapters/chapter-005.json",
+      "character_count": 1024,
+      "id": "chapter-005",
+      "order": 5,
+      "reading_unit_count": 8,
+      "summary": "淇奥",
+      "supplemental_unit_count": 0,
+      "title": "国风·卫风"
+    },
+    {
+      "chapter_path": "books/shi-jing/chapters/chapter-006.json",
+      "character_count": 711,
+      "id": "chapter-006",
+      "order": 6,
+      "reading_unit_count": 8,
+      "summary": "黍离",
+      "supplemental_unit_count": 0,
+      "title": "国风·王风"
+    },
+    {
+      "chapter_path": "books/shi-jing/chapters/chapter-007.json",
+      "character_count": 946,
+      "id": "chapter-007",
+      "order": 7,
+      "reading_unit_count": 11,
+      "summary": "缁衣",
+      "supplemental_unit_count": 0,
+      "title": "国风·郑风"
+    },
+    {
+      "chapter_path": "books/shi-jing/chapters/chapter-008.json",
+      "character_count": 736,
+      "id": "chapter-008",
+      "order": 8,
+      "reading_unit_count": 10,
+      "summary": "鸡鸣",
+      "supplemental_unit_count": 0,
+      "title": "国风·齐风"
+    },
+    {
+      "chapter_path": "books/shi-jing/chapters/chapter-009.json",
+      "character_count": 490,
+      "id": "chapter-009",
+      "order": 9,
+      "reading_unit_count": 4,
+      "summary": "葛屦",
+      "supplemental_unit_count": 0,
+      "title": "国风·魏风"
+    },
+    {
+      "chapter_path": "books/shi-jing/chapters/chapter-010.json",
+      "character_count": 743,
+      "id": "chapter-010",
+      "order": 10,
+      "reading_unit_count": 7,
+      "summary": "蟋蟀",
+      "supplemental_unit_count": 0,
+      "title": "国风·唐风"
+    },
+    {
+      "chapter_path": "books/shi-jing/chapters/chapter-011.json",
+      "character_count": 775,
+      "id": "chapter-011",
+      "order": 11,
+      "reading_unit_count": 7,
+      "summary": "车邻",
+      "supplemental_unit_count": 0,
+      "title": "国风·秦风"
+    },
+    {
+      "chapter_path": "books/shi-jing/chapters/chapter-012.json",
+      "character_count": 403,
+      "id": "chapter-012",
+      "order": 12,
+      "reading_unit_count": 6,
+      "summary": "宛丘",
+      "supplemental_unit_count": 0,
+      "title": "国风·陈风"
+    },
+    {
+      "chapter_path": "books/shi-jing/chapters/chapter-013.json",
+      "character_count": 247,
+      "id": "chapter-013",
+      "order": 13,
+      "reading_unit_count": 4,
+      "summary": "羔裘",
+      "supplemental_unit_count": 0,
+      "title": "国风·桧风"
+    },
+    {
+      "chapter_path": "books/shi-jing/chapters/chapter-014.json",
+      "character_count": 347,
+      "id": "chapter-014",
+      "order": 14,
+      "reading_unit_count": 4,
+      "summary": "蜉蝣",
+      "supplemental_unit_count": 0,
+      "title": "国风·曹风"
+    },
+    {
+      "chapter_path": "books/shi-jing/chapters/chapter-015.json",
+      "character_count": 1050,
+      "id": "chapter-015",
+      "order": 15,
+      "reading_unit_count": 5,
+      "summary": "七月",
+      "supplemental_unit_count": 0,
+      "title": "国风·豳风"
+    },
+    {
+      "chapter_path": "books/shi-jing/chapters/chapter-016.json",
+      "character_count": 1638,
+      "id": "chapter-016",
+      "order": 16,
+      "reading_unit_count": 10,
+      "summary": "鹿鸣",
+      "supplemental_unit_count": 0,
+      "title": "小雅·鹿鸣之什"
+    },
+    {
+      "chapter_path": "books/shi-jing/chapters/chapter-017.json",
+      "character_count": 1425,
+      "id": "chapter-017",
+      "order": 17,
+      "reading_unit_count": 10,
+      "summary": "南有嘉鱼",
+      "supplemental_unit_count": 0,
+      "title": "小雅·南有嘉鱼之什"
+    },
+    {
+      "chapter_path": "books/shi-jing/chapters/chapter-018.json",
+      "character_count": 1216,
+      "id": "chapter-018",
+      "order": 18,
+      "reading_unit_count": 10,
+      "summary": "鸿鴈",
+      "supplemental_unit_count": 0,
+      "title": "小雅·鸿鴈之什"
+    },
+    {
+      "chapter_path": "books/shi-jing/chapters/chapter-019.json",
+      "character_count": 2957,
+      "id": "chapter-019",
+      "order": 19,
+      "reading_unit_count": 10,
+      "summary": "节南山",
+      "supplemental_unit_count": 0,
+      "title": "小雅·节南山之什"
+    },
+    {
+      "chapter_path": "books/shi-jing/chapters/chapter-020.json",
+      "character_count": 1884,
+      "id": "chapter-020",
+      "order": 20,
+      "reading_unit_count": 10,
+      "summary": "谷风",
+      "supplemental_unit_count": 0,
+      "title": "小雅·谷风之什"
+    },
+    {
+      "chapter_path": "books/shi-jing/chapters/chapter-021.json",
+      "character_count": 1557,
+      "id": "chapter-021",
+      "order": 21,
+      "reading_unit_count": 10,
+      "summary": "甫田",
+      "supplemental_unit_count": 0,
+      "title": "小雅·甫田之什"
+    },
+    {
+      "chapter_path": "books/shi-jing/chapters/chapter-022.json",
+      "character_count": 1569,
+      "id": "chapter-022",
+      "order": 22,
+      "reading_unit_count": 14,
+      "summary": "鱼藻",
+      "supplemental_unit_count": 0,
+      "title": "小雅·鱼藻之什"
+    },
+    {
+      "chapter_path": "books/shi-jing/chapters/chapter-023.json",
+      "character_count": 2177,
+      "id": "chapter-023",
+      "order": 23,
+      "reading_unit_count": 10,
+      "summary": "文王",
+      "supplemental_unit_count": 0,
+      "title": "大雅·文王之什"
+    },
+    {
+      "chapter_path": "books/shi-jing/chapters/chapter-024.json",
+      "character_count": 2285,
+      "id": "chapter-024",
+      "order": 24,
+      "reading_unit_count": 10,
+      "summary": "生民",
+      "supplemental_unit_count": 0,
+      "title": "大雅·生民之什"
+    },
+    {
+      "chapter_path": "books/shi-jing/chapters/chapter-025.json",
+      "character_count": 4097,
+      "id": "chapter-025",
+      "order": 25,
+      "reading_unit_count": 11,
+      "summary": "荡",
+      "supplemental_unit_count": 0,
+      "title": "大雅·荡之什"
+    },
+    {
+      "chapter_path": "books/shi-jing/chapters/chapter-026.json",
+      "character_count": 455,
+      "id": "chapter-026",
+      "order": 26,
+      "reading_unit_count": 8,
+      "summary": "清庙",
+      "supplemental_unit_count": 0,
+      "title": "周颂·清庙之什"
+    },
+    {
+      "chapter_path": "books/shi-jing/chapters/chapter-027.json",
+      "character_count": 432,
+      "id": "chapter-027",
+      "order": 27,
+      "reading_unit_count": 7,
+      "summary": "臣工",
+      "supplemental_unit_count": 0,
+      "title": "周颂·臣工之什"
+    },
+    {
+      "chapter_path": "books/shi-jing/chapters/chapter-028.json",
+      "character_count": 568,
+      "id": "chapter-028",
+      "order": 28,
+      "reading_unit_count": 7,
+      "summary": "闵予小子",
+      "supplemental_unit_count": 0,
+      "title": "周颂·闵予小子之什"
+    },
+    {
+      "chapter_path": "books/shi-jing/chapters/chapter-029.json",
+      "character_count": 1221,
+      "id": "chapter-029",
+      "order": 29,
+      "reading_unit_count": 4,
+      "summary": "𬳶",
+      "supplemental_unit_count": 0,
+      "title": "鲁颂"
+    },
+    {
+      "chapter_path": "books/shi-jing/chapters/chapter-030.json",
+      "character_count": 832,
+      "id": "chapter-030",
+      "order": 30,
+      "reading_unit_count": 5,
+      "summary": "那",
+      "supplemental_unit_count": 0,
+      "title": "商颂"
+    }
+  ],
+  "commentary_chapter_count": 0,
+  "commentary_chapters": [],
+  "curriculum_order": 100,
+  "difficulty": "intermediate",
+  "display_name": "Shi Jing 诗经",
+  "form": "poetry",
+  "name_en": "The Classic of Poetry",
+  "name_pinyin": "Shī Jīng",
+  "name_zh": "诗经",
+  "period": "pre-qin",
+  "provider": "wikisource",
+  "seed_translator": {
+    "license": "public domain",
+    "translator": "Legge",
+    "year": 1879
+  },
+  "source_title": "Chinese verse: zh.wikisource 诗经 (complete, all odes). English: James Legge, 'Sacred Books of the East' Vol. III (1879, public domain) — partial coverage, 94/259 odes. Odes without a transcribed Legge page ship untranslated (honest gap, not fabricated).",
+  "source_url": "https://zh.wikisource.org/wiki/诗经",
+  "tier": "S",
+  "title": "Classic of Poetry",
+  "tradition": "confucian",
+  "v1": true
+}
