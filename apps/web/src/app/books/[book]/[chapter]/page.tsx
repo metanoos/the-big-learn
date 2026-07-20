@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import { ApiError, getBooks, getChapter, getCharPinyinBatch, type Book, type ReadingUnit, type WordSpan } from "@/lib/api";
+import { ApiError, getBooks, getChapter, getCharPinyinBatch, type Book, type ReadingUnit, type WordSpan } from "@/lib/content";
 import { ChapterReader } from "@/components/ChapterReader";
 import { BookTitle, AnnotatedName } from "@/components/BookTitle";
 import { ToneColorToggle } from "@/components/ToneColorToggle";

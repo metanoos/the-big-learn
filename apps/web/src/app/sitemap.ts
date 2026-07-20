@@ -1,5 +1,5 @@
 import type { MetadataRoute } from "next";
-import { getBooks } from "@/lib/api";
+import { getBooks } from "@/lib/content";
 import { absoluteUrl } from "@/lib/site";
 
 export const dynamic = "force-dynamic";

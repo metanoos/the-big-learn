@@ -22,6 +22,9 @@ apps/web/test-results/
 apps/web/playwright-report/
 apps/web/blob-report/
 
+# precomputed content cache (built by apps/web/scripts/build-content.ts)
+apps/web/.content-cache/
+
 # editor / OS
 .DS_Store
 .vscode/

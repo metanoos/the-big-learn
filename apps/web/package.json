@@ -9,6 +9,8 @@
     "test": "node --test next.config.test.js",
     "test:e2e": "playwright test",
     "dev": "next dev -p 3100",
+    "build:content": "tsx scripts/build-content.ts",
+    "prebuild": "tsx scripts/build-content.ts",
     "build": "next build",
     "start": "next start -p 3100"
   },
@@ -30,6 +32,7 @@
     "autoprefixer": "^10.4.20",
     "postcss": "^8.5.1",
     "tailwindcss": "^3.4.17",
+    "tsx": "^4.23.1",
     "typescript": "^5.7.3"
   }
 }

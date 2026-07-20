@@ -1,19 +1,18 @@
-// API client for the read-only Go content service: books, chapters, character
-// breakdowns, and batch pinyin.
+// Browser-side API client for the read-only content service.
+//
+// Used by client components (dashboard, character popover, saved-words panel)
+// to fetch from the Next.js route handlers under /api/v1/. Those route
+// handlers call the fs-based @/lib/content layer in-process — so the browser
+// hits /api/v1, the route handler reads from disk, no external backend.
+//
+// Server components do NOT use this module — they import @/lib/content
+// directly to avoid the fetch round-trip (and the "what absolute URL do I
+// call from the server?" problem on Vercel).
 //
 // All reader state lives in localStorage — see lib/progress.ts and
 // lib/reviewChars.ts. The server keeps no database or reader identifiers.
-//
-// Base URL handling:
-//   - In the browser: same-origin "/api/v1" (Next.js rewrites /api/* to the
-//     Go backend — see next.config.js).
-//   - In server components / route handlers: relative URLs don't work (no
-//     host), so we use the absolute API_BASE_URL env var, defaulting to the
-//     local dev backend.
-const BASE =
-  typeof window === "undefined"
-    ? `${process.env.API_BASE_URL || "http://localhost:8180"}/api/v1`
-    : "/api/v1";
+
+const BASE = "/api/v1";
 
 // Per-chapter metadata from a book's catalog `chapters` array — the lightweight
 // info the chapter list needs (id, order, title) without loading each chapter
@@ -110,9 +109,9 @@ export type WordSpan = {
   start: number;
   end: number; // exclusive
   word: string;
-  pinyin: string | null; // tone-marked, space-separated; null for per-char fallback
-  gloss: string | null; // null for per-char fallback (char breakdown covers it)
-  source: "classical-override" | "CC-CEDICT" | "char";
+  pinyin?: string | null; // tone-marked, space-separated; null for per-char fallback
+  gloss?: string | null; // null for per-char fallback (char breakdown covers it)
+  source?: "classical-override" | "CC-CEDICT" | "char";
 };
 
 export type ReadingUnit = {

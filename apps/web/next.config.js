@@ -6,11 +6,9 @@ const nextConfig = {
   // blocks cross-origin dev assets by default, so allow this one equivalent
   // local origin explicitly (production is unaffected).
   allowedDevOrigins: ["127.0.0.1"],
-  // Proxy /api to the Go backend in dev so the browser shares the session cookie.
-  async rewrites() {
-    const api = process.env.API_BASE_URL || "http://localhost:8180";
-    return [{ source: "/api/:path*", destination: `${api}/api/:path*` }];
-  },
+  // /api/v1/* is served by Next route handlers under app/api/v1 — no external
+  // backend to proxy to. (Previously this rewrote to the Go content service,
+  // which has been replaced by the in-process @/lib/content layer.)
   async headers() {
     return [
       {

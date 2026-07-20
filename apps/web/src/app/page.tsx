@@ -1,4 +1,4 @@
-import { getBooks } from "@/lib/api";
+import { getBooks } from "@/lib/content";
 import { LibraryBooks } from "@/components/LibraryBooks";
 
 // Home is the library. The pitch lives in the heading ("Read the books that
@@ -9,7 +9,7 @@ import { LibraryBooks } from "@/components/LibraryBooks";
 export const dynamic = "force-dynamic";
 
 export default async function Home() {
-  let books: import("@/lib/api").Book[] = [];
+  let books: import("@/lib/content").Book[] = [];
   let error = "";
   try {
     books = await getBooks();

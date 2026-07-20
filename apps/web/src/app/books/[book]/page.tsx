@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import { getBooks, getCharPinyinBatch, type Book } from "@/lib/api";
+import { getBooks, getCharPinyinBatch, type Book } from "@/lib/content";
 import { CjkText } from "@/components/CjkText";
 import { BookTitle } from "@/components/BookTitle";
 import { BookBackground } from "@/components/BookBackground";
