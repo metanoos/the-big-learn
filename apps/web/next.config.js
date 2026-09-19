@@ -1,7 +1,15 @@
+const path = require("node:path");
 const { PHASE_DEVELOPMENT_SERVER } = require("next/constants");
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  outputFileTracingRoot: path.join(__dirname, "../.."),
+  // The raw repository content is only a build-time input. Runtime requests
+  // read the projected files under .content-cache/, so exclude the source tree
+  // from every function trace to avoid shipping the same ~130 MB twice.
+  outputFileTracingExcludes: {
+    "/*": ["../../content/**/*"],
+  },
   // Local QA tools may use the loopback IP instead of `localhost`. Next 16
   // blocks cross-origin dev assets by default, so allow this one equivalent
   // local origin explicitly (production is unaffected).

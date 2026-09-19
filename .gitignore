@@ -40,3 +40,4 @@ apps/web/.content-cache/
 # snapshotted source HTML for the sanguo aligner (re-fetchable via --refresh)
 tools/raw/
 .gstack/
+.vercel/

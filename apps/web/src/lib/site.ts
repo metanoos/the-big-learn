@@ -6,7 +6,7 @@ export const SITE_DESCRIPTION =
 // server-rendered HTML (see components/Footer.tsx for the assembly + rationale).
 // To change the address, edit these two halves — nothing else in the app
 // hardcodes it.
-export const CONTACT_EMAIL_USER = "metanoos92";
+export const CONTACT_EMAIL_USER = "metanoetes";
 export const CONTACT_EMAIL_HOST = "gmail.com";
 
 export function siteUrl(): URL {
