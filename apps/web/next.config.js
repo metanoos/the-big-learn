@@ -10,6 +10,21 @@ const nextConfig = {
   outputFileTracingExcludes: {
     "/*": ["../../content/**/*"],
   },
+  // @/lib/content reads the cache with paths computed at request time
+  // (join(cacheDir, bookId, chapterId)), which the static tracer cannot see —
+  // without these entries nothing under .content-cache/ lands in a function
+  // bundle and every content route 500s with ENOENT in production. The two
+  // chapter readers need the full cache; the rest only need the small indexes.
+  outputFileTracingIncludes: {
+    "/": ["./.content-cache/books.json"],
+    "/dashboard": ["./.content-cache/books.json"],
+    "/books/[book]": ["./.content-cache/books.json"],
+    "/books/[book]/[chapter]": ["./.content-cache/**/*"],
+    "/api/v1/books": ["./.content-cache/books.json"],
+    "/api/v1/books/[book]/chapters/[chapter]": ["./.content-cache/**/*"],
+    "/api/v1/characters/[char]": ["./.content-cache/char-index.json"],
+    "/api/v1/characters/batch": ["./.content-cache/char-index.json"],
+  },
   // Local QA tools may use the loopback IP instead of `localhost`. Next 16
   // blocks cross-origin dev assets by default, so allow this one equivalent
   // local origin explicitly (production is unaffected).
